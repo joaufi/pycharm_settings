@@ -110,7 +110,6 @@
         <mark key="." line="32" column="44" />
         <mark key="^" line="32" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/common/mixins.py" timestamp="1517039353689" />
       <file name="$USER_HOME$/repositories/user-scoring-library/scorelib/strategy/base_user_bidding_strategy.py" timestamp="1513034201481">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="33" column="59" />
@@ -270,10 +269,12 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="2" column="82" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" timestamp="1517040771032">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" timestamp="1517044623923">
+        <mark key="'" line="68" column="38" />
+        <mark key="[" line="44" column="11" />
+        <mark key="]" line="44" column="1" />
+        <mark key="." line="44" column="1" />
+        <mark key="^" line="44" column="1" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/bin/run_flake8.sh" timestamp="1517035719013">
         <mark key="[" line="0" column="0" />
@@ -357,13 +358,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="1" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/views.py" />
-      <jump line="125" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/views.py" />
-      <jump line="126" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/views.py" />
-      <jump line="127" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/views.py" />
-      <jump line="12" column="13" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/views.py" />
-      <jump line="13" column="13" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/views.py" />
-      <jump line="18" column="13" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/input_attribute_model.py" />
       <jump line="5" column="33" filename="$USER_HOME$/repositories/bidsift/bidsift/scorelib/model/input_attribute_model.py" />
       <jump line="71" column="8" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/controller.py" />
@@ -444,82 +438,82 @@
       <jump line="96" column="21" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/decorators.py" />
       <jump line="176" column="17" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/decorators.py" />
       <jump line="181" column="20" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/decorators.py" />
-      <jump line="8" column="54" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
       <jump line="5" column="0" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
       <jump line="7" column="32" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
       <jump line="9" column="33" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
       <jump line="15" column="0" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
       <jump line="19" column="17" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
-      <jump line="21" column="23" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
       <jump line="22" column="26" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
       <jump line="23" column="27" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
       <jump line="3" column="3" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
       <jump line="28" column="5" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
       <jump line="24" column="11" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
       <jump line="4" column="0" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
+      <jump line="2" column="22" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
+      <jump line="21" column="27" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
+      <jump line="48" column="10" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
+      <jump line="50" column="34" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
+      <jump line="47" column="8" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
+      <jump line="45" column="8" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
+      <jump line="18" column="32" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
+      <jump line="8" column="0" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
+      <jump line="65" column="38" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">UFlUSE9OX0VOVklST05NRU5UX0RJUj0ucHl0aG9uX2Vudmlyb25tZW50Cg==</text>
+        <text encoding="base64">ZWNobyAiLyciCg==</text>
       </register>
       <register name="-" type="4">
-        <text>There are flake8 errors</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>-m</text>
+        <text>n</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIFsgIiQ/IiA9IDEgXTsgdGhlbgogICAgICBlY2hvICJUaGVyZSBhcmUgZmxha2U4IGVycm9ycy0gaGFsdGluZyBwaXBlbGluZSBzY3JpcHQiCiAgICAgIGV4aXQgMTsKICAgIGZpCg==</text>
+        <text encoding="base64">ZWNobyAiLyciCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UFlUSE9OX0VOVklST05NRU5UX0RJUj0ucHl0aG9uX2Vudmlyb25tZW50Cg==</text>
+        <text encoding="base64">ZWNobyAiLyciCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gcnVuX2xpbnRpbmdfYW5kX3Rlc3RzKCkgewoKfQoK</text>
+        <text encoding="base64">ICAgIG51bV9uZXdsaW5lcy09MQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZW52X3dhc19hY3RpdmF0ZWQ9MAo=</text>
+        <text encoding="base64">ZXhpdCAxOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVudl93YXNfYWN0aXZhdGVkPTEK</text>
+        <text encoding="base64">ICAgIHJ1bl9saW50aW5nX2FuZF90ZXN0cwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB5dGhvbiAtbSBweXRlc3QgJHsxLSIuL3Rlc3RzIn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIiRGTEFLRV9FUlJPUlMiCg==</text>
+        <text encoding="base64">aWYgWyAkUFlUSE9OX1ZFUlNJT05TID0gIiIgXTsgdGhlbgogIFBZVEhPTl9WRVJTSU9OUz0oIjIuNyIgIjMuNiIpCiAgZWNobyAifCBQWVRIT05fVkVSU0lPTlMgc2V0IHRvICRQWVRIT05fVkVSU0lPTlMiCmZpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UFlUSE9OX0VOVklST05NRU5UX0RJUj0iLnB5dGhvbl9lbnZpcm9ubWVudCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBQWVRIT05fRU5WSVJPTk1FTlRfRElSPQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>-m</last-search>
+      <last-search>n</last-search>
       <last-offset />
-      <last-pattern>-m</last-pattern>
-      <last-replace>scoring</last-replace>
-      <last-substitute>aggregation</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-pattern>n</last-pattern>
+      <last-replace>pytest</last-replace>
+      <last-substitute>flake8</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>bonsai</entry>
-        <entry>}</entry>
-        <entry>{</entry>
-        <entry>req</entry>
-        <entry>test-2</entry>
-        <entry>2</entry>
-        <entry>Score</entry>
         <entry>'scribe'</entry>
         <entry>get_de</entry>
         <entry>aggregation</entry>
@@ -533,6 +527,13 @@
         <entry>env</entry>
         <entry>FLA</entry>
         <entry>-m</entry>
+        <entry>io</entry>
+        <entry>$i</entry>
+        <entry>flake8</entry>
+        <entry>pytes</entry>
+        <entry>python</entry>
+        <entry>\/n</entry>
+        <entry>n</entry>
       </history-search>
       <history-cmd>
         <entry>qa!</entry>
@@ -547,6 +548,8 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5xYQ==</entry>
+        <entry encoding="base64">JzwsJz5zL2ZsYWtlOC9weXRlc3QvZ2k=</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
