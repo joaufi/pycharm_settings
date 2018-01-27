@@ -5,11 +5,14 @@
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
   <action id="ExportToTextFile" />
+  <action id="FileChooser.NewFolder" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta n" />
     <keyboard-shortcut first-keystroke="ctrl p" />
@@ -22,4 +25,13 @@
     <keyboard-shortcut first-keystroke="shift f2" />
     <keyboard-shortcut first-keystroke="shift ctrl i" />
   </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="OverrideMethods" />
 </keymap>
