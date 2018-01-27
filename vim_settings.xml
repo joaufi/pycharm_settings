@@ -223,6 +223,10 @@
         <mark key="." line="44" column="26" />
         <mark key="^" line="44" column="26" />
       </file>
+      <file name="$USER_HOME$/repositories/scoring-library/bin/run_tests.sh" timestamp="1517035732695">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="48" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/tests/mocks/mock_context.py" timestamp="1516991501411">
         <mark key="[" line="20" column="25" />
         <mark key="]" line="20" column="25" />
@@ -255,6 +259,16 @@
         <mark key="]" line="2" column="82" />
         <mark key="^" line="1" column="30" />
         <mark key="." line="2" column="82" />
+      </file>
+      <file name="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" timestamp="1517035745925">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/scoring-library/bin/run_flake8.sh" timestamp="1517035719013">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="46" />
       </file>
       <file name="/Dummy.txt" timestamp="1516992826941">
         <mark key="[" line="0" column="0" />
@@ -334,7 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="21" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/strategy/base_user_bidding_strategy.py" />
       <jump line="75" column="8" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/strategy/base_user_bidding_strategy.py" />
       <jump line="78" column="8" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/strategy/base_user_bidding_strategy.py" />
       <jump line="79" column="53" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/strategy/base_user_bidding_strategy.py" />
@@ -434,10 +447,11 @@
       <jump line="19" column="20" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/details/routes.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/fields.py" />
       <jump line="17" column="21" filename="$USER_HOME$/repositories/scoring-library/scoring/controller.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdmX3N0YXRzID0gd2Zfc3RhdHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>influxdb_stats_client</text>
@@ -446,34 +460,34 @@
         <text>agg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ge30K</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAoKUFlUSE9OUEFUSD0kKHB3ZCkgcHl0aG9uIC1tIHB5dGVzdCAkezEtIi4vdGVzdHMifQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdmX3N0YXRzID0gd2Zfc3RhdHMK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHdmX3N0YXRzCg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB0ZXN0cy5tb2Nrcy5tb2NrX3N0YXRzIGltcG9ydCBNb2NrU3RhdHMK</text>
+        <text encoding="base64">ICAgIHdmX3N0YXRzID0gd2Zfc3RhdHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSB0ZXN0cy5tb2Nrcy5tb2NrX2luZmx1eGRiX3N0YXRzX2NsaWVudCBpbXBvcnQgTW9ja0luZmx1eERiU3RhdHNDbGllbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">OndyCg==</text>
+        <text encoding="base64">aW1wb3J0IHdmX3N0YXRzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJtYXliZSBkbyB0aGlzIGhlcmU/IiIiCg==</text>
+        <text encoding="base64">ZnJvbSB0ZXN0cy5tb2Nrcy5tb2NrX3N0YXRzIGltcG9ydCBNb2NrU3RhdHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgQWdncmVnYXRpb25Nb2RlbChCYXNlTW9kZWwpOgo=</text>
+        <text encoding="base64">ZnJvbSB0ZXN0cy5tb2Nrcy5tb2NrX2luZmx1eGRiX3N0YXRzX2NsaWVudCBpbXBvcnQgTW9ja0luZmx1eERiU3RhdHNDbGllbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGhvdGZpeCBmb3Igbm8tb3AK</text>
+        <text encoding="base64">OndyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
