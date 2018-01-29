@@ -211,12 +211,12 @@
       <file name="/" timestamp="1514909070878">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/puppet/modules/codedeploy_new/files/code_deploy_config_global.php" timestamp="1517238957193">
+      <file name="$USER_HOME$/repositories/puppet/modules/codedeploy_new/files/code_deploy_config_global.php" timestamp="1517242748186">
         <mark key="'" line="21" column="2" />
-        <mark key="[" line="213" column="26" />
-        <mark key="]" line="214" column="31" />
-        <mark key="^" line="214" column="31" />
-        <mark key="." line="214" column="31" />
+        <mark key="[" line="214" column="19" />
+        <mark key="]" line="214" column="24" />
+        <mark key="^" line="214" column="24" />
+        <mark key="." line="214" column="24" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/bin/run_pipe.sh" timestamp="1517109596407">
         <mark key="'" line="16" column="0" />
@@ -370,7 +370,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517198594112">
+      <file name="/Dummy.txt" timestamp="1517242758783">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/mixins.py" timestamp="1513611263290">
@@ -378,6 +378,12 @@
         <mark key="]" line="28" column="38" />
         <mark key="^" line="28" column="38" />
         <mark key="." line="28" column="38" />
+      </file>
+      <file name="$USER_HOME$/repositories/puppet/modules/gitlab/manifests/hooks.pp" timestamp="1517243038125">
+        <mark key="'" line="538" column="31" />
+        <mark key="[" line="546" column="0" />
+        <mark key="]" line="546" column="0" />
+        <mark key="." line="546" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/__init__.py" timestamp="1513027126091">
         <mark key="[" line="0" column="5" />
@@ -463,13 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/repositories/scoring-library/.gitlab-ci.yml" />
-      <jump line="53" column="2" filename="$USER_HOME$/repositories/scoring-library/.gitlab-ci.yml" />
-      <jump line="62" column="0" filename="$USER_HOME$/repositories/bidsift/tests/unit/user_level_bidding/strategy/test_bidsift_graph_bidding_strategy_unit.py" />
-      <jump line="4" column="53" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/strategy/bidsift_graph_bidding_strategy.py" />
-      <jump line="10" column="53" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/controller.py" />
-      <jump line="512" column="14" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/daos.py" />
-      <jump line="487" column="52" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/daos.py" />
       <jump line="19" column="20" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/details/routes.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/fields.py" />
       <jump line="17" column="21" filename="$USER_HOME$/repositories/scoring-library/scoring/controller.py" />
@@ -563,43 +562,50 @@
       <jump line="56" column="17" filename="$USER_HOME$/repositories/home_dir/home/.common_aliases" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/scoring-library/.gitignore" />
       <jump line="21" column="2" filename="$USER_HOME$/repositories/puppet/modules/codedeploy_new/files/code_deploy_config_global.php" />
+      <jump line="126" column="38" filename="$USER_HOME$/repositories/puppet/modules/gitlab/manifests/hooks.pp" />
+      <jump line="385" column="25" filename="$USER_HOME$/repositories/puppet/modules/gitlab/manifests/hooks.pp" />
+      <jump line="448" column="25" filename="$USER_HOME$/repositories/puppet/modules/gitlab/manifests/hooks.pp" />
+      <jump line="453" column="26" filename="$USER_HOME$/repositories/puppet/modules/gitlab/manifests/hooks.pp" />
+      <jump line="457" column="25" filename="$USER_HOME$/repositories/puppet/modules/gitlab/manifests/hooks.pp" />
+      <jump line="543" column="32" filename="$USER_HOME$/repositories/puppet/modules/gitlab/manifests/hooks.pp" />
+      <jump line="538" column="31" filename="$USER_HOME$/repositories/puppet/modules/gitlab/manifests/hooks.pp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LmlkZWEvCg==</text>
+        <text encoding="base64">CiAgICBAZ2l0bGFiOjphZGRfaG9vayB7ICdzdG9ybV9idXNpbmVzc19sZWFkX3Njb3JpbmctZGVwbG95JzoKICAgICAgcmVwbyAgICAgICAgICA9PiAnYnVzaW5lc3MtbGVhZC1zY29yaW5nLmdpdCcsCiAgICAgIHR5cGUgICAgICAgICAgPT4gJ3Bvc3QtcmVjZWl2ZScsCiAgICAgIG9yZGVyICAgICAgICAgPT4gJzAyJywKICAgICAgZmlsZW5hbWUgICAgICA9PiAnYnVpbGQtcGFja2FnZS5zaCcsCiAgICAgIHNvdXJjZV9mb2xkZXIgPT4gJ3N0b3JtLXJlZGlzdXBsb2FkZXInLAogICAgICB0YWcgICAgICAgICAgID0+ICdwcm9kJywKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>me-redis-uploader</text>
       </register>
       <register name="/" type="4">
-        <text>storm</text>
+        <text>redisuploader</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyB2aW0gc3dhcCBmaWxlCiouc3dwCgojIGNvbmZpZ3VyYXRpb24gZmlsZXMKKi5pbWwKLmlkZWEKLnJlYWxzeW5jCi5yZXZpZXdib2FyZHJjCgojIGRpc3RyaWJ1dGlvbiAvIHBhY2thZ2luZyBkaXJlY3RvcmllcwpidWlsZApkaXN0CgojIE9TWCBqdW5rIGZpbGVzCiouRFNfU3RvcmUKW1R0XWh1bWJzLmRiCgojIHB5dGhvbiBhcnRpZmFjdHMKKi5lZ2cKKi5lZ2ctaW5mbwoqLmVnZ3MKKi5weWMKLmNhY2hlCgojIHZpcnR1YWwgZW52aXJvbm1lbnQgZGlyZWN0b3JpZXMKLmVudgouZW52LSoKLnB5dGhvbl9lbnZpcm9ubWVudAoucHl0aG9uX2Vudmlyb25tZW50LSoKdmVudgp2ZW52LSoKdmlydGVudgp2aXJ0ZW52LSoK</text>
+        <text encoding="base64">ICAgIEBnaXRsYWI6OmFkZF9ob29rIHsgJ3N0b3JtX3JlZGlzdXBsb2FkZXItZGVwbG95JzoKICAgICAgICByZXBvICAgICAgICAgID0+ICdtZS1yZWRpcy11cGxvYWRlci5naXQnLAogICAgICAgIHR5cGUgICAgICAgICAgPT4gJ3Bvc3QtcmVjZWl2ZScsCiAgICAgICAgb3JkZXIgICAgICAgICA9PiAnMDInLAogICAgICAgIGZpbGVuYW1lICAgICAgPT4gJ2J1aWxkLXBhY2thZ2Uuc2gnLAogICAgICAgIHNvdXJjZV9mb2xkZXIgPT4gJ3N0b3JtLXJlZGlzdXBsb2FkZXInLAogICAgICAgIHRhZyAgICAgICAgICAgPT4gJ3Byb2QnLAogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LmlkZWEvCg==</text>
+        <text encoding="base64">CiAgICBAZ2l0bGFiOjphZGRfaG9vayB7ICdzdG9ybV9idXNpbmVzc19sZWFkX3Njb3JpbmctZGVwbG95JzoKICAgICAgcmVwbyAgICAgICAgICA9PiAnYnVzaW5lc3MtbGVhZC1zY29yaW5nLmdpdCcsCiAgICAgIHR5cGUgICAgICAgICAgPT4gJ3Bvc3QtcmVjZWl2ZScsCiAgICAgIG9yZGVyICAgICAgICAgPT4gJzAyJywKICAgICAgZmlsZW5hbWUgICAgICA9PiAnYnVpbGQtcGFja2FnZS5zaCcsCiAgICAgIHNvdXJjZV9mb2xkZXIgPT4gJ3N0b3JtLXJlZGlzdXBsb2FkZXInLAogICAgICB0YWcgICAgICAgICAgID0+ICdwcm9kJywKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWdncmVnYXRpb24uZWdnLWluZm8vCg==</text>
+        <text encoding="base64">LmlkZWEvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LmVnZ3MvCg==</text>
+        <text encoding="base64">YWdncmVnYXRpb24uZWdnLWluZm8vCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmVnZ3MvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBhZ2dyZWdhdGlvbi52YWxpZGF0ZSBpbXBvcnQgVmFsaWRhdG9yCg==</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBhZ2dyZWdhdGlvbi5hZ2dyZWdhdGVfbW9kZWwgaW1wb3J0IFBkcFZpZXdDb3VudEJ5Q2xhc3NNb2RlbAo=</text>
+        <text encoding="base64">ZnJvbSBhZ2dyZWdhdGlvbi52YWxpZGF0ZSBpbXBvcnQgVmFsaWRhdG9yCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHZlcnNpb246Cg==</text>
+        <text encoding="base64">ZnJvbSBhZ2dyZWdhdGlvbi5hZ2dyZWdhdGVfbW9kZWwgaW1wb3J0IFBkcFZpZXdDb3VudEJ5Q2xhc3NNb2RlbAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAjIHZlcnNpb246Cg==</text>
@@ -609,9 +615,9 @@
       </register>
     </registers>
     <search>
-      <last-search>storm</last-search>
+      <last-search>redisuploader</last-search>
       <last-offset />
-      <last-pattern>storm</last-pattern>
+      <last-pattern>redisuploader</last-pattern>
       <last-replace>36</last-replace>
       <last-substitute>27</last-substitute>
       <last-dir>1</last-dir>
@@ -619,7 +625,6 @@
     </search>
     <history>
       <history-search>
-        <entry>panel_end</entry>
         <entry>exit_code</entry>
         <entry>&quot;py</entry>
         <entry>\[\@\]</entry>
@@ -639,6 +644,7 @@
         <entry>EN</entry>
         <entry>Cl</entry>
         <entry>storm</entry>
+        <entry>redisuploader</entry>
       </history-search>
       <history-cmd>
         <entry>3w</entry>
