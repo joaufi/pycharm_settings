@@ -4,33 +4,38 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
-  <action id="Console.Execute.Multiline" />
-  <action id="Console.Jdbc.Execute" />
-  <action id="Console.TableResult.Submit" />
-  <action id="EditorSplitLine" />
   <action id="ExportToTextFile" />
+  <action id="FileChooser.NewFolder" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta n" />
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
-    <keyboard-shortcut first-keystroke="shift ctrl i" />
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="shift f2" />
-    <keyboard-shortcut first-keystroke="shift ctrl o" />
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
   </action>
-  <action id="Groovy.Shell.Execute" />
-  <action id="KotlinShellExecute" />
-  <action id="Run">
-    <keyboard-shortcut first-keystroke="shift f10" />
-    <keyboard-shortcut first-keystroke="meta enter" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="meta n" />
   </action>
-  <action id="ViewSource" />
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="OverrideMethods" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
 </keymap>
