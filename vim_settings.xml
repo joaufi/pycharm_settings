@@ -33,12 +33,6 @@
         <mark key="." line="421" column="45" />
         <mark key="^" line="421" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1509822711562">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="35" column="10" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-      </file>
       <file name="$USER_HOME$/repositories/aggregation-library/aggregation/validation/fields.py" timestamp="1517198014507">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -61,6 +55,13 @@
         <mark key="]" line="3" column="14" />
         <mark key="." line="3" column="14" />
         <mark key="^" line="3" column="14" />
+      </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/validation/aggregate_payload_fields.py" timestamp="1517199429823">
+        <mark key="'" line="17" column="12" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="18" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/scorelib/collection/bonsai_leaf_collection.py" timestamp="1513109559503">
         <mark key="[" line="3" column="5" />
@@ -97,9 +98,6 @@
         <mark key="]" line="57" column="12" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1513636519726">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/user-scoring-library/setup.py" timestamp="1513025294382">
         <mark key="[" line="11" column="42" />
@@ -159,7 +157,7 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="116" column="107" />
       </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/aggregation_model.py" timestamp="1517198134908">
+      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/aggregation_model.py" timestamp="1517244407708">
         <mark key="'" line="14" column="87" />
         <mark key="[" line="4" column="5" />
         <mark key="]" line="4" column="16" />
@@ -186,6 +184,12 @@
         <mark key="^" line="74" column="68" />
         <mark key="." line="74" column="69" />
       </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/exceptions.py" timestamp="1517199009666">
+        <mark key="[" line="14" column="45" />
+        <mark key="]" line="14" column="60" />
+        <mark key="." line="14" column="60" />
+        <mark key="^" line="14" column="60" />
+      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/bidsift_graph_node_model.py" timestamp="1513026937346">
         <mark key="[" line="0" column="5" />
       </file>
@@ -201,7 +205,7 @@
         <mark key="." line="28" column="12" />
         <mark key="^" line="28" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/views.py" timestamp="1515594726344">
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/views.py" timestamp="1517244466723">
         <mark key="'" line="155" column="19" />
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
@@ -265,6 +269,7 @@
       <file name="/None" timestamp="1517195770866">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/custinfolib/common/mixins.py" timestamp="1517116709913" />
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/controller.py" timestamp="1515453517039">
         <mark key="'" line="10" column="53" />
         <mark key="[" line="10" column="54" />
@@ -279,6 +284,7 @@
         <mark key="." line="103" column="21" />
         <mark key="^" line="103" column="21" />
       </file>
+      <file name="$USER_HOME$/repositories/scoring-library/bin/tag_release.sh" timestamp="1517057234072" />
       <file name="$USER_HOME$/repositories/scoring-library/scoring/fields.py" timestamp="1515787118240">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="23" column="4" />
@@ -354,6 +360,9 @@
         <mark key="." line="90" column="11" />
         <mark key="^" line="87" column="9" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1513636519726">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/aggregation-library/.gitignore" timestamp="1517198430784">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -370,7 +379,8 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517198594112">
+      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/aggregate_model.py" timestamp="1517198344101" />
+      <file name="/Dummy.txt" timestamp="1517244413346">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/mixins.py" timestamp="1513611263290">
@@ -401,11 +411,22 @@
       <file name="$USER_HOME$/repositories/bidsift/bidsift/utilities.py" timestamp="1515053304388">
         <mark key="[" line="20" column="77" />
       </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/validation/input_model_fields.py" timestamp="1517199226238">
+        <mark key="'" line="0" column="20" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="39" column="4" />
+      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/scorelib/model/bonsai_leaf_model.py" timestamp="1513109433957">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1509822711562">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="35" column="10" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="4" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/tracking_service_client.py" timestamp="1515976215528">
         <mark key="[" line="24" column="57" />
@@ -638,7 +659,7 @@
         <entry>ST</entry>
         <entry>EN</entry>
         <entry>Cl</entry>
-        <entry>storm</entry>
+        <entry>d</entry>
       </history-search>
       <history-cmd>
         <entry>3w</entry>
