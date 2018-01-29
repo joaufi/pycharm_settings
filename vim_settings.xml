@@ -27,6 +27,11 @@
       <file name="/a.dummy" timestamp="1517259679786">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/validation/fields.py" timestamp="1517198014507">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/validation/aggregate_payload_fields.py" timestamp="1517199429823">
         <mark key="'" line="17" column="12" />
         <mark key="[" line="4" column="0" />
@@ -188,6 +193,11 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/repositories/aggregation-library/tests/test_business_models.py" timestamp="1517260794665">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/collection/product_price_collection.py" timestamp="1513027040521">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="82" />
@@ -226,6 +236,11 @@
         <mark key="]" line="55" column="7" />
         <mark key="^" line="55" column="7" />
         <mark key="." line="55" column="7" />
+      </file>
+      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/utilities.py" timestamp="1517196761204">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/requirements.txt" timestamp="1517039013840">
         <mark key="[" line="0" column="18" />
@@ -427,7 +442,7 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517259724817">
+      <file name="/Dummy.txt" timestamp="1517260778678">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/__init__.py" timestamp="1513027126091">
@@ -583,10 +598,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Model for the `pdp_view_count_by_class` Aggregate.</text>
+        <text>, patch</text>
       </register>
       <register name="-" type="4">
-        <text>Model for the `pdp_view_count_by_class` Aggregate.</text>
+        <text>, patch</text>
       </register>
       <register name="/" type="4">
         <text>storm</text>
@@ -595,34 +610,34 @@
         <text encoding="base64">IyB2aW0gc3dhcCBmaWxlCiouc3dwCgojIGNvbmZpZ3VyYXRpb24gZmlsZXMKKi5pbWwKLmlkZWEKLnJlYWxzeW5jCi5yZXZpZXdib2FyZHJjCgojIGRpc3RyaWJ1dGlvbiAvIHBhY2thZ2luZyBkaXJlY3RvcmllcwpidWlsZApkaXN0CgojIE9TWCBqdW5rIGZpbGVzCiouRFNfU3RvcmUKW1R0XWh1bWJzLmRiCgojIHB5dGhvbiBhcnRpZmFjdHMKKi5lZ2cKKi5lZ2ctaW5mbwoqLmVnZ3MKKi5weWMKLmNhY2hlCgojIHZpcnR1YWwgZW52aXJvbm1lbnQgZGlyZWN0b3JpZXMKLmVudgouZW52LSoKLnB5dGhvbl9lbnZpcm9ubWVudAoucHl0aG9uX2Vudmlyb25tZW50LSoKdmVudgp2ZW52LSoKdmlydGVudgp2aXJ0ZW52LSoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LmlkZWEvCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">YWdncmVnYXRpb24uZWdnLWluZm8vCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">LmVnZ3MvCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBhZ2dyZWdhdGlvbi5hZ2dyZWdhdGVfbW9kZWwgaW1wb3J0IEFnZ3JlZ2F0ZU1vZGVsCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">LmlkZWEvCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">YWdncmVnYXRpb24uZWdnLWluZm8vCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+        <text encoding="base64">LmVnZ3MvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBhZ2dyZWdhdGlvbi52YWxpZGF0ZSBpbXBvcnQgVmFsaWRhdG9yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBhZ2dyZWdhdGlvbi5hZ2dyZWdhdGVfbW9kZWwgaW1wb3J0IFBkcFZpZXdDb3VudEJ5Q2xhc3NNb2RlbAo=</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHZlcnNpb246Cg==</text>
+        <text encoding="base64">ZnJvbSBhZ2dyZWdhdGlvbi52YWxpZGF0ZSBpbXBvcnQgVmFsaWRhdG9yCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHZlcnNpb246Cg==</text>
+        <text encoding="base64">ZnJvbSBhZ2dyZWdhdGlvbi5hZ2dyZWdhdGVfbW9kZWwgaW1wb3J0IFBkcFZpZXdDb3VudEJ5Q2xhc3NNb2RlbAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
     <search>
@@ -661,7 +676,6 @@
         <entry>3w</entry>
         <entry>%s/aggregation/scoring/ig</entry>
         <entry>wa</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5xYQ==</entry>
         <entry encoding="base64">JzwsJz5zL2ZsYWtlOC9weXRlc3QvZ2k=</entry>
         <entry>we</entry>
@@ -678,6 +692,7 @@
         <entry>q</entry>
         <entry>qa</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
