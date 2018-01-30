@@ -95,12 +95,12 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" timestamp="1517348952561">
+      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" timestamp="1517350776548">
         <mark key="'" line="127" column="17" />
-        <mark key="[" line="182" column="23" />
-        <mark key="]" line="182" column="48" />
-        <mark key="." line="182" column="48" />
-        <mark key="^" line="182" column="48" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
+        <mark key="^" line="181" column="48" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/.gitlab-ci.yml" timestamp="1513876823756">
         <mark key="'" line="21" column="23" />
@@ -116,11 +116,11 @@
         <mark key="^" line="29" column="84" />
         <mark key="." line="29" column="84" />
       </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/business_model.py" timestamp="1517348341961">
-        <mark key="[" line="52" column="41" />
-        <mark key="]" line="52" column="49" />
-        <mark key="." line="52" column="49" />
-        <mark key="^" line="52" column="49" />
+      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/business_model.py" timestamp="1517350750653">
+        <mark key="[" line="43" column="25" />
+        <mark key="]" line="43" column="25" />
+        <mark key="." line="43" column="25" />
+        <mark key="^" line="43" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/views.py" timestamp="1517252000875">
         <mark key="'" line="155" column="19" />
@@ -463,10 +463,11 @@
         <mark key="." line="44" column="26" />
         <mark key="^" line="44" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/controller.py" timestamp="1517348285035">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="47" column="97" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/controller.py" timestamp="1517350733531">
+        <mark key="[" line="51" column="50" />
+        <mark key="]" line="51" column="51" />
+        <mark key="." line="51" column="51" />
+        <mark key="^" line="51" column="51" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/models/aggregation/aggregate_structs.py" timestamp="1517196256209">
         <mark key="'" line="0" column="0" />
@@ -662,8 +663,8 @@
       <jump line="138" column="10" filename="$USER_HOME$/repositories/aggregation-library/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGN1c3RvbWVyX2d1aWQgaW4gY3VzdG9tZXJfZ3VpZHMK</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -672,34 +673,34 @@
         <text>classlass</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZ2V0X2ZhY3RzX2J5X2RldmljZV8zX21vbnRoX3F1ZXJ5KHNlbGYsIGNvbHVtbnMsIGVuZF9kYXRlKToKICAgICAgICBzdGF0ZW1lbnQgPSAiIiIKICAgICAgICAgICAgU0VMRUNUIHtjb2x1bW5zfQogICAgICAgICAgICBGUk9NIGN1c3RvbWVyX2luZm9ybWF0aW9uLmZhY3RzX2J5X2RldmljZV8zX21vbnRoCiAgICAgICAgICAgIFdIRVJFIGZhY3RfdHlwZSA9ID8gQU5EIGV2ZW50X3RpbWVzdGFtcCA+PSA/IHtlbmRfZGF0ZX0gQU5EIHdlZWsgPSA/IEFORCBkZXZpY2VfZ3VpZCA9ID8KICAgICAgICAiIiIKICAgICAgICBlbmRfZGF0ZV9xdWVyeSA9ICcnCiAgICAgICAgaWYgZW5kX2RhdGU6CiAgICAgICAgICAgIGVuZF9kYXRlX3F1ZXJ5ID0gJ0FORCBldmVudF90aW1lc3RhbXAgPD0gPycKCiAgICAgICAgcmV0dXJuIHN0YXRlbWVudC5mb3JtYXQoCiAgICAgICAgICAgIGNvbHVtbnM9JywgJy5qb2luKGNvbHVtbnMpLAogICAgICAgICAgICBlbmRfZGF0ZT1lbmRfZGF0ZV9xdWVyeQogICAgICAgICkK</text>
+        <text encoding="base64">ICAgIGRlZiBza3VzX3ZpZXdlZF9jb3VudF9ieV9jbGFzcyhzZWxmLCBkZXZpY2VfZ3VpZHMsIGFnZ3JlZ2F0aW9uKToKICAgICAgICByZXN1bHRzID0gc2VsZi5jYXNzYW5kcmFfZGFvLmdldF92aWV3ZWRfc2t1cygKICAgICAgICAgICAgZGV2aWNlX2d1aWRzLAogICAgICAgICAgICBhZ2dyZWdhdGlvbi5zdGFydF9kYXRlLAogICAgICAgICAgICBlbmRfZGF0ZT1hZ2dyZWdhdGlvbi5lbmRfZGF0ZQogICAgICAgICkKCiAgICAgICAgc2t1cyA9IHNlbGYuX2RlZHVwZV9hbmRfZmlsdGVyX2J5X2NsYXNzX2lkKHJlc3VsdHMsIGFnZ3JlZ2F0aW9uKQogICAgICAgIHJldHVybiBsZW4oc2t1cykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGN1c3RvbWVyX2d1aWQgaW4gY3VzdG9tZXJfZ3VpZHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfcHVpcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlX2d1aWRzLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIGRlZiBza3VzX3ZpZXdlZF9jb3VudF9ieV9jbGFzcyhzZWxmLCBkZXZpY2VfZ3VpZHMsIGFnZ3JlZ2F0aW9uKToKICAgICAgICByZXN1bHRzID0gc2VsZi5jYXNzYW5kcmFfZGFvLmdldF92aWV3ZWRfc2t1cygKICAgICAgICAgICAgZGV2aWNlX2d1aWRzLAogICAgICAgICAgICBhZ2dyZWdhdGlvbi5zdGFydF9kYXRlLAogICAgICAgICAgICBlbmRfZGF0ZT1hZ2dyZWdhdGlvbi5lbmRfZGF0ZQogICAgICAgICkKCiAgICAgICAgc2t1cyA9IHNlbGYuX2RlZHVwZV9hbmRfZmlsdGVyX2J5X2NsYXNzX2lkKHJlc3VsdHMsIGFnZ3JlZ2F0aW9uKQogICAgICAgIHJldHVybiBsZW4oc2t1cykKCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhZ2dyZWdhdGUubmFtZSA9PSAna2V5d29yZF9zZWFyY2hfY291bnQnOgogICAgICAgICAgICByZXR1cm4gc2VsZi5fYnVzaW5lc3NfbW9kZWwua2V5d29yZF9zZWFyY2hfY291bnQoaW5wdXRfbW9kZWwuZGV2aWNlX2d1aWRzLCBhZ2dyZWdhdGUpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfcHVpcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhZ2dyZWdhdGUubmFtZSA9PSAnc2t1c19wdXJjaGFzZWRfY291bnRfYnlfY2xhc3MnOgogICAgICAgICAgICByZXR1cm4gc2VsZi5fYnVzaW5lc3NfbW9kZWwuc2t1c19wdXJjaHNhZWRfY291bnRfYnlfY2xhc3MoaW5wdXRfbW9kZWwuZGV2aWNlX2d1aWRzLCBhZ2dyZWdhdGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGFnZ3JlZ2F0ZS5uYW1lID09ICdza3VzX2FkZGVkX3RvX2NhcnRfY291bnRfYnlfY2xhc3MnOgogICAgICAgICAgICByZXR1cm4gc2VsZi5fYnVzaW5lc3NfbW9kZWwuc2t1c19hZGRlZF90b19jYXJ0X2NvdW50X2J5X2NsYXNzKGlucHV0X21vZGVsLmRldmljZV9ndWlkcywgYWdncmVnYXRlKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBza3VzX3ZpZXdlZF9jb3VudF9ieV9jbGFzcyhzZWxmLCBkZXZpY2VfZ3VpZHMsIGFnZ3JlZ2F0aW9uKToKICAgICAgICByZXN1bHRzID0gc2VsZi5jYXNzYW5kcmFfZGFvLmdldF92aWV3ZWRfc2t1cygKICAgICAgICAgICAgZGV2aWNlX2d1aWRzLAogICAgICAgICAgICBhZ2dyZWdhdGlvbi5zdGFydF9kYXRlLAogICAgICAgICAgICBlbmRfZGF0ZT1hZ2dyZWdhdGlvbi5lbmRfZGF0ZQogICAgICAgICkKCiAgICAgICAgc2t1cyA9IHNlbGYuX2RlZHVwZV9hbmRfZmlsdGVyX2J5X2NsYXNzX2lkKHJlc3VsdHMsIGFnZ3JlZ2F0aW9uKQogICAgICAgIHJldHVybiBsZW4oc2t1cykKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEJ1c2luZXNzTW9kZWwoc2VsZi5jb250ZXh0KS5za3VzX2FkZGVkX3RvX2NhcnRfY291bnRfYnlfY2xhc3MoaW5wdXRfbW9kZWwuZGV2aWNlX2d1aWRzLCBhZ2dyZWdhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBhZ2dyZWdhdGUubmFtZSA9PSAna2V5d29yZF9zZWFyY2hfY291bnQnOgogICAgICAgICAgICByZXR1cm4gc2VsZi5fYnVzaW5lc3NfbW9kZWwua2V5d29yZF9zZWFyY2hfY291bnQoaW5wdXRfbW9kZWwuZGV2aWNlX2d1aWRzLCBhZ2dyZWdhdGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuX2J1c2luZXNzX21vZGVsLgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBhZ2dyZWdhdGUubmFtZSA9PSAnc2t1c19wdXJjaGFzZWRfY291bnRfYnlfY2xhc3MnOgogICAgICAgICAgICByZXR1cm4gc2VsZi5fYnVzaW5lc3NfbW9kZWwuc2t1c19wdXJjaHNhZWRfY291bnRfYnlfY2xhc3MoaW5wdXRfbW9kZWwuZGV2aWNlX2d1aWRzLCBhZ2dyZWdhdGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
