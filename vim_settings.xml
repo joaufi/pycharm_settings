@@ -195,6 +195,13 @@
         <mark key="^" line="16" column="42" />
         <mark key="." line="16" column="42" />
       </file>
+      <file name="$USER_HOME$/repositories/aggregation-library/README.md" timestamp="1517349873958">
+        <mark key="'" line="138" column="10" />
+        <mark key="[" line="160" column="44" />
+        <mark key="]" line="160" column="44" />
+        <mark key="." line="160" column="44" />
+        <mark key="^" line="160" column="10" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/tests/mocks/mock_context.py" timestamp="1517342371765">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -500,7 +507,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517347713735">
+      <file name="/Dummy.txt" timestamp="1517350148945">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/__init__.py" timestamp="1513027126091">
@@ -553,8 +560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="0" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
-      <jump line="83" column="4" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
       <jump line="103" column="14" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
       <jump line="37" column="55" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
       <jump line="58" column="34" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipeline.sh" />
@@ -653,16 +658,18 @@
       <jump line="146" column="39" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
       <jump line="193" column="35" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
       <jump line="112" column="17" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/repositories/aggregation-library/README.md" />
+      <jump line="138" column="10" filename="$USER_HOME$/repositories/aggregation-library/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>device_guid</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>device_guid</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>customer</text>
+        <text>classlass</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBfZ2V0X2ZhY3RzX2J5X2RldmljZV8zX21vbnRoX3F1ZXJ5KHNlbGYsIGNvbHVtbnMsIGVuZF9kYXRlKToKICAgICAgICBzdGF0ZW1lbnQgPSAiIiIKICAgICAgICAgICAgU0VMRUNUIHtjb2x1bW5zfQogICAgICAgICAgICBGUk9NIGN1c3RvbWVyX2luZm9ybWF0aW9uLmZhY3RzX2J5X2RldmljZV8zX21vbnRoCiAgICAgICAgICAgIFdIRVJFIGZhY3RfdHlwZSA9ID8gQU5EIGV2ZW50X3RpbWVzdGFtcCA+PSA/IHtlbmRfZGF0ZX0gQU5EIHdlZWsgPSA/IEFORCBkZXZpY2VfZ3VpZCA9ID8KICAgICAgICAiIiIKICAgICAgICBlbmRfZGF0ZV9xdWVyeSA9ICcnCiAgICAgICAgaWYgZW5kX2RhdGU6CiAgICAgICAgICAgIGVuZF9kYXRlX3F1ZXJ5ID0gJ0FORCBldmVudF90aW1lc3RhbXAgPD0gPycKCiAgICAgICAgcmV0dXJuIHN0YXRlbWVudC5mb3JtYXQoCiAgICAgICAgICAgIGNvbHVtbnM9JywgJy5qb2luKGNvbHVtbnMpLAogICAgICAgICAgICBlbmRfZGF0ZT1lbmRfZGF0ZV9xdWVyeQogICAgICAgICkK</text>
@@ -699,9 +706,9 @@
       </register>
     </registers>
     <search>
-      <last-search>customer</last-search>
+      <last-search>classlass</last-search>
       <last-offset />
-      <last-pattern>customer</last-pattern>
+      <last-pattern>classlass</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>\,</last-substitute>
       <last-dir>1</last-dir>
@@ -709,8 +716,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Fea</entry>
-        <entry>\,</entry>
         <entry>class_id (</entry>
         <entry>0</entry>
         <entry>1</entry>
@@ -729,6 +734,8 @@
         <entry>'skus</entry>
         <entry>skus</entry>
         <entry>customer</entry>
+        <entry>classss</entry>
+        <entry>classlass</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZsYWtlOC9weXRlc3QvZ2k=</entry>
