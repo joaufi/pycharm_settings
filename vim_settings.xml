@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1515048924301">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" timestamp="1517420712340">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" timestamp="1517429160479">
         <mark key="'" line="17" column="60" />
-        <mark key="[" line="46" column="29" />
-        <mark key="]" line="46" column="30" />
-        <mark key="." line="46" column="30" />
-        <mark key="^" line="46" column="27" />
+        <mark key="[" line="46" column="34" />
+        <mark key="]" line="46" column="35" />
+        <mark key="." line="46" column="35" />
+        <mark key="^" line="10" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/misc/routes.py" timestamp="1517410501947">
         <mark key="[" line="78" column="26" />
@@ -116,12 +116,12 @@
         <mark key="." line="36" column="36" />
         <mark key="^" line="36" column="36" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/base_model.py" timestamp="1517420592420">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/base_model.py" timestamp="1517428483240">
         <mark key="'" line="58" column="0" />
-        <mark key="[" line="83" column="56" />
-        <mark key="]" line="84" column="26" />
-        <mark key="^" line="84" column="26" />
-        <mark key="." line="84" column="26" />
+        <mark key="[" line="83" column="14" />
+        <mark key="]" line="83" column="14" />
+        <mark key="^" line="81" column="32" />
+        <mark key="." line="83" column="14" />
       </file>
       <file name="$USER_HOME$/repositories/aggregation-library/aggregation/business_model.py" timestamp="1517418451015">
         <mark key="'" line="54" column="69" />
@@ -166,11 +166,11 @@
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" timestamp="1517420648742">
-        <mark key="[" line="29" column="22" />
-        <mark key="]" line="29" column="23" />
-        <mark key="." line="29" column="23" />
-        <mark key="^" line="36" column="30" />
+      <file name="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" timestamp="1517428382628">
+        <mark key="[" line="35" column="9" />
+        <mark key="]" line="36" column="7" />
+        <mark key="." line="36" column="7" />
+        <mark key="^" line="36" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/models/data/feature_struct.py" timestamp="1517262344100">
         <mark key="[" line="2" column="13" />
@@ -533,11 +533,12 @@
         <mark key="." line="18" column="23" />
         <mark key="^" line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/utilities/model_evaluation.py" timestamp="1517420558610">
-        <mark key="[" line="35" column="69" />
-        <mark key="]" line="35" column="69" />
-        <mark key="." line="35" column="69" />
-        <mark key="^" line="35" column="69" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/utilities/model_evaluation.py" timestamp="1517429141904">
+        <mark key="'" line="4" column="20" />
+        <mark key="[" line="39" column="46" />
+        <mark key="]" line="39" column="47" />
+        <mark key="." line="39" column="47" />
+        <mark key="^" line="39" column="46" />
       </file>
       <file name="$USER_HOME$/repositories/aggregation-library/aggregation/validation/input_model_fields.py" timestamp="1517198025825">
         <mark key="[" line="16" column="0" />
@@ -557,7 +558,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517353449581">
+      <file name="/Dummy.txt" timestamp="1517428403038">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/__init__.py" timestamp="1513027126091">
@@ -610,8 +611,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="16" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipe.sh" />
-      <jump line="20" column="16" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipe.sh" />
       <jump line="81" column="3" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipe.sh" />
       <jump line="46" column="0" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipe.sh" />
       <jump line="92" column="18" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipe.sh" />
@@ -710,55 +709,57 @@
       <jump line="113" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/in_market_model.py" />
       <jump line="49" column="47" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/in_market_model.py" />
       <jump line="58" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/base_model.py" />
+      <jump line="42" column="32" filename="$USER_HOME$/repositories/scoring-library/scoring/utilities/model_evaluation.py" />
+      <jump line="4" column="20" filename="$USER_HOME$/repositories/scoring-library/scoring/utilities/model_evaluation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>89000000000001</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>89000000000001</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>score</text>
+        <text>iom</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiIiJkaWN0OiB2ZXJzaW9uIGRpY3Qga2V5ZWQgYnkgKGludCkgdmVyc2lvbiB3aXRoIHZhbHVlczogKGRpY3QpIG1vZGVsIHNwZWNpZmljYXRpb24gd2hpY2gKICAgICAgICAgICAgY29udGFpbnMgKGZ1bmN0aW9uKSBhbGdvcml0aG0sIChsaXN0W2Z1bmN0aW9uc10pIHNjb3JlIGNsZWFuaW5nIGZ1bmN0aW9ucywgCiAgICAgICAgICAgIChmbG9hdCkgaW50ZXJjZXB0LCBhbmQgKGxpc3RbRmVhdHVyZU1vZGVsXSBmZWF0dXJlcy4KICAgICAgICAiIiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHByZWNpc2lvbikK</text>
+        <text encoding="base64">ICAgIHJvdW5kX3RvLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJkaWN0OiB2ZXJzaW9uIGRpY3Qga2V5ZWQgYnkgKGludCkgdmVyc2lvbiB3aXRoIHZhbHVlczogKGRpY3QpIG1vZGVsIHNwZWNpZmljYXRpb24gd2hpY2gKICAgICAgICAgICAgY29udGFpbnMgKGZ1bmN0aW9uKSBhbGdvcml0aG0sIChmbG9hdCkgaW50ZXJjZXB0LCBhbmQgKGxpc3RbRmVhdHVyZU1vZGVsXSBmZWF0dXJlcy4KICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByb3VuZF90bygzKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJkaWN0OiBTcGVjaWZpY2F0aW9uIG9mIHRoZSBtb2RlbCBpbmNsdWRpbmcgKHN0cikgbmFtZSwgKGludCkgdmVyc2lvbiwgKCkgYWxnb3JpdGhtLAogICAgICAgICAgICAoZmxvYXQpIGludGVyY2VwdCwgYW5kIChsaXN0W0ZlYXR1cmVNb2RlbF0pIGZlYXR1cmVzLgogICAgICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhY3R1YWwsIGV4cGVjdGVkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBzY29yaW5nLnV0aWxpdGllcyBpbXBvcnQgTW9kZWxFdmFsdWF0aW9uSGVscGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNjb3JlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBzY29yaW5nLnV0aWxpdGllcyBpbXBvcnQgTW9kZWxFdmFsdWF0aW9uSGVscGVyCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyb3VuZChyb3VuZGVlLCBwcmVjaXNpb24pKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgIHByaW50KHByZWNpc2lvbikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgTW9kZWxFdmFsdWF0aW9uSGVscGVyKG9iamVjdCk6CiAgICBAc3RhdGljbWV0aG9kCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiJkaWN0OiB2ZXJzaW9uIGRpY3Qga2V5ZWQgYnkgKGludCkgdmVyc2lvbiB3aXRoIHZhbHVlczogKGRpY3QpIG1vZGVsIHNwZWNpZmljYXRpb24gd2hpY2gKICAgICAgICAgICAgY29udGFpbnMgKGZ1bmN0aW9uKSBhbGdvcml0aG0sIChmbG9hdCkgaW50ZXJjZXB0LCBhbmQgKGxpc3RbRmVhdHVyZU1vZGVsXSBmZWF0dXJlcy4KICAgICAgICAiIiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIiJkaWN0OiBTcGVjaWZpY2F0aW9uIG9mIHRoZSBtb2RlbCBpbmNsdWRpbmcgKHN0cikgbmFtZSwgKGludCkgdmVyc2lvbiwgKCkgYWxnb3JpdGhtLAogICAgICAgICAgICAoZmxvYXQpIGludGVyY2VwdCwgYW5kIChsaXN0W0ZlYXR1cmVNb2RlbF0pIGZlYXR1cmVzLgogICAgICAgICIiIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5Cg==</text>
+        <text encoding="base64">ZnJvbSBzY29yaW5nLnV0aWxpdGllcyBpbXBvcnQgTW9kZWxFdmFsdWF0aW9uSGVscGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>score</last-search>
+      <last-search>iom</last-search>
       <last-offset />
-      <last-pattern>score</last-pattern>
+      <last-pattern>iom</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>\,</last-substitute>
       <last-dir>1</last-dir>
@@ -766,7 +767,6 @@
     </search>
     <history>
       <history-search>
-        <entry>28</entry>
         <entry>pd</entry>
         <entry>'pdp</entry>
         <entry>end</entry>
@@ -786,6 +786,7 @@
         <entry>Mode</entry>
         <entry>Ev</entry>
         <entry>score</entry>
+        <entry>iom</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZsYWtlOC9weXRlc3QvZ2k=</entry>
@@ -804,9 +805,9 @@
         <entry encoding="base64">dnNwbGl0IA==</entry>
         <entry>vsplit</entry>
         <entry>qa</entry>
-        <entry>q</entry>
         <entry>split</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
