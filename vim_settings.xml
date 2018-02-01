@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1515048924301">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" timestamp="1517437554430">
-        <mark key="'" line="46" column="20" />
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="21" />
-        <mark key="." line="10" column="21" />
-        <mark key="^" line="10" column="21" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" timestamp="1517452008665">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/misc/routes.py" timestamp="1517410501947">
         <mark key="[" line="78" column="26" />
@@ -116,12 +116,12 @@
         <mark key="." line="36" column="36" />
         <mark key="^" line="36" column="36" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/base_model.py" timestamp="1517428483240">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="83" column="14" />
-        <mark key="]" line="83" column="14" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/base_model.py" timestamp="1517451995969">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
         <mark key="^" line="81" column="32" />
-        <mark key="." line="83" column="14" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/aggregation-library/aggregation/business_model.py" timestamp="1517418451015">
         <mark key="'" line="54" column="69" />
@@ -611,8 +611,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="3" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipe.sh" />
-      <jump line="46" column="0" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipe.sh" />
       <jump line="92" column="18" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipe.sh" />
       <jump line="14" column="0" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipe.sh" />
       <jump line="105" column="2" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipe.sh" />
@@ -711,10 +709,12 @@
       <jump line="42" column="32" filename="$USER_HOME$/repositories/scoring-library/scoring/utilities/model_evaluation.py" />
       <jump line="4" column="20" filename="$USER_HOME$/repositories/scoring-library/scoring/utilities/model_evaluation.py" />
       <jump line="46" column="20" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" />
+      <jump line="101" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/base_model.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>decimal_place</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>decimal_place</text>
@@ -726,31 +726,31 @@
         <text encoding="base64">ICAgICAgICAiIiJkaWN0OiB2ZXJzaW9uIGRpY3Qga2V5ZWQgYnkgKGludCkgdmVyc2lvbiB3aXRoIHZhbHVlczogKGRpY3QpIG1vZGVsIHNwZWNpZmljYXRpb24gd2hpY2gKICAgICAgICAgICAgY29udGFpbnMgKGZ1bmN0aW9uKSBhbGdvcml0aG0sIChsaXN0W2Z1bmN0aW9uc10pIHNjb3JlIGNsZWFuaW5nIGZ1bmN0aW9ucywgCiAgICAgICAgICAgIChmbG9hdCkgaW50ZXJjZXB0LCBhbmQgKGxpc3RbRmVhdHVyZU1vZGVsXSBmZWF0dXJlcy4KICAgICAgICAiIiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJvdW5kX3RvLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByb3VuZF90bygzKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhY3R1YWwsIGV4cGVjdGVkKQo=</text>
+        <text encoding="base64">ICAgIHJvdW5kX3RvLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNjb3JlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByb3VuZF90bygzKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyb3VuZChyb3VuZGVlLCBwcmVjaXNpb24pKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhY3R1YWwsIGV4cGVjdGVkKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHByZWNpc2lvbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNjb3JlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJkaWN0OiB2ZXJzaW9uIGRpY3Qga2V5ZWQgYnkgKGludCkgdmVyc2lvbiB3aXRoIHZhbHVlczogKGRpY3QpIG1vZGVsIHNwZWNpZmljYXRpb24gd2hpY2gKICAgICAgICAgICAgY29udGFpbnMgKGZ1bmN0aW9uKSBhbGdvcml0aG0sIChmbG9hdCkgaW50ZXJjZXB0LCBhbmQgKGxpc3RbRmVhdHVyZU1vZGVsXSBmZWF0dXJlcy4KICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyb3VuZChyb3VuZGVlLCBwcmVjaXNpb24pKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJkaWN0OiBTcGVjaWZpY2F0aW9uIG9mIHRoZSBtb2RlbCBpbmNsdWRpbmcgKHN0cikgbmFtZSwgKGludCkgdmVyc2lvbiwgKCkgYWxnb3JpdGhtLAogICAgICAgICAgICAoZmxvYXQpIGludGVyY2VwdCwgYW5kIChsaXN0W0ZlYXR1cmVNb2RlbF0pIGZlYXR1cmVzLgogICAgICAgICIiIgo=</text>
+        <text encoding="base64">ICAgIHByaW50KHByZWNpc2lvbikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBzY29yaW5nLnV0aWxpdGllcyBpbXBvcnQgTW9kZWxFdmFsdWF0aW9uSGVscGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiJkaWN0OiB2ZXJzaW9uIGRpY3Qga2V5ZWQgYnkgKGludCkgdmVyc2lvbiB3aXRoIHZhbHVlczogKGRpY3QpIG1vZGVsIHNwZWNpZmljYXRpb24gd2hpY2gKICAgICAgICAgICAgY29udGFpbnMgKGZ1bmN0aW9uKSBhbGdvcml0aG0sIChmbG9hdCkgaW50ZXJjZXB0LCBhbmQgKGxpc3RbRmVhdHVyZU1vZGVsXSBmZWF0dXJlcy4KICAgICAgICAiIiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
