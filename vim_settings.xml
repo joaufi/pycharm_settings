@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1515048924301">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" timestamp="1517429160479">
-        <mark key="'" line="17" column="60" />
-        <mark key="[" line="46" column="34" />
-        <mark key="]" line="46" column="35" />
-        <mark key="." line="46" column="35" />
-        <mark key="^" line="10" column="13" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" timestamp="1517437554430">
+        <mark key="'" line="46" column="20" />
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/misc/routes.py" timestamp="1517410501947">
         <mark key="[" line="78" column="26" />
@@ -166,10 +166,10 @@
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" timestamp="1517428382628">
-        <mark key="[" line="35" column="9" />
-        <mark key="]" line="36" column="7" />
-        <mark key="." line="36" column="7" />
+      <file name="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" timestamp="1517437834122">
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="29" column="23" />
+        <mark key="." line="29" column="23" />
         <mark key="^" line="36" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/models/data/feature_struct.py" timestamp="1517262344100">
@@ -533,12 +533,12 @@
         <mark key="." line="18" column="23" />
         <mark key="^" line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/utilities/model_evaluation.py" timestamp="1517429141904">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/utilities/model_evaluation.py" timestamp="1517437522685">
         <mark key="'" line="4" column="20" />
-        <mark key="[" line="39" column="46" />
-        <mark key="]" line="39" column="47" />
-        <mark key="." line="39" column="47" />
-        <mark key="^" line="39" column="46" />
+        <mark key="[" line="68" column="41" />
+        <mark key="]" line="68" column="64" />
+        <mark key="." line="68" column="64" />
+        <mark key="^" line="68" column="64" />
       </file>
       <file name="$USER_HOME$/repositories/aggregation-library/aggregation/validation/input_model_fields.py" timestamp="1517198025825">
         <mark key="[" line="16" column="0" />
@@ -558,7 +558,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517428403038">
+      <file name="/Dummy.txt" timestamp="1517437918091">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/__init__.py" timestamp="1513027126091">
@@ -679,7 +679,6 @@
       <jump line="62" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/in_market_model.py" />
       <jump line="102" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/decorators.py" />
       <jump line="51" column="0" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/decorators.py" />
-      <jump line="46" column="80" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" />
       <jump line="49" column="59" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" />
       <jump line="52" column="84" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" />
       <jump line="55" column="59" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" />
@@ -711,16 +710,17 @@
       <jump line="58" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/base_model.py" />
       <jump line="42" column="32" filename="$USER_HOME$/repositories/scoring-library/scoring/utilities/model_evaluation.py" />
       <jump line="4" column="20" filename="$USER_HOME$/repositories/scoring-library/scoring/utilities/model_evaluation.py" />
+      <jump line="46" column="20" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>decimal_place</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>decimal_place</text>
       </register>
       <register name="/" type="4">
-        <text>iom</text>
+        <text>dec</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiIiJkaWN0OiB2ZXJzaW9uIGRpY3Qga2V5ZWQgYnkgKGludCkgdmVyc2lvbiB3aXRoIHZhbHVlczogKGRpY3QpIG1vZGVsIHNwZWNpZmljYXRpb24gd2hpY2gKICAgICAgICAgICAgY29udGFpbnMgKGZ1bmN0aW9uKSBhbGdvcml0aG0sIChsaXN0W2Z1bmN0aW9uc10pIHNjb3JlIGNsZWFuaW5nIGZ1bmN0aW9ucywgCiAgICAgICAgICAgIChmbG9hdCkgaW50ZXJjZXB0LCBhbmQgKGxpc3RbRmVhdHVyZU1vZGVsXSBmZWF0dXJlcy4KICAgICAgICAiIiIK</text>
@@ -757,18 +757,16 @@
       </register>
     </registers>
     <search>
-      <last-search>iom</last-search>
+      <last-search>dec</last-search>
       <last-offset />
-      <last-pattern>iom</last-pattern>
+      <last-pattern>dec</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>\,</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pd</entry>
-        <entry>'pdp</entry>
         <entry>end</entry>
         <entry>('</entry>
         <entry>Agg</entry>
@@ -787,6 +785,8 @@
         <entry>Ev</entry>
         <entry>score</entry>
         <entry>iom</entry>
+        <entry>round</entry>
+        <entry>dec</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZsYWtlOC9weXRlc3QvZ2k=</entry>
@@ -800,7 +800,6 @@
         <entry>2</entry>
         <entry encoding="base64">JzwsJz5zL1wsLzovaWc=</entry>
         <entry>W</entry>
-        <entry>e</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">dnNwbGl0IA==</entry>
         <entry>vsplit</entry>
@@ -808,6 +807,7 @@
         <entry>split</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>q</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
