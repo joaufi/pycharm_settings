@@ -6,8 +6,11 @@
       <file name="/start_script.py" timestamp="1515048924301">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" timestamp="1517452008665">
-        <mark key="'" line="7" column="0" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" timestamp="1517525963814">
+        <mark key="[" line="43" column="47" />
+        <mark key="]" line="43" column="66" />
+        <mark key="." line="43" column="66" />
+        <mark key="^" line="43" column="66" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/misc/routes.py" timestamp="1517521662268">
         <mark key="[" line="78" column="26" />
@@ -197,12 +200,12 @@
         <mark key="^" line="16" column="42" />
         <mark key="." line="16" column="42" />
       </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/README.md" timestamp="1517523712522">
+      <file name="$USER_HOME$/repositories/aggregation-library/README.md" timestamp="1517526502872">
         <mark key="'" line="199" column="17" />
-        <mark key="[" line="199" column="26" />
-        <mark key="]" line="199" column="27" />
-        <mark key="." line="199" column="27" />
-        <mark key="^" line="199" column="27" />
+        <mark key="[" line="195" column="25" />
+        <mark key="]" line="195" column="25" />
+        <mark key="." line="195" column="25" />
+        <mark key="^" line="199" column="31" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/tests/mocks/mock_context.py" timestamp="1517342371765">
         <mark key="[" line="3" column="0" />
@@ -543,7 +546,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517525341702">
+      <file name="/Dummy.txt" timestamp="1517525967764">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/__init__.py" timestamp="1513027126091">
@@ -643,7 +646,6 @@
       <jump line="62" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/in_market_model.py" />
       <jump line="102" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/decorators.py" />
       <jump line="51" column="0" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/decorators.py" />
-      <jump line="49" column="59" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" />
       <jump line="52" column="84" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" />
       <jump line="55" column="59" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" />
       <jump line="58" column="77" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" />
@@ -699,13 +701,14 @@
       <jump line="160" column="17" filename="$USER_HOME$/repositories/aggregation-library/README.md" />
       <jump line="180" column="17" filename="$USER_HOME$/repositories/aggregation-library/README.md" />
       <jump line="199" column="17" filename="$USER_HOME$/repositories/aggregation-library/README.md" />
+      <jump line="49" column="47" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvcmVfaWQgKGludCk6IFRoZSBzdG9yZSBpZCB0byBmaWx0ZXIgYnkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>, '1427b142-b4a3-471c-aba1-eebca6d54c42'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Sku</text>
@@ -741,7 +744,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -792,11 +795,11 @@
         <entry>split</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>e</entry>
-        <entry>q</entry>
         <entry>W</entry>
         <entry>wq</entry>
         <entry>:w</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
