@@ -300,6 +300,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1517498621181">
+        <mark key="'" line="628" column="35" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/requirements.txt" timestamp="1517342322237">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="14" />
@@ -574,6 +577,9 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/validation/input_model_fields.py" timestamp="1517331977209">
+        <mark key="'" line="0" column="20" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/models/structs/aggregate_payload_model.py" timestamp="1517261893342">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -611,9 +617,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="18" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipe.sh" />
-      <jump line="14" column="0" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipe.sh" />
-      <jump line="105" column="2" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipe.sh" />
       <jump line="108" column="0" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipe.sh" />
       <jump line="18" column="0" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipe.sh" />
       <jump line="183" column="2" filename="$USER_HOME$/repositories/home_dir/home/.common_functions" />
@@ -711,6 +714,9 @@
       <jump line="46" column="20" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" />
       <jump line="101" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/base_model.py" />
       <jump line="47" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="625" column="8" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="628" column="35" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -720,7 +726,7 @@
         <text>decimal_place</text>
       </register>
       <register name="/" type="4">
-        <text>dec</text>
+        <text>purchased</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiIiJkaWN0OiB2ZXJzaW9uIGRpY3Qga2V5ZWQgYnkgKGludCkgdmVyc2lvbiB3aXRoIHZhbHVlczogKGRpY3QpIG1vZGVsIHNwZWNpZmljYXRpb24gd2hpY2gKICAgICAgICAgICAgY29udGFpbnMgKGZ1bmN0aW9uKSBhbGdvcml0aG0sIChsaXN0W2Z1bmN0aW9uc10pIHNjb3JlIGNsZWFuaW5nIGZ1bmN0aW9ucywgCiAgICAgICAgICAgIChmbG9hdCkgaW50ZXJjZXB0LCBhbmQgKGxpc3RbRmVhdHVyZU1vZGVsXSBmZWF0dXJlcy4KICAgICAgICAiIiIK</text>
@@ -757,17 +763,16 @@
       </register>
     </registers>
     <search>
-      <last-search>dec</last-search>
+      <last-search>purchased</last-search>
       <last-offset />
-      <last-pattern>dec</last-pattern>
+      <last-pattern>purchased</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>\,</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>end</entry>
         <entry>('</entry>
         <entry>Agg</entry>
         <entry>'</entry>
@@ -787,6 +792,7 @@
         <entry>iom</entry>
         <entry>round</entry>
         <entry>dec</entry>
+        <entry>purchased</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZsYWtlOC9weXRlc3QvZ2k=</entry>
