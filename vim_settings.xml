@@ -106,8 +106,12 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" timestamp="1517409083705">
-        <mark key="'" line="181" column="8" />
+      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" timestamp="1517502200071">
+        <mark key="'" line="142" column="30" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="^" line="149" column="42" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/.gitlab-ci.yml" timestamp="1513876823756">
         <mark key="'" line="21" column="23" />
@@ -203,12 +207,12 @@
         <mark key="^" line="16" column="42" />
         <mark key="." line="16" column="42" />
       </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/README.md" timestamp="1517353866909">
+      <file name="$USER_HOME$/repositories/aggregation-library/README.md" timestamp="1517500790468">
         <mark key="'" line="138" column="10" />
-        <mark key="[" line="189" column="1" />
-        <mark key="]" line="189" column="1" />
-        <mark key="." line="189" column="1" />
-        <mark key="^" line="189" column="1" />
+        <mark key="[" line="180" column="25" />
+        <mark key="]" line="180" column="25" />
+        <mark key="." line="180" column="25" />
+        <mark key="^" line="180" column="24" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/tests/mocks/mock_context.py" timestamp="1517342371765">
         <mark key="[" line="3" column="0" />
@@ -453,12 +457,12 @@
       <file name="/None" timestamp="1517195770866">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" timestamp="1517353561604">
-        <mark key="'" line="23" column="24" />
-        <mark key="[" line="26" column="43" />
-        <mark key="]" line="26" column="44" />
-        <mark key="^" line="26" column="43" />
-        <mark key="." line="26" column="44" />
+      <file name="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" timestamp="1517500864296">
+        <mark key="'" line="40" column="36" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="25" column="43" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/controller.py" timestamp="1515453517039">
         <mark key="'" line="10" column="53" />
@@ -617,9 +621,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="0" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipe.sh" />
-      <jump line="18" column="0" filename="$USER_HOME$/repositories/scoring-library/bin/run_pipe.sh" />
-      <jump line="183" column="2" filename="$USER_HOME$/repositories/home_dir/home/.common_functions" />
       <jump line="196" column="3" filename="$USER_HOME$/repositories/home_dir/home/.common_functions" />
       <jump line="192" column="5" filename="$USER_HOME$/repositories/home_dir/home/.common_functions" />
       <jump line="66" column="16" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/base_model.py" />
@@ -689,7 +690,6 @@
       <jump line="23" column="24" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
       <jump line="150" column="24" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
       <jump line="145" column="30" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
-      <jump line="146" column="39" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
       <jump line="193" column="35" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
       <jump line="112" column="17" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
       <jump line="9" column="0" filename="$USER_HOME$/repositories/aggregation-library/README.md" />
@@ -717,55 +717,59 @@
       <jump line="0" column="0" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="625" column="8" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="628" column="35" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="26" column="43" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
+      <jump line="40" column="36" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
+      <jump line="146" column="3" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
+      <jump line="149" column="30" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>decimal_place</text>
+        <text>base_arguments</text>
       </register>
       <register name="/" type="4">
-        <text>purchased</text>
+        <text>end</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJkaWN0OiB2ZXJzaW9uIGRpY3Qga2V5ZWQgYnkgKGludCkgdmVyc2lvbiB3aXRoIHZhbHVlczogKGRpY3QpIG1vZGVsIHNwZWNpZmljYXRpb24gd2hpY2gKICAgICAgICAgICAgY29udGFpbnMgKGZ1bmN0aW9uKSBhbGdvcml0aG0sIChsaXN0W2Z1bmN0aW9uc10pIHNjb3JlIGNsZWFuaW5nIGZ1bmN0aW9ucywgCiAgICAgICAgICAgIChmbG9hdCkgaW50ZXJjZXB0LCBhbmQgKGxpc3RbRmVhdHVyZU1vZGVsXSBmZWF0dXJlcy4KICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fZ2V0X2ZhY3RzKGNvbHVtbnMsIGJhc2VfYXJndW1lbnRzLCBzdGF0ZW1lbnQsIGN1c3RvbWVyX2d1aWQsIHN0YXJ0X2RhdGUsIGVuZF9kYXRlPWVuZF9kYXRlKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBiYXNlX2FyZ3VtZW50cyA9IFtmYWN0X3R5cGUsIHN0YXJ0X2RhdGVdCiAgICAgICAgaWYgZW5kX2RhdGU6CiAgICAgICAgICAgIGJhc2VfYXJndW1lbnRzLmFwcGVuZChlbmRfZGF0ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYXNlX2FyZ3VtZW50cyA9IFtmYWN0X3R5cGUsIHN0YXJ0X2RhdGVdCiAgICAgICAgaWYgZW5kX2RhdGU6CiAgICAgICAgICAgIGJhc2VfYXJndW1lbnRzLmFwcGVuZChlbmRfZGF0ZSkKCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfZ2V0X2ZhY3RzX2J5X2N1c3RvbWVyXzFfeWVhcl9xdWVyeShzZWxmLCBjb2x1bW5zLCBlbmRfZGF0ZSk6CiAgICAgICAgc3RhdGVtZW50ID0gIiIiCiAgICAgICAgICAgIFNFTEVDVCB7Y29sdW1uc30KICAgICAgICAgICAgRlJPTSBjdXN0b21lcl9pbmZvcm1hdGlvbi5mYWN0c19ieV9jdXN0b21lcl8xX3llYXIKICAgICAgICAgICAgV0hFUkUgZmFjdF90eXBlID0gPyBBTkQgZXZlbnRfdGltZXN0YW1wID49ID8ge2VuZF9kYXRlfSBBTkQgd2VlayA9ID8gQU5EIGN1c3RvbWVyX2d1aWQgPSA/CiAgICAgICAgIiIiCiAgICAgICAgZW5kX2RhdGVfcXVlcnkgPSAnJwogICAgICAgIGlmIGVuZF9kYXRlOgogICAgICAgICAgICBlbmRfZGF0ZV9xdWVyeSA9ICdBTkQgZXZlbnRfdGltZXN0YW1wIDw9ID8nCgogICAgICAgIHJldHVybiBzdGF0ZW1lbnQuZm9ybWF0KAogICAgICAgICAgICBjb2x1bW5zPScsICcuam9pbihjb2x1bW5zKSwKICAgICAgICAgICAgZW5kX2RhdGU9ZW5kX2RhdGVfcXVlcnkKICAgICAgICApCgogICAgZGVmIF9nZXRfZmFjdHNfYnlfZGV2aWNlXzNfbW9udGhfcXVlcnkoc2VsZiwgY29sdW1ucywgZW5kX2RhdGUpOgogICAgICAgIHN0YXRlbWVudCA9ICIiIgogICAgICAgICAgICBTRUxFQ1Qge2NvbHVtbnN9CiAgICAgICAgICAgIEZST00gY3VzdG9tZXJfaW5mb3JtYXRpb24uZmFjdHNfYnlfZGV2aWNlXzNfbW9udGgKICAgICAgICAgICAgV0hFUkUgZmFjdF90eXBlID0gPyBBTkQgZXZlbnRfdGltZXN0YW1wID49ID8ge2VuZF9kYXRlfSBBTkQgd2VlayA9ID8gQU5EIGRldmljZV9ndWlkID0gPwogICAgICAgICIiIgogICAgICAgIGVuZF9kYXRlX3F1ZXJ5ID0gJycKICAgICAgICBpZiBlbmRfZGF0ZToKICAgICAgICAgICAgZW5kX2RhdGVfcXVlcnkgPSAnQU5EIGV2ZW50X3RpbWVzdGFtcCA8PSA/JwoKICAgICAgICByZXR1cm4gc3RhdGVtZW50LmZvcm1hdCgKICAgICAgICAgICAgY29sdW1ucz0nLCAnLmpvaW4oY29sdW1ucyksCiAgICAgICAgICAgIGVuZF9kYXRlPWVuZF9kYXRlX3F1ZXJ5CiAgICAgICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJvdW5kX3RvLAo=</text>
+        <text encoding="base64">ICAgICAgICBhcmd1bWVudHMgPSBbCiAgICAgICAgICAgIGJhc2VfYXJndW1lbnRzICsgW3dlZWtdCiAgICAgICAgICAgIGZvciB3ZWVrIGluIHNlbGYuX2NhbGN1bGF0ZV93ZWVrX3JhbmdlKHN0YXJ0X2RhdGUsIGVuZF9kYXRlKQogICAgICAgIF0KICAgICAgICBhcmd1bWVudHMgPSBbCiAgICAgICAgICAgIGFyZ3VtZW50ICsgW1VVSUQoZGV2aWNlX2d1aWQpXQogICAgICAgICAgICBmb3IgZGV2aWNlX2d1aWQgaW4gZGV2aWNlX2d1aWRzCiAgICAgICAgICAgIGZvciBhcmd1bWVudCBpbiBhcmd1bWVudHMKICAgICAgICBdCiAgICAgICAgZmluYWxfYXJndW1lbnRzID0gW3R1cGxlKGFyZ3MpIGZvciBhcmdzIGluIGFyZ3VtZW50c10KICAgICAgICByZXN1bHQgPSBzZWxmLl9mZXRjaGFsbChzdGF0ZW1lbnQsIGZpbmFsX2FyZ3VtZW50cykKICAgICAgICByZXR1cm4gW3R1cGxlKChnZXRhdHRyKHJvdywgY29sdW1uKSBmb3IgY29sdW1uIGluIGNvbHVtbnMpKSBmb3Igcm93IGluIHJlc3VsdF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByb3VuZF90bygzKSwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhY3R1YWwsIGV4cGVjdGVkKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfZmFjdHNfYnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNjb3JlKQo=</text>
+        <text encoding="base64">ICAgIEBwYXRjaCgnYWdncmVnYXRpb24uaW5wdXRfbW9kZWwuRGV2aWNlbWFwJywgTW9ja0RldmljZW1hcCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>purchased</last-search>
+      <last-search>end</last-search>
       <last-offset />
-      <last-pattern>purchased</last-pattern>
+      <last-pattern>end</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>\,</last-substitute>
       <last-dir>1</last-dir>
@@ -773,9 +777,6 @@
     </search>
     <history>
       <history-search>
-        <entry>('</entry>
-        <entry>Agg</entry>
-        <entry>'</entry>
         <entry>wf_stats</entry>
         <entry>3</entry>
         <entry>'skus</entry>
@@ -793,6 +794,9 @@
         <entry>round</entry>
         <entry>dec</entry>
         <entry>purchased</entry>
+        <entry>purch</entry>
+        <entry>cus</entry>
+        <entry>end</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZsYWtlOC9weXRlc3QvZ2k=</entry>
