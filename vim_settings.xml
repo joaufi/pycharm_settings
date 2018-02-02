@@ -120,12 +120,12 @@
         <mark key="." line="97" column="12" />
         <mark key="^" line="97" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/business_model.py" timestamp="1517524560790">
-        <mark key="'" line="72" column="84" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="53" />
-        <mark key="^" line="87" column="21" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/business_model.py" timestamp="1517600942518">
+        <mark key="'" line="125" column="7" />
+        <mark key="[" line="116" column="39" />
+        <mark key="]" line="116" column="45" />
+        <mark key="^" line="116" column="45" />
+        <mark key="." line="116" column="45" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/views.py" timestamp="1517252000875">
         <mark key="'" line="155" column="19" />
@@ -200,12 +200,12 @@
         <mark key="^" line="16" column="42" />
         <mark key="." line="16" column="42" />
       </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/README.md" timestamp="1517595862826">
-        <mark key="'" line="199" column="17" />
-        <mark key="[" line="257" column="13" />
-        <mark key="]" line="257" column="26" />
-        <mark key="." line="257" column="26" />
-        <mark key="^" line="257" column="26" />
+      <file name="$USER_HOME$/repositories/aggregation-library/README.md" timestamp="1517600508726">
+        <mark key="'" line="184" column="15" />
+        <mark key="[" line="275" column="4" />
+        <mark key="]" line="275" column="5" />
+        <mark key="." line="275" column="5" />
+        <mark key="^" line="244" column="38" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/tests/mocks/mock_context.py" timestamp="1517342371765">
         <mark key="[" line="3" column="0" />
@@ -551,7 +551,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517544856809">
+      <file name="/Dummy.txt" timestamp="1517600626915">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/__init__.py" timestamp="1513027126091">
@@ -602,10 +602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="77" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" />
-      <jump line="74" column="39" filename="$USER_HOME$/repositories/scoring-library/scoring/controller.py" />
-      <jump line="7" column="81" filename="$USER_HOME$/repositories/scoring-library/scoring/controller.py" />
-      <jump line="35" column="17" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/in_market_model.py" />
       <jump line="14" column="42" filename="$USER_HOME$/repositories/scoring-library/scoring/models/data/aggregate_payload_model.py" />
       <jump line="6" column="76" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/in_market_model.py" />
       <jump line="54" column="44" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/in_market_model.py" />
@@ -702,55 +698,59 @@
       <jump line="32" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/base_model.py" />
       <jump line="6" column="48" filename="$USER_HOME$/repositories/scoring-library/tests/mocks/mock_aggregation.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/scoring-library/tests/mocks/mock_aggregation.py" />
+      <jump line="112" column="0" filename="$USER_HOME$/repositories/aggregation-library/README.md" />
+      <jump line="177" column="25" filename="$USER_HOME$/repositories/aggregation-library/README.md" />
+      <jump line="184" column="15" filename="$USER_HOME$/repositories/aggregation-library/README.md" />
+      <jump line="125" column="7" filename="$USER_HOME$/repositories/aggregation-library/aggregation/business_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text encoding="base64">YWRkZWQgdG8gY2FydCA=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">YWRkZWQgdG8gY2FydCA=</text>
       </register>
       <register name="/" type="4">
-        <text>Sku</text>
+        <text>avg_prive</text>
       </register>
-      <register name="0" type="4">
-        <text>avg_price_added_to_cart_skus</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAiIiJSZXR1cm4gdGhlIGF2ZXJhZ2UgcHJpY2Ugb2YgYWRkZWQgdG8gY2FydCBza3VzIGluIHRoZSBnaXZlbiBkYXRlIHJhbmdlLgoKICAgICAgICBBcmdzOgogICAgICAgICAgICBkZXZpY2VfZ3VpZHMgKGxpc3Qgb2Ygc3RyKTogYSBjdXN0b21lcidzIGRldmljZXMKICAgICAgICAgICAgYWdncmVnYXRpb24gKEFnZ3JlZ2F0aW9uTW9kZWwpOiByZXF1ZXN0IHBhcmFtZXRlcnMKICAgICAgICAgICAgc3RvcmVfaWQgKGludCk6IFRoZSBzdG9yZSBpZCB0byBmaWx0ZXIgYnkKCiAgICAgICAgUmV0dXJuczoKICAgICAgICAgICAgZmxvYXQ6IEF2ZXJhZ2UgcHJpY2UgaW4gZG9sbGFycyBhbmQgY2VudHMsIGUuZy4gMTAuNTUKICAgICAgICAiIiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChndWlkcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlX2d1aWRzIChsaXN0IG9mIHN0cik6IGEgY3VzdG9tZXIncyBkZXZpY2VzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjdXN0b21lcl9ndWlkOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhbnkoZmVhdHVyZVsnbmFtZSddID09ICdudW1fa2V5d29yZF9zZWFyY2hlcycgZm9yIGZlYXR1cmUgaW4gZmVhdHVyZXMpOgogICAgICAgICAgICByZXR1cm4gWzMuNSwgMywgMS41LCAzLCA2LCAzLjAsIDEwXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4oZmVhdHVyZXMpOgogICAgICAgICAgICByZXR1cm4gWzEsIDIsIDMsIDQsIDUsIDYsIDcsIDgsIDksIDEwXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gWzMuNSwgMywgMS41LCAzLCA2LCAzLjAsIDEwXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFszLjUsIDMsIDEuNSwgMywgNiwgMy4wLCAxMF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4oZmVhdHVyZXMpID09IDc6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Sku</last-search>
+      <last-search>avg_prive</last-search>
       <last-offset />
-      <last-pattern>Sku</last-pattern>
+      <last-pattern>avg_prive</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>\,</last-substitute>
       <last-dir>-1</last-dir>
@@ -758,7 +758,6 @@
     </search>
     <history>
       <history-search>
-        <entry>classlass</entry>
         <entry>fi</entry>
         <entry>re</entry>
         <entry>devi</entry>
@@ -768,7 +767,6 @@
         <entry>iom</entry>
         <entry>round</entry>
         <entry>dec</entry>
-        <entry>purchased</entry>
         <entry>purch</entry>
         <entry>cus</entry>
         <entry>end</entry>
@@ -778,6 +776,8 @@
         <entry>skus_purchased_count_by_class</entry>
         <entry>customer_guid</entry>
         <entry>Sku</entry>
+        <entry>purchased</entry>
+        <entry>avg_prive</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
@@ -793,12 +793,12 @@
         <entry>split</entry>
         <entry>e</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>:w</entry>
         <entry>q</entry>
-        <entry>qa</entry>
         <entry>vsplit</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>qa</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
