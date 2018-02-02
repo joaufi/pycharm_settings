@@ -6,10 +6,11 @@
       <file name="/start_script.py" timestamp="1515048924301">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" timestamp="1517529254119">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" timestamp="1517597998766">
+        <mark key="[" line="55" column="51" />
+        <mark key="]" line="55" column="67" />
+        <mark key="." line="55" column="67" />
+        <mark key="^" line="55" column="67" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/misc/routes.py" timestamp="1517521662268">
         <mark key="[" line="78" column="26" />
@@ -30,11 +31,6 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/decorators.py" timestamp="1517344982081">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/validation/aggregate_payload_fields.py" timestamp="1517199429823">
         <mark key="'" line="17" column="12" />
@@ -288,11 +284,6 @@
         <mark key="." line="24" column="57" />
         <mark key="^" line="24" column="57" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/utilities.py" timestamp="1517419539648">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/user-scoring-library/scorelib/dao/linear_regression_bidding_dao.py" timestamp="1513034314777">
         <mark key="[" line="55" column="51" />
         <mark key="]" line="55" column="7" />
@@ -526,12 +517,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1513636519726">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/tests/mocks/mock_aggregation.py" timestamp="1517594609468">
+      <file name="$USER_HOME$/repositories/scoring-library/tests/mocks/mock_aggregation.py" timestamp="1517598209721">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="10" />
-        <mark key="]" line="24" column="11" />
-        <mark key="." line="24" column="11" />
-        <mark key="^" line="24" column="11" />
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="33" />
+        <mark key="." line="8" column="33" />
+        <mark key="^" line="8" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_dao.py" timestamp="1517524474836">
         <mark key="'" line="18" column="23" />
@@ -546,11 +537,6 @@
         <mark key="]" line="68" column="64" />
         <mark key="." line="68" column="64" />
         <mark key="^" line="68" column="64" />
-      </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/validation/input_model_fields.py" timestamp="1517198025825">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/models/data/aggregate_payload_model.py" timestamp="1517420222719">
         <mark key="'" line="40" column="42" />
@@ -583,11 +569,6 @@
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/validation/input_model_fields.py" timestamp="1517331977209">
         <mark key="'" line="0" column="20" />
-      </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/structs/aggregate_payload_model.py" timestamp="1517261893342">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1509822711562">
         <mark key="[" line="5" column="0" />
@@ -724,16 +705,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">UHVyY2hhc2VkIA==</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UHVyY2hhc2VkIA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>Sku</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CiMjIyMgQXZlcmFnZSBQdXJjaGFzZWQgU2t1cyBQcmljZQpBdmVyYWdlIHB1cmNoYXNlZCBza3VzIHByaWNlIGluIGNlbnRzIHdpdGhpbiB0aGUgZ2l2ZW4gdGltZSByYW5nZS4KCiMjIyMjIFJlcXVlc3QgUGF5bG9hZApTYW1lIG9wdGlvbnMgYXMgYFBkcCBWaWV3IENvdW50IEJ5IENsYXNzYC4KCmBgYGpzb24KewogICJuYW1lIjogImF2Z19wdXJjaGFzZWRfc2t1c19wcmljZSIsCiAgInN0YXJ0X2RhdGUiOiAiMjAxOC0wMS0wMSIsCiAgImVuZF9kYXRlIjogIjIwMTgtMDEtMjAiCn0KYGBgCgojIyMjIyBSZXNwb25zZQpBIHNpbmdsZSBpbnRlZ2VyIGNvdW50CgpgYGBqc29uCjYxODY3CmBgYAo=</text>
+      <register name="0" type="4">
+        <text>avg_price_added_to_cart_skus</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
