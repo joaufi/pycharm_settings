@@ -186,8 +186,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1517870181784">
-        <mark key="'" line="616" column="84" />
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1517927399892">
+        <mark key="'" line="907" column="4" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -395,20 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="25" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/in_market_model.py" />
-      <jump line="53" column="40" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" />
-      <jump line="57" column="45" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" />
-      <jump line="59" column="42" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" />
-      <jump line="61" column="42" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" />
-      <jump line="63" column="41" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/in_market_model.py" />
-      <jump line="102" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/decorators.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/decorators.py" />
-      <jump line="52" column="84" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" />
-      <jump line="55" column="59" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" />
-      <jump line="58" column="77" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" />
-      <jump line="48" column="24" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
-      <jump line="23" column="24" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
       <jump line="150" column="24" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
       <jump line="145" column="30" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
       <jump line="193" column="35" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
@@ -495,6 +481,20 @@
       <jump line="13" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py" />
       <jump line="255" column="22" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
+      <jump line="309" column="82" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="864" column="28" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="870" column="39" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="872" column="59" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="884" column="28" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="927" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="948" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="957" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="966" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="983" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="1016" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="863" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="883" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="907" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -504,7 +504,7 @@
         <text>23843</text>
       </register>
       <register name="/" type="4">
-        <text>_get_facts</text>
+        <text>def viewed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGpzb24sIGxvZ2dpbmcsIG9zCgppbXBvcnQgbmx0awoKZnJvbSB3YXlmYWlydXRpbCBpbXBvcnQgd2ZzZXR0aW5ncwoKZnJvbSBiaWRzaWZ0LnNldHRpbmdzLmJhc2UgaW1wb3J0IEJhc2VDb25maWcKZnJvbSBiaWRzaWZ0LnNldHRpbmdzLmhlbHBlcnMgaW1wb3J0IGRiX2hlbHBlcgoKCmNsYXNzIExvY2FsQ29uZmlnKEJhc2VDb25maWcpOgogICAgIiIiTG9hZHMgaW4gdmFyaWFibGVzIGZyb20gdGhlIFdheWZhaXIgRW52aXJvbm1lbnQiIiIKICAgIHNldHRpbmdzID0gd2ZzZXR0aW5ncy5XZmNvbmZpZygpCgogICAgIyBEQVRBQkFTRSBDT05GSUdVUkFUSU9OCiAgICBkYl91c2VyID0gJ2Nzbl9zcWwnCiAgICBkYl9uYW1lID0gJ2Nzbl9wcm9kdWN0JwogICAgZGJfcGFzcyA9ICdTdHQxMjMkJScKICAgIGRiX2xvY2F0aW9uID0ganNvbi5sb2FkcyhzZXR0aW5ncy5nZXRfc3RhdGljX3ZhbHVlKCdXRl9EQl9MT0NBVElPTicpKQogICAgZGJfaG9zdCA9IGRiX2hlbHBlci5nZXRfbG9jYWxfZGJfaG9zdCgKICAgICAgICBkYl9sb2NhdGlvbiwKICAgICAgICBkYl9uYW1lLAogICAgICAgIGRiX3VzZXIsCiAgICAgICAgZGJfcGFzcwogICAgKQogICAgaWYgbm90IGRiX2hvc3Q6CiAgICAgICAgZGJfaG9zdCA9ICdkZXZib3NxbGM2JwoKICAgIE1BWF9NU1NRTF9DT05ORUNUSU9OUyA9IGludChvcy5nZXRlbnYoJ01BWF9NU1NRTF9DT05ORUNUSU9OUycsIDMyKSkKCiAgICBTUUxfQ09ORklHID0gewogICAgICAgICdwcm9kdWN0JzogewogICAgICAgICAgICAnaG9zdCc6IGRiX2hvc3QsCiAgICAgICAgICAgICduYW1lJzogZGJfbmFtZSwKICAgICAgICAgICAgJ3VzZXInOiBkYl91c2VyLAogICAgICAgICAgICAncGFzc3dvcmQnOiBkYl9wYXNzLAogICAgICAgIH0sCiAgICB9CgogICAgS0FGS0FfUFJPWFlfVVJMID0gImh0dHA6Ly97fS9rYWZrYS9tZXNzYWdlIi5mb3JtYXQoc2V0dGluZ3MuZ2V0X3N0YXRpY192YWx1ZSgnV0ZfS0FGS0FQUk9YWScpKQoKICAgICMgTE9HR0lORyBDT05GSUdVUkFUSU9OCiAgICBMT0dfTEVWRUwgPSBsb2dnaW5nLklORk8KICAgIEdFTEZfU0VSVkVSID0gJzEwLjIyOC4xNjQuMTUnICAjIGFwcGxzYzFuMS5kZXYuYm8xCiAgICBHRUxGX0xPR19MRVZFTCA9IGxvZ2dpbmcuSU5GTwoKICAgIG5sdGsuZGF0YS5wYXRoLmFwcGVuZCgnL3BhdGgvdG8vYmlkc2lmdC9kaXJlY3RvcnknICsgJy9iaWRzaWZ0L3NvdXJjZS9ubHRrX2RhdGEnKQoKICAgIENBU1NBTkRSQV9DT05GSUcgPSB7CiAgICAgICAgJ2hvc3RzJzogWydsb2NhbGhvc3QnXSwKICAgICAgICAncG9ydCc6IDkwNDIsCiAgICAgICAgJ2RlZmF1bHRfa2V5c3BhY2UnOiAnY3VzdG9tZXJfaW5mb3JtYXRpb24nLAogICAgfQoKICAgIERBVEFDRU5URVIgPSAnbG9jYWwnCg==</text>
@@ -541,9 +541,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_get_facts</last-search>
+      <last-search>def viewed</last-search>
       <last-offset />
-      <last-pattern>_get_facts</last-pattern>
+      <last-pattern>def viewed</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>\,</last-substitute>
       <last-dir>1</last-dir>
@@ -551,8 +551,6 @@
     </search>
     <history>
       <history-search>
-        <entry>skus_purchased_count_by_class</entry>
-        <entry>customer_guid</entry>
         <entry>Sku</entry>
         <entry>purchased</entry>
         <entry>avg_prive</entry>
@@ -571,6 +569,8 @@
         <entry>avg_price_p</entry>
         <entry>datetime</entry>
         <entry>_get_facts</entry>
+        <entry>viewed</entry>
+        <entry>def viewed</entry>
       </history-search>
       <history-cmd>
         <entry>tabm</entry>
