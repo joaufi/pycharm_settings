@@ -6,11 +6,10 @@
       <file name="/start_script.py" timestamp="1515048924301">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" timestamp="1518027928143">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="6" column="57" />
-        <mark key="." line="55" column="67" />
-        <mark key="^" line="55" column="67" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" timestamp="1518029674784">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="62" column="75" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/misc/routes.py" timestamp="1518024079382">
         <mark key="'" line="77" column="18" />
@@ -121,11 +120,10 @@
         <mark key="^" line="36" column="36" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/base_model.py" timestamp="1517592844032">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="96" column="81" />
-        <mark key="]" line="97" column="12" />
-        <mark key="." line="97" column="12" />
-        <mark key="^" line="97" column="12" />
+        <mark key="[" line="129" column="81" />
+        <mark key="]" line="130" column="12" />
+        <mark key="." line="130" column="12" />
+        <mark key="^" line="130" column="12" />
       </file>
       <file name="$USER_HOME$/repositories/aggregation-library/aggregation/business_model.py" timestamp="1517956746704">
         <mark key="'" line="251" column="8" />
@@ -743,8 +741,8 @@
       <jump line="77" column="18" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/misc/routes.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGZWF0dXJlTW9kZWwoCiAgICAgICAgICAgICAgICAgICAgICAgICdudW1fa2V5d29yZF9zZWFyY2hlc18zMF9kYXknLCAtMC4wMTcsCiAgICAgICAgICAgICAgICAgICAgICAgIEFnZ3JlZ2F0ZVBheWxvYWRNb2RlbCgnbnVtX2tleXdvcmRfc2VhcmNoZXMnLCAzMCkpLAo=</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -753,7 +751,7 @@
         <text>c</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2N1c3RvbWVyX2d1aWQnOiBjdXN0b21lcl9ndWlkLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGZWF0dXJlTW9kZWwoCiAgICAgICAgICAgICAgICAgICAgICAgICdudW1fa2V5d29yZF9zZWFyY2hlc18zMF9kYXknLCAtMC4wMTcsCiAgICAgICAgICAgICAgICAgICAgICAgIEFnZ3JlZ2F0ZVBheWxvYWRNb2RlbCgnbnVtX2tleXdvcmRfc2VhcmNoZXMnLCAzMCkpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGZhY3RfdHlwZSA9IEZhY3RGaWVsZHMuUkVRVUVTVEVEX1RZUEVfRklFTEQKICAgIGVxdWFscyA9IEZhY3RGaWVsZHMuU1RSSU5HX0ZJRUxECg==</text>
@@ -783,7 +781,7 @@
         <text encoding="base64">ICAgICAgICBkYW8uX2ZldGNoYWxsLmFzc2VydF9jYWxsZWRfd2l0aCgKICAgICAgICAgICAgJ1xuICAgICAgICAgICAgU0VMRUNUIHNrdSwgY2xhc3NfaWQsIHN0b3JlX2lkXG4gICAgICAgICAgICBGUk9NIGN1c3RvbWVyX2luZm9ybWF0aW9uLmZhY3RzX2J5X2N1c3RvbWVyXzFfeWVhclxuICAgICAgICAgICAgV0hFUkUgZmFjdF90eXBlID0gPyBBTkQgZXZlbnRfdGltZXN0YW1wID49ID8gQU5EIGV2ZW50X3RpbWVzdGFtcCA8PSA/IEFORCB3ZWVrID0gPyBBTkQgY3VzdG9tZXJfZ3VpZCA9ID9cbiAgICAgICAgJywKICAgICAgICAgICAgW10KICAgICAgICApCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -834,11 +832,11 @@
         <entry>qw</entry>
         <entry>e</entry>
         <entry>wq</entry>
-        <entry>qa</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>split</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
