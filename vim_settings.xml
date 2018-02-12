@@ -12,10 +12,10 @@
         <mark key="." line="74" column="51" />
         <mark key="^" line="74" column="51" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/misc/routes.py" timestamp="1518032467893">
+      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/misc/routes.py" timestamp="1518412398781">
         <mark key="'" line="77" column="18" />
-        <mark key="[" line="169" column="26" />
-        <mark key="]" line="170" column="12" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="139" column="12" />
         <mark key="^" line="170" column="12" />
         <mark key="." line="170" column="12" />
       </file>
@@ -759,8 +759,8 @@
       <jump line="26" column="3" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/base_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>kwargs</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImN1c3RvbWVyX2d1aWQiOiAiZXhhbXBsZTItYjRhMy00NzFjLWFiYTEtZWViY2E2ZDU0YzQwIiwKICAgICAgICAgICAgICAgICJkZXZpY2VfZ3VpZCI6ICJleGFtcGxlMS1iNGEzLTQ3MWMtYWJhMS1lZWJjYTZkNTRjNDAiLAogICAgICAgICAgICAgICAgInN0b3JlX2lkIjogNDksCiAgICAgICAgICAgICAgICAidHJhbnNhY3Rpb25faWQiOiAiZXhhbXBsZTFpZHlyb2U2OHB0Vk1RQT09IiwKICAgICAgICAgICAgICAgICJzY29yZSI6IDAuODczNjQ3MzUwMjgzODU4MQogICAgICAgICAgICAgICAgImRlYnVnX2NvbnRleHQiOiB7fQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>kwargs</text>
@@ -768,8 +768,8 @@
       <register name="/" type="4">
         <text>start\_date</text>
       </register>
-      <register name="0" type="4">
-        <text>start_date=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImN1c3RvbWVyX2d1aWQiOiAiZXhhbXBsZTItYjRhMy00NzFjLWFiYTEtZWViY2E2ZDU0YzQwIiwKICAgICAgICAgICAgICAgICJkZXZpY2VfZ3VpZCI6ICJleGFtcGxlMS1iNGEzLTQ3MWMtYWJhMS1lZWJjYTZkNTRjNDAiLAogICAgICAgICAgICAgICAgInN0b3JlX2lkIjogNDksCiAgICAgICAgICAgICAgICAidHJhbnNhY3Rpb25faWQiOiAiZXhhbXBsZTFpZHlyb2U2OHB0Vk1RQT09IiwKICAgICAgICAgICAgICAgICJzY29yZSI6IDAuODczNjQ3MzUwMjgzODU4MQogICAgICAgICAgICAgICAgImRlYnVnX2NvbnRleHQiOiB7fQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBtb2RlbHZhbGlkYXRpb24uZXhjZXB0aW9ucyBpbXBvcnQgSW52YWxpZE1vZGVsRXhjZXB0aW9uCg==</text>
