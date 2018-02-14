@@ -318,6 +318,12 @@
         <mark key="^" line="55" column="7" />
         <mark key="." line="55" column="7" />
       </file>
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1518642207635">
+        <mark key="'" line="460" column="4" />
+        <mark key="[" line="959" column="52" />
+        <mark key="]" line="959" column="52" />
+        <mark key="." line="959" column="52" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/requirements.txt" timestamp="1517342322237">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="14" />
@@ -578,7 +584,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518032502105">
+      <file name="/Dummy.txt" timestamp="1518642116092">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/__init__.py" timestamp="1517945165488">
@@ -642,14 +648,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="8" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
-      <jump line="251" column="8" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
-      <jump line="207" column="8" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
-      <jump line="229" column="8" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
-      <jump line="5" column="8" filename="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_dao.py" />
-      <jump line="252" column="54" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
-      <jump line="103" column="12" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
-      <jump line="146" column="45" filename="$USER_HOME$/repositories/aggregation-library/aggregation/business_model.py" />
       <jump line="70" column="41" filename="$USER_HOME$/repositories/aggregation-library/README.md" />
       <jump line="120" column="17" filename="$USER_HOME$/repositories/aggregation-library/tests/test_business_models.py" />
       <jump line="260" column="12" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
@@ -742,16 +740,24 @@
       <jump line="29" column="12" filename="$USER_HOME$/repositories/scoring-library/scoring/models/data/aggregate_payload_model.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/models/data/aggregate_payload_model.py" />
       <jump line="26" column="3" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/base_model.py" />
+      <jump line="959" column="42" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="964" column="0" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="354" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="361" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="399" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="415" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="420" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="460" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImN1c3RvbWVyX2d1aWQiOiAiZXhhbXBsZTItYjRhMy00NzFjLWFiYTEtZWViY2E2ZDU0YzQwIiwKICAgICAgICAgICAgICAgICJkZXZpY2VfZ3VpZCI6ICJleGFtcGxlMS1iNGEzLTQ3MWMtYWJhMS1lZWJjYTZkNTRjNDAiLAogICAgICAgICAgICAgICAgInN0b3JlX2lkIjogNDksCiAgICAgICAgICAgICAgICAidHJhbnNhY3Rpb25faWQiOiAiZXhhbXBsZTFpZHlyb2U2OHB0Vk1RQT09IiwKICAgICAgICAgICAgICAgICJzY29yZSI6IDAuODczNjQ3MzUwMjgzODU4MQogICAgICAgICAgICAgICAgImRlYnVnX2NvbnRleHQiOiB7fQogICAgICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>device_guids</text>
       </register>
       <register name="-" type="4">
-        <text>kwargs</text>
+        <text>device_guids</text>
       </register>
       <register name="/" type="4">
-        <text>start\_date</text>
+        <text>def de</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImN1c3RvbWVyX2d1aWQiOiAiZXhhbXBsZTItYjRhMy00NzFjLWFiYTEtZWViY2E2ZDU0YzQwIiwKICAgICAgICAgICAgICAgICJkZXZpY2VfZ3VpZCI6ICJleGFtcGxlMS1iNGEzLTQ3MWMtYWJhMS1lZWJjYTZkNTRjNDAiLAogICAgICAgICAgICAgICAgInN0b3JlX2lkIjogNDksCiAgICAgICAgICAgICAgICAidHJhbnNhY3Rpb25faWQiOiAiZXhhbXBsZTFpZHlyb2U2OHB0Vk1RQT09IiwKICAgICAgICAgICAgICAgICJzY29yZSI6IDAuODczNjQ3MzUwMjgzODU4MQogICAgICAgICAgICAgICAgImRlYnVnX2NvbnRleHQiOiB7fQogICAgICAgICAgICB9Cg==</text>
@@ -788,9 +794,9 @@
       </register>
     </registers>
     <search>
-      <last-search>start\_date</last-search>
+      <last-search>def de</last-search>
       <last-offset />
-      <last-pattern>start\_date</last-pattern>
+      <last-pattern>def de</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -798,8 +804,6 @@
     </search>
     <history>
       <history-search>
-        <entry>10\.68</entry>
-        <entry>test_avg</entry>
         <entry>Keyword</entry>
         <entry>test_avg_price_ad</entry>
         <entry>added</entry>
@@ -818,6 +822,8 @@
         <entry>uid</entry>
         <entry>c</entry>
         <entry>start\_date</entry>
+        <entry>device</entry>
+        <entry>def de</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dpdC92aXJ0dWFsZW52L2dp</entry>
