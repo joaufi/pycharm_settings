@@ -308,8 +308,8 @@
         <mark key="^" line="55" column="7" />
         <mark key="." line="55" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1518642207635">
-        <mark key="'" line="460" column="4" />
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1519771657745">
+        <mark key="'" line="194" column="32" />
         <mark key="[" line="959" column="52" />
         <mark key="]" line="959" column="52" />
         <mark key="." line="959" column="52" />
@@ -320,7 +320,7 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/common/daos.py" timestamp="1515603156306">
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/common/daos.py" timestamp="1519772000687">
         <mark key="'" line="487" column="52" />
         <mark key="[" line="590" column="0" />
         <mark key="]" line="590" column="17" />
@@ -659,7 +659,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="260" column="12" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
       <jump line="119" column="17" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
       <jump line="124" column="29" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
       <jump line="247" column="0" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
@@ -759,6 +758,7 @@
       <jump line="62" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
       <jump line="39" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
       <jump line="36" column="9" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" />
+      <jump line="194" column="32" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -768,7 +768,7 @@
         <text encoding="base64">ZGV2aWNlX2d1aWRzIA==</text>
       </register>
       <register name="/" type="4">
-        <text>average</text>
+        <text>order_detail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImN1c3RvbWVyX2d1aWQiOiAiZXhhbXBsZTItYjRhMy00NzFjLWFiYTEtZWViY2E2ZDU0YzQwIiwKICAgICAgICAgICAgICAgICJkZXZpY2VfZ3VpZCI6ICJleGFtcGxlMS1iNGEzLTQ3MWMtYWJhMS1lZWJjYTZkNTRjNDAiLAogICAgICAgICAgICAgICAgInN0b3JlX2lkIjogNDksCiAgICAgICAgICAgICAgICAidHJhbnNhY3Rpb25faWQiOiAiZXhhbXBsZTFpZHlyb2U2OHB0Vk1RQT09IiwKICAgICAgICAgICAgICAgICJzY29yZSI6IDAuODczNjQ3MzUwMjgzODU4MQogICAgICAgICAgICAgICAgImRlYnVnX2NvbnRleHQiOiB7fQogICAgICAgICAgICB9Cg==</text>
@@ -805,9 +805,9 @@
       </register>
     </registers>
     <search>
-      <last-search>average</last-search>
+      <last-search>order_detail</last-search>
       <last-offset />
-      <last-pattern>average</last-pattern>
+      <last-pattern>order_detail</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -815,7 +815,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test_avg_price_ad</entry>
         <entry>added</entry>
         <entry>test_avg_price_purchsed_skus</entry>
         <entry>avg_price_p</entry>
@@ -835,6 +834,7 @@
         <entry>device</entry>
         <entry>def de</entry>
         <entry>average</entry>
+        <entry>order_detail</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dpdC92aXJ0dWFsZW52L2dp</entry>
