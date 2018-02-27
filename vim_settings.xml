@@ -106,13 +106,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" timestamp="1517947492724">
-        <mark key="'" line="276" column="73" />
-        <mark key="[" line="133" column="29" />
-        <mark key="]" line="133" column="29" />
-        <mark key="." line="133" column="29" />
-        <mark key="^" line="228" column="3" />
-      </file>
       <file name="$USER_HOME$/repositories/bidsift/.gitlab-ci.yml" timestamp="1519184233506">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -414,6 +407,7 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="116" column="107" />
       </file>
+      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/models/input_model.py" timestamp="1519762329750" />
       <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" timestamp="1519162384219">
         <mark key="'" line="36" column="9" />
         <mark key="[" line="53" column="29" />
@@ -489,6 +483,9 @@
       </file>
       <file name="/None" timestamp="1517195770866">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" timestamp="1519762410896">
+        <mark key="[" line="167" column="52" />
       </file>
       <file name="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" timestamp="1517947299463">
         <mark key="'" line="247" column="0" />
@@ -614,6 +611,7 @@
         <mark key="^" line="22" column="3" />
         <mark key="." line="22" column="3" />
       </file>
+      <file name="$USER_HOME$/repositories/aggregation-library/.python_environment/lib/python3.6/site-packages/modelvalidation/exceptions.py" timestamp="1519762236579" />
       <file name="$USER_HOME$/repositories/scoring-library/scoring/models/structs/aggregate_payload_model.py" timestamp="1517261893342">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -764,13 +762,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">KQoKCg==</text>
+        <text encoding="base64">ZGV2aWNlX2d1aWRzIA==</text>
       </register>
       <register name="-" type="4">
-        <text>device_guids</text>
+        <text encoding="base64">ZGV2aWNlX2d1aWRzIA==</text>
       </register>
       <register name="/" type="4">
-        <text>def de</text>
+        <text>average</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImN1c3RvbWVyX2d1aWQiOiAiZXhhbXBsZTItYjRhMy00NzFjLWFiYTEtZWViY2E2ZDU0YzQwIiwKICAgICAgICAgICAgICAgICJkZXZpY2VfZ3VpZCI6ICJleGFtcGxlMS1iNGEzLTQ3MWMtYWJhMS1lZWJjYTZkNTRjNDAiLAogICAgICAgICAgICAgICAgInN0b3JlX2lkIjogNDksCiAgICAgICAgICAgICAgICAidHJhbnNhY3Rpb25faWQiOiAiZXhhbXBsZTFpZHlyb2U2OHB0Vk1RQT09IiwKICAgICAgICAgICAgICAgICJzY29yZSI6IDAuODczNjQ3MzUwMjgzODU4MQogICAgICAgICAgICAgICAgImRlYnVnX2NvbnRleHQiOiB7fQogICAgICAgICAgICB9Cg==</text>
@@ -803,13 +801,13 @@
         <text encoding="base64">ZnJvbSBiaWRzaWZ0LmFnZ3JlZ2F0ZXMudmlld3MgaW1wb3J0IGFnZ3JlZ2F0ZXMK</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>def de</last-search>
+      <last-search>average</last-search>
       <last-offset />
-      <last-pattern>def de</last-pattern>
+      <last-pattern>average</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -817,7 +815,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Keyword</entry>
         <entry>test_avg_price_ad</entry>
         <entry>added</entry>
         <entry>test_avg_price_purchsed_skus</entry>
@@ -837,6 +834,7 @@
         <entry>start\_date</entry>
         <entry>device</entry>
         <entry>def de</entry>
+        <entry>average</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dpdC92aXJ0dWFsZW52L2dp</entry>
@@ -857,8 +855,8 @@
         <entry>qw</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>qa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
