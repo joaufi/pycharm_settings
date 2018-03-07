@@ -6,11 +6,11 @@
       <file name="/start_script.py" timestamp="1515048924301">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" timestamp="1518032514715">
-        <mark key="[" line="74" column="50" />
-        <mark key="]" line="74" column="51" />
-        <mark key="." line="74" column="51" />
-        <mark key="^" line="74" column="51" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_model.py" timestamp="1520455588322">
+        <mark key="[" line="41" column="48" />
+        <mark key="]" line="41" column="58" />
+        <mark key="." line="41" column="58" />
+        <mark key="^" line="41" column="58" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/misc/routes.py" timestamp="1518412398781">
         <mark key="'" line="78" column="18" />
@@ -112,12 +112,12 @@
         <mark key="^" line="36" column="36" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/base_model.py" timestamp="1518032673906">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/base_model.py" timestamp="1520455125933">
         <mark key="'" line="26" column="3" />
-        <mark key="[" line="25" column="27" />
-        <mark key="]" line="26" column="3" />
+        <mark key="[" line="135" column="12" />
+        <mark key="]" line="135" column="12" />
         <mark key="^" line="26" column="3" />
-        <mark key="." line="26" column="3" />
+        <mark key="." line="135" column="12" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/exceptions.py" timestamp="1518031006693">
         <mark key="[" line="20" column="0" />
@@ -308,7 +308,7 @@
         <mark key="^" line="55" column="7" />
         <mark key="." line="55" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1520286460586">
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1520348803885">
         <mark key="'" line="194" column="32" />
         <mark key="[" line="998" column="52" />
         <mark key="]" line="998" column="52" />
@@ -407,7 +407,6 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="116" column="107" />
       </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/models/input_model.py" timestamp="1519762329750" />
       <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" timestamp="1519162384219">
         <mark key="'" line="36" column="9" />
         <mark key="[" line="53" column="29" />
@@ -515,10 +514,10 @@
         <mark key="." line="4" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/in_market_model.py" timestamp="1518031757064">
-        <mark key="[" line="53" column="47" />
-        <mark key="]" line="53" column="58" />
-        <mark key="^" line="53" column="57" />
-        <mark key="." line="53" column="47" />
+        <mark key="[" line="55" column="47" />
+        <mark key="]" line="55" column="58" />
+        <mark key="^" line="55" column="57" />
+        <mark key="." line="55" column="47" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/test.py" timestamp="1513027238622">
         <mark key="[" line="0" column="5" />
@@ -595,7 +594,6 @@
         <mark key="^" line="22" column="3" />
         <mark key="." line="22" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/.python_environment/lib/python3.6/site-packages/modelvalidation/exceptions.py" timestamp="1519762236579" />
       <file name="$USER_HOME$/repositories/scoring-library/scoring/models/structs/aggregate_payload_model.py" timestamp="1517261893342">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -746,10 +744,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGV2aWNlX2d1aWRzIA==</text>
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGV2aWNlX2d1aWRzIA==</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>order_detail</text>
@@ -757,32 +755,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImN1c3RvbWVyX2d1aWQiOiAiZXhhbXBsZTItYjRhMy00NzFjLWFiYTEtZWViY2E2ZDU0YzQwIiwKICAgICAgICAgICAgICAgICJkZXZpY2VfZ3VpZCI6ICJleGFtcGxlMS1iNGEzLTQ3MWMtYWJhMS1lZWJjYTZkNTRjNDAiLAogICAgICAgICAgICAgICAgInN0b3JlX2lkIjogNDksCiAgICAgICAgICAgICAgICAidHJhbnNhY3Rpb25faWQiOiAiZXhhbXBsZTFpZHlyb2U2OHB0Vk1RQT09IiwKICAgICAgICAgICAgICAgICJzY29yZSI6IDAuODczNjQ3MzUwMjgzODU4MQogICAgICAgICAgICAgICAgImRlYnVnX2NvbnRleHQiOiB7fQogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">KQoKCg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcnCg==</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSAudmlld3MgaW1wb3J0IHVzZXJfbGV2ZWxfYmlkZGluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB0ZW1wb3JhcnkgZGVmYXVsdCB3aGlsZSBhZ2dyZWdhdGVzIGFyZSBjcmVhdGVkCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBiaWRzaWZ0LnNjb3JlLnZpZXdzIGltcG9ydCBzY29yZQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">KQoKCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBiaWRzaWZ0LmFnZ3JlZ2F0ZXMudmlld3MgaW1wb3J0IGFnZ3JlZ2F0ZXMK</text>
+      <register name="5" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAudmlld3MgaW1wb3J0IHVzZXJfbGV2ZWxfYmlkZGluZwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ZnJvbSBiaWRzaWZ0LnNjb3JlLnZpZXdzIGltcG9ydCBzY29yZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSAudmlld3MgaW1wb3J0IHVzZXJfbGV2ZWxfYmlkZGluZwo=</text>
+        <text encoding="base64">ZnJvbSBiaWRzaWZ0LmFnZ3JlZ2F0ZXMudmlld3MgaW1wb3J0IGFnZ3JlZ2F0ZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBiaWRzaWZ0LmFnZ3JlZ2F0ZXMudmlld3MgaW1wb3J0IGFnZ3JlZ2F0ZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -830,7 +828,6 @@
         <entry encoding="base64">dnNwbGl0IA==</entry>
         <entry>:w</entry>
         <entry>vsplit</entry>
-        <entry>e</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>split</entry>
@@ -840,6 +837,7 @@
         <entry>W</entry>
         <entry>q</entry>
         <entry>qa</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
