@@ -112,12 +112,12 @@
         <mark key="^" line="36" column="36" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/base_model.py" timestamp="1520455125933">
-        <mark key="'" line="26" column="3" />
-        <mark key="[" line="135" column="12" />
-        <mark key="]" line="135" column="12" />
-        <mark key="^" line="26" column="3" />
-        <mark key="." line="135" column="12" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/base_model.py" timestamp="1520466045774">
+        <mark key="'" line="103" column="13" />
+        <mark key="[" line="93" column="12" />
+        <mark key="]" line="93" column="59" />
+        <mark key="." line="93" column="59" />
+        <mark key="^" line="93" column="59" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/exceptions.py" timestamp="1518031006693">
         <mark key="[" line="20" column="0" />
@@ -572,7 +572,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519770673546">
+      <file name="/Dummy.txt" timestamp="1520465830088">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/__init__.py" timestamp="1519184168700">
@@ -641,7 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="17" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
       <jump line="124" column="29" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
       <jump line="247" column="0" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
       <jump line="231" column="52" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
@@ -741,55 +740,56 @@
       <jump line="39" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
       <jump line="36" column="9" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" />
       <jump line="194" column="32" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="103" column="13" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/base_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text encoding="base64">dGhlIA==</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text encoding="base64">dGhlIA==</text>
       </register>
       <register name="/" type="4">
-        <text>order_detail</text>
+        <text>sel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImN1c3RvbWVyX2d1aWQiOiAiZXhhbXBsZTItYjRhMy00NzFjLWFiYTEtZWViY2E2ZDU0YzQwIiwKICAgICAgICAgICAgICAgICJkZXZpY2VfZ3VpZCI6ICJleGFtcGxlMS1iNGEzLTQ3MWMtYWJhMS1lZWJjYTZkNTRjNDAiLAogICAgICAgICAgICAgICAgInN0b3JlX2lkIjogNDksCiAgICAgICAgICAgICAgICAidHJhbnNhY3Rpb25faWQiOiAiZXhhbXBsZTFpZHlyb2U2OHB0Vk1RQT09IiwKICAgICAgICAgICAgICAgICJzY29yZSI6IDAuODczNjQ3MzUwMjgzODU4MQogICAgICAgICAgICAgICAgImRlYnVnX2NvbnRleHQiOiB7fQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcnCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgY2xlYW5pbmdfZnVuYyBpbiBzZWxmLnNwZWNpZmljYXRpb25bJ2NsZWFuaW5nJ106Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB0ZW1wb3JhcnkgZGVmYXVsdCB3aGlsZSBhZ2dyZWdhdGVzIGFyZSBjcmVhdGVkCg==</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">KQoKCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcnCg==</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSAudmlld3MgaW1wb3J0IHVzZXJfbGV2ZWxfYmlkZGluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB0ZW1wb3JhcnkgZGVmYXVsdCB3aGlsZSBhZ2dyZWdhdGVzIGFyZSBjcmVhdGVkCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBiaWRzaWZ0LnNjb3JlLnZpZXdzIGltcG9ydCBzY29yZQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">KQoKCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBiaWRzaWZ0LmFnZ3JlZ2F0ZXMudmlld3MgaW1wb3J0IGFnZ3JlZ2F0ZXMK</text>
+      <register name="8" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAudmlld3MgaW1wb3J0IHVzZXJfbGV2ZWxfYmlkZGluZwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>order_detail</last-search>
+      <last-search>sel</last-search>
       <last-offset />
-      <last-pattern>order_detail</last-pattern>
+      <last-pattern>sel</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -797,7 +797,6 @@
     </search>
     <history>
       <history-search>
-        <entry>added</entry>
         <entry>test_avg_price_purchsed_skus</entry>
         <entry>avg_price_p</entry>
         <entry>datetime</entry>
@@ -817,6 +816,7 @@
         <entry>def de</entry>
         <entry>average</entry>
         <entry>order_detail</entry>
+        <entry>sel</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dpdC92aXJ0dWFsZW52L2dp</entry>
@@ -834,10 +834,10 @@
         <entry encoding="base64">JzwsJz5zL3N0YXJ0XF9kYXRlL3N0YXJ0XF9kYXlcX29mZnNldC9pZw==</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>qw</entry>
-        <entry>W</entry>
         <entry>q</entry>
         <entry>qa</entry>
         <entry>e</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
