@@ -100,6 +100,13 @@
         <mark key="^" line="33" column="59" />
         <mark key="." line="33" column="59" />
       </file>
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/redis_dao.py" timestamp="1521651322784">
+        <mark key="'" line="446" column="69" />
+        <mark key="[" line="446" column="16" />
+        <mark key="]" line="446" column="52" />
+        <mark key="." line="446" column="52" />
+        <mark key="^" line="446" column="52" />
+      </file>
       <file name="$USER_HOME$/repositories/aggregation-library/aggregation/aggregation_model.py" timestamp="1517244407708">
         <mark key="'" line="14" column="87" />
         <mark key="[" line="4" column="5" />
@@ -210,6 +217,12 @@
         <mark key="." line="23" column="10" />
         <mark key="^" line="23" column="10" />
       </file>
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" timestamp="1521650845014">
+        <mark key="'" line="170" column="15" />
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="190" column="65" />
+        <mark key="." line="190" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/aggregation-library/tests/test_models.py" timestamp="1517347953726">
         <mark key="[" line="16" column="17" />
         <mark key="]" line="16" column="42" />
@@ -310,11 +323,11 @@
         <mark key="^" line="55" column="7" />
         <mark key="." line="55" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1521648294912">
-        <mark key="[" line="218" column="14" />
-        <mark key="]" line="207" column="37" />
-        <mark key="^" line="207" column="37" />
-        <mark key="." line="207" column="37" />
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1521651824810">
+        <mark key="[" line="222" column="11" />
+        <mark key="]" line="223" column="74" />
+        <mark key="." line="223" column="74" />
+        <mark key="^" line="223" column="74" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/requirements.txt" timestamp="1517342322237">
         <mark key="[" line="4" column="0" />
@@ -555,6 +568,13 @@
         <mark key="." line="68" column="64" />
         <mark key="^" line="68" column="64" />
       </file>
+      <file name="$USER_HOME$/repositories/customer-information-library/tests/test_details_controller.py" timestamp="1521652514900">
+        <mark key="'" line="247" column="0" />
+        <mark key="[" line="350" column="28" />
+        <mark key="]" line="350" column="27" />
+        <mark key="^" line="350" column="27" />
+        <mark key="." line="350" column="27" />
+      </file>
       <file name="$USER_HOME$/repositories/aggregation-library/aggregation/validation/input_model_fields.py" timestamp="1517198025825">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -572,7 +592,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521647960133">
+      <file name="/Dummy.txt" timestamp="1521652253761">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/__init__.py" timestamp="1519184168700">
@@ -641,19 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="0" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
-      <jump line="231" column="52" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
-      <jump line="188" column="13" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/decorators.py" />
-      <jump line="617" column="84" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
-      <jump line="30" column="17" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py.default" />
-      <jump line="44" column="4" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py.default" />
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py.default" />
-      <jump line="13" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py" />
-      <jump line="255" column="22" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
-      <jump line="309" column="82" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
-      <jump line="864" column="28" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="870" column="39" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="872" column="59" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="884" column="28" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
@@ -741,55 +748,68 @@
       <jump line="194" column="32" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="103" column="13" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/base_model.py" />
       <jump line="172" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/reference_data.py" />
+      <jump line="24" column="13" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="102" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
+      <jump line="101" column="21" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
+      <jump line="93" column="0" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
+      <jump line="119" column="39" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
+      <jump line="138" column="13" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
+      <jump line="141" column="15" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
+      <jump line="446" column="69" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/redis_dao.py" />
+      <jump line="311" column="25" filename="$USER_HOME$/repositories/customer-information-library/tests/test_details_controller.py" />
+      <jump line="259" column="21" filename="$USER_HOME$/repositories/customer-information-library/tests/test_details_controller.py" />
+      <jump line="252" column="25" filename="$USER_HOME$/repositories/customer-information-library/tests/test_details_controller.py" />
+      <jump line="255" column="33" filename="$USER_HOME$/repositories/customer-information-library/tests/test_details_controller.py" />
+      <jump line="247" column="0" filename="$USER_HOME$/repositories/customer-information-library/tests/test_details_controller.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEJVU0lORVNTX0FDQ09VTlRfU1RBVFVTPXsKICAgICAgICAxOiAnTmV3JywKICAgICAgICAyOiAnQXNzaWduZWQnLAogICAgICAgIDM6ICdJbiBQcm9ncmVzcycsCiAgICAgICAgNDogJ0FjdGl2ZScsCiAgICAgICAgNTogJ0luYWN0aXZlJywKICAgICAgICA2OiAnT3V0IG9mIEJ1c2luZXNzJywKICAgICAgICA3OiAnRW5yb2xsZWQnLAogICAgICAgIDg6ICdDb25zdW1lcicsCiAgICAgICAgOTogJ0RlYWQnLAogICAgICAgIDEwOiAnVW5jb25maXJtZWQnLAogICAgICAgIDExOiAnQmxvY2tlZCcsCiAgICAgICAgMTI6ICdFbnJvbGxpbmcnLAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>scored</text>
       </register>
       <register name="/" type="4">
-        <text>sel</text>
+        <text>business</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjdXN0b21lcl9ndWlkID0gcmVxdWVzdC5jdXN0b21lcl9ndWlkCiAgICAgICAgaWYgbm90IGN1c3RvbWVyX2d1aWQ6CiAgICAgICAgICAgIHJhaXNlIE1pc3NpbmdSZXF1aXJlZEFyZ3VtZW50RXhjZXB0aW9uKCdjdXN0b21lcl9ndWlkIG5vdCBwcmVzZW50LiBjdXN0b21lcl9ndWlkIGlzIHJlcXVpcmVkIHRvIGdldCB0aGUgZGF0YScpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXlsb2FkID0gewogICAgICAgICAgICAnc3RvcmVfaWRzJzogWwogICAgICAgICAgICAgICAgNDksCiAgICAgICAgICAgICAgICAzMjEsCiAgICAgICAgICAgICAgICA4MSwKICAgICAgICAgICAgXSwKICAgICAgICAgICAgJ2N1c3RvbWVyZ3VpZCc6ICc2ZTVhZDE3MC1iNzcwLTQ1NTUtYjkyOS04YWVkMjljNmUxODInLAogICAgICAgICAgICAncmVxdWVzdGVkX3R5cGVzJzogWydidXNpbmVzc19hY2NvdW50X3Njb3JlZCddLAogICAgICAgIH0KCiAgICAgICAgYWN0dWFsID0gc2VsZi5nZXRfZGV0YWlsc19yZXNwb25zZShwYXlsb2FkKQogICAgICAgIGV4cGVjdGVkID0gewogICAgICAgICAgICAnYnVzaW5lc3NfYWNjb3VudF9zY29yZWQnOiBbCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgJ296eVNjb3JlJzogMTIuMSwKICAgICAgICAgICAgICAgICAgICAnc3RvcmVJZCc6IDQ5LAogICAgICAgICAgICAgICAgICAgICd2ZXJ0aWNhbCc6IDQ1NiwKICAgICAgICAgICAgICAgIH0sIHsKICAgICAgICAgICAgICAgICAgICAnb3p5U2NvcmUnOiA2LjAsCiAgICAgICAgICAgICAgICAgICAgJ3N0b3JlSWQnOiA4MSwKICAgICAgICAgICAgICAgICAgICAndmVydGljYWwnOiAxMDAwMDAwLAogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgXSwKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEJVU0lORVNTX0FDQ09VTlRfU1RBVFVTPXsKICAgICAgICAxOiAnTmV3JywKICAgICAgICAyOiAnQXNzaWduZWQnLAogICAgICAgIDM6ICdJbiBQcm9ncmVzcycsCiAgICAgICAgNDogJ0FjdGl2ZScsCiAgICAgICAgNTogJ0luYWN0aXZlJywKICAgICAgICA2OiAnT3V0IG9mIEJ1c2luZXNzJywKICAgICAgICA3OiAnRW5yb2xsZWQnLAogICAgICAgIDg6ICdDb25zdW1lcicsCiAgICAgICAgOTogJ0RlYWQnLAogICAgICAgIDEwOiAnVW5jb25maXJtZWQnLAogICAgICAgIDExOiAnQmxvY2tlZCcsCiAgICAgICAgMTI6ICdFbnJvbGxpbmcnLAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEluCiAgICBQcm9ncmVzcwogICAgNAogICAgQWN0aXZlCiAgICA1CiAgICBJbmFjdGl2ZQogICAgNgogICAgT3V0CiAgICBvZgogICAgQnVzaW5lc3MKICAgIDcKICAgIEVucm9sbGVkCiAgICA4CiAgICBDb25zdW1lcgogICAgOQogICAgRGVhZAogICAgMTAKICAgIFVuY29uZmlybWVkCiAgICAxMQogICAgQmxvY2tlZAogICAgMTIKICAgIEVucm9sbGluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAnb3p5U2NvcmUnOiAxMi4xLAogICAgICAgICAgICAgICAgICAgICdzdG9yZUlkJzogNDksCiAgICAgICAgICAgICAgICAgICAgJ3ZlcnRpY2FsJzogNDU2LAogICAgICAgICAgICAgICAgfSwgewogICAgICAgICAgICAgICAgICAgICdvenlTY29yZSc6IDYuMCwKICAgICAgICAgICAgICAgICAgICAnc3RvcmVJZCc6IDgxLAogICAgICAgICAgICAgICAgICAgICd2ZXJ0aWNhbCc6IDEwMDAwMDAsCiAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3N0b3JlX2lkcyc6IFsKICAgICAgICAgICAgICAgIDQ5LAogICAgICAgICAgICAgICAgMzIxLAogICAgICAgICAgICAgICAgODEsCiAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEJVU0lORVNTX0FDQ09VTlRfU1RBVFVTID0gJ21lOmJ1c2luZXNzX2FjY291bnRfc2NvcmVkOntndWlkfScK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhY3R1YWwpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCd3ZSByb3VuZCB0byAnICsgc3RyKHByZWNpc2lvbikpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNjb3JlKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVmZXJlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYW1iZGEgc2NvcmU6IG1heCgwLjAwLCBtaW4oc2NvcmUsIDguMDApKQo=</text>
+        <text encoding="base64">ICAgIEJVU0lORVNTX0FDQ09VTlRfU1RBVFVTPXsKICAgICAgICAxOiAnTmV3JywKICAgICAgICAyOiAnQXNzaWduZWQnLAogICAgICAgIDM6ICdJbiBQcm9ncmVzcycsCiAgICAgICAgNDogJ0FjdGl2ZScsCiAgICAgICAgNTogJ0luYWN0aXZlJywKICAgICAgICA2OiAnT3V0IG9mIEJ1c2luZXNzJywKICAgICAgICA3OiAnRW5yb2xsZWQnLAogICAgICAgIDg6ICdDb25zdW1lcicsCiAgICAgICAgOTogJ0RlYWQnLAogICAgICAgIDEwOiAnVW5jb25maXJtZWQnLAogICAgICAgIDExOiAnQmxvY2tlZCcsCiAgICAgICAgMTI6ICdFbnJvbGxpbmcnLAogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sel</last-search>
+      <last-search>business</last-search>
       <last-offset />
-      <last-pattern>sel</last-pattern>
+      <last-pattern>business</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -797,16 +817,9 @@
     </search>
     <history>
       <history-search>
-        <entry>test_avg_price_purchsed_skus</entry>
-        <entry>avg_price_p</entry>
-        <entry>datetime</entry>
-        <entry>_get_facts</entry>
-        <entry>viewed</entry>
-        <entry>def viewed</entry>
         <entry>if not</entry>
         <entry>VIEWED</entry>
         <entry>get_purch</entry>
-        <entry>customer_guid</entry>
         <entry>customer_guids</entry>
         <entry>r_guid</entry>
         <entry>uid</entry>
@@ -817,6 +830,13 @@
         <entry>average</entry>
         <entry>order_detail</entry>
         <entry>sel</entry>
+        <entry>status</entry>
+        <entry>AX</entry>
+        <entry>SC</entry>
+        <entry>customer_guid</entry>
+        <entry>str</entry>
+        <entry>customer_seg</entry>
+        <entry>business</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dpdC92aXJ0dWFsZW52L2dp</entry>
@@ -834,10 +854,10 @@
         <entry encoding="base64">JzwsJz5zL3N0YXJ0XF9kYXRlL3N0YXJ0XF9kYXlcX29mZnNldC9pZw==</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>qw</entry>
-        <entry>q</entry>
         <entry>qa</entry>
         <entry>e</entry>
         <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
