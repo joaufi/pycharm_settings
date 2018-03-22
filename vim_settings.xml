@@ -88,6 +88,9 @@
         <mark key="." line="42" column="56" />
         <mark key="^" line="42" column="56" />
       </file>
+      <file name="$USER_HOME$/repositories/hive-refresh/README.md" timestamp="1521748956902">
+        <mark key="[" line="15" column="62" />
+      </file>
       <file name="$USER_HOME$/repositories/user-scoring-library/scorelib/strategy/base_user_bidding_strategy.py" timestamp="1513034201481">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="33" column="59" />
@@ -118,6 +121,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="36" column="36" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/hive-refresh/app.py" timestamp="1521749220547">
+        <mark key="[" line="21" column="10" />
+        <mark key="]" line="21" column="57" />
+        <mark key="^" line="21" column="57" />
+        <mark key="." line="21" column="57" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/exceptions.py" timestamp="1518031006693">
         <mark key="[" line="20" column="0" />
@@ -184,9 +193,9 @@
         <mark key="." line="4" column="57" />
         <mark key="^" line="4" column="57" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/connection.py" timestamp="1521748611593">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="11" column="5" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/connection.py" timestamp="1521748869172">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="46" />
         <mark key="." line="11" column="5" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1519162330911">
@@ -789,8 +798,8 @@
       <jump line="103" column="13" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/base_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBUQ0xJU2VydmljZS50dHlwZXMgaW1wb3J0IFRPcGVyYXRpb25TdGF0ZQo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -799,7 +808,7 @@
         <text>sel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImN1c3RvbWVyX2d1aWQiOiAiZXhhbXBsZTItYjRhMy00NzFjLWFiYTEtZWViY2E2ZDU0YzQwIiwKICAgICAgICAgICAgICAgICJkZXZpY2VfZ3VpZCI6ICJleGFtcGxlMS1iNGEzLTQ3MWMtYWJhMS1lZWJjYTZkNTRjNDAiLAogICAgICAgICAgICAgICAgInN0b3JlX2lkIjogNDksCiAgICAgICAgICAgICAgICAidHJhbnNhY3Rpb25faWQiOiAiZXhhbXBsZTFpZHlyb2U2OHB0Vk1RQT09IiwKICAgICAgICAgICAgICAgICJzY29yZSI6IDAuODczNjQ3MzUwMjgzODU4MQogICAgICAgICAgICAgICAgImRlYnVnX2NvbnRleHQiOiB7fQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ZnJvbSBUQ0xJU2VydmljZS50dHlwZXMgaW1wb3J0IFRPcGVyYXRpb25TdGF0ZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -829,7 +838,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
     <search>
@@ -873,7 +882,6 @@
         <entry encoding="base64">dnNwbGl0IA==</entry>
         <entry>:w</entry>
         <entry>wq</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>split</entry>
         <entry encoding="base64">JzwsJz5zL3N0YXJ0XF9kYXRlL3N0YXJ0XF9kYXlcX29mZnNldC9pZw==</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
@@ -883,8 +891,9 @@
         <entry>q</entry>
         <entry>vspit</entry>
         <entry>vsplit</entry>
-        <entry>w</entry>
         <entry>qa</entry>
+        <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
