@@ -6,6 +6,7 @@
       <mapping pattern=".common_aliases" type="Bash" />
       <mapping pattern=".common_functions" type="Bash" />
       <mapping pattern="mock_aggregation_library.py" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping pattern="ContextMixin.py" type="Python" />
     </extensionMap>
   </component>
