@@ -263,8 +263,12 @@
         <mark key="^" line="15" column="48" />
         <mark key="." line="15" column="48" />
       </file>
-      <file name="$USER_HOME$/repositories/jenkins-jobs/lib/bigdata/batch_uploaders.yaml" timestamp="1521820674801">
+      <file name="$USER_HOME$/repositories/jenkins-jobs/lib/bigdata/batch_uploaders.yaml" timestamp="1521822283102">
+        <mark key="'" line="55" column="8" />
         <mark key="[" line="14" column="38" />
+        <mark key="]" line="18" column="37" />
+        <mark key="^" line="18" column="37" />
+        <mark key="." line="18" column="37" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/.gitignore" timestamp="1517198419068">
         <mark key="'" line="0" column="0" />
@@ -709,10 +713,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="29" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
-      <jump line="247" column="0" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
-      <jump line="231" column="52" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
-      <jump line="188" column="13" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/decorators.py" />
       <jump line="617" column="84" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="30" column="17" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py.default" />
       <jump line="44" column="4" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py" />
@@ -809,6 +809,10 @@
       <jump line="36" column="9" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" />
       <jump line="194" column="32" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="103" column="13" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/base_model.py" />
+      <jump line="269" column="12" filename="$USER_HOME$/repositories/jenkins-jobs/lib/bigdata/batch_uploaders.yaml" />
+      <jump line="268" column="12" filename="$USER_HOME$/repositories/jenkins-jobs/lib/bigdata/batch_uploaders.yaml" />
+      <jump line="52" column="8" filename="$USER_HOME$/repositories/jenkins-jobs/lib/bigdata/batch_uploaders.yaml" />
+      <jump line="55" column="8" filename="$USER_HOME$/repositories/jenkins-jobs/lib/bigdata/batch_uploaders.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -818,7 +822,7 @@
         <text>vertica_data_frame</text>
       </register>
       <register name="/" type="4">
-        <text>sel</text>
+        <text>device_map</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIGdldF9kYXRhKHNwYXJrLCBhcmdzKToKICAgIGZlYXR1cmVzX3NxbCA9IGdldF92ZXJ0aWNhX29wdGlvbnMoCiAgICAgICAgZGJzY2hlbWE9YXJncy5zY2hlbWEsCiAgICAgICAgdGFibGU9YXJncy5iYXNlX3RhYmxlLAogICAgICAgIGVudj1hcmdzLnZlcnRpY2FfZW52LAogICAgICAgIG51bVBhcnRpdGlvbnM9MzAwLAogICAgICAgICkKCiAgICBmZWF0dXJlc19kZiA9ICgKICAgICAgICB2ZXJ0aWNhX2RhdGFfZnJhbWUoc3BhcmssIGZlYXR1cmVzX3NxbCkKICAgICAgICAuc2VsZWN0KCJjdWlkIiwgImNsaWQiLCAic29pZCIsICJjdXJyZW50X2RheV90YXJnZXQiLCAidHdvX2RheV90YXJnZXQiLAogICAgICAgICAgICAgICAgInNldmVuX2RheV90YXJnZXQiLCAiZm91cnRlZW5fZGF5X3RhcmdldCIsICJ0d2VudHllaWdodF9kYXlfdGFyZ2V0IiwKICAgICAgICAgICAgICAgICJjdXJyZW50X2RheV9vdGhlciIsICJ0d29fZGF5X290aGVyIiwgInNldmVuX2RheV9vdGhlciIsICJmb3VydGVlbl9kYXlfb3RoZXIiLAogICAgICAgICAgICAgICAgInR3ZW50eWVpZ2h0X2RheV9vdGhlciIsICJBVENfY291bnQiLCAiTGFzdE9yZGVyRGF0ZSIsICJOdW1GaWx0ZXJzIiwKICAgICAgICAgICAgICAgICJTZWFyY2hlcyIsICJOdW1GYXYiKQogICAgICAgIC5maWx0ZXIoInNvaWQgPSB7fSIuZm9ybWF0KGFyZ3Muc29pZCkpCiAgICAgICAgKQoKICAgIHJldHVybiBmZWF0dXJlc19kZgo=</text>
@@ -851,22 +855,20 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sel</last-search>
+      <last-search>device_map</last-search>
       <last-offset />
-      <last-pattern>sel</last-pattern>
+      <last-pattern>device_map</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>def de</entry>
-        <entry>average</entry>
         <entry>order_detail</entry>
         <entry>sel</entry>
         <entry>AX</entry>
@@ -885,6 +887,8 @@
         <entry encoding="base64">Y2xhc3Mg</entry>
         <entry>scored</entry>
         <entry>status_code</entry>
+        <entry>jjb_batch_device_map</entry>
+        <entry>device_map</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Rlc3RzL2ZsYWtlOC9naQ==</entry>
@@ -904,9 +908,9 @@
         <entry>vsplit</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>qa</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
