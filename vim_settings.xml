@@ -263,10 +263,12 @@
         <mark key="^" line="15" column="48" />
         <mark key="." line="15" column="48" />
       </file>
-      <file name="$USER_HOME$/repositories/jenkins-jobs/lib/bigdata/batch_uploaders.yaml" timestamp="1521823070549">
-        <mark key="]" line="15" column="49" />
-        <mark key="^" line="15" column="49" />
-        <mark key="." line="15" column="49" />
+      <file name="$USER_HOME$/repositories/jenkins-jobs/lib/bigdata/batch_uploaders.yaml" timestamp="1522079991183">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="21" />
+        <mark key="^" line="17" column="20" />
+        <mark key="." line="17" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/.gitignore" timestamp="1517198419068">
         <mark key="'" line="0" column="0" />
@@ -711,8 +713,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="617" column="84" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
-      <jump line="30" column="17" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py.default" />
       <jump line="44" column="4" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py" />
       <jump line="18" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py.default" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py.default" />
@@ -811,16 +811,18 @@
       <jump line="268" column="12" filename="$USER_HOME$/repositories/jenkins-jobs/lib/bigdata/batch_uploaders.yaml" />
       <jump line="52" column="8" filename="$USER_HOME$/repositories/jenkins-jobs/lib/bigdata/batch_uploaders.yaml" />
       <jump line="55" column="8" filename="$USER_HOME$/repositories/jenkins-jobs/lib/bigdata/batch_uploaders.yaml" />
+      <jump line="449" column="25" filename="$USER_HOME$/repositories/jenkins-jobs/lib/bigdata/batch_uploaders.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/jenkins-jobs/lib/bigdata/batch_uploaders.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>vertica_data_frame</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>device_map</text>
+        <text>Status</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIGdldF9kYXRhKHNwYXJrLCBhcmdzKToKICAgIGZlYXR1cmVzX3NxbCA9IGdldF92ZXJ0aWNhX29wdGlvbnMoCiAgICAgICAgZGJzY2hlbWE9YXJncy5zY2hlbWEsCiAgICAgICAgdGFibGU9YXJncy5iYXNlX3RhYmxlLAogICAgICAgIGVudj1hcmdzLnZlcnRpY2FfZW52LAogICAgICAgIG51bVBhcnRpdGlvbnM9MzAwLAogICAgICAgICkKCiAgICBmZWF0dXJlc19kZiA9ICgKICAgICAgICB2ZXJ0aWNhX2RhdGFfZnJhbWUoc3BhcmssIGZlYXR1cmVzX3NxbCkKICAgICAgICAuc2VsZWN0KCJjdWlkIiwgImNsaWQiLCAic29pZCIsICJjdXJyZW50X2RheV90YXJnZXQiLCAidHdvX2RheV90YXJnZXQiLAogICAgICAgICAgICAgICAgInNldmVuX2RheV90YXJnZXQiLCAiZm91cnRlZW5fZGF5X3RhcmdldCIsICJ0d2VudHllaWdodF9kYXlfdGFyZ2V0IiwKICAgICAgICAgICAgICAgICJjdXJyZW50X2RheV9vdGhlciIsICJ0d29fZGF5X290aGVyIiwgInNldmVuX2RheV9vdGhlciIsICJmb3VydGVlbl9kYXlfb3RoZXIiLAogICAgICAgICAgICAgICAgInR3ZW50eWVpZ2h0X2RheV9vdGhlciIsICJBVENfY291bnQiLCAiTGFzdE9yZGVyRGF0ZSIsICJOdW1GaWx0ZXJzIiwKICAgICAgICAgICAgICAgICJTZWFyY2hlcyIsICJOdW1GYXYiKQogICAgICAgIC5maWx0ZXIoInNvaWQgPSB7fSIuZm9ybWF0KGFyZ3Muc29pZCkpCiAgICAgICAgKQoKICAgIHJldHVybiBmZWF0dXJlc19kZgo=</text>
@@ -857,17 +859,16 @@
       </register>
     </registers>
     <search>
-      <last-search>device_map</last-search>
+      <last-search>Status</last-search>
       <last-offset />
-      <last-pattern>device_map</last-pattern>
+      <last-pattern>Status</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>order_detail</entry>
         <entry>sel</entry>
         <entry>AX</entry>
         <entry>SC</entry>
@@ -887,6 +888,7 @@
         <entry>status_code</entry>
         <entry>jjb_batch_device_map</entry>
         <entry>device_map</entry>
+        <entry>Status</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Rlc3RzL2ZsYWtlOC9naQ==</entry>
