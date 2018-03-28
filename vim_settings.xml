@@ -389,7 +389,9 @@
       <file name="/None" timestamp="1517195770866">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" timestamp="1522162317596" />
+      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" timestamp="1522261159654">
+        <mark key="'" line="70" column="46" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/score_customers_spark.py" timestamp="1522089788560">
         <mark key="[" line="52" column="14" />
         <mark key="]" line="50" column="25" />
@@ -494,7 +496,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py.default" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py.default" />
       <jump line="13" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py" />
@@ -594,6 +595,7 @@
       <jump line="449" column="25" filename="$USER_HOME$/repositories/jenkins-jobs/lib/bigdata/batch_uploaders.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/jenkins-jobs/lib/bigdata/batch_uploaders.yaml" />
       <jump line="185" column="0" filename="$USER_HOME$/repositories/airflow-dags/comp_intel_refresh_wf_cmp_product_tables.py" />
+      <jump line="70" column="46" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -603,7 +605,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>Status</text>
+        <text>num_added</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICdTUEFSS19DT05GX0RJUj0vZXRjL3NwYXJrMi97eyBwYXJhbXMuZW52IH19JywKICAgICdIQURPT1BfQ09ORl9ESVI9L2V0Yy9oYWRvb3Ave3sgcGFyYW1zLmVudiB9fScsCiAgICAnSEFET09QX1VTRVJfTkFNRT1haXJmbG93JywKICAgICdISVZFX0NPTkZfRElSPS9ldGMvaGl2ZS97eyBwYXJhbXMuZW52IH19JywKICAgICdQWVNQQVJLX1BZVEhPTj0vd2F5ZmFpci9hcHAvcHloYWRvb3BfMDAxL3B5aGFkb29wXzAwMXZlbnYvYmluL3B5dGhvbicsCiAgICAnc3BhcmsyLXN1Ym1pdCcsCiAgICAnLS1tYXN0ZXI9eWFybicsCiAgICAnLS1kZXBsb3ktbW9kZT1jbGllbnQnLAogICAgJy0tZXhlY3V0b3ItY29yZXM9MScsCiAgICAnLS1jb25mPXNwYXJrLnBvcnQubWF4UmV0cmllcz0xMDAnLAogICAgJ3slIGlmIHBhcmFtcy5lbnYgPT0gImRldiIgJX0tLWNvbmY9c3BhcmsuZHluYW1pY0FsbG9jYXRpb24ubWF4RXhlY3V0b3JzPTc1eyUgZWxzZSAlfS0tY29uZj1zcGFyay5keW5hbWljQWxsb2NhdGlvbi5tYXhFeGVjdXRvcnM9MTUweyUgZW5kaWYgJX0nLAogICAgJy0tY29uZj1zcGFyay5leGVjdXRvci5tZW1vcnk9NDA5Nk0nLAogICAgJy0tY29uZj1zcGFyay5kcml2ZXIubWVtb3J5PTQwOTZNJywKICAgICctLWNvbmY9c3BhcmsueWFybi5leGVjdXRvci5tZW1vcnlPdmVyaGVhZD00MDk2TScsCiAgICAnLS1jb25mPXNwYXJrLmRyaXZlci5tYXhSZXN1bHRTaXplPTAnLAogICAgJy0tY29uZj1zcGFyay55YXJuLmFwcE1hc3RlckVudi5QWVNQQVJLX1BZVEhPTj0vd2F5ZmFpci9hcHAvcHloYWRvb3BfMDAxL3B5aGFkb29wXzAwMXZlbnYvYmluL3B5dGhvbicsCiAgICAnLS1qYXJzPS93YXlmYWlyL21udC9jcnVuY2hfYnVja2V0cy9sb2NhbC9kYXRhX3NjaWVuY2UvbWVyY2hfb3BzL3JlbXVzL2phcnMvdmVydGljYS04LjEuMV9zcGFyazIuMV9zY2FsYTIuMTEtMjAxNzA2MjMuamFyLC9vcHQvdmVydGljYS9qYXZhL3ZlcnRpY2EtamRiYy5qYXInLAogICAgJy0tcHktZmlsZXM9ezB9L3BhaXJfc2NvcmVyLnB5LHswfS93Zl9jb21wX2NvbmZpZy5weSx7MH0vZmVhdHVyZXMucHksezB9L3V0aWxzLnB5LHswfS9mdXp6eXd1enp5LTAuMTUuMS1weTIuNy5lZ2csezB9L3B5dGhvbl9MZXZlbnNodGVpbi0wLjEyLjAtcHkyLjctbGludXgteDg2XzY0LmVnZyx7MH0vUGludC0wLjkuZGV2MC1weTIuNy5lZ2csL3dheWZhaXIvYXBwL2FpcmZsb3cvZGFncy91dGlsaXR5X21vZHVsZXMvc3BhcmtfdmVydGljYV9jb25uZWN0b3JfdXRpbC9zcGFya192ZXJ0aWNhX2Nvbm5lY3Rvcl91dGlsLnB5Jy5mb3JtYXQoQkFTRV9QQVRIKSwKICAgICd7MH0vZmVhdHVyZV9wcmVwcm9jZXNzaW5nLnB5Jy5mb3JtYXQoQkFTRV9QQVRIKSwKICAgICd7JSBpZiBwYXJhbXMuZW52ID09ICJkZXYiICV9L3dheWZhaXIvbW50L2Rldi9jcnVuY2hfYnVja2V0cy9sb2NhbC9kYXRhX3NjaWVuY2UvbWVyY2hfb3BzL3JlbXVzL3dmX2NvbXBfbW9kZWxfdHJhaW5pbmcvbW9kZWxzeyUgZWxzZSAlfS93YXlmYWlyL21udC9jcnVuY2hfYnVja2V0cy9jZW50cmFsL2RhdGFfc2NpZW5jZS9tZXJjaF9vcHMvcmVtdXMvd2ZfY29tcF9tb2RlbF90cmFpbmluZy9tb2RlbHN7JSBlbmRpZiAlfScsCiAgICAne3sgcGFyYW1zLmhkZnNfcGF0aCB9fXslIGlmIHBhcmFtcy5lbnYgPT0gImRldiIgJX1fZGV2eyUgZW5kaWYgJX0nLAogICAgJy0tdmVydGljYS1lbnY9e3sgcGFyYW1zLmVudiB9fScsCiAgICAnLS1zY2hlbWE9e3sgcGFyYW1zLmNvbXBfaW50ZWxfcHJvZHVjdF9zY2hlbWEgfX0nLAogICAgJy0td2F5ZmFpci10YWJsZT17eyBwYXJhbXMud2ZfcHJvZHVjdF9mZWF0dXJlX3RhYmxlIH19JywKICAgICctLWNvbXBldGl0b3ItdGFibGU9e3sgcGFyYW1zLmNvbXBfcHJvZHVjdF9mZWF0dXJlX3RhYmxlIH19JywKICAgICd7JSBpZiBwYXJhbXMucHJvY2Vzc193YXlmYWlyICV9LS1wcm9jZXNzLXdheWZhaXJ7JSBlbmRpZiAlfScsCiAgICAneyUgaWYgcGFyYW1zLnByb2Nlc3NfY29tcGV0aXRvciAlfS0tcHJvY2Vzcy1jb21wZXRpdG9yeyUgZW5kaWYgJX0nLAo=</text>
@@ -640,9 +642,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Status</last-search>
+      <last-search>num_added</last-search>
       <last-offset />
-      <last-pattern>Status</last-pattern>
+      <last-pattern>num_added</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -650,7 +652,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sel</entry>
         <entry>AX</entry>
         <entry>SC</entry>
         <entry>customer_guid</entry>
@@ -670,6 +671,7 @@
         <entry>jjb_batch_device_map</entry>
         <entry>device_map</entry>
         <entry>Status</entry>
+        <entry>num_added</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Rlc3RzL2ZsYWtlOC9naQ==</entry>
