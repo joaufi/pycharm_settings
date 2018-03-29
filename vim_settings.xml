@@ -66,10 +66,11 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="25" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" timestamp="1522336527220">
-        <mark key="[" line="47" column="19" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" timestamp="1522337800362">
+        <mark key="[" line="88" column="54" />
+        <mark key="]" line="88" column="76" />
+        <mark key="." line="88" column="76" />
+        <mark key="^" line="88" column="76" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/local.py" timestamp="1517408594592">
         <mark key="[" line="42" column="19" />
@@ -183,9 +184,6 @@
         <mark key="^" line="15" column="48" />
         <mark key="." line="15" column="48" />
       </file>
-      <file name="$USER_HOME$/repositories/jenkins-jobs/lib/bigdata/batch_uploaders.yaml" timestamp="1522079991183">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/webapp.py" timestamp="1513614664474">
         <mark key="[" line="3" column="17" />
         <mark key="]" line="3" column="17" />
@@ -246,6 +244,9 @@
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_data_hive.sql" timestamp="1522337870638">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/utilities.py" timestamp="1520877074822">
         <mark key="[" line="21" column="33" />
@@ -407,10 +408,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/models/data/feature_model.py" timestamp="1522093215552">
-        <mark key="[" line="29" column="66" />
-        <mark key="]" line="30" column="41" />
-        <mark key="^" line="30" column="41" />
-        <mark key="." line="30" column="41" />
+        <mark key="]" line="9" column="41" />
+        <mark key="^" line="9" column="41" />
+        <mark key="." line="9" column="41" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/views.py" timestamp="1513611307002">
         <mark key="[" line="0" column="0" />
@@ -604,11 +604,11 @@
       <jump line="176" column="44" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJ0aWNhX2RhdGFfZnJhbWUoc3BhcmssIGZlYXR1cmVzX3NxbCkK</text>
+      <register name="&quot;" type="4">
+        <text>jyu_in_market_spark</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>jyu_in_market_spark</text>
       </register>
       <register name="/" type="4">
         <text>num_keyword_searches</text>
@@ -644,7 +644,7 @@
         <text encoding="base64">ICAgIGZlYXR1cmVzX3NxbCA9IGdldF92ZXJ0aWNhX29wdGlvbnMoCiAgICAgICAgZGJzY2hlbWE9YXJncy5zY2hlbWEsCiAgICAgICAgdGFibGU9YXJncy5iYXNlX3RhYmxlLAogICAgICAgIGVudj1hcmdzLnZlcnRpY2FfZW52LAogICAgICAgIG51bVBhcnRpdGlvbnM9MzAwLAogICAgICAgICkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -697,9 +697,9 @@
         <entry>vsplit</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
-        <entry>qa</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
