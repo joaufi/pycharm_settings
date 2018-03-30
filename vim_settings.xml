@@ -72,12 +72,12 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="25" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" timestamp="1522356883322">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="77" column="66" />
-        <mark key="]" line="77" column="66" />
-        <mark key="." line="77" column="66" />
-        <mark key="^" line="77" column="70" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" timestamp="1522420262125">
+        <mark key="'" line="51" column="4" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="8" />
+        <mark key="." line="86" column="8" />
+        <mark key="^" line="130" column="42" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/local.py" timestamp="1517408594592">
         <mark key="[" line="42" column="19" />
@@ -270,11 +270,11 @@
         <mark key="^" line="19" column="44" />
         <mark key="." line="19" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/tmpDeviceMapOneHop.sql" timestamp="1522353444385">
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/tmpDeviceMapOneHop.sql" timestamp="1522419254846">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="16" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="12" column="16" />
-        <mark key="." line="12" column="16" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/utilities.py" timestamp="1520877074822">
         <mark key="[" line="21" column="33" />
@@ -397,6 +397,7 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_scores_upload_dag.py" timestamp="1522419277393" />
       <file name="$USER_HOME$/repositories/scoring-library/scoring/scoring_model.py" timestamp="1515786452970">
         <mark key="[" line="28" column="6" />
         <mark key="]" line="28" column="12" />
@@ -535,7 +536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="864" column="28" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="870" column="39" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="872" column="59" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="884" column="28" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
@@ -635,55 +635,56 @@
       <jump line="22" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" />
       <jump line="19" column="82" filename="$USER_HOME$/repositories/airflow-dags/bin/inmarket_batch_run.sh" />
       <jump line="76" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" />
+      <jump line="51" column="4" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/wayfair/app/airflow/dags/utility_modules/spark_vertica_connector_util/spark_vertica_connector_util.py \</text>
+        <text>tmpNumKeywordSearchesByDeviceGuid</text>
       </register>
       <register name="-" type="4">
-        <text>/wayfair/app/airflow/dags/utility_modules/spark_vertica_connector_util/spark_vertica_connector_util.py \</text>
+        <text>tmpNumKeywordSearchesByDeviceGuid</text>
       </register>
       <register name="/" type="4">
-        <text>tmp</text>
+        <text>tm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRmLndyaXRlKCkubW9kZSgib3ZlcndyaXRlIikuc2F2ZUFzVGFibGUoImRlZmF1bHQudGJsSmFmaXNoZXJURU1QVEVTVCIpCg==</text>
+        <text encoding="base64">ICAgIHNwYXJrLnNxbCgnRFJPUCBUQUJMRSBJRiBFWElTVFMgdG1wTnVtS2V5d29yZFNlYXJjaGVzQnlEZXZpY2VHdWlkJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0tamFycz0vd2F5ZmFpci9tbnQvY3J1bmNoX2J1Y2tldHMvbG9jYWwvZGF0YV9zY2llbmNlL21lcmNoX29wcy9yZW11cy9qYXJzL3ZlcnRpY2EtOC4xLjFfc3BhcmsyLjFfc2NhbGEyLjExLTIwMTcwNjIzLmphciwvb3B0L3ZlcnRpY2EvamF2YS92ZXJ0aWNhLWpkYmMuamFyIFwK</text>
+        <text encoding="base64">ICAgICMgZGF0YSA9IGdldF9kYXRhKHNwYXJrKQogICAgIyBmb3JtYXR0ZWRfZGF0YSA9IGZvcm1hdF9kYXRhKGRhdGEpCiAgICAjCiAgICAjIGxyX21vZGVsID0gbG9hZF9tb2RlbChzcGFyaykK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9iYXNoCg==</text>
+        <text encoding="base64">ICAgICMgcmVzdWx0cyA9IGxyX21vZGVsLnRyYW5zZm9ybShmb3JtYXR0ZWRfZGF0YSkKICAgICMgcmVzdWx0cyA9IHJlc3VsdHMucmRkLm1hcChsYW1iZGEgcm93OiAocm93WydjdWlkJ10sIHJvd1snY2xpZCddLCByb3dbJ3Byb2JhYmlsaXR5J11bMV0uaXRlbSgpKSkudG9ERihbJ2N1aWQnLCAnY2xpZCcsICdzY29yZSddKQogICAgIyByZXN1bHRzLndyaXRlLnNhdmVBc1RhYmxlKAogICAgIyAgICAgJ3RibEphZmlzaGVySW5NYXJrZXRDdXN0b21lclNjb3JlJywgbW9kZT0nb3ZlcndyaXRlJywgZm9ybWF0PSdwYXJxdWV0JywKICAgICMgICAgIHBhdGg9J2hkZnM6Ly9oZGZzLmlzaWxvbmMwMS5ibzEuY3Nuem9vLmNvbS8nCiAgICAjICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNwYXJrLnNxbCgnJydEUk9QIFRBQkxFIElGIEVYSVNUUyAnJycpCg==</text>
+        <text encoding="base64">RFJPUCBUQUJMRSBJRiBFWElTVFMgdG1wRGV2aWNlTWFwT25lSG9wOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICcnJykK</text>
+        <text encoding="base64">ICAgIC0tamFycz0vd2F5ZmFpci9tbnQvY3J1bmNoX2J1Y2tldHMvbG9jYWwvZGF0YV9zY2llbmNlL21lcmNoX29wcy9yZW11cy9qYXJzL3ZlcnRpY2EtOC4xLjFfc3BhcmsyLjFfc2NhbGEyLjExLTIwMTcwNjIzLmphciwvb3B0L3ZlcnRpY2EvamF2YS92ZXJ0aWNhLWpkYmMuamFyIFwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFNFTEVDVAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIENSRUFURSBURU1QT1JBUlkgVEFCTEUgdG1wRGV2aWNlTWFwT25lSG9wIEFTCg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9iYXNoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNwYXJrLnNxbCgnJycK</text>
+        <text encoding="base64">ICAgIHNwYXJrLnNxbCgnJydEUk9QIFRBQkxFIElGIEVYSVNUUyAnJycpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNwYXJrLnNxbChvcGVuKCcvaGl2ZS90bXBEZXZpY2VNYXBPbmVIb3Auc3FsJykucmVhZCgpKQo=</text>
+        <text encoding="base64">ICAgICcnJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tmp</last-search>
+      <last-search>tm</last-search>
       <last-offset />
-      <last-pattern>tmp</last-pattern>
+      <last-pattern>tm</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -691,7 +692,6 @@
     </search>
     <history>
       <history-search>
-        <entry>customer_seg</entry>
         <entry>business</entry>
         <entry>=</entry>
         <entry>segment</entry>
@@ -711,6 +711,7 @@
         <entry>num_keyword_searches</entry>
         <entry>vertica</entry>
         <entry>tmp</entry>
+        <entry>tm</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Rlc3RzL2ZsYWtlOC9naQ==</entry>
