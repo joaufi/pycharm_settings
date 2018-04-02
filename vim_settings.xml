@@ -72,11 +72,11 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="25" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" timestamp="1522426332134">
-        <mark key="[" line="180" column="17" />
-        <mark key="]" line="181" column="3" />
-        <mark key="." line="181" column="3" />
-        <mark key="^" line="181" column="3" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" timestamp="1522679413330">
+        <mark key="[" line="193" column="43" />
+        <mark key="]" line="193" column="44" />
+        <mark key="." line="193" column="44" />
+        <mark key="^" line="193" column="44" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/local.py" timestamp="1517408594592">
         <mark key="[" line="42" column="19" />
@@ -630,11 +630,11 @@
       <jump line="181" column="24" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDUkVBVEUgVEVNUE9SQVJZIFRBQkxFIHRtcEluTWFya2V0RmVhdHVyZXMgQVMKICAgICAgICBTRUxFQ1QKICAgICAgICAgICAgZG0uY3VzdG9tZXJpZCBBUyBjdWlkLAogICAgICAgICAgICBhLmNsYXNzaWQgQVMgY2xpZCwKICAgICAgICAgICAgYS5zdG9yZWlkIEFTIHNvaWQsCiAgICAgICAgICAgIENPQUxFU0NFKGEuY3VycmVudF9kYXlfdGFyZ2V0LCAwKSBBUyBkYXlfdGFyZ2V0LAogICAgICAgICAgICBDT0FMRVNDRShhLmN1cnJlbnRfZGF5X290aGVyLCAwKSBBUyBkYXlfdGFyZ2V0LAogICAgICAgICAgICBDT0FMRVNDRShhLnR3b19kYXlfdGFyZ2V0LCAwKSBBUyBkYXlfdGFyZ2V0LAogICAgICAgICAgICBDT0FMRVNDRShhLnR3b19kYXlfb3RoZSwgMCkgQVMgZGF5X3RhcmdldHIsCiAgICAgICAgICAgIENPQUxFU0NFKGEuc2V2ZW5fZGF5X3RhcmdldCwgMCkgQVMgZGF5X3RhcmdldCwKICAgICAgICAgICAgQ09BTEVTQ0UoYS5zZXZlbl9kYXlfb3RoZXIsIDApIEFTIGRheV90YXJnZXQsCiAgICAgICAgICAgIENPQUxFU0NFKGEuZm91cnRlZW5fZGF5X3RhcmdldCwgMCkgQVMgZGF5X3RhcmdldCwKICAgICAgICAgICAgQ09BTEVTQ0UoYS5mb3VydGVlbl9kYXlfb3RoZXIsIDApIEFTIGRheV90YXJnZXQsCiAgICAgICAgICAgIENPQUxFU0NFKGEudHdlbnR5ZWlnaHRfZGF5X3RhcmdldCwgMCkgQVMgZGF5X3RhcmdldCwKICAgICAgICAgICAgQ09BTEVTQ0UoYS50d2VudHllaWdodF9kYXlfb3RoZXIsIDApIEFTIGRheV90YXJnZXQsCiAgICAgICAgICAgIENPQUxFU0NFKGIuYWRkZWRfdG9fY2FydF9jb3VudCwgMCkgQVMgQVRDX2NvdW50LAogICAgICAgICAgICAoQ0FTRSBXSEVOIGMubGFzdG9yZGVyZGF0ZSBJUyBOT1QgTlVMTCBBTkQgKENVUlJFTlRfREFURSAtIGxhc3RvcmRlcmRhdGUpIDw9IDI4IFRIRU4gQ1VSUkVOVF9EQVRFIC0gbGFzdG9yZGVyZGF0ZSBFTFNFIDI5IEVORCksCiAgICAgICAgICAgIENPQUxFU0NFKGQuZmlsdGVyX2NvdW50LCAwKSBBUyBOdW1GaWx0ZXJzLAogICAgICAgICAgICBDT0FMRVNDRShlLmtleXdvcmRfc2VhcmNoX2NvdW50LCAwKSBBUyBTZWFyY2hlcywKICAgICAgICAgICAgQ09BTEVTQ0UoZi5mYXZvcml0ZWRfc2t1X2NvdW50LCAwKSBBUyBOdW1GYXYKICAgICAgICBGUk9NIHRtcFRhcmdldE90aGVyRmVhdHVyZXMgYQogICAgICAgIElOTkVSIEpPSU4gdG1wRGV2aWNlTWFwT25lSG9wIGRtIE9OIGEuZGV2aWNlZ3VpZCA9IGRtLmRldmljZWd1aWQKICAgICAgICBMRUZUIE9VVEVSIEpPSU4gdG1wTnVtRmF2b3JpdGVkU2t1c0J5Q3VzdG9tZXJHdWlkIGYgT04gZG0uY3VzdG9tZXJndWlkID0gZi5jdXN0b21lcmd1aWQgCiAgICAgICAgTEVGVCBPVVRFUiBKT0lOIHRtcE51bUFkZGVkQ2FydFNrdXNCeURldmljZUd1aWQgYiBPTiBhLmRldmljZWd1aWQgPSBiLmRldmljZWd1aWQgQU5EIGEuc3RvcmVpZCA9IGIuc3RvcmVpZCBBTkQgYS5jbGFzc2lkID0gYi5jbGFzc2lkCiAgICAgICAgRlVMTCBPVVRFUiBKT0lOIHRtcExhc3RPcmRlckRhdGUgYyBPTiBhLmRldmljZWd1aWQgPSBjLmRldmljZWd1aWQgQU5EIGEuc3RvcmVpZCA9IGMuc3RvcmVpZCBBTkQgYS5jbGFzc2lkID0gYy5jbGFzc2lkCiAgICAgICAgRlVMTCBPVVRFUiBKT0lOIHRtcE51bUZpbHRlcnNBcHBsaWVkQnlEZXZpY2VHdWlkIGQgT04gYS5kZXZpY2VndWlkID0gZC5kZXZpY2VndWlkIEFORCBhLnN0b3JlaWQgPSBkLnN0b3JlaWQgQU5EIGEuY2xhc3NpZCA9IGQuY2xhc3NpZAogICAgICAgIEZVTEwgT1VURVIgSk9JTiB0bXBOdW1LZXl3b3JkU2VhcmNoZXNCeURldmljZUd1aWQgZSBPTiBhLmRldmljZWd1aWQgPSBlLmRldmljZWd1aWQgQU5EIGEuc3RvcmVpZCA9IGUuc3RvcmVpZCBBTkQgYS5jbGFzc2lkID0gZS5jbGFzc2lkCg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>jafisherwobersins</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>'''</text>
