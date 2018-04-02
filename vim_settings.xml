@@ -67,11 +67,11 @@
         <mark key="[" line="8" column="7" />
         <mark key="]" line="25" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" timestamp="1522684174026">
-        <mark key="[" line="91" column="69" />
-        <mark key="]" line="91" column="73" />
-        <mark key="." line="91" column="73" />
-        <mark key="^" line="91" column="73" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" timestamp="1522685318544">
+        <mark key="[" line="47" column="24" />
+        <mark key="]" line="47" column="101" />
+        <mark key="." line="47" column="101" />
+        <mark key="^" line="47" column="101" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/local.py" timestamp="1517408594592">
         <mark key="[" line="42" column="19" />
@@ -94,11 +94,11 @@
         <mark key="^" line="18" column="73" />
         <mark key="." line="18" column="73" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/bin/inmarket_batch_run.sh" timestamp="1522356941821">
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="18" column="14" />
-        <mark key="." line="18" column="14" />
-        <mark key="^" line="18" column="14" />
+      <file name="$USER_HOME$/repositories/airflow-dags/bin/inmarket_batch_run.sh" timestamp="1522685294182">
+        <mark key="[" line="22" column="98" />
+        <mark key="]" line="22" column="81" />
+        <mark key="." line="22" column="81" />
+        <mark key="^" line="22" column="81" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/.gitlab-ci.yml" timestamp="1519770129175">
         <mark key="[" line="13" column="0" />
@@ -579,16 +579,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>./hive/.sql</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>./hive/.sql</text>
       </register>
       <register name="/" type="4">
         <text>'''</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUIGN1aWQsCiAgICAgICBjbGlkLAogICAgICAgc29pZCwKICAgICAgIGN1cnJlbnRfZGF5X3RhcmdldCwKICAgICAgIHR3b19kYXlfdGFyZ2V0LAogICAgICAgc2V2ZW5fZGF5X3RhcmdldCwKICAgICAgIGZvdXJ0ZWVuX2RheV90YXJnZXQsCiAgICAgICB0d2VudHllaWdodF9kYXlfdGFyZ2V0LAogICAgICAgY3VycmVudF9kYXlfb3RoZXIsCiAgICAgICB0d29fZGF5X290aGVyLAogICAgICAgc2V2ZW5fZGF5X290aGVyLAogICAgICAgZm91cnRlZW5fZGF5X290aGVyLAogICAgICAgdHdlbnR5ZWlnaHRfZGF5X290aGVyLAogICAgICAgQVRDX2NvdW50LAogICAgICAgTGFzdE9yZGVyRGF0ZSwKICAgICAgIE51bUZpbHRlcnMsCiAgICAgICBTZWFyY2hlcywKICAgICAgIE51bUZhdgo=</text>
+        <text encoding="base64">ICAgIC93YXlmYWlyL2FwcC9haXJmbG93L2RhZ3MvdGVtcGxhdGVzL2RhdGFfc2NpZW5jZS9pbm1hcmtldC9oaXZlL2NyZWF0ZV9pbl9tYXJrZXRfZmVhdHVyZXMuc3FsIFwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
