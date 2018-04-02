@@ -254,6 +254,12 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_facebook_model.py" timestamp="1522689470087">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="31" column="38" />
+        <mark key="]" line="31" column="39" />
+        <mark key="." line="31" column="39" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_data_hive.sql" timestamp="1522347924164">
         <mark key="[" line="19" column="44" />
         <mark key="]" line="19" column="44" />
@@ -536,7 +542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="872" column="59" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="884" column="28" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="927" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="948" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
@@ -636,6 +641,7 @@
       <jump line="76" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" />
       <jump line="51" column="4" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" />
       <jump line="181" column="24" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_facebook_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -645,7 +651,7 @@
         <text>./hive/.sql</text>
       </register>
       <register name="/" type="4">
-        <text>'''</text>
+        <text>8.0</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC93YXlmYWlyL2FwcC9haXJmbG93L2RhZ3MvdGVtcGxhdGVzL2RhdGFfc2NpZW5jZS9pbm1hcmtldC9oaXZlL2NyZWF0ZV9pbl9tYXJrZXRfZmVhdHVyZXMuc3FsIFwK</text>
@@ -682,9 +688,9 @@
       </register>
     </registers>
     <search>
-      <last-search>'''</last-search>
+      <last-search>8.0</last-search>
       <last-offset />
-      <last-pattern>'''</last-pattern>
+      <last-pattern>8.0</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -692,7 +698,6 @@
     </search>
     <history>
       <history-search>
-        <entry>=</entry>
         <entry>segment</entry>
         <entry>status</entry>
         <entry>return None</entry>
@@ -712,6 +717,7 @@
         <entry>tmp</entry>
         <entry>tm</entry>
         <entry>'''</entry>
+        <entry>8.0</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Rlc3RzL2ZsYWtlOC9naQ==</entry>
