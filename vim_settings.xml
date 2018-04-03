@@ -258,11 +258,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_in_market_features.sql" timestamp="1522777554395">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="77" column="3" />
-        <mark key="." line="77" column="3" />
-        <mark key="^" line="77" column="3" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_in_market_features.sql" timestamp="1522778891876">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="3" />
+        <mark key="." line="91" column="3" />
+        <mark key="^" line="91" column="3" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/scorelib/model/bonsai_leaf_model.py" timestamp="1513109433957">
         <mark key="[" line="0" column="5" />
@@ -572,7 +573,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="254" column="8" filename="$USER_HOME$/repositories/aggregation-library/aggregation/business_model.py" />
       <jump line="353" column="29" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
       <jump line="124" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
       <jump line="125" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
@@ -671,14 +671,15 @@
       <jump line="326" column="37" filename="$USER_HOME$/repositories/airflow-dags/event_sort_final_dag.py" />
       <jump line="14" column="13" filename="$USER_HOME$/repositories/airflow-dags/in_market_spark_hive_batch.py" />
       <jump line="82" column="40" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_in_market_features.sql" />
+      <jump line="91" column="3" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_in_market_features.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_in_market_features.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>tmp</text>
@@ -768,8 +769,8 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qa</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
