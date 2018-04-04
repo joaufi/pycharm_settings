@@ -41,11 +41,11 @@
         <mark key="." line="26" column="35" />
         <mark key="^" line="26" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_customer_hive_table.sql" timestamp="1522872899082">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="87" column="11" />
-        <mark key="^" line="87" column="11" />
-        <mark key="." line="87" column="11" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_customer_hive_table.sql" timestamp="1522878137830">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="32" column="63" />
+        <mark key="^" line="31" column="68" />
+        <mark key="." line="31" column="68" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/__init__.py" timestamp="1519184210491">
         <mark key="[" line="0" column="5" />
@@ -67,10 +67,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/get_score_data.sql" timestamp="1522681117667">
-        <mark key="[" line="8" column="7" />
-        <mark key="]" line="25" column="12" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" timestamp="1522854896874">
         <mark key="'" line="8" column="7" />
@@ -170,15 +166,6 @@
         <mark key="]" line="16" column="42" />
         <mark key="^" line="16" column="42" />
         <mark key="." line="16" column="42" />
-      </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/event_sort_final_dag.py" timestamp="1522763479078">
-        <mark key="'" line="326" column="37" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="56" />
-      </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/vertica_upgrade_test_suite.py" timestamp="1522763830188">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="40" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/common/redis_dao.py" timestamp="1521659128385">
         <mark key="[" line="119" column="0" />
@@ -286,6 +273,19 @@
         <mark key="]" line="4" column="14" />
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" timestamp="1522877051655">
+        <mark key="[" line="19" column="37" />
+        <mark key="]" line="19" column="38" />
+        <mark key="." line="19" column="38" />
+        <mark key="^" line="46" column="55" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" timestamp="1522878217703">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="0" />
+        <mark key="." line="226" column="0" />
+        <mark key="^" line="128" column="9" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1522245921036">
         <mark key="[" line="34" column="30" />
@@ -508,8 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
-      <jump line="157" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
       <jump line="120" column="17" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
       <jump line="174" column="22" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/aggregation-library/tests/test_daos.py" />
@@ -608,55 +606,57 @@
       <jump line="157" column="25" filename="$USER_HOME$/repositories/airflow-dags/inmarket_scores_upload_dag.py" />
       <jump line="173" column="29" filename="$USER_HOME$/repositories/airflow-dags/inmarket_scores_upload_dag.py" />
       <jump line="198" column="29" filename="$USER_HOME$/repositories/airflow-dags/inmarket_scores_upload_dag.py" />
+      <jump line="127" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'0 0 * * *'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0MS5ldmVudGRhdGUgQkVUV0VFTiAnJHtoaXZlY29uZjpzdGFydF9kYXRlfScgQU5EICcke2hpdmVjb25mOmVuZF9kYXRlfScKICAgICAgICBBTkQgdDIuZXZlbnRkYXRlIEJFVFdFRU4gJyR7aGl2ZWNvbmY6c3RhcnRfZGF0ZX0nIEFORCAnJHtoaXZlY29uZjplbmRfZGF0ZX0nCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'0 0 * * *'</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>vertica</text>
+        <text>hive_c</text>
       </register>
-      <register name="0" type="4">
-        <text>submit_in_market_features_for_spark_scoring</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgVE9fREFURSh0MS5ldmVudGRhdGUpIEJFVFdFRU4gVE9fREFURSgne3sgbWFjcm9zLmRzX2FkZChkcywgLTI5KSB9fScpIEFORCBUT19EQVRFKCd7eyB0b21vcnJvd19kcyB9fScpCiAgICAgIEFORCBUT19EQVRFKHQyLmV2ZW50ZGF0ZSkgQkVUV0VFTiBUT19EQVRFKCd7eyBtYWNyb3MuZHNfYWRkKGRzLCAtMjkpIH19JykgQU5EIFRPX0RBVEUoJ3t7IHRvbW9ycm93X2RzIH19JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdzY2hlZHVsZV9pbnRlcnZhbCc6ICcwIDAgKiAqIConLAo=</text>
+        <text encoding="base64">ICAgICAgICB0MS5ldmVudGRhdGUgQkVUV0VFTiAnJHtoaXZlY29uZjpzdGFydF9kYXRlfScgQU5EICcke2hpdmVjb25mOmVuZF9kYXRlfScKICAgICAgICBBTkQgdDIuZXZlbnRkYXRlIEJFVFdFRU4gJyR7aGl2ZWNvbmY6c3RhcnRfZGF0ZX0nIEFORCAnJHtoaXZlY29uZjplbmRfZGF0ZX0nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdlbWFpbF9vbl9zdWNjZXNzJzogVHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgdGwuZXZlbnRkYXRlIEJFVFdFRU4gJyR7aGl2ZWNvbmY6c3RhcnRfZGF0ZX0nIEFORCAnJHtoaXZlY29uZjplbmRfZGF0ZX0nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdDEuZXZlbnRkYXRlIEJFVFdFRU4gJyR7aGl2ZWNvbmY6c3RhcnRfZGF0ZX0nIEFORCAnJHtoaXZlY29uZjplbmRfZGF0ZX0nCiAgICAgIEFORCB0Mi5ldmVudGRhdGUgQkVUV0VFTiAnJHtoaXZlY29uZjpzdGFydF9kYXRlfScgQU5EICcke2hpdmVjb25mOmVuZF9kYXRlfScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YQo=</text>
+        <text encoding="base64">ICAgICAgQU5EIFRPX0RBVEUodDIuZXZlbnRfZGF0ZSkgPSBUT19EQVRFKCd7eyB5ZXN0ZXJkYXlfZHMgfX0nKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">W2ZpcnN0X3Rhc2ssIHNlY29uZF90YXNrLCB0aGlyZF90YXNrXSA+PiBmb3VydGhfdGFzawo=</text>
+        <text encoding="base64">ICAgICAgY2FydC5ldmVudGRhdGUgQkVUV0VFTiAnJHtoaXZlY29uZjpzdGFydF9kYXRlfScgQU5EICcke2hpdmVjb25mOmVuZF9kYXRlfScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zm91cnRoX3Rhc2suc2V0X3Vwc3RyZWFtKHRoaXJkX3Rhc2spCmZpZnRoX3Rhc2suc2V0X3Vwc3RyZWFtKGZvdXJ0aF90YXNrKQo=</text>
+        <text encoding="base64">ICAgICAgQU5EIFRPX0RBVEUodDIuZXZlbnRfZGF0ZSkgPSBUT19EQVRFKCd7eyB5ZXN0ZXJkYXlfZHMgfX0nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBmaXJzdCwgc2Vjb25kLCBhbmQgdGhpcmQgdGFzayBjYW4gYWxsIHJ1biBpbiBwYXJhbAo=</text>
+        <text encoding="base64">ICAgIHQxLmV2ZW50ZGF0ZSBCRVRXRUVOICcke2hpdmVjb25mOnN0YXJ0X2RhdGV9JyBBTkQgJyR7aGl2ZWNvbmY6ZW5kX2RhdGV9Jwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2Vjb25kX3Rhc2suc2V0X3Vwc3RyZWFtKGZpcnN0X3Rhc2spCnRoaXJkX3Rhc2suc2V0X3Vwc3RyZWFtKHNlY29uZF90YXNrKQo=</text>
+        <text encoding="base64">ICAgIHQxLmV2ZW50ZGF0ZSBCRVRXRUVOICcke2hpdmVjb25mOnN0YXJ0X2RhdGV9JyBBTkQgJyR7aGl2ZWNvbmY6ZW5kX2RhdGV9Jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2Vjb25kX3Rhc2suc2V0X3Vwc3RyZWFtKGZpcnN0X3Rhc2spCg==</text>
+        <text encoding="base64">ICAgICAgQU5EIFRPX0RBVEUodDIuZXZlbnRfZGF0ZSkgPSBUT19EQVRFKCd7eyB5ZXN0ZXJkYXlfZHMgfX0nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>vertica</last-search>
+      <last-search>hive_c</last-search>
       <last-offset />
-      <last-pattern>vertica</last-pattern>
+      <last-pattern>hive_c</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -664,7 +664,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tm</entry>
         <entry>'''</entry>
         <entry>8.0</entry>
         <entry>prod</entry>
@@ -684,6 +683,7 @@
         <entry>favorite</entry>
         <entry>favorited</entry>
         <entry>vertica</entry>
+        <entry>hive_c</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Rlc3RzL2ZsYWtlOC9naQ==</entry>
@@ -701,10 +701,10 @@
         <entry>vsplit</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>qa</entry>
         <entry>split</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>W</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
