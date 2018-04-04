@@ -65,10 +65,10 @@
         <mark key="[" line="8" column="7" />
         <mark key="]" line="25" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" timestamp="1522849527279">
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" timestamp="1522851472347">
         <mark key="'" line="8" column="7" />
-        <mark key="[" line="93" column="20" />
-        <mark key="]" line="93" column="25" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="95" column="4" />
         <mark key="^" line="93" column="25" />
         <mark key="." line="93" column="25" />
       </file>
@@ -397,7 +397,8 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_scores_upload_dag.py" timestamp="1522762955427">
+      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_scores_upload_dag.py" timestamp="1522851512947">
+        <mark key="'" line="198" column="29" />
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="9" />
         <mark key="." line="2" column="9" />
@@ -544,13 +545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
-      <jump line="126" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
-      <jump line="127" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
-      <jump line="128" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
-      <jump line="153" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
-      <jump line="154" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
-      <jump line="155" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
       <jump line="156" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
       <jump line="157" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
       <jump line="120" column="17" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
@@ -644,19 +638,26 @@
       <jump line="74" column="48" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_in_market_features.sql" />
       <jump line="15" column="27" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_in_market_features.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_in_market_features.sql" />
+      <jump line="46" column="13" filename="$USER_HOME$/repositories/airflow-dags/inmarket_scores_upload_dag.py" />
+      <jump line="78" column="25" filename="$USER_HOME$/repositories/airflow-dags/inmarket_scores_upload_dag.py" />
+      <jump line="86" column="25" filename="$USER_HOME$/repositories/airflow-dags/inmarket_scores_upload_dag.py" />
+      <jump line="107" column="25" filename="$USER_HOME$/repositories/airflow-dags/inmarket_scores_upload_dag.py" />
+      <jump line="157" column="25" filename="$USER_HOME$/repositories/airflow-dags/inmarket_scores_upload_dag.py" />
+      <jump line="173" column="29" filename="$USER_HOME$/repositories/airflow-dags/inmarket_scores_upload_dag.py" />
+      <jump line="198" column="29" filename="$USER_HOME$/repositories/airflow-dags/inmarket_scores_upload_dag.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>CustomerScore</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVmIG1haW4oc3BhcmspOgogICAgIyBTZWxlY3QgdGhlIGN1c3RvbWVyIGlkLCBjbGFzcyBpZCwgc3RvcmUgaWQsIGFuZCBmZWF0dXJlcyBmcm9tIEhpdmUKICAgIGRhdGEgPSBnZXRfZGF0YShzcGFyaykKCiAgICAjIEZvcm1hdHMgdGhlIHNlbGVjdGVkIEhpdmUgZGF0YSBpbnRvIGEgZGF0YSBmcmFtZQogICAgZm9ybWF0dGVkX2RhdGEgPSBmb3JtYXRfZGF0YShkYXRhKQoKICAgICMgTG9hZHMgdGhlIHBpY2tsZWQgbW9kZWwgaW50byBhIFNwYXJrIG1vZGVsCiAgICBscl9tb2RlbCA9IGxvYWRfbW9kZWwoc3BhcmspCgogICAgIyBDcmVhdGUgc2NvcmVzCiAgICByZXN1bHRzID0gbHJfbW9kZWwudHJhbnNmb3JtKGZvcm1hdHRlZF9kYXRhKQogICAgcmVzdWx0cyA9IHJlc3VsdHMucmRkLm1hcChsYW1iZGEgcm93OiAocm93WydjdWlkJ10sIHJvd1snY2xpZCddLCByb3dbJ3Byb2JhYmlsaXR5J11bMV0uaXRlbSgpKSkudG9ERihbJ2N1aWQnLCAnY2xpZCcsICdzY29yZSddKQoKICAgICMgU2F2ZSBJbiBNYXJrZXQgU2NvcmVzIGFzIGEgSGl2ZSB0YWJsZQogICAgcmVzdWx0cy53cml0ZS5tb2RlKCdvdmVyd3JpdGUnKS5zYXZlQXNUYWJsZSgnc2NyaWJlLnRibGlubWFya2V0c2NvcmVzJykKCiAgICAjIFNhdmUgSW4gTWFya2V0IFNjb3JlcyBhcyBhIFBhcnF1ZXQgdGFibGUKICAgIHJlc3VsdHMud3JpdGUuc2F2ZUFzVGFibGUoCiAgICAgICAgJ3RibEluTWFya2V0U2NvcmVzJywgbW9kZT0nb3ZlcndyaXRlJywgZm9ybWF0PSdwYXJxdWV0JywKICAgICAgICBwYXRoPSdoZGZzOi8vaGRmcy5pc2lsb25jMDEuYm8xLmNzbnpvby5jb20vJwogICAgKQo=</text>
       </register>
       <register name="-" type="4">
         <text>CustomerScore</text>
       </register>
       <register name="/" type="4">
-        <text>favorited</text>
+        <text>vertica</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YQo=</text>
+        <text encoding="base64">ZGVmIG1haW4oc3BhcmspOgogICAgIyBTZWxlY3QgdGhlIGN1c3RvbWVyIGlkLCBjbGFzcyBpZCwgc3RvcmUgaWQsIGFuZCBmZWF0dXJlcyBmcm9tIEhpdmUKICAgIGRhdGEgPSBnZXRfZGF0YShzcGFyaykKCiAgICAjIEZvcm1hdHMgdGhlIHNlbGVjdGVkIEhpdmUgZGF0YSBpbnRvIGEgZGF0YSBmcmFtZQogICAgZm9ybWF0dGVkX2RhdGEgPSBmb3JtYXRfZGF0YShkYXRhKQoKICAgICMgTG9hZHMgdGhlIHBpY2tsZWQgbW9kZWwgaW50byBhIFNwYXJrIG1vZGVsCiAgICBscl9tb2RlbCA9IGxvYWRfbW9kZWwoc3BhcmspCgogICAgIyBDcmVhdGUgc2NvcmVzCiAgICByZXN1bHRzID0gbHJfbW9kZWwudHJhbnNmb3JtKGZvcm1hdHRlZF9kYXRhKQogICAgcmVzdWx0cyA9IHJlc3VsdHMucmRkLm1hcChsYW1iZGEgcm93OiAocm93WydjdWlkJ10sIHJvd1snY2xpZCddLCByb3dbJ3Byb2JhYmlsaXR5J11bMV0uaXRlbSgpKSkudG9ERihbJ2N1aWQnLCAnY2xpZCcsICdzY29yZSddKQoKICAgICMgU2F2ZSBJbiBNYXJrZXQgU2NvcmVzIGFzIGEgSGl2ZSB0YWJsZQogICAgcmVzdWx0cy53cml0ZS5tb2RlKCdvdmVyd3JpdGUnKS5zYXZlQXNUYWJsZSgnc2NyaWJlLnRibGlubWFya2V0c2NvcmVzJykKCiAgICAjIFNhdmUgSW4gTWFya2V0IFNjb3JlcyBhcyBhIFBhcnF1ZXQgdGFibGUKICAgIHJlc3VsdHMud3JpdGUuc2F2ZUFzVGFibGUoCiAgICAgICAgJ3RibEluTWFya2V0U2NvcmVzJywgbW9kZT0nb3ZlcndyaXRlJywgZm9ybWF0PSdwYXJxdWV0JywKICAgICAgICBwYXRoPSdoZGZzOi8vaGRmcy5pc2lsb25jMDEuYm8xLmNzbnpvby5jb20vJwogICAgKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -690,9 +691,9 @@
       </register>
     </registers>
     <search>
-      <last-search>favorited</last-search>
+      <last-search>vertica</last-search>
       <last-offset />
-      <last-pattern>favorited</last-pattern>
+      <last-pattern>vertica</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -700,7 +701,6 @@
     </search>
     <history>
       <history-search>
-        <entry>vertica</entry>
         <entry>tm</entry>
         <entry>'''</entry>
         <entry>8.0</entry>
@@ -720,6 +720,7 @@
         <entry>tmp</entry>
         <entry>favorite</entry>
         <entry>favorited</entry>
+        <entry>vertica</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Rlc3RzL2ZsYWtlOC9naQ==</entry>
