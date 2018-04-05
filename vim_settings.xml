@@ -282,12 +282,12 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="92" column="35" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" timestamp="1522953314576">
-        <mark key="'" line="34" column="2" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" timestamp="1522960114696">
+        <mark key="'" line="108" column="12" />
+        <mark key="[" line="170" column="38" />
+        <mark key="]" line="170" column="37" />
+        <mark key="^" line="170" column="37" />
+        <mark key="." line="170" column="37" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1522245921036">
         <mark key="[" line="34" column="30" />
@@ -523,8 +523,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="26" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
-      <jump line="228" column="46" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
       <jump line="229" column="39" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
       <jump line="231" column="73" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
       <jump line="234" column="27" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
@@ -610,7 +608,6 @@
       <jump line="27" column="157" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_in_market_feature_tables.sql" />
       <jump line="28" column="83" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_in_market_feature_tables.sql" />
       <jump line="4" column="79" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" />
-      <jump line="32" column="2" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" />
       <jump line="59" column="2" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" />
       <jump line="70" column="4" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" />
       <jump line="113" column="2" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" />
@@ -623,16 +620,19 @@
       <jump line="20" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" />
       <jump line="33" column="2" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_customer_hive_table.sql" />
+      <jump line="32" column="15" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" />
+      <jump line="54" column="12" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" />
+      <jump line="108" column="12" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV9jYXNzYW5kcmFfZmFjdHNfdGFibGVzID4+Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>FROM</text>
+        <text>keyword</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRhc2tfaWQ9J2J1aWxkX2Nhc3NhbmRyYV9mYWN0c19ieV9jdXN0b21lcl9oaXZlX3RhYmxlLnNxbCcsCiAgICBoaXZlX2NsaV9jb25uX2lkPSdiZWVsaW5lX3Byb2QnLAogICAgaHFsPSdoaXZlL2J1aWxkX2Nhc3NhbmRyYV9mYWN0c19ieV9jdXN0b21lcl9oaXZlX3RhYmxlLnNxbCcsCiAgICBkYWc9ZGFnCg==</text>
@@ -669,9 +669,9 @@
       </register>
     </registers>
     <search>
-      <last-search>FROM</last-search>
+      <last-search>keyword</last-search>
       <last-offset />
-      <last-pattern>FROM</last-pattern>
+      <last-pattern>keyword</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -679,7 +679,6 @@
     </search>
     <history>
       <history-search>
-        <entry>joblib</entry>
         <entry>SQLContext</entry>
         <entry>DenseVector</entry>
         <entry>Vectors</entry>
@@ -699,6 +698,7 @@
         <entry>tomo</entry>
         <entry>-2</entry>
         <entry>FROM</entry>
+        <entry>keyword</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Rlc3RzL2ZsYWtlOC9naQ==</entry>
@@ -717,9 +717,9 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>qa</entry>
         <entry>split</entry>
         <entry>W</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
