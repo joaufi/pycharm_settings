@@ -36,11 +36,11 @@
         <mark key="." line="26" column="35" />
         <mark key="^" line="26" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_customer_hive_table.sql" timestamp="1522878823654">
-        <mark key="[" line="35" column="27" />
-        <mark key="]" line="27" column="67" />
-        <mark key="^" line="27" column="67" />
-        <mark key="." line="27" column="67" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_customer_hive_table.sql" timestamp="1522938066479">
+        <mark key="[" line="49" column="23" />
+        <mark key="]" line="49" column="29" />
+        <mark key="^" line="49" column="29" />
+        <mark key="." line="49" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/__init__.py" timestamp="1519184210491">
         <mark key="[" line="0" column="5" />
@@ -156,6 +156,12 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/drop_cassandra_facts_tables.sql" timestamp="1522938238985">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="43" />
+        <mark key="^" line="2" column="43" />
+        <mark key="." line="2" column="43" />
+      </file>
       <file name="$USER_HOME$/repositories/aggregation-library/tests/test_models.py" timestamp="1517347953726">
         <mark key="[" line="16" column="17" />
         <mark key="]" line="16" column="42" />
@@ -269,14 +275,18 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" timestamp="1522879039482">
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="18" />
-        <mark key="^" line="2" column="18" />
+      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" timestamp="1522938283917">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" timestamp="1522878850293">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" timestamp="1522938169913">
+        <mark key="'" line="33" column="2" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="79" />
+        <mark key="^" line="4" column="79" />
+        <mark key="." line="4" column="79" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1522245921036">
         <mark key="[" line="34" column="30" />
@@ -480,7 +490,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522872161474">
+      <file name="/Dummy.txt" timestamp="1522938515894">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/spark-batch-scoring/inmarket/app.py" timestamp="1521769193276">
@@ -506,19 +516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/aggregation-library/tests/test_daos.py" />
-      <jump line="20" column="26" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
-      <jump line="32" column="39" filename="$USER_HOME$/repositories/bidsift/bidsift/utilities.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
-      <jump line="85" column="6" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
-      <jump line="39" column="20" filename="$USER_HOME$/repositories/aggregation-library/aggregation/controller.py" />
-      <jump line="12" column="38" filename="$USER_HOME$/repositories/aggregation-library/aggregation/controller.py" />
-      <jump line="20" column="12" filename="$USER_HOME$/repositories/aggregation-library/aggregation/controller.py" />
-      <jump line="30" column="29" filename="$USER_HOME$/repositories/aggregation-library/aggregation/controller.py" />
-      <jump line="65" column="28" filename="$USER_HOME$/repositories/aggregation-library/aggregation/controller.py" />
-      <jump line="83" column="28" filename="$USER_HOME$/repositories/aggregation-library/aggregation/controller.py" />
-      <jump line="217" column="46" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
-      <jump line="218" column="39" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
       <jump line="220" column="73" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
       <jump line="223" column="26" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
       <jump line="228" column="46" filename="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" />
@@ -606,55 +603,68 @@
       <jump line="0" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" />
       <jump line="27" column="157" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_in_market_feature_tables.sql" />
       <jump line="28" column="83" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_in_market_feature_tables.sql" />
+      <jump line="4" column="79" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" />
+      <jump line="32" column="2" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" />
+      <jump line="59" column="2" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" />
+      <jump line="70" column="4" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" />
+      <jump line="113" column="2" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" />
+      <jump line="122" column="4" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" />
+      <jump line="160" column="2" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" />
+      <jump line="168" column="4" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" />
+      <jump line="202" column="2" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" />
+      <jump line="213" column="4" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" />
+      <jump line="222" column="6" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" />
+      <jump line="20" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" />
+      <jump line="33" column="2" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_device_hive_table.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV0hFTiBUT19EQVRFKGNmLmV2ZW50ZGF0ZSkgPj0gREFURV9TVUIoQ1VSUkVOVF9EQVRFLCA3KSBBTkQgVE9fREFURShjZi5ldmVudGRhdGUpIDwgREFURV9TVUIoQ1VSUkVOVF9EQVRFLCAyKSBUSEVOICdzZXZlbl9kYXknCiAgICAgICAgICAgIFdIRU4gVE9fREFURShjZi5ldmVudGRhdGUpID49IERBVEVfU1VCKENVUlJFTlRfREFURSwgMTQpIEFORCBUT19EQVRFKGNmLmV2ZW50ZGF0ZSkgPCBEQVRFX1NVQihDVVJSRU5UX0RBVEUsIDcpIFRIRU4gJ2ZvdXJ0ZWVuX2RheScKICAgICAgICAgICAgV0hFTiBUT19EQVRFKGNmLmV2ZW50ZGF0ZSkgPj0gREFURV9TVUIoQ1VSUkVOVF9EQVRFLCAyOCkgQU5EIFRPX0RBVEUoY2YuZXZlbnRkYXRlKSA8IERBVEVfU1VCKENVUlJFTlRfREFURSwgMTQpIFRIRU4gJ3R3ZW50eWVpZ2h0X2RheScK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">T1ZFUldSSVRFIA==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text encoding="base64">T1ZFUldSSVRFIA==</text>
       </register>
       <register name="/" type="4">
-        <text>-2</text>
+        <text>FROM</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgV0hFTiBUT19EQVRFKGNmLmV2ZW50ZGF0ZSkgPj0gVE9fREFURSgne3sgbWFjcm9zLmRzX2FnZyh0b21vcnJvd19kcywgLTcpIH19JykgQU5EIFRPX0RBVEUoY2YuZXZlbnRkYXRlKSA8IFRPX0RBVEUoJ3t7IG1hY3Jvcy5kc19hZGQodG9tb3Jyb3dfZHMsIC0yKSB9fScpIFRIRU4gJ3R3b19kYXknCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV0hFTiBUT19EQVRFKGNmLmV2ZW50ZGF0ZSkgPj0gREFURV9TVUIoQ1VSUkVOVF9EQVRFLCA3KSBBTkQgVE9fREFURShjZi5ldmVudGRhdGUpIDwgREFURV9TVUIoQ1VSUkVOVF9EQVRFLCAyKSBUSEVOICdzZXZlbl9kYXknCiAgICAgICAgICAgIFdIRU4gVE9fREFURShjZi5ldmVudGRhdGUpID49IERBVEVfU1VCKENVUlJFTlRfREFURSwgMTQpIEFORCBUT19EQVRFKGNmLmV2ZW50ZGF0ZSkgPCBEQVRFX1NVQihDVVJSRU5UX0RBVEUsIDcpIFRIRU4gJ2ZvdXJ0ZWVuX2RheScKICAgICAgICAgICAgV0hFTiBUT19EQVRFKGNmLmV2ZW50ZGF0ZSkgPj0gREFURV9TVUIoQ1VSUkVOVF9EQVRFLCAyOCkgQU5EIFRPX0RBVEUoY2YuZXZlbnRkYXRlKSA8IERBVEVfU1VCKENVUlJFTlRfREFURSwgMTQpIFRIRU4gJ3R3ZW50eWVpZ2h0X2RheScK</text>
+        <text encoding="base64">VVNFIHNjcmliZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV0hFTiBUT19EQVRFKGNmLmV2ZW50ZGF0ZSkgPj0gVE9fREFURSgne3sgbWFjcm9zLmRzX2FnZyh0b21vcnJvd19kcywgLTcpIH19JykgQU5EIFRPX0RBVEUoY2YuZXZlbnRkYXRlKSA8IFRPX0RBVEUoJ3t7IG1hY3Jvcy5kc19hZGQodG9tb3Jyb3dfZHMsIC0yKSB9fScpIFRIRU4gJ3R3b19kYXknCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgV0hFTiBUT19EQVRFKGNmLmV2ZW50ZGF0ZSkgPj0gREFURV9TVUIoQ1VSUkVOVF9EQVRFLCA3KSBBTkQgVE9fREFURShjZi5ldmVudGRhdGUpIDwgREFURV9TVUIoQ1VSUkVOVF9EQVRFLCAyKSBUSEVOICdzZXZlbl9kYXknCiAgICAgICAgICAgIFdIRU4gVE9fREFURShjZi5ldmVudGRhdGUpID49IERBVEVfU1VCKENVUlJFTlRfREFURSwgMTQpIEFORCBUT19EQVRFKGNmLmV2ZW50ZGF0ZSkgPCBEQVRFX1NVQihDVVJSRU5UX0RBVEUsIDcpIFRIRU4gJ2ZvdXJ0ZWVuX2RheScKICAgICAgICAgICAgV0hFTiBUT19EQVRFKGNmLmV2ZW50ZGF0ZSkgPj0gREFURV9TVUIoQ1VSUkVOVF9EQVRFLCAyOCkgQU5EIFRPX0RBVEUoY2YuZXZlbnRkYXRlKSA8IERBVEVfU1VCKENVUlJFTlRfREFURSwgMTQpIFRIRU4gJ3R3ZW50eWVpZ2h0X2RheScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0MS5ldmVudGRhdGUgQkVUV0VFTiAnJHtoaXZlY29uZjpzdGFydF9kYXRlfScgQU5EICcke2hpdmVjb25mOmVuZF9kYXRlfScKICAgICAgICBBTkQgdDIuZXZlbnRkYXRlIEJFVFdFRU4gJyR7aGl2ZWNvbmY6c3RhcnRfZGF0ZX0nIEFORCAnJHtoaXZlY29uZjplbmRfZGF0ZX0nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgV0hFTiBUT19EQVRFKGNmLmV2ZW50ZGF0ZSkgPj0gVE9fREFURSgne3sgbWFjcm9zLmRzX2FnZyh0b21vcnJvd19kcywgLTcpIH19JykgQU5EIFRPX0RBVEUoY2YuZXZlbnRkYXRlKSA8IFRPX0RBVEUoJ3t7IG1hY3Jvcy5kc19hZGQodG9tb3Jyb3dfZHMsIC0yKSB9fScpIFRIRU4gJ3R3b19kYXknCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGwuZXZlbnRkYXRlIEJFVFdFRU4gJyR7aGl2ZWNvbmY6c3RhcnRfZGF0ZX0nIEFORCAnJHtoaXZlY29uZjplbmRfZGF0ZX0nCg==</text>
+        <text encoding="base64">ICAgICAgICB0MS5ldmVudGRhdGUgQkVUV0VFTiAnJHtoaXZlY29uZjpzdGFydF9kYXRlfScgQU5EICcke2hpdmVjb25mOmVuZF9kYXRlfScKICAgICAgICBBTkQgdDIuZXZlbnRkYXRlIEJFVFdFRU4gJyR7aGl2ZWNvbmY6c3RhcnRfZGF0ZX0nIEFORCAnJHtoaXZlY29uZjplbmRfZGF0ZX0nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdDEuZXZlbnRkYXRlIEJFVFdFRU4gJyR7aGl2ZWNvbmY6c3RhcnRfZGF0ZX0nIEFORCAnJHtoaXZlY29uZjplbmRfZGF0ZX0nCiAgICAgIEFORCB0Mi5ldmVudGRhdGUgQkVUV0VFTiAnJHtoaXZlY29uZjpzdGFydF9kYXRlfScgQU5EICcke2hpdmVjb25mOmVuZF9kYXRlfScK</text>
+        <text encoding="base64">ICAgICAgdGwuZXZlbnRkYXRlIEJFVFdFRU4gJyR7aGl2ZWNvbmY6c3RhcnRfZGF0ZX0nIEFORCAnJHtoaXZlY29uZjplbmRfZGF0ZX0nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgQU5EIFRPX0RBVEUodDIuZXZlbnRfZGF0ZSkgPSBUT19EQVRFKCd7eyB5ZXN0ZXJkYXlfZHMgfX0nKQo=</text>
+        <text encoding="base64">ICAgICAgdDEuZXZlbnRkYXRlIEJFVFdFRU4gJyR7aGl2ZWNvbmY6c3RhcnRfZGF0ZX0nIEFORCAnJHtoaXZlY29uZjplbmRfZGF0ZX0nCiAgICAgIEFORCB0Mi5ldmVudGRhdGUgQkVUV0VFTiAnJHtoaXZlY29uZjpzdGFydF9kYXRlfScgQU5EICcke2hpdmVjb25mOmVuZF9kYXRlfScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY2FydC5ldmVudGRhdGUgQkVUV0VFTiAnJHtoaXZlY29uZjpzdGFydF9kYXRlfScgQU5EICcke2hpdmVjb25mOmVuZF9kYXRlfScK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgQU5EIFRPX0RBVEUodDIuZXZlbnRfZGF0ZSkgPSBUT19EQVRFKCd7eyB5ZXN0ZXJkYXlfZHMgfX0nKQo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgY2FydC5ldmVudGRhdGUgQkVUV0VFTiAnJHtoaXZlY29uZjpzdGFydF9kYXRlfScgQU5EICcke2hpdmVjb25mOmVuZF9kYXRlfScK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHQxLmV2ZW50ZGF0ZSBCRVRXRUVOICcke2hpdmVjb25mOnN0YXJ0X2RhdGV9JyBBTkQgJyR7aGl2ZWNvbmY6ZW5kX2RhdGV9Jwo=</text>
+        <text encoding="base64">ICAgICAgQU5EIFRPX0RBVEUodDIuZXZlbnRfZGF0ZSkgPSBUT19EQVRFKCd7eyB5ZXN0ZXJkYXlfZHMgfX0nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>-2</last-search>
+      <last-search>FROM</last-search>
       <last-offset />
-      <last-pattern>-2</last-pattern>
+      <last-pattern>FROM</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -662,7 +672,6 @@
     </search>
     <history>
       <history-search>
-        <entry>prod</entry>
         <entry>joblib</entry>
         <entry>SQLContext</entry>
         <entry>DenseVector</entry>
@@ -682,6 +691,7 @@
         <entry>hive_c</entry>
         <entry>tomo</entry>
         <entry>-2</entry>
+        <entry>FROM</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Rlc3RzL2ZsYWtlOC9naQ==</entry>
