@@ -98,6 +98,12 @@
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="28" />
       </file>
+      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/models/fact_model.py" timestamp="1523467982635">
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="17" column="36" />
+        <mark key="^" line="17" column="36" />
+        <mark key="." line="17" column="36" />
+      </file>
       <file name="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" timestamp="1522791469005">
         <mark key="[" line="206" column="79" />
         <mark key="]" line="150" column="7" />
@@ -208,6 +214,11 @@
         <mark key="]" line="28" column="12" />
         <mark key="." line="28" column="12" />
         <mark key="^" line="28" column="12" />
+      </file>
+      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/fields/fact_fields.py" timestamp="1523467957206">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="8" column="5" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/collection/product_price_collection.py" timestamp="1513027040521">
         <mark key="[" line="0" column="0" />
@@ -432,11 +443,11 @@
       <file name="/None" timestamp="1517195770866">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" timestamp="1523467132270">
-        <mark key="[" line="60" column="58" />
-        <mark key="]" line="61" column="7" />
-        <mark key="^" line="61" column="7" />
-        <mark key="." line="61" column="7" />
+      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" timestamp="1523468223095">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="64" column="84" />
+        <mark key="." line="64" column="84" />
+        <mark key="^" line="64" column="84" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/select_features.sql" timestamp="1522848356057">
         <mark key="[" line="20" column="5" />
@@ -634,11 +645,11 @@
       <jump line="225" column="12" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIFRPRE8gVEhBTktTIFBBUktBSEpTQURGCg==</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>channel</text>
@@ -647,31 +658,31 @@
         <text encoding="base64">SEFET09QX0lTRVIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIFRPRE8gVEhBTktTIFBBUktBSEpTQURGCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGdldHMgdGhlIG1vc3QgcmVjZW50IGZhY3QgZnJvbSB0aGUgbGlzdCBhcyBjdXN0aW5mb2xpYiBvcmdhbml6ZXMgcmVzcG9uc2VzIGRlc2NlbmRpbmcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV9jYXNzYW5kcmFfZmFjdHNfdGFibGVzID4+Cg==</text>
+        <text encoding="base64">ICAgIEJPT0xFQU5fRklFTEQgPSBGaWVsZCgKICAgICAgICB0eXBlID0gVHlwZXMuQk9PTEVBTiwKICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgpjcmVhdGVfY2Fzc2FuZHJhX2ZhY3RzX3RhYmxlcyA9IEhpdmVPcGVyYXRvcigKICAgIHRhc2tfaWQ9J2NyZWF0ZV9jYXNzYW5kcmFfZmFjdHNfdGFibGVzJywKICAgIGhpdmVfY2xpX2Nvbm5faWQ9J2JlZWxpbmVfcHJvZCcsCiAgICBocWw9J2hpdmUvY3JlYXRlX2Nhc3NhbmRyYV9mYWN0c190YWJsZXMuc3FsJywKICAgIGRhZz1kYWcKKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIFRPRE8gVEhBTktTIFBBUktBSEpTQURGCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV9jYXNzYW5kcmFfZmFjdHNfdGFibGVzID4+CiAgICAjIHBhcmFsbGVsX2N1c3RvbWVyX2RhdGFfYmFzZV9saW5pbmdfdGFza3MgPj4K</text>
+        <text encoding="base64">ICAgIGNyZWF0ZV9jYXNzYW5kcmFfZmFjdHNfdGFibGVzID4+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VVNFIHNjcmliZTsK</text>
+        <text encoding="base64">CgpjcmVhdGVfY2Fzc2FuZHJhX2ZhY3RzX3RhYmxlcyA9IEhpdmVPcGVyYXRvcigKICAgIHRhc2tfaWQ9J2NyZWF0ZV9jYXNzYW5kcmFfZmFjdHNfdGFibGVzJywKICAgIGhpdmVfY2xpX2Nvbm5faWQ9J2JlZWxpbmVfcHJvZCcsCiAgICBocWw9J2hpdmUvY3JlYXRlX2Nhc3NhbmRyYV9mYWN0c190YWJsZXMuc3FsJywKICAgIGRhZz1kYWcKKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNyZWF0ZV9jYXNzYW5kcmFfZmFjdHNfdGFibGVzID4+CiAgICAjIHBhcmFsbGVsX2N1c3RvbWVyX2RhdGFfYmFzZV9saW5pbmdfdGFza3MgPj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRhZz1kYWcKICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">VVNFIHNjcmliZTsK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV0hFTiBUT19EQVRFKGNmLmV2ZW50ZGF0ZSkgPj0gREFURV9TVUIoQ1VSUkVOVF9EQVRFLCA3KSBBTkQgVE9fREFURShjZi5ldmVudGRhdGUpIDwgREFURV9TVUIoQ1VSUkVOVF9EQVRFLCAyKSBUSEVOICdzZXZlbl9kYXknCiAgICAgICAgICAgIFdIRU4gVE9fREFURShjZi5ldmVudGRhdGUpID49IERBVEVfU1VCKENVUlJFTlRfREFURSwgMTQpIEFORCBUT19EQVRFKGNmLmV2ZW50ZGF0ZSkgPCBEQVRFX1NVQihDVVJSRU5UX0RBVEUsIDcpIFRIRU4gJ2ZvdXJ0ZWVuX2RheScKICAgICAgICAgICAgV0hFTiBUT19EQVRFKGNmLmV2ZW50ZGF0ZSkgPj0gREFURV9TVUIoQ1VSUkVOVF9EQVRFLCAyOCkgQU5EIFRPX0RBVEUoY2YuZXZlbnRkYXRlKSA8IERBVEVfU1VCKENVUlJFTlRfREFURSwgMTQpIFRIRU4gJ3R3ZW50eWVpZ2h0X2RheScK</text>
+        <text encoding="base64">ICAgIGRhZz1kYWcKICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
