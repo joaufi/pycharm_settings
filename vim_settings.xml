@@ -103,11 +103,11 @@
         <mark key="^" line="36" column="36" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/device_guid/keyword_search_by_device_guid.sql" timestamp="1523565315218">
-        <mark key="[" line="44" column="10" />
-        <mark key="]" line="45" column="17" />
-        <mark key="^" line="45" column="17" />
-        <mark key="." line="45" column="17" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/device_guid/keyword_search_by_device_guid.sql" timestamp="1523568265425">
+        <mark key="[" line="29" column="63" />
+        <mark key="]" line="29" column="94" />
+        <mark key="^" line="29" column="94" />
+        <mark key="." line="29" column="94" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/app.py" timestamp="1519184163926">
         <mark key="[" line="22" column="31" />
@@ -196,11 +196,12 @@
         <mark key="^" line="21" column="98" />
         <mark key="." line="21" column="98" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/device_guid/priced_skus_by_device_guid.sql" timestamp="1523565299476">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="119" />
-        <mark key="." line="42" column="19" />
-        <mark key="^" line="42" column="19" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/device_guid/priced_skus_by_device_guid.sql" timestamp="1523568340940">
+        <mark key="'" line="33" column="90" />
+        <mark key="[" line="33" column="88" />
+        <mark key="]" line="33" column="92" />
+        <mark key="." line="33" column="92" />
+        <mark key="^" line="33" column="92" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/common/redis_dao.py" timestamp="1521659128385">
         <mark key="[" line="119" column="0" />
@@ -484,11 +485,11 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/customer_guid/favorited_sku_by_customer_guid.sql" timestamp="1523565402277">
-        <mark key="[" line="45" column="4" />
-        <mark key="]" line="45" column="7" />
-        <mark key="^" line="45" column="7" />
-        <mark key="." line="45" column="7" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/customer_guid/favorited_sku_by_customer_guid.sql" timestamp="1523568532081">
+        <mark key="[" line="32" column="47" />
+        <mark key="]" line="32" column="49" />
+        <mark key="^" line="32" column="49" />
+        <mark key="." line="32" column="49" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/scoring_model.py" timestamp="1515786452970">
         <mark key="[" line="28" column="6" />
@@ -597,11 +598,11 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/device_guid/viewed_sku_by_device_guid.sql" timestamp="1523567068786">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="121" />
-        <mark key="^" line="30" column="82" />
-        <mark key="." line="30" column="82" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/device_guid/viewed_sku_by_device_guid.sql" timestamp="1523568485317">
+        <mark key="[" line="30" column="90" />
+        <mark key="]" line="30" column="94" />
+        <mark key="^" line="30" column="94" />
+        <mark key="." line="30" column="94" />
       </file>
       <file name="$USER_HOME$/repositories/spark-batch-scoring/inmarket/app.py" timestamp="1521769193276">
         <mark key="[" line="11" column="8" />
@@ -628,8 +629,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" />
-      <jump line="19" column="82" filename="$USER_HOME$/repositories/airflow-dags/bin/inmarket_batch_run.sh" />
       <jump line="76" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" />
       <jump line="51" column="4" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" />
       <jump line="181" column="24" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" />
@@ -728,16 +727,18 @@
       <jump line="18" column="0" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
       <jump line="41" column="25" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
       <jump line="46" column="76" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" />
+      <jump line="42" column="20" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/device_guid/priced_skus_by_device_guid.sql" />
+      <jump line="33" column="90" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/device_guid/priced_skus_by_device_guid.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text encoding="base64">eWVzdGVyZGF5X2RzIA==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">eWVzdGVyZGF5X2RzIA==</text>
       </register>
       <register name="/" type="4">
-        <text>CUS</text>
+        <text>dm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFJPV19OVU1CRVIoKSBPVkVSIChQQVJUSVRJT04gQlkgdDEuZGV2aWNlZ3VpZCwgdDEuc3RvcmVpZCwgdDEuZXZlbnR0aW1lc3RhbXAgT1JERVIgQlkgZG0ubGFzdF90aW1lc3RhbXAgREVTQykgYXMgaWQK</text>
@@ -774,9 +775,9 @@
       </register>
     </registers>
     <search>
-      <last-search>CUS</last-search>
+      <last-search>dm</last-search>
       <last-offset />
-      <last-pattern>CUS</last-pattern>
+      <last-pattern>dm</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -784,7 +785,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tmp</entry>
         <entry>favorite</entry>
         <entry>favorited</entry>
         <entry>vertica</entry>
@@ -804,6 +804,7 @@
         <entry>os</entry>
         <entry>HIVE</entry>
         <entry>CUS</entry>
+        <entry>dm</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Rlc3RzL2ZsYWtlOC9naQ==</entry>
