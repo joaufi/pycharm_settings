@@ -279,14 +279,14 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" timestamp="1523561042260">
+      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" timestamp="1523563448569">
         <mark key="u" line="42" column="23" />
-        <mark key="'" line="42" column="19" />
+        <mark key="'" line="62" column="9" />
         <mark key="i" line="59" column="16" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="44" column="0" />
+        <mark key="[" line="100" column="8" />
+        <mark key="]" line="100" column="59" />
+        <mark key="." line="100" column="59" />
+        <mark key="^" line="100" column="59" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/purchased_skus_by_customer_guid.sql" timestamp="1523548903478">
         <mark key="[" line="0" column="0" />
@@ -366,6 +366,12 @@
         <mark key="]" line="52" column="7" />
         <mark key="." line="52" column="7" />
         <mark key="^" line="52" column="7" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_inmarket/create_inmarket_viewed_sku_features.sql" timestamp="1523561703284">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/helper/transformation_functions_helper.py" timestamp="1513027373854">
         <mark key="[" line="9" column="31" />
@@ -472,9 +478,6 @@
         <mark key="^" line="125" column="30" />
         <mark key="." line="125" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/puppet/modules/airflow/files/requirements.lock" timestamp="1523540824809">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/test.py" timestamp="1513027238622">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="20" />
@@ -535,9 +538,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="8" filename="$USER_HOME$/repositories/jenkins-jobs/lib/bigdata/batch_uploaders.yaml" />
-      <jump line="55" column="8" filename="$USER_HOME$/repositories/jenkins-jobs/lib/bigdata/batch_uploaders.yaml" />
-      <jump line="449" column="25" filename="$USER_HOME$/repositories/jenkins-jobs/lib/bigdata/batch_uploaders.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/jenkins-jobs/lib/bigdata/batch_uploaders.yaml" />
       <jump line="185" column="0" filename="$USER_HOME$/repositories/airflow-dags/comp_intel_refresh_wf_cmp_product_tables.py" />
       <jump line="70" column="46" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
@@ -635,19 +635,22 @@
       <jump line="12" column="35" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
       <jump line="14" column="39" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
       <jump line="42" column="19" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
+      <jump line="55" column="29" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
+      <jump line="62" column="9" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>DROP_INMARKET_FILE_PATH</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">X3RhYmxlcyA=</text>
+        <text>DROP_INMARKET_FILE_PATH</text>
       </register>
       <register name="/" type="4">
-        <text>HIVE</text>
+        <text>CUS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y3JlYXRlX2ZhY3RzX2J5X2N1c3RvbWVyX3Rhc2tzID0gW10KZm9yIHF1ZXJ5X2ZpbGVfbmFtZSBpbiBvcy5saXN0ZGlyKEZBQ1RTX0JZX0NVU1RPTUVSX1BBVEgpOgogICAgICAgIGNyZWF0ZV9mYWN0c19ieV9jdXN0b21lcl90YXNrcy5hcHBlbmQoCiAgICAgICAgICAgIEhpdmVPcGVyYXRvcigKICAgICAgICAgICAgICAgIHRhc2tfaWQ9cXVlcnlfZmlsZSwKICAgICAgICAgICAgICAgIGhpdmVfY2xpX2Nvbm5faWQ9J2JlZWxpbmVfcHJvZCcsCiAgICAgICAgICAgICAgICBocWw9b3MucGF0aC5qb2luKEZBQ1RTX0JZX0NVU1RPTUVSX1BBVEgsIHF1ZXJ5X2ZpbGVfbmFtZSksCiAgICAgICAgICAgICAgICBkYWc9ZGFnCiAgICAgICAgICAgICkKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIHF1ZXJ5X3BhdGggPSBvcy5wYXRoLmpvaW4oRkFDVFNfQllfREVWSUNFX1BBVEgsIHF1ZXJ5X2ZpbGVfbmFtZSkKICAgIHdpdGggb3BlbihxdWVyeV9wYXRoLCAncicpIGFzIHF1ZXJ5Ogo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -681,17 +684,16 @@
       </register>
     </registers>
     <search>
-      <last-search>HIVE</last-search>
+      <last-search>CUS</last-search>
       <last-offset />
-      <last-pattern>HIVE</last-pattern>
+      <last-pattern>CUS</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>drop</entry>
         <entry>tmp</entry>
         <entry>favorite</entry>
         <entry>favorited</entry>
@@ -711,6 +713,7 @@
         <entry>;</entry>
         <entry>os</entry>
         <entry>HIVE</entry>
+        <entry>CUS</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Rlc3RzL2ZsYWtlOC9naQ==</entry>
