@@ -279,13 +279,14 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" timestamp="1523559487812">
+      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" timestamp="1523561042260">
         <mark key="u" line="42" column="23" />
         <mark key="'" line="42" column="19" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="56" column="7" />
+        <mark key="i" line="59" column="16" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="44" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/purchased_skus_by_customer_guid.sql" timestamp="1523548903478">
         <mark key="[" line="0" column="0" />
@@ -491,7 +492,12 @@
         <mark key="]" line="40" column="9" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/controller.py" timestamp="1523395880250" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/customer_guid/purchased_skus_by_customer_guid.sql" timestamp="1523561051529">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="18" />
+        <mark key="^" line="20" column="18" />
+        <mark key="." line="20" column="18" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/inmarket_batch_run.sh" timestamp="1522334991927">
         <mark key="[" line="16" column="105" />
         <mark key="]" line="16" column="39" />
@@ -527,7 +533,6 @@
         <mark key="^" line="16" column="46" />
         <mark key="." line="16" column="46" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/models.py" timestamp="1523540353181" />
     </filemarks>
     <jumps>
       <jump line="52" column="8" filename="$USER_HOME$/repositories/jenkins-jobs/lib/bigdata/batch_uploaders.yaml" />
@@ -633,10 +638,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y3JlYXRlX2ZhY3RzX2J5X2N1c3RvbWVyX3Rhc2tzIA==</text>
+        <text encoding="base64">X3RhYmxlcyA=</text>
       </register>
       <register name="/" type="4">
         <text>HIVE</text>
@@ -645,31 +650,31 @@
         <text encoding="base64">Y3JlYXRlX2ZhY3RzX2J5X2N1c3RvbWVyX3Rhc2tzID0gW10KZm9yIHF1ZXJ5X2ZpbGVfbmFtZSBpbiBvcy5saXN0ZGlyKEZBQ1RTX0JZX0NVU1RPTUVSX1BBVEgpOgogICAgICAgIGNyZWF0ZV9mYWN0c19ieV9jdXN0b21lcl90YXNrcy5hcHBlbmQoCiAgICAgICAgICAgIEhpdmVPcGVyYXRvcigKICAgICAgICAgICAgICAgIHRhc2tfaWQ9cXVlcnlfZmlsZSwKICAgICAgICAgICAgICAgIGhpdmVfY2xpX2Nvbm5faWQ9J2JlZWxpbmVfcHJvZCcsCiAgICAgICAgICAgICAgICBocWw9b3MucGF0aC5qb2luKEZBQ1RTX0JZX0NVU1RPTUVSX1BBVEgsIHF1ZXJ5X2ZpbGVfbmFtZSksCiAgICAgICAgICAgICAgICBkYWc9ZGFnCiAgICAgICAgICAgICkKICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">YnVpbGRfY2Fzc2FuZHJhX2ZhY3RzX2J5X2RldmljZV9oaXZlX3RhYmxlID0gSGl2ZU9wZXJhdG9yKAogICAgdGFza19pZD0nYnVpbGRfY2Fzc2FuZHJhX2ZhY3RzX2J5X2RldmljZV9oaXZlX3RhYmxlJywKICAgIGhpdmVfY2xpX2Nvbm5faWQ9J2JlZWxpbmVfcHJvZCcsCiAgICBocWw9J2hpdmUvcmVjZW50X2ZpbHRlcnNfYnlfZGV2aWNlX2d1aWQuc3FsJywKICAgIGRhZz1kYWcKKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV9mYWN0c19ieV9jdXN0b21lcl90YXNrcy5hcHBlbmQoCiAgICAgICAgSGl2ZU9wZXJhdG9yKAogICAgICAgICAgICB0YXNrX2lkPXF1ZXJ5X2ZpbGUsCiAgICAgICAgICAgIGhpdmVfY2xpX2Nvbm5faWQ9J2JlZWxpbmVfcHJvZCcsCiAgICAgICAgICAgIGhxbD1vcy5wYXRoLmpvaW4oRkFDVFNfQllfQ1VTVE9NRVJfUEFUSCwgcXVlcnlfZmlsZV9uYW1lKSwKICAgICAgICAgICAgZGFnPWRhZwogICAgICAgICkKICAgICkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbihxdWVyeV9maWxlLCAncicpIGFzIGhpdmVfcXVlcnk6Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">cGFyYWxsZWxfY3VzdG9tZXJfZGF0YV9iYXNlX2xpbmluZ190YXNrcyA9IFsKXQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRyb3BfaW5fbWFya2V0X2ZlYXR1cmVfdGFibGVzLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNyZWF0ZV9mYWN0c19ieV9jdXN0b21lcl90YXNrcywK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGJ1aWxkX2Nhc3NhbmRyYV9mYWN0c19ieV9kZXZpY2VfaGl2ZV90YWJsZSwK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0gTGFzdCBvcmRlciBkYXRlIHBlciBjbGFzc2lkIGZvciBhIGN1c3RvbWVyCkNSRUFURSBUQUJMRSBzY3JpYmUudGJsaW5tYXJrZXRsYXN0b3JkZXJkYXRlIEFTClNFTEVDVCBESVNUSU5DVCBjdXN0b21lcmlkLCBzdG9yZWlkLCBjbGFzc2lkLCBUT19EQVRFKGxhc3RvcmRlcmRhdGVzdHJpbmcpIEFTIGxhc3RvcmRlcmRhdGUKRlJPTSAoCiAgICBTRUxFQ1QKICAgICAgICBhLm9yY3VpZCBBUyBjdXN0b21lcmlkLAogICAgICAgIGEub3Jzb2lkIEFTIHN0b3JlaWQsCiAgICAgICAgYy5jbGlkIEFTIGNsYXNzaWQsCiAgICAgICAgTUFYKGEub3Jjb21wbGV0ZWRhdGUpIEFTIGxhc3RvcmRlcmRhdGVzdHJpbmcKICAgIEZST00gdGJsb3JkZXIgYQogICAgSU5ORVIgSk9JTiB0YmxvcmRlcnByb2R1Y3QgYiBPTiBhLm9yaWQgPSBiLm9wb3JpZCBBTkQgYS5ldmVudF9kYXRlID0gYi5ldmVudF9kYXRlCiAgICBJTk5FUiBKT0lOIHRibGpvaW5wcm9kdWN0Y2xhc3MgYyBPTiBiLm9wcHJza3UgPSBjLnByc2t1IEFORCBiLmV2ZW50X2RhdGUgPSBjLmV2ZW50X2RhdGUKICAgIFdIRVJFIFRPX0RBVEUoYS5ldmVudF9kYXRlKSA+PSBUT19EQVRFKCd7eyB5ZXN0ZXJkYXlfZHMgfX0nKQogICAgQU5EIFRPX0RBVEUoYy5ldmVudF9kYXRlKSA+PSBUT19EQVRFKCd7eyB5ZXN0ZXJkYXlfZHMgfX0nKQogICAgQU5EIFRPX0RBVEUoYS5vcmNvbXBsZXRlZGF0ZSkgPj0gVE9fREFURSgne3sgbWFjcm9zLmRzX2FkZCh0b21vcnJvd19kcywgLTI4KSB9fScpCiAgICBHUk9VUCBCWSBhLm9yY3VpZCwgYS5vcnNvaWQsIGMuY2xpZAopIEFTIHRibDsK</text>
+        <text encoding="base64">ICAgIGJ1aWxkX2Nhc3NhbmRyYV9mYWN0c19ieV9jdXN0b21lcl9oaXZlX3RhYmxlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KSBBUyB0Ymw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LS0gTGFzdCBvcmRlciBkYXRlIHBlciBjbGFzc2lkIGZvciBhIGN1c3RvbWVyCkNSRUFURSBUQUJMRSBzY3JpYmUudGJsaW5tYXJrZXRsYXN0b3JkZXJkYXRlIEFTClNFTEVDVCBESVNUSU5DVCBjdXN0b21lcmlkLCBzdG9yZWlkLCBjbGFzc2lkLCBUT19EQVRFKGxhc3RvcmRlcmRhdGVzdHJpbmcpIEFTIGxhc3RvcmRlcmRhdGUKRlJPTSAoCiAgICBTRUxFQ1QKICAgICAgICBhLm9yY3VpZCBBUyBjdXN0b21lcmlkLAogICAgICAgIGEub3Jzb2lkIEFTIHN0b3JlaWQsCiAgICAgICAgYy5jbGlkIEFTIGNsYXNzaWQsCiAgICAgICAgTUFYKGEub3Jjb21wbGV0ZWRhdGUpIEFTIGxhc3RvcmRlcmRhdGVzdHJpbmcKICAgIEZST00gdGJsb3JkZXIgYQogICAgSU5ORVIgSk9JTiB0YmxvcmRlcnByb2R1Y3QgYiBPTiBhLm9yaWQgPSBiLm9wb3JpZCBBTkQgYS5ldmVudF9kYXRlID0gYi5ldmVudF9kYXRlCiAgICBJTk5FUiBKT0lOIHRibGpvaW5wcm9kdWN0Y2xhc3MgYyBPTiBiLm9wcHJza3UgPSBjLnByc2t1IEFORCBiLmV2ZW50X2RhdGUgPSBjLmV2ZW50X2RhdGUKICAgIFdIRVJFIFRPX0RBVEUoYS5ldmVudF9kYXRlKSA+PSBUT19EQVRFKCd7eyB5ZXN0ZXJkYXlfZHMgfX0nKQogICAgQU5EIFRPX0RBVEUoYy5ldmVudF9kYXRlKSA+PSBUT19EQVRFKCd7eyB5ZXN0ZXJkYXlfZHMgfX0nKQogICAgQU5EIFRPX0RBVEUoYS5vcmNvbXBsZXRlZGF0ZSkgPj0gVE9fREFURSgne3sgbWFjcm9zLmRzX2FkZCh0b21vcnJvd19kcywgLTI4KSB9fScpCiAgICBHUk9VUCBCWSBhLm9yY3VpZCwgYS5vcnNvaWQsIGMuY2xpZAopIEFTIHRibDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -721,12 +726,12 @@
         <entry>vspit</entry>
         <entry>vsplit</entry>
         <entry>split</entry>
-        <entry>W</entry>
         <entry>qa</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>q</entry>
         <entry>e</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
