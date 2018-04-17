@@ -60,12 +60,6 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" timestamp="1523894164790">
-        <mark key="[" line="99" column="18" />
-        <mark key="]" line="99" column="26" />
-        <mark key="^" line="99" column="26" />
-        <mark key="." line="99" column="26" />
-      </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/local.py" timestamp="1517408594592">
         <mark key="[" line="42" column="19" />
         <mark key="]" line="42" column="56" />
@@ -364,13 +358,13 @@
         <mark key="[" line="289" column="0" />
         <mark key="]" line="293" column="5" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" timestamp="1523894822847">
-        <mark key="u" line="43" column="23" />
-        <mark key="'" line="19" column="129" />
-        <mark key="[" line="108" column="17" />
-        <mark key="]" line="108" column="24" />
-        <mark key="." line="108" column="24" />
-        <mark key="^" line="108" column="24" />
+      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" timestamp="1523989499735">
+        <mark key="u" line="44" column="23" />
+        <mark key="'" line="20" column="129" />
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="1" column="6" />
+        <mark key="." line="1" column="6" />
+        <mark key="^" line="1" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/purchased_skus_by_customer_guid.sql" timestamp="1523548903478">
         <mark key="[" line="0" column="0" />
@@ -524,7 +518,6 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/inmarket_scores_upload_dag.py" timestamp="1523628499736">
-        <mark key="'" line="198" column="29" />
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="9" />
         <mark key="." line="2" column="9" />
@@ -798,10 +791,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>return</text>
