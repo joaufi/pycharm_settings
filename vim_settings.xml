@@ -197,7 +197,6 @@
         <mark key="^" line="2" column="43" />
         <mark key="." line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" timestamp="1523979698422" />
       <file name="$USER_HOME$/repositories/aggregation-library/tests/test_models.py" timestamp="1517347953726">
         <mark key="[" line="16" column="17" />
         <mark key="]" line="16" column="42" />
@@ -271,6 +270,12 @@
         <mark key="]" line="2" column="82" />
         <mark key="^" line="1" column="30" />
         <mark key="." line="2" column="82" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/keyword_search_by_device_guid.sql" timestamp="1524086564408">
+        <mark key="[" line="31" column="36" />
+        <mark key="]" line="31" column="38" />
+        <mark key="^" line="31" column="38" />
+        <mark key="." line="31" column="38" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/build_cassandra_facts_by_customer_hive_table.hql" timestamp="1522872778614">
         <mark key="[" line="0" column="0" />
@@ -370,6 +375,11 @@
         <mark key="]" line="61" column="62" />
         <mark key="." line="61" column="62" />
         <mark key="^" line="61" column="62" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/priced_skus_by_device_guid.sql" timestamp="1524086663965">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="8" />
+        <mark key="." line="40" column="8" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/device_guid/added_cart_skus_by_device_guid.sql" timestamp="1523626829403">
         <mark key="[" line="45" column="2" />
@@ -593,7 +603,6 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/controller.py" timestamp="1523395880250" />
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/customer_guid/purchased_skus_by_customer_guid.sql" timestamp="1523569358567">
         <mark key="[" line="35" column="45" />
         <mark key="]" line="35" column="54" />
@@ -625,7 +634,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523476389106">
+      <file name="/Dummy.txt" timestamp="1524086546500">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/device_guid/viewed_sku_by_device_guid.sql" timestamp="1523570401960">
@@ -655,7 +664,6 @@
         <mark key="^" line="16" column="46" />
         <mark key="." line="16" column="46" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/models.py" timestamp="1523540353181" />
     </filemarks>
     <jumps>
       <jump line="106" column="31" filename="$USER_HOME$/repositories/aggregation-library/tests/test_business_models.py" />
