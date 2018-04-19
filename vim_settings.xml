@@ -584,11 +584,11 @@
       <file name="/None" timestamp="1517195770866">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" timestamp="1524161020317">
-        <mark key="[" line="57" column="34" />
-        <mark key="]" line="57" column="34" />
-        <mark key="^" line="66" column="56" />
-        <mark key="." line="57" column="34" />
+      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" timestamp="1524166470227">
+        <mark key="[" line="59" column="27" />
+        <mark key="]" line="60" column="15" />
+        <mark key="^" line="60" column="15" />
+        <mark key="." line="60" column="15" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/select_features.sql" timestamp="1522848356057">
         <mark key="[" line="20" column="5" />
@@ -828,11 +828,11 @@
       <jump line="226" column="4" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgnc2NvcmluZy5tb2RlbHMuYnVzaW5lc3MuYmFzZV9tb2RlbC5BZ2dyZWdhdGlvbi5hZ2dyZWdhdGUnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>'Unable to retrieve customer_guid for fact type {}'.format(fact_model.fact_type)</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>'Unable to retrieve customer_guid for fact type {}'.format(fact_model.fact_type)</text>
       </register>
       <register name="/" type="4">
         <text>def</text>
@@ -841,31 +841,31 @@
         <text encoding="base64">ICAgIEBwYXRjaCgnc2NvcmluZy5tb2RlbHMuYnVzaW5lc3MuYmFzZV9tb2RlbC5BZ2dyZWdhdGlvbi5hZ2dyZWdhdGUnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGRldmljZV9ndWlkOgogICAgICAgICAgICAgICAgc2VsZi5sb2dnZXIud2FybigKICAgICAgICAgICAgICAgICAgICAnVW5hYmxlIHRvIHJldHJpZXZlIGRldmljZV9ndWlkIGZvciBmYWN0IHR5cGUge30nLmZvcm1hdChmYWN0X21vZGVsLmZhY3RfdHlwZSksCiAgICAgICAgICAgICAgICAgICAgZXh0cmE9eydjdXN0b21lcl9ndWlkJzogY3VzdG9tZXJfZ3VpZH0KICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgcmVzcG9uc2UgPSBOb25lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGN1c3RvbWVyX2d1aWQ6Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
