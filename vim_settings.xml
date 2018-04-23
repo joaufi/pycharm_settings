@@ -58,6 +58,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" timestamp="1524514015141">
+        <mark key="[" line="98" column="42" />
+        <mark key="]" line="98" column="49" />
+        <mark key="." line="98" column="49" />
+        <mark key="^" line="98" column="49" />
+      </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/local.py" timestamp="1517408594592">
         <mark key="[" line="42" column="19" />
         <mark key="]" line="42" column="56" />
@@ -127,6 +133,11 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="7" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/viewed_sku_by_device_guid.sql" timestamp="1524513913476">
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="33" />
+        <mark key="." line="37" column="33" />
+      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/factory/bidsift_graph_strategy_factory.py" timestamp="1515018513078">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="1" column="7" />
@@ -164,10 +175,10 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_inmarket_features.sql" timestamp="1523631691581">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_inmarket_features.sql" timestamp="1524513957246">
+        <mark key="[" line="18" column="56" />
+        <mark key="]" line="18" column="56" />
+        <mark key="." line="18" column="56" />
         <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/device_guid/recent_filters_by_device_guid.sql" timestamp="1523627244914">
@@ -362,6 +373,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="42" column="11" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" timestamp="1524514009351">
+        <mark key="[" line="33" column="14" />
+        <mark key="]" line="33" column="30" />
+        <mark key="." line="33" column="30" />
+        <mark key="^" line="33" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/priced_skus_by_device_guid.sql" timestamp="1524086663965">
         <mark key="[" line="40" column="0" />
@@ -767,11 +784,11 @@
       <jump line="8" column="30" filename="$USER_HOME$/repositories/scoring-library/scoring/utilities.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>CURRENT_DATE</text>
       </register>
       <register name="-" type="4">
-        <text>'miss'</text>
+        <text>CURRENT_DATE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PDw8</text>
