@@ -39,12 +39,12 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_inmarket/create_inmarket_device_map.sql" timestamp="1524085479903">
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_inmarket/create_inmarket_device_map.sql" timestamp="1524591742051">
         <mark key="'" line="10" column="69" />
-        <mark key="[" line="10" column="89" />
-        <mark key="]" line="10" column="91" />
-        <mark key="." line="10" column="91" />
-        <mark key="^" line="10" column="91" />
+        <mark key="[" line="13" column="33" />
+        <mark key="]" line="13" column="120" />
+        <mark key="." line="13" column="118" />
+        <mark key="^" line="13" column="118" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/product_price_model.py" timestamp="1513026974438">
         <mark key="[" line="1" column="5" />
@@ -565,6 +565,12 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_inmarket/create_inmarket_last_order_date.sql" timestamp="1524591786749">
+        <mark key="[" line="16" column="87" />
+        <mark key="]" line="16" column="87" />
+        <mark key="." line="16" column="87" />
+        <mark key="^" line="16" column="87" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/utilities/date_and_time.py" timestamp="1517419627397">
         <mark key="[" line="5" column="27" />
         <mark key="]" line="5" column="27" />
@@ -803,16 +809,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cGFnZXZpZXcg</text>
+        <text encoding="base64">Pj0gVE9fREFURSgne3sgZHMgfX0nKQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGFnZXZpZXcg</text>
+        <text encoding="base64">Pj0gVE9fREFURSgne3sgZHMgfX0nKQ==</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLS0gTk9URToKICAgICAgLS0gZGVmYXVsdC50Ymxqb2lucHJvZHVjdGNsYXNzIGNvbHVtbiBldmVudF9kYXRlIGlzIHRoZSBkYXRlIHRoZSBkYXRhIHdhcyBjb3BpZWQgZnJvbSBTUUwKICAgICAgLS0gc2NyaWJlIHRhYmxlcyBsaWtlIHNjcmliZS50YmxzY3JpYmVwYWdldmlldyB0aGUgZXZlbnRkYXRlIGNvbHVtbiBpcyB0aGUgZGF0ZSBvZiB0aGUgZXZlbnQK</text>
+      <register name="0" type="4">
+        <text>BETWEEN TO_DATE('{{ macros.ds_add(tomorrow_ds, -2) }}') AND TO_DATE('{{ tomorrow_ds }}')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgQU5EIFRPX0RBVEUodDIuZXZlbnRfZGF0ZSkgPSBUT19EQVRFKCd7eyB5ZXN0ZXJkYXlfZHMgfX0nKQo=</text>
