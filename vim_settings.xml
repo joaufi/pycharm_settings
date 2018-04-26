@@ -39,12 +39,12 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_inmarket/create_inmarket_device_map.sql" timestamp="1524591742051">
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_inmarket/create_inmarket_device_map.sql" timestamp="1524756987724">
         <mark key="'" line="10" column="69" />
         <mark key="[" line="13" column="33" />
-        <mark key="]" line="13" column="120" />
-        <mark key="." line="13" column="118" />
-        <mark key="^" line="13" column="118" />
+        <mark key="]" line="13" column="60" />
+        <mark key="." line="13" column="60" />
+        <mark key="^" line="13" column="60" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/product_price_model.py" timestamp="1513026974438">
         <mark key="[" line="1" column="5" />
@@ -113,11 +113,11 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/viewed_sku_by_device_guid.sql" timestamp="1524579107463">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="39" column="97" />
-        <mark key="." line="40" column="87" />
-        <mark key="^" line="40" column="82" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/viewed_sku_by_device_guid.sql" timestamp="1524756928253">
+        <mark key="[" line="40" column="33" />
+        <mark key="]" line="40" column="35" />
+        <mark key="." line="40" column="35" />
+        <mark key="^" line="40" column="35" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/factory/bidsift_graph_strategy_factory.py" timestamp="1515018513078">
         <mark key="[" line="1" column="12" />
@@ -272,10 +272,10 @@
         <mark key="^" line="31" column="38" />
         <mark key="." line="31" column="38" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/favorited_sku_by_customer_guid.sql" timestamp="1524693557540">
-        <mark key="[" line="35" column="36" />
-        <mark key="]" line="35" column="69" />
-        <mark key="." line="35" column="69" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/favorited_sku_by_customer_guid.sql" timestamp="1524756949731">
+        <mark key="[" line="35" column="61" />
+        <mark key="]" line="35" column="61" />
+        <mark key="." line="35" column="61" />
         <mark key="^" line="35" column="69" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/mixins.py" timestamp="1513611263290">
@@ -296,7 +296,6 @@
         <mark key="." line="151" column="104" />
         <mark key="^" line="151" column="104" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_inmarket/create_inmarket_added_to_cart_skus.sql" timestamp="1524578441279" />
       <file name="$USER_HOME$/repositories/bidsift/bidsift/scorelib/model/bonsai_leaf_model.py" timestamp="1513109433957">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="18" />
@@ -509,11 +508,12 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_inmarket/create_inmarket_last_order_date.sql" timestamp="1524591786749">
-        <mark key="[" line="16" column="87" />
-        <mark key="]" line="16" column="87" />
-        <mark key="." line="16" column="87" />
-        <mark key="^" line="16" column="87" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_inmarket/create_inmarket_last_order_date.sql" timestamp="1524757096599">
+        <mark key="'" line="15" column="50" />
+        <mark key="[" line="15" column="62" />
+        <mark key="]" line="15" column="62" />
+        <mark key="." line="15" column="62" />
+        <mark key="^" line="14" column="59" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/utilities/date_and_time.py" timestamp="1517419627397">
         <mark key="[" line="5" column="27" />
@@ -643,8 +643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="22" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
-      <jump line="16" column="20" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
       <jump line="10" column="23" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
       <jump line="41" column="25" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
       <jump line="46" column="76" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" />
@@ -743,19 +741,21 @@
       <jump line="147" column="3" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
       <jump line="97" column="0" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
       <jump line="18" column="0" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
+      <jump line="16" column="61" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_inmarket/create_inmarket_last_order_date.sql" />
+      <jump line="15" column="50" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_inmarket/create_inmarket_last_order_date.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TO_DATE() }}') AND TO_DATE('{{ tomorrow_ds}}')</text>
+        <text>BETWEEN TO_DATE('{{ macros.ds_add(tomorrow_ds, -2) }}') AND TO_DATE('{{ tomorrow_ds }}')</text>
       </register>
       <register name="-" type="4">
-        <text>TO_DATE() }}') AND TO_DATE('{{ tomorrow_ds}}')</text>
+        <text>BETWEEN TO_DATE('{{ macros.ds_add(tomorrow_ds, -2) }}') AND TO_DATE('{{ tomorrow_ds }}')</text>
       </register>
       <register name="/" type="4">
-        <text>Hive</text>
+        <text>BET</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">Pj0gREFURV9TVUIoQ1VSUkVOVF9EQVRFLCAyKQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -785,13 +785,13 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Hive</last-search>
+      <last-search>BET</last-search>
       <last-offset />
-      <last-pattern>Hive</last-pattern>
+      <last-pattern>BET</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -799,9 +799,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Re</entry>
-        <entry>Ac</entry>
-        <entry>assert</entry>
         <entry encoding="base64">Mjog</entry>
         <entry>version_1</entry>
         <entry>ex</entry>
@@ -819,6 +816,9 @@
         <entry>}</entry>
         <entry>CREATE_I</entry>
         <entry>Hive</entry>
+        <entry>Be</entry>
+        <entry>BE</entry>
+        <entry>BET</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Rlc3RzL2ZsYWtlOC9naQ==</entry>
@@ -839,8 +839,8 @@
         <entry>split</entry>
         <entry>q</entry>
         <entry>vsplit</entry>
-        <entry>w</entry>
         <entry>qa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
