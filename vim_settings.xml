@@ -155,7 +155,7 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/strategy/bidsift_graph_bidding_strategy.py" timestamp="1524692472499">
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/strategy/bidsift_graph_bidding_strategy.py" timestamp="1524693507829">
         <mark key="[" line="53" column="29" />
         <mark key="]" line="54" column="43" />
         <mark key="^" line="54" column="43" />
@@ -272,11 +272,11 @@
         <mark key="^" line="31" column="38" />
         <mark key="." line="31" column="38" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/favorited_sku_by_customer_guid.sql" timestamp="1524579122474">
-        <mark key="[" line="34" column="44" />
-        <mark key="]" line="34" column="52" />
-        <mark key="." line="34" column="52" />
-        <mark key="^" line="34" column="52" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/favorited_sku_by_customer_guid.sql" timestamp="1524693557540">
+        <mark key="[" line="35" column="36" />
+        <mark key="]" line="35" column="69" />
+        <mark key="." line="35" column="69" />
+        <mark key="^" line="35" column="69" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/mixins.py" timestamp="1513611263290">
         <mark key="[" line="0" column="0" />
@@ -620,6 +620,9 @@
         <mark key="." line="154" column="30" />
         <mark key="^" line="154" column="30" />
       </file>
+      <file name="/Dummy.txt" timestamp="1524693437351">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/spark-batch-scoring/inmarket/app.py" timestamp="1521769193276">
         <mark key="[" line="11" column="8" />
         <mark key="]" line="11" column="22" />
@@ -742,11 +745,11 @@
       <jump line="18" column="0" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>TO_DATE() }}') AND TO_DATE('{{ tomorrow_ds}}')</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>TO_DATE() }}') AND TO_DATE('{{ tomorrow_ds}}')</text>
       </register>
       <register name="/" type="4">
         <text>Hive</text>
