@@ -375,12 +375,12 @@
         <mark key="^" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" timestamp="1525058344904">
+      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" timestamp="1525097250508">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="106" column="8" />
-        <mark key="]" line="106" column="10" />
-        <mark key="." line="106" column="10" />
-        <mark key="^" line="106" column="10" />
+        <mark key="[" line="44" column="22" />
+        <mark key="]" line="44" column="25" />
+        <mark key="." line="44" column="25" />
+        <mark key="^" line="44" column="25" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/priced_skus_by_device_guid.sql" timestamp="1524757678123">
         <mark key="[" line="40" column="0" />
@@ -765,10 +765,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>v</text>
+        <text>'0 0 * * *'</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>'0 0 * * *'</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
