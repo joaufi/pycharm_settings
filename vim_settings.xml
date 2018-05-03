@@ -368,6 +368,12 @@
         <mark key="^" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/prediction.py" timestamp="1525375038222">
+        <mark key="[" line="66" column="8" />
+        <mark key="]" line="66" column="8" />
+        <mark key="." line="66" column="8" />
+        <mark key="^" line="18" column="15" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" timestamp="1525283431162">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="44" column="22" />
@@ -752,10 +758,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'0 0 * * *'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>'0 0 * * *'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
@@ -764,34 +770,34 @@
         <text encoding="base64">Pj0gREFURV9TVUIoQ1VSUkVOVF9EQVRFLCAyKQ==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBmZWF0dXJlX2FycmF5ID0gbnVtcHkuYXJyYXkoW2ZlYXR1cmVzXSkK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">cGFyYW1zWydlbnYnXSA9IFZhcmlhYmxlLmdldCgnRU5WJykK</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ICAKICA=</text>
-      </register>
       <register name="3" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+        <text encoding="base64">ICAKICA=</text>
       </register>
       <register name="4" type="8">
-        <text encoding="base64">ICAKICA=</text>
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="5" type="8">
+        <text encoding="base64">ICAKICA=</text>
+      </register>
+      <register name="6" type="8">
         <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CkNSRUFURV9EUk9QX0lOVEVSTUVESUFURV9GQUNUUyA9IFwKICAgIG9zLnBhdGguam9pbihISVZFX1FVRVJZX0RJUl9QQVRILCAnY3JlYXRlX2Ryb3BfaW50ZXJtZWRpYXRlX2ZhY3RzLnNxbCcpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGRhbmdvX2hpdmVfb3AgPj4K</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZGFuZ29faGl2ZV9vcCA9IEhpdmVPcGVyYXRvcigKICAgIHRhc2tfaWQ9J2NyZWF0ZV9pbnRlcm1lZGlhdGVfZmFjdHNfdGFibGVzJywKICAgIGhpdmVfY2xpX2Nvbm5faWQ9SElWRV9DT05ORUNUSU9OX05BTUUsCiAgICBocWw9b3BlbihDUkVBVEVfRFJPUF9JTlRFUk1FRElBVEVfRkFDVFMsICdyJykucmVhZCgpLAogICAgZGFnPWRhZwopCgo=</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -843,10 +849,10 @@
         <entry>W</entry>
         <entry>split</entry>
         <entry>vsplit</entry>
-        <entry>qa</entry>
         <entry>q</entry>
         <entry>w</entry>
         <entry>qaq</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
