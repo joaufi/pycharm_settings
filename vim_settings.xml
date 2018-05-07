@@ -63,6 +63,9 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="30" />
       </file>
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" timestamp="1525704818856">
+        <mark key="'" line="130" column="18" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/input_model.py" timestamp="1515708463453">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="8" column="0" />
@@ -653,9 +656,9 @@
         <mark key="^" line="16" column="46" />
         <mark key="." line="16" column="46" />
       </file>
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/models.py" timestamp="1525704894368" />
     </filemarks>
     <jumps>
-      <jump line="33" column="90" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/device_guid/priced_skus_by_device_guid.sql" />
       <jump line="22" column="4" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/bin/submit_in_market_features_for_spark_scoring.sh" />
       <jump line="69" column="31" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
       <jump line="71" column="0" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
@@ -755,6 +758,7 @@
       <jump line="31" column="112" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/favorited_sku_by_customer_guid.sql" />
       <jump line="35" column="56" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/favorited_sku_by_customer_guid.sql" />
       <jump line="21" column="6" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/recent_filters_by_device_guid.sql" />
+      <jump line="130" column="18" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -764,7 +768,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text>APPNE</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Pj0gREFURV9TVUIoQ1VSUkVOVF9EQVRFLCAyKQ==</text>
@@ -801,9 +805,9 @@
       </register>
     </registers>
     <search>
-      <last-search>)</last-search>
+      <last-search>APPNE</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
+      <last-pattern>APPNE</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -811,7 +815,6 @@
     </search>
     <history>
       <history-search>
-        <entry>version_1</entry>
         <entry>ex</entry>
         <entry>obj</entry>
         <entry>AS</entry>
@@ -831,6 +834,7 @@
         <entry>BE</entry>
         <entry>BET</entry>
         <entry>)</entry>
+        <entry>APPNE</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzI3LzM2L2dp</entry>
