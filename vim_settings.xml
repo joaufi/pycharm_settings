@@ -63,8 +63,8 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" timestamp="1525704818856">
-        <mark key="'" line="130" column="18" />
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" timestamp="1525712211148">
+        <mark key="'" line="25" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/input_model.py" timestamp="1515708463453">
         <mark key="[" line="8" column="1" />
@@ -352,8 +352,8 @@
         <mark key="^" line="55" column="7" />
         <mark key="." line="55" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1525276381332">
-        <mark key="'" line="225" column="12" />
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1525712248156">
+        <mark key="'" line="445" column="12" />
         <mark key="[" line="1198" column="5" />
         <mark key="]" line="45" column="4" />
         <mark key="." line="216" column="31" />
@@ -659,16 +659,6 @@
       <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/models.py" timestamp="1525704894368" />
     </filemarks>
     <jumps>
-      <jump line="22" column="4" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/bin/submit_in_market_features_for_spark_scoring.sh" />
-      <jump line="69" column="31" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
-      <jump line="71" column="0" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
-      <jump line="34" column="16" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
-      <jump line="271" column="4" filename="$USER_HOME$/repositories/airflow-dags/event_sort_final_dag.py" />
-      <jump line="272" column="23" filename="$USER_HOME$/repositories/airflow-dags/event_sort_final_dag.py" />
-      <jump line="273" column="9" filename="$USER_HOME$/repositories/airflow-dags/event_sort_final_dag.py" />
-      <jump line="281" column="8" filename="$USER_HOME$/repositories/airflow-dags/event_sort_final_dag.py" />
-      <jump line="120" column="17" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
-      <jump line="117" column="24" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
       <jump line="23" column="129" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
       <jump line="78" column="20" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" />
       <jump line="136" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
@@ -758,7 +748,17 @@
       <jump line="31" column="112" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/favorited_sku_by_customer_guid.sql" />
       <jump line="35" column="56" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/favorited_sku_by_customer_guid.sql" />
       <jump line="21" column="6" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/recent_filters_by_device_guid.sql" />
-      <jump line="130" column="18" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
+      <jump line="125" column="18" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
+      <jump line="130" column="17" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
+      <jump line="170" column="15" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
+      <jump line="20" column="13" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
+      <jump line="25" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
+      <jump line="356" column="26" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="406" column="15" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="421" column="53" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="431" column="33" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="441" column="23" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="445" column="12" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -768,7 +768,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>APPNE</text>
+        <text>def visitor</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Pj0gREFURV9TVUIoQ1VSUkVOVF9EQVRFLCAyKQ==</text>
@@ -805,9 +805,9 @@
       </register>
     </registers>
     <search>
-      <last-search>APPNE</last-search>
+      <last-search>def visitor</last-search>
       <last-offset />
-      <last-pattern>APPNE</last-pattern>
+      <last-pattern>def visitor</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -815,10 +815,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ex</entry>
-        <entry>obj</entry>
-        <entry>AS</entry>
-        <entry>as</entry>
         <entry>agg</entry>
         <entry>func</entry>
         <entry>sel</entry>
@@ -835,6 +831,10 @@
         <entry>BET</entry>
         <entry>)</entry>
         <entry>APPNE</entry>
+        <entry>VISITOr</entry>
+        <entry>VISITOR</entry>
+        <entry>visitor_type</entry>
+        <entry>def visitor</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzI3LzM2L2dp</entry>
