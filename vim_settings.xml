@@ -308,6 +308,13 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="35" column="4" />
       </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_facebook_model.py" timestamp="1525804280014">
+        <mark key="'" line="201" column="46" />
+        <mark key="[" line="225" column="40" />
+        <mark key="]" line="173" column="62" />
+        <mark key="." line="173" column="62" />
+        <mark key="^" line="173" column="62" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_data_hive.sql" timestamp="1522347924164">
         <mark key="[" line="19" column="44" />
         <mark key="]" line="19" column="44" />
@@ -320,11 +327,11 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_appnexus_model.py" timestamp="1525803445576">
-        <mark key="[" line="201" column="27" />
-        <mark key="]" line="201" column="26" />
-        <mark key="^" line="201" column="26" />
-        <mark key="." line="201" column="26" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_appnexus_model.py" timestamp="1525804179422">
+        <mark key="[" line="213" column="38" />
+        <mark key="]" line="213" column="42" />
+        <mark key="^" line="213" column="42" />
+        <mark key="." line="213" column="42" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_inmarket/create_inmarket_num_favorite_skus.sql" timestamp="1523629634282">
         <mark key="[" line="1" column="0" />
@@ -648,11 +655,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="35" filename="$USER_HOME$/repositories/scoring-library/scoring/models/data/fact_payload_model.py" />
-      <jump line="141" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="149" column="30" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="156" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="15" column="13" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="58" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/utilities.py" />
@@ -748,19 +750,24 @@
       <jump line="1465" column="22" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="1468" column="19" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="1470" column="33" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="95" column="31" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_facebook_model.py" />
+      <jump line="180" column="46" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_facebook_model.py" />
+      <jump line="187" column="42" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_facebook_model.py" />
+      <jump line="194" column="45" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_facebook_model.py" />
+      <jump line="201" column="46" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_facebook_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1274</text>
+        <text>Other</text>
       </register>
       <register name="-" type="4">
-        <text>1274</text>
+        <text>Other</text>
       </register>
       <register name="/" type="4">
-        <text>def os</text>
+        <text>0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGZWF0dXJlTW9kZWwoCiAgICAgICAgICAgICAgICAgICAgICAgICdpc193aW5kb3dzX29zJywgMC4xMjc0LAogICAgICAgICAgICAgICAgICAgICAgICBGYWN0UGF5bG9hZE1vZGVsKCdkZXZpY2Vfb3BlcmF0aW5nX3N5c3RlbScpLAogICAgICAgICAgICAgICAgICAgICAgICBwb3N0X2FnZ3JlZ2F0aW9uX2Z1bmN0aW9ucz1bCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpc19lcXVhbCgnV2luZG93cycpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udmVydF90b19ib29sZWFuX2JpdCwKICAgICAgICAgICAgICAgICAgICAgICAgXSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGZWF0dXJlTW9kZWwoCiAgICAgICAgICAgICAgICAgICAgICAgICdpc19vdGhlcl9vcycsIC0wLjY0NTAsCiAgICAgICAgICAgICAgICAgICAgICAgIEZhY3RQYXlsb2FkTW9kZWwoJ2RldmljZV9vcGVyYXRpbmdfc3lzdGVtJyksCiAgICAgICAgICAgICAgICAgICAgICAgIHBvc3RfYWdncmVnYXRpb25fZnVuY3Rpb25zPVsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlzX2VxdWFsKCdPdGhlcicpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udmVydF90b19ib29sZWFuX2JpdCwKICAgICAgICAgICAgICAgICAgICAgICAgXSksCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBmZWF0dXJlX2FycmF5ID0gbnVtcHkuYXJyYXkoW2ZlYXR1cmVzXSkK</text>
@@ -794,9 +801,9 @@
       </register>
     </registers>
     <search>
-      <last-search>def os</last-search>
+      <last-search>0</last-search>
       <last-offset />
-      <last-pattern>def os</last-pattern>
+      <last-pattern>0</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -804,7 +811,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Pj4+</entry>
         <entry>def</entry>
         <entry>miss</entry>
         <entry encoding="base64">PDw8</entry>
@@ -824,6 +830,7 @@
         <entry>os_name</entry>
         <entry>os</entry>
         <entry>def os</entry>
+        <entry>0</entry>
       </history-search>
       <history-cmd>
         <entry>Q</entry>
