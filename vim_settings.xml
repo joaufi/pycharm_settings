@@ -15,11 +15,6 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="106" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/purchased_skus_by_customer_guid.sql" timestamp="1524757738260">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="8" />
-        <mark key="." line="41" column="8" />
-      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/scorelib/collection/bonsai_leaf_collection.py" timestamp="1513109559503">
         <mark key="[" line="3" column="5" />
         <mark key="]" line="3" column="12" />
@@ -62,9 +57,6 @@
         <mark key="]" line="1" column="30" />
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="30" />
-      </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" timestamp="1525712211148">
-        <mark key="'" line="25" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/input_model.py" timestamp="1515708463453">
         <mark key="[" line="8" column="1" />
@@ -346,12 +338,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1525712248156">
-        <mark key="'" line="445" column="12" />
-        <mark key="[" line="1198" column="5" />
-        <mark key="]" line="45" column="4" />
-        <mark key="." line="216" column="31" />
-        <mark key="^" line="216" column="31" />
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1525800509994">
+        <mark key="'" line="1470" column="33" />
+        <mark key="[" line="442" column="78" />
+        <mark key="]" line="442" column="77" />
+        <mark key="." line="442" column="77" />
+        <mark key="^" line="442" column="77" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/requirements.txt" timestamp="1517342322237">
         <mark key="[" line="4" column="0" />
@@ -377,11 +369,6 @@
         <mark key="]" line="44" column="25" />
         <mark key="." line="44" column="25" />
         <mark key="^" line="44" column="25" />
-      </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/priced_skus_by_device_guid.sql" timestamp="1524757678123">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="8" />
-        <mark key="." line="40" column="8" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1522245921036">
         <mark key="[" line="34" column="30" />
@@ -653,18 +640,8 @@
         <mark key="^" line="16" column="46" />
         <mark key="." line="16" column="46" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/models.py" timestamp="1525704894368" />
     </filemarks>
     <jumps>
-      <jump line="23" column="129" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
-      <jump line="78" column="20" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" />
-      <jump line="136" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
-      <jump line="184" column="8" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
-      <jump line="185" column="8" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
-      <jump line="45" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
-      <jump line="46" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
-      <jump line="19" column="19" filename="$USER_HOME$/repositories/scoring-library/scoring/models/data/fact_payload_model.py" />
-      <jump line="9" column="24" filename="$USER_HOME$/repositories/scoring-library/scoring/models/data/fact_payload_model.py" />
       <jump line="3" column="35" filename="$USER_HOME$/repositories/scoring-library/scoring/models/data/fact_payload_model.py" />
       <jump line="141" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_appnexus_model.py" />
@@ -756,16 +733,25 @@
       <jump line="431" column="33" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="441" column="23" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="445" column="12" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="1321" column="42" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="1376" column="62" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="1454" column="30" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="1455" column="22" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="1461" column="51" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="1464" column="51" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="1465" column="22" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="1468" column="19" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="1470" column="33" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>object</text>
+        <text>ost_processing</text>
       </register>
       <register name="-" type="4">
-        <text>object</text>
+        <text>ost_processing</text>
       </register>
       <register name="/" type="4">
-        <text>def visitor</text>
+        <text>def os</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Pj0gREFURV9TVUIoQ1VSUkVOVF9EQVRFLCAyKQ==</text>
@@ -802,9 +788,9 @@
       </register>
     </registers>
     <search>
-      <last-search>def visitor</last-search>
+      <last-search>def os</last-search>
       <last-offset />
-      <last-pattern>def visitor</last-pattern>
+      <last-pattern>def os</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -812,9 +798,6 @@
     </search>
     <history>
       <history-search>
-        <entry>agg</entry>
-        <entry>func</entry>
-        <entry>sel</entry>
         <entry encoding="base64">Pj4+</entry>
         <entry>def</entry>
         <entry>miss</entry>
@@ -832,6 +815,9 @@
         <entry>VISITOR</entry>
         <entry>visitor_type</entry>
         <entry>def visitor</entry>
+        <entry>os_name</entry>
+        <entry>os</entry>
+        <entry>def os</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzI3LzM2L2dp</entry>
