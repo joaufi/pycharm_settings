@@ -124,11 +124,11 @@
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" timestamp="1525806663285">
-        <mark key="[" line="413" column="19" />
-        <mark key="]" line="413" column="21" />
-        <mark key="^" line="413" column="21" />
-        <mark key="." line="413" column="21" />
+      <file name="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" timestamp="1525809199568">
+        <mark key="[" line="369" column="22" />
+        <mark key="]" line="370" column="16" />
+        <mark key="^" line="370" column="16" />
+        <mark key="." line="370" column="16" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/models/data/feature_struct.py" timestamp="1517262344100">
         <mark key="[" line="2" column="13" />
@@ -302,12 +302,12 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="35" column="4" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_facebook_model.py" timestamp="1525804830102">
-        <mark key="'" line="201" column="46" />
-        <mark key="[" line="222" column="31" />
-        <mark key="]" line="222" column="33" />
-        <mark key="." line="222" column="33" />
-        <mark key="^" line="222" column="33" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_facebook_model.py" timestamp="1525809149288">
+        <mark key="'" line="202" column="46" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="17" column="1" />
+        <mark key="^" line="230" column="38" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_data_hive.sql" timestamp="1522347924164">
         <mark key="[" line="19" column="44" />
@@ -321,11 +321,16 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_appnexus_model.py" timestamp="1525804987681">
-        <mark key="[" line="189" column="37" />
-        <mark key="]" line="194" column="26" />
-        <mark key="^" line="194" column="26" />
-        <mark key="." line="194" column="26" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_appnexus_model.py" timestamp="1525809277671">
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="221" column="0" />
+        <mark key="." line="221" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/utilities.py" timestamp="1525808906556">
+        <mark key="[" line="28" column="22" />
+        <mark key="]" line="28" column="22" />
+        <mark key="." line="28" column="22" />
+        <mark key="^" line="28" column="28" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_inmarket/create_inmarket_num_favorite_skus.sql" timestamp="1523629634282">
         <mark key="[" line="1" column="0" />
@@ -345,8 +350,8 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1525802076765">
-        <mark key="'" line="1470" column="33" />
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1525807436151">
+        <mark key="'" line="434" column="46" />
         <mark key="[" line="442" column="56" />
         <mark key="]" line="443" column="55" />
         <mark key="." line="443" column="55" />
@@ -649,7 +654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="15" column="13" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="58" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/utilities.py" />
       <jump line="57" column="4" filename="$USER_HOME$/repositories/scoring-library/scoring/utilities.py" />
@@ -749,55 +753,56 @@
       <jump line="187" column="42" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_facebook_model.py" />
       <jump line="194" column="45" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_facebook_model.py" />
       <jump line="201" column="46" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_facebook_model.py" />
+      <jump line="434" column="46" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHRfdmFsdWUoMC44NSksCg==</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text encoding="base64">IC0wLjA2NzU=</text>
       </register>
       <register name="/" type="4">
-        <text>0</text>
+        <text>urban</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1dpbmRvd3MnLAo=</text>
+        <text encoding="base64">ZnJvbSBzY29yaW5nLnV0aWxpdGllcyBpbXBvcnQgKAogICAgYm91bmRfdG8sCiAgICBjb252ZXJ0X3RvX2Jvb2xlYW5fYml0LAogICAgZGl2aWRlX2J5X29uZV9odW5kcmVkLAogICAgZmlyc3RfZWxlbWVudCwKICAgIGdldF9rZXksCiAgICBpc19lcXVhbCwKICAgIHJvdW5kX3RvLAopCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHRfdmFsdWUoMC44NSksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmZWF0dXJlX2FycmF5ID0gbnVtcHkuYXJyYXkoW2ZlYXR1cmVzXSkK</text>
+        <text encoding="base64">ZnJvbSBzY29yaW5nLnV0aWxpdGllcyBpbXBvcnQgKAogICAgaXNfZXF1YWwsCiAgICBib3VuZF90bywKICAgIGNvbnZlcnRfdG9fYm9vbGVhbl9iaXQsCiAgICBnZXRfa2V5LAogICAgZmlyc3RfZWxlbWVudCwKICAgIHJvdW5kX3RvLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGFyYW1zWydlbnYnXSA9IFZhcmlhYmxlLmdldCgnRU5WJykK</text>
+        <text encoding="base64">KQo=</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICAKICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBzY29yaW5nLnV0aWxpdGllcyBpbXBvcnQgKAogICAgaXNfZXF1YWwsCiAgICBib3VuZF90bywKICAgIGNvbnZlcnRfdG9fYm9vbGVhbl9iaXQsCiAgICBnZXRfa2V5LAogICAgZmlyc3RfZWxlbWVudCwKICAgIHJvdW5kX3RvLAopCg==</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAKICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDpwYXJhbSB2YWw6IAo=</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CkNSRUFURV9EUk9QX0lOVEVSTUVESUFURV9GQUNUUyA9IFwKICAgIG9zLnBhdGguam9pbihISVZFX1FVRVJZX0RJUl9QQVRILCAnY3JlYXRlX2Ryb3BfaW50ZXJtZWRpYXRlX2ZhY3RzLnNxbCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRhbmdvX2hpdmVfb3AgPj4K</text>
+        <text encoding="base64">ICAgICAgICBmZWF0dXJlX2FycmF5ID0gbnVtcHkuYXJyYXkoW2ZlYXR1cmVzXSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>0</last-search>
+      <last-search>urban</last-search>
       <last-offset />
-      <last-pattern>0</last-pattern>
+      <last-pattern>urban</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -805,7 +810,6 @@
     </search>
     <history>
       <history-search>
-        <entry>def</entry>
         <entry>miss</entry>
         <entry encoding="base64">PDw8</entry>
         <entry>SPARK</entry>
@@ -825,6 +829,7 @@
         <entry>os</entry>
         <entry>def os</entry>
         <entry>0</entry>
+        <entry>urban</entry>
       </history-search>
       <history-cmd>
         <entry>Q</entry>
@@ -837,14 +842,14 @@
         <entry>qw</entry>
         <entry>vspit</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>e</entry>
         <entry>W</entry>
         <entry>split</entry>
         <entry>qaq</entry>
         <entry>qa</entry>
-        <entry>q</entry>
         <entry>we</entry>
+        <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>vsplit</entry>
         <entry>w</entry>
       </history-cmd>
