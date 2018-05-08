@@ -124,11 +124,11 @@
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" timestamp="1524493044704">
-        <mark key="[" line="24" column="12" />
-        <mark key="]" line="24" column="12" />
-        <mark key="^" line="24" column="12" />
-        <mark key="." line="24" column="12" />
+      <file name="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" timestamp="1525806663285">
+        <mark key="[" line="413" column="19" />
+        <mark key="]" line="413" column="21" />
+        <mark key="^" line="413" column="21" />
+        <mark key="." line="413" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/models/data/feature_struct.py" timestamp="1517262344100">
         <mark key="[" line="2" column="13" />
@@ -752,43 +752,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGZWF0dXJlTW9kZWwoCiAgICAgICAgICAgICAgICAgICAgICAgICdpc19vdGhlcl9vcycsIC0wLjY0NTAsCiAgICAgICAgICAgICAgICAgICAgICAgIEZhY3RQYXlsb2FkTW9kZWwoJ2RldmljZV9vcGVyYXRpbmdfc3lzdGVtJyksCiAgICAgICAgICAgICAgICAgICAgICAgIHBvc3RfYWdncmVnYXRpb25fZnVuY3Rpb25zPVsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlzX2VxdWFsKCdPdGhlcicpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udmVydF90b19ib29sZWFuX2JpdCwKICAgICAgICAgICAgICAgICAgICAgICAgXSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ1dpbmRvd3MnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmZWF0dXJlX2FycmF5ID0gbnVtcHkuYXJyYXkoW2ZlYXR1cmVzXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBmZWF0dXJlX2FycmF5ID0gbnVtcHkuYXJyYXkoW2ZlYXR1cmVzXSkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">cGFyYW1zWydlbnYnXSA9IFZhcmlhYmxlLmdldCgnRU5WJykK</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAKICA=</text>
-      </register>
       <register name="4" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+        <text encoding="base64">ICAKICA=</text>
       </register>
       <register name="5" type="8">
-        <text encoding="base64">ICAKICA=</text>
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="6" type="8">
+        <text encoding="base64">ICAKICA=</text>
+      </register>
+      <register name="7" type="8">
         <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CkNSRUFURV9EUk9QX0lOVEVSTUVESUFURV9GQUNUUyA9IFwKICAgIG9zLnBhdGguam9pbihISVZFX1FVRVJZX0RJUl9QQVRILCAnY3JlYXRlX2Ryb3BfaW50ZXJtZWRpYXRlX2ZhY3RzLnNxbCcpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRhbmdvX2hpdmVfb3AgPj4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRhbmdvX2hpdmVfb3AgPj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -841,11 +841,11 @@
         <entry>e</entry>
         <entry>W</entry>
         <entry>split</entry>
-        <entry>vsplit</entry>
         <entry>qaq</entry>
         <entry>qa</entry>
         <entry>q</entry>
         <entry>we</entry>
+        <entry>vsplit</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
