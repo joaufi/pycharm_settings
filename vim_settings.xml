@@ -129,12 +129,11 @@
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" timestamp="1525977654565">
-        <mark key="'" line="15" column="14" />
-        <mark key="[" line="81" column="26" />
-        <mark key="]" line="81" column="27" />
-        <mark key="." line="81" column="27" />
-        <mark key="^" line="75" column="21" />
+      <file name="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" timestamp="1525980071643">
+        <mark key="[" line="400" column="25" />
+        <mark key="]" line="400" column="25" />
+        <mark key="." line="400" column="25" />
+        <mark key="^" line="400" column="77" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/models/data/feature_struct.py" timestamp="1517262344100">
         <mark key="[" line="2" column="13" />
@@ -619,10 +618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="45" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_facebook_model.py" />
-      <jump line="78" column="7" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="123" column="19" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
       <jump line="72" column="41" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
       <jump line="45" column="55" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
       <jump line="61" column="70" filename="$USER_HOME$/repositories/scoring-library/scoring/utilities.py" />
@@ -719,64 +714,66 @@
       <jump line="44" column="26" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
       <jump line="13" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
       <jump line="15" column="14" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
+      <jump line="81" column="26" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
+      <jump line="192" column="24" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
+      <jump line="261" column="12" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
+      <jump line="400" column="16" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>aggregate</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>aggregate</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>agg</text>
+        <text>]</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBwYXRjaCgnc2NvcmluZy5tb2RlbHMuYnVzaW5lc3MuYmFzZV9tb2RlbC5BZ2dyZWdhdGlvbi5hZ2dyZWdhdGUnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhZ2dyZWdhdG9yID0gc2NvcmluZ19jb250cm9sbGVyLl9tb2RlbHNbJ2luX21hcmtldCddLl9hZ2dyZWdhdG9yCg==</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX2FnZ3JlZ2F0ZS5yZXR1cm5fdmFsdWUgPSBbTm9uZV0gKiBudW1fZmVhdHVyZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhZ2dyZWdhdG9yLmFnZ3JlZ2F0ZSA9IE1hZ2ljTW9jayhyZXR1cm5fdmFsdWU9cmV0dXJuX3ZhbHVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgTm9uZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgnc2NvcmluZy5tb2RlbHMuJykK</text>
+        <text encoding="base64">ICAgICAgICBhZ2dyZWdhdG9yID0gc2NvcmluZ19jb250cm9sbGVyLl9tb2RlbHNbJ2luX21hcmtldCddLl9hZ2dyZWdhdG9yCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZ2dyZWdhdG9yLmFnZ3JlZ2F0ZSA9IE1hZ2ljTW9jayhyZXR1cm5fdmFsdWU9cmV0dXJuX3ZhbHVlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBwYXRjaCgnc2NvcmluZy5tb2RlbHMuJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgNjEsCiAgICAgICAgICAgIDAuNSwKICAgICAgICAgICAgMDAwLAogICAgICAgICAgICAyMTksCiAgICAgICAgICAgIDEsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlcHNpbG9uX2RhdGEgPSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgNjEsCiAgICAgICAgICAgIDAuNSwKICAgICAgICAgICAgMDAwLAogICAgICAgICAgICAyMTksCiAgICAgICAgICAgIDEsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>agg</last-search>
+      <last-search>]</last-search>
       <last-offset />
-      <last-pattern>agg</last-pattern>
+      <last-pattern>]</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>)</entry>
-        <entry>APPNE</entry>
         <entry>VISITOr</entry>
         <entry>VISITOR</entry>
         <entry>visitor_type</entry>
@@ -795,6 +792,8 @@
         <entry>def</entry>
         <entry>61</entry>
         <entry>agg</entry>
+        <entry>None</entry>
+        <entry>]</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
