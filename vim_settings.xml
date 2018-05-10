@@ -193,6 +193,11 @@
         <mark key="^" line="119" column="26" />
         <mark key="." line="119" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/customer-information-library/tests/test_details_business_model.py" timestamp="1525967942084">
+        <mark key="[" line="1823" column="22" />
+        <mark key="]" line="1823" column="22" />
+        <mark key="." line="1823" column="22" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/tests/mocks/mock_context.py" timestamp="1517342371765">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -302,12 +307,12 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_appnexus_model.py" timestamp="1525967237109">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/business/user_level_bidding_appnexus_model.py" timestamp="1525967326126">
         <mark key="'" line="208" column="36" />
-        <mark key="[" line="235" column="56" />
-        <mark key="]" line="235" column="53" />
-        <mark key="." line="235" column="53" />
-        <mark key="^" line="235" column="53" />
+        <mark key="[" line="245" column="37" />
+        <mark key="]" line="245" column="37" />
+        <mark key="." line="245" column="37" />
+        <mark key="^" line="241" column="43" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/utilities.py" timestamp="1525965034505">
         <mark key="[" line="18" column="0" />
@@ -695,17 +700,17 @@
       <jump line="670" column="0" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>is_equal</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>epsi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgnc2NvcmluZy5tb2RlbHMuYnVzaW5lc3MuYmFzZV9tb2RlbC5BZ2dyZWdhdGlvbi5hZ2dyZWdhdGUnKQogICAgZGVmIHRlc3RfdXNlcl9sZXZlbF9iaWRkaW5nX2FwcG5leHVzX3ZlcnNpb25fMihzZWxmLCBtb2NrX2FnZ3JlZ2F0ZSk6CiAgICAgICAgc2NvcmluZ19jb250cm9sbGVyID0gU2NvcmluZ0NvbnRyb2xsZXIoTW9ja0NvbnRleHQoKSkKCiAgICAgICAgbW9ja19hZ2dyZWdhdGUucmV0dXJuX3ZhbHVlID0gWwogICAgICAgICAgICA1LjUsCiAgICAgICAgICAgIDUsCiAgICAgICAgICAgIDkuNSwKICAgICAgICAgICAgMywKICAgICAgICAgICAgMy41LAogICAgICAgICAgICAxMCwKICAgICAgICAgICAgMjAsCiAgICAgICAgICAgIDAsCiAgICAgICAgICAgICdOZXcnLAogICAgICAgICAgICAnTmV3JywKICAgICAgICAgICAgJ05ldycsCiAgICAgICAgICAgICdOZXcnLAogICAgICAgICAgICBbewogICAgICAgICAgICAgICAgJ2NhbXBhaWduX2NvZGUnOiAnR1gxN0Y0SzNURVNUQ01DT0RFJywKICAgICAgICAgICAgICAgICd0aW1lc3RhbXBNaWxsaXNlY29uZHMnOiAxNTIzOTMzNTA3ODM1LAogICAgICAgICAgICAgICAgJ2NoYW5uZWwnOiAnQnJhbmQnCiAgICAgICAgICAgIH1dLAogICAgICAgICAgICAnV2luZG93cycsCiAgICAgICAgICAgICdXaW5kb3dzJywKICAgICAgICAgICAgJ1dpbmRvd3MnLAogICAgICAgICAgICAnV2luZG93cycsCiAgICAgICAgICAgICdXaW5kb3dzJywKICAgICAgICAgICAgNzkuOSwKICAgICAgICBdCgogICAgICAgIGV4cGVjdGVkID0gMi42NwogICAgICAgIGFjdHVhbCA9IHNjb3JpbmdfY29udHJvbGxlci5zY29yZSgKICAgICAgICAgICAgJ3VzZXJfbGV2ZWxfYmlkZGluZ19hcHBuZXh1cycsCiAgICAgICAgICAgIDIsCiAgICAgICAgICAgIGRldmljZV9ndWlkPSd0ZXN0Z3UxZC1iNGEzLTQ3MWMtYWJhMS1lZWJjYTZkNTRjNDAnLAogICAgICAgICAgICB0cmFuc2FjdGlvbl9pZD0ndGVzdHRyYW5pZHlyb2U2OHB0Vk1RQT09JwogICAgICAgICkKCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMoYWN0dWFsLCBleHBlY3RlZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGZWF0dXJlTW9kZWwoCiAgICAgICAgICAgICAgICAgICAgICAgICdob21lX293bmVyJywgMC42MzY5LAogICAgICAgICAgICAgICAgICAgICAgICBGYWN0UGF5bG9hZE1vZGVsKCdlcHNpbG9uX2RhdGEnKSwKICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdF92YWx1ZT0wLjUsCiAgICAgICAgICAgICAgICAgICAgICAgIHBvc3RfYWdncmVnYXRpb25fZnVuY3Rpb25zPVsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdldF9rZXkoJ2hvbWVPd25lcicpLAogICAgICAgICAgICAgICAgICAgICAgICBdKSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
