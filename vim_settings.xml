@@ -229,6 +229,13 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/repositories/aggregation-library/tests/test_business_models.py" timestamp="1526053727287">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="87" column="34" />
+        <mark key="]" line="87" column="38" />
+        <mark key="." line="87" column="38" />
+        <mark key="^" line="87" column="38" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/models/data/feature_models.py" timestamp="1525809830587">
         <mark key="[" line="23" column="68" />
         <mark key="]" line="24" column="41" />
@@ -531,6 +538,9 @@
         <mark key="." line="50" column="25" />
         <mark key="^" line="50" column="25" />
       </file>
+      <file name="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" timestamp="1526053680787">
+        <mark key="'" line="416" column="31" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/models/data/feature_model.py" timestamp="1524080099995">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -561,8 +571,8 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/controller.py" timestamp="1526052586514">
-        <mark key="[" line="76" column="20" />
+      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/controller.py" timestamp="1526053801434">
+        <mark key="[" line="76" column="21" />
         <mark key="]" line="76" column="29" />
         <mark key="^" line="76" column="29" />
         <mark key="." line="76" column="29" />
@@ -601,7 +611,7 @@
         <mark key="." line="154" column="30" />
         <mark key="^" line="154" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525976659643">
+      <file name="/Dummy.txt" timestamp="1526053612176">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/spark-batch-scoring/inmarket/app.py" timestamp="1521769193276">
@@ -630,10 +640,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="374" column="33" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
-      <jump line="375" column="4" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
-      <jump line="10" column="4" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
-      <jump line="198" column="4" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
       <jump line="226" column="4" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
       <jump line="130" column="32" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
       <jump line="8" column="30" filename="$USER_HOME$/repositories/scoring-library/scoring/utilities.py" />
@@ -730,55 +736,59 @@
       <jump line="318" column="14" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
       <jump line="43" column="11" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
       <jump line="52" column="96" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
+      <jump line="90" column="32" filename="$USER_HOME$/repositories/aggregation-library/tests/test_business_models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/aggregation-library/tests/test_business_models.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/repositories/aggregation-library/tests/test_business_models.py" />
+      <jump line="416" column="31" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCBvZiB0aGUgZmFjdAo=</text>
+      <register name="&quot;" type="4">
+        <text>model</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>model</text>
       </register>
       <register name="/" type="4">
-        <text>model</text>
+        <text>fact_model</text>
       </register>
       <register name="0" type="4">
         <text>fact_type, customer_guid, device_guid, store_ids</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCBvZiB0aGUgZmFjdAo=</text>
+        <text encoding="base64">ZnJvbSBhZ2dyZWdhdGlvbi5tb2RlbHMuZmFjdF9tb2RlbCBpbXBvcnQgRmFjdE1vZGVsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50OiBhIDEgb3IgYSAwIGlmIHRoZSByZXNwb25zZSBpcyB0cnVlIG9yIGZhbHNlIGlmIGVxdWFscyBpcyBzcGVjaWZpZWQgaW4gdGhlIGZhY3RfbW9kZWwsIGVsc2UgdGhlIHJhdwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCBvZiB0aGUgZmFjdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFjdF90eXBlIChzdHIpOiByZXF1ZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50OiBhIDEgb3IgYSAwIGlmIHRoZSByZXNwb25zZSBpcyB0cnVlIG9yIGZhbHNlIGlmIGVxdWFscyBpcyBzcGVjaWZpZWQgaW4gdGhlIGZhY3RfbW9kZWwsIGVsc2UgdGhlIHJhdwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFjdF90eXBlIChzdHIpOiByZXF1ZXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBAbWVtb2l6ZQogICAgZGVmIF9nZXRfZmFjdChzZWxmLCBmYWN0X3R5cGUsIGN1c3RvbWVyX2d1aWQsIGRldmljZV9ndWlkLCBzdG9yZV9pZCk6CiAgICAgICAgIiIiUmV0cmlldmVzIGN1c3RvbWVyIGZhY3QgZGF0YSB1c2luZyB0aGUgY3VzdGluZm9saWIuIFRoaXMgaXMgYSB1dGlsaXR5IGZ1bmN0aW9uCiAgICAgICAgZW50aXJlbHkgZm9yIHRoZSBwdXJwb3NlcyBvZiBhbGxvd2luZyBtZW1vaXphdGlvbi4KCiAgICAgICAgQXJnczoKICAgICAgICAgICAgZmFjdF90eXBlIChzdHIpOiBUeXBlIG9mIGZhY3QgdG8gZ2V0IHdoaWNoIG1hcHMgdG8gcmVxdWVzdGVkIHR5cGVzIGluIGN1c3RpbmZvbGliLgogICAgICAgICAgICBwYXlsb2FkIChkaWN0KTogQSBkaWN0IGNvbnRhaW5pbmcgKHN0cikgY3VzdG9tZXJfZ3VpZCwgKHN0cikgZGV2aWNlX2d1aWQsIGFuZCBvcHRpb25hbGx5CiAgICAgICAgICAgICAgICAobGlzdCBvZiBpbnQpIHN0b3JlX2lkcy4KCiAgICAgICAgUmV0dXJuOgogICAgICAgICAgICBPYmplY3Q6IFJldHJpZXZlZCBmYWN0IGRhdGEgd2hpY2ggaXMgdHlwaWNhbGx5IGEgZGljdCwgbGlzdCwgc3RyLCBvciBOdW1iZXIuCiAgICAgICAgIiIiCiAgICAgICAgcGF5bG9hZCA9IHsKICAgICAgICAgICAgJ2N1c3RvbWVyX2d1aWQnOiBjdXN0b21lcl9ndWlkLAogICAgICAgICAgICAnZGV2aWNlX2d1aWQnOiBkZXZpY2VfZ3VpZCwKICAgICAgICB9CgogICAgICAgIGlmIHN0b3JlX2lkOgogICAgICAgICAgICBwYXlsb2FkWydzdG9yZV9pZHMnXSA9IFtzdG9yZV9pZF0KCiAgICAgICAgcmV0dXJuIHNlbGYuY3VzdGluZm9saWJfZGV0YWlscy5fc2luZ2xlX3JlcXVlc3RlZF90eXBlKGZhY3RfdHlwZSwgcGF5bG9hZClbZmFjdF90eXBlXQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZV9pZHMgPSBbc3RvcmVfaWRdIGlmIHN0b3JlX2lkIGVsc2UgW10K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICBAbWVtb2l6ZQogICAgZGVmIF9nZXRfZmFjdChzZWxmLCBmYWN0X3R5cGUsIGN1c3RvbWVyX2d1aWQsIGRldmljZV9ndWlkLCBzdG9yZV9pZCk6CiAgICAgICAgIiIiUmV0cmlldmVzIGN1c3RvbWVyIGZhY3QgZGF0YSB1c2luZyB0aGUgY3VzdGluZm9saWIuIFRoaXMgaXMgYSB1dGlsaXR5IGZ1bmN0aW9uCiAgICAgICAgZW50aXJlbHkgZm9yIHRoZSBwdXJwb3NlcyBvZiBhbGxvd2luZyBtZW1vaXphdGlvbi4KCiAgICAgICAgQXJnczoKICAgICAgICAgICAgZmFjdF90eXBlIChzdHIpOiBUeXBlIG9mIGZhY3QgdG8gZ2V0IHdoaWNoIG1hcHMgdG8gcmVxdWVzdGVkIHR5cGVzIGluIGN1c3RpbmZvbGliLgogICAgICAgICAgICBwYXlsb2FkIChkaWN0KTogQSBkaWN0IGNvbnRhaW5pbmcgKHN0cikgY3VzdG9tZXJfZ3VpZCwgKHN0cikgZGV2aWNlX2d1aWQsIGFuZCBvcHRpb25hbGx5CiAgICAgICAgICAgICAgICAobGlzdCBvZiBpbnQpIHN0b3JlX2lkcy4KCiAgICAgICAgUmV0dXJuOgogICAgICAgICAgICBPYmplY3Q6IFJldHJpZXZlZCBmYWN0IGRhdGEgd2hpY2ggaXMgdHlwaWNhbGx5IGEgZGljdCwgbGlzdCwgc3RyLCBvciBOdW1iZXIuCiAgICAgICAgIiIiCiAgICAgICAgcGF5bG9hZCA9IHsKICAgICAgICAgICAgJ2N1c3RvbWVyX2d1aWQnOiBjdXN0b21lcl9ndWlkLAogICAgICAgICAgICAnZGV2aWNlX2d1aWQnOiBkZXZpY2VfZ3VpZCwKICAgICAgICB9CgogICAgICAgIGlmIHN0b3JlX2lkOgogICAgICAgICAgICBwYXlsb2FkWydzdG9yZV9pZHMnXSA9IFtzdG9yZV9pZF0KCiAgICAgICAgcmV0dXJuIHNlbGYuY3VzdGluZm9saWJfZGV0YWlscy5fc2luZ2xlX3JlcXVlc3RlZF90eXBlKGZhY3RfdHlwZSwgcGF5bG9hZClbZmFjdF90eXBlXQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzdG9yZV9pZHMgPSBbc3RvcmVfaWRdIGlmIHN0b3JlX2lkIGVsc2UgW10K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlsb2FkID0gewogICAgICAgICAgICAnY3VzdG9tZXJfZ3VpZCc6IGN1c3RvbWVyX2d1aWQsCiAgICAgICAgICAgICdkZXZpY2VfZ3VpZCc6IGRldmljZV9ndWlkLAogICAgICAgIH0KCiAgICAgICAgc3RvcmVfaWRzID0gW3N0b3JlX2lkXSBpZiBzdG9yZV9pZCBlbHNlIFtdCiAgICAgICAgaWYgc3RvcmVfaWRzOgogICAgICAgICAgICBwYXlsb2FkWydzdG9yZV9pZHMnXSA9IHN0b3JlX2lkcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwYXlsb2FkID0gewogICAgICAgICAgICAnY3VzdG9tZXJfZ3VpZCc6IGN1c3RvbWVyX2d1aWQsCiAgICAgICAgICAgICdkZXZpY2VfZ3VpZCc6IGRldmljZV9ndWlkLAogICAgICAgIH0KCiAgICAgICAgc3RvcmVfaWRzID0gW3N0b3JlX2lkXSBpZiBzdG9yZV9pZCBlbHNlIFtdCiAgICAgICAgaWYgc3RvcmVfaWRzOgogICAgICAgICAgICBwYXlsb2FkWydzdG9yZV9pZHMnXSA9IHN0b3JlX2lkcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>model</last-search>
+      <last-search>fact_model</last-search>
       <last-offset />
-      <last-pattern>model</last-pattern>
+      <last-pattern>fact_model</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -786,7 +796,6 @@
     </search>
     <history>
       <history-search>
-        <entry>def visitor</entry>
         <entry>os_name</entry>
         <entry>os</entry>
         <entry>def os</entry>
@@ -806,6 +815,7 @@
         <entry>class</entry>
         <entry encoding="base64">Y2xhc3Mg</entry>
         <entry>model</entry>
+        <entry>fact_model</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
