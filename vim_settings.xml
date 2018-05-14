@@ -352,8 +352,8 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1525974547500">
-        <mark key="'" line="605" column="14" />
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1526309536720">
+        <mark key="'" line="329" column="71" />
         <mark key="[" line="101" column="44" />
         <mark key="]" line="101" column="44" />
         <mark key="." line="101" column="44" />
@@ -643,12 +643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="30" filename="$USER_HOME$/repositories/scoring-library/scoring/utilities.py" />
-      <jump line="74" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
-      <jump line="121" column="5" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
-      <jump line="147" column="3" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
       <jump line="97" column="0" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
       <jump line="18" column="0" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
       <jump line="16" column="61" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_inmarket/create_inmarket_last_order_date.sql" />
@@ -743,6 +737,12 @@
       <jump line="416" column="31" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
       <jump line="391" column="36" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/daos.py" />
       <jump line="538" column="19" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/daos.py" />
+      <jump line="23" column="47" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="331" column="55" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="318" column="41" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="326" column="23" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="328" column="15" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="329" column="71" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -752,7 +752,7 @@
         <text>New</text>
       </register>
       <register name="/" type="4">
-        <text>order_details</text>
+        <text>baid</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmaXJzdF9mYWN0X2NhbGwgPSBidXNpbmVzc19tb2RlbC5mYWN0KAogICAgICAgICAgICBmYWN0X3R5cGUsCiAgICAgICAgICAgIGRldmljZV9ndWlkPScxNDI3YjE0Mi1iNGEzLTQ3MWMtYWJhMS1lZWJjYTZkNTRjNDAnLAogICAgICAgICAgICBzdG9yZV9pZD00OQogICAgICAgICkK</text>
@@ -789,9 +789,9 @@
       </register>
     </registers>
     <search>
-      <last-search>order_details</last-search>
+      <last-search>baid</last-search>
       <last-offset />
-      <last-pattern>order_details</last-pattern>
+      <last-pattern>baid</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -799,7 +799,6 @@
     </search>
     <history>
       <history-search>
-        <entry>os</entry>
         <entry>def os</entry>
         <entry>0</entry>
         <entry>urban</entry>
@@ -819,6 +818,7 @@
         <entry>model</entry>
         <entry>fact_model</entry>
         <entry>order_details</entry>
+        <entry>baid</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
