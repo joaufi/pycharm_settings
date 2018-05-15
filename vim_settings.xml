@@ -384,6 +384,13 @@
       <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/common/daos.py" timestamp="1526305042476">
         <mark key="'" line="538" column="19" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/select_in_market_features_for_scoring.sql" timestamp="1526416907253">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/priced_skus_by_device_guid.sql" timestamp="1524757678123">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="8" />
@@ -647,8 +654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="0" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
       <jump line="16" column="61" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_inmarket/create_inmarket_last_order_date.sql" />
       <jump line="15" column="50" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_inmarket/create_inmarket_last_order_date.sql" />
       <jump line="28" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/favorited_sku_by_customer_guid.sql" />
@@ -747,6 +752,8 @@
       <jump line="326" column="23" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="328" column="15" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="329" column="71" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="17" column="15" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/select_in_market_features_for_scoring.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/select_in_market_features_for_scoring.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
