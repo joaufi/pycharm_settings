@@ -112,10 +112,10 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/views.py" timestamp="1525972283538">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/views.py" timestamp="1526586889870">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/aggregation/context.py" timestamp="1517341917960">
         <mark key="[" line="22" column="6" />
@@ -152,6 +152,11 @@
         <mark key="]" line="4" column="57" />
         <mark key="." line="4" column="57" />
         <mark key="^" line="4" column="57" />
+      </file>
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1526586955423">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="20" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/models/request/input_model.py" timestamp="1517266957136">
         <mark key="[" line="12" column="48" />
@@ -557,6 +562,11 @@
       <file name="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" timestamp="1526053680787">
         <mark key="'" line="416" column="31" />
       </file>
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/controller.py" timestamp="1526587038813">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/models/data/feature_model.py" timestamp="1524080099995">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -759,7 +769,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICcvd2F5ZmFpci9hcHAvYWlyZmxvdy9kYWdzL3RlbXBsYXRlcy9kYXRhX3NjaWVuY2UvaW5tYXJrZXQvaGl2ZS9zZWxlY3RfaW5fbWFya2V0X2ZlYXR1cmVzX2Zvcl9zY29yaW5nLnNxbCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHRyYWNlYmFjawogICAgICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
       </register>
       <register name="-" type="4">
         <text>New</text>
@@ -768,37 +778,37 @@
         <text>baid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICcvd2F5ZmFpci9hcHAvYWlyZmxvdy9kYWdzL3RlbXBsYXRlcy9kYXRhX3NjaWVuY2UvaW5tYXJrZXQvaGl2ZS9zZWxlY3RfaW5fbWFya2V0X2ZlYXR1cmVzX2Zvcl9zY29yaW5nLnNxbCcK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHRyYWNlYmFjawogICAgICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJXT08gQk9ZIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgdHJhY2ViYWNrCiAgICAgICAgcHJpbnQodHJhY2ViYWNrLmZvcm1hdF9leGMoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9wYXlsb2FkID0gewogICAgICAgICAgICAnZGV2aWNlX2d1aWQnOiAnMTQyN2IxNDItYjRhMy00NzFjLWFiYTEtZWViY2E2ZDU0YzQwJywKICAgICAgICAgICAgJ2N1c3RvbWVyX2d1aWQnOiBOb25lLAogICAgICAgICAgICAnc3RvcmVfaWRzJzogWzQ5XQogICAgICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0ZWRfcGF5bG9hZAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Zpc2l0b3JfdHlwZScsCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCB0cmFjZWJhY2sK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlZCA9ICdOZXcnCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydAo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -852,8 +862,8 @@
         <entry>vsplit test_controllers.py</entry>
         <entry>W</entry>
         <entry>we</entry>
-        <entry>w</entry>
         <entry>qa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
