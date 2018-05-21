@@ -62,11 +62,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" timestamp="1526570193857">
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" timestamp="1526924919791">
         <mark key="[" line="20" column="1" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/local.py" timestamp="1525971769820">
         <mark key="[" line="44" column="51" />
@@ -153,6 +153,12 @@
         <mark key="]" line="4" column="57" />
         <mark key="." line="4" column="57" />
         <mark key="^" line="4" column="57" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/batch_customer_segmentation.py" timestamp="1526925552573">
+        <mark key="[" line="62" column="46" />
+        <mark key="]" line="63" column="9" />
+        <mark key="." line="63" column="9" />
+        <mark key="^" line="63" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1526586955423">
         <mark key="[" line="79" column="0" />
@@ -398,6 +404,11 @@
         <mark key="]" line="8" column="24" />
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="24" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" timestamp="1526925045654">
+        <mark key="]" line="145" column="0" />
+        <mark key="^" line="145" column="0" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/priced_skus_by_device_guid.sql" timestamp="1524757678123">
         <mark key="[" line="40" column="0" />
@@ -667,8 +678,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="18" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
-      <jump line="130" column="17" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
       <jump line="170" column="15" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
       <jump line="20" column="13" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
       <jump line="25" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
@@ -767,55 +776,57 @@
       <jump line="333" column="26" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
       <jump line="254" column="18" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
       <jump line="266" column="47" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
+      <jump line="39" column="30" filename="$USER_HOME$/repositories/airflow-dags/batch_customer_segmentation.py" />
+      <jump line="62" column="25" filename="$USER_HOME$/repositories/airflow-dags/batch_customer_segmentation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHRyYWNlYmFjawogICAgICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>New</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
-        <text>routing</text>
+        <text>slac</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHRyYWNlYmFjawogICAgICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJXT08gQk9ZIikK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgdHJhY2ViYWNrCiAgICAgICAgcHJpbnQodHJhY2ViYWNrLmZvcm1hdF9leGMoKSkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">c2xhY2tfb25fYW55X2ZhaWxyZS4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">c2xhY2tfb25fYW55X2ZhaWx1cmUuCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCB0cmFjZWJhY2sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHRyYWNlYmFjawogICAgICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJXT08gQk9ZIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgdHJhY2ViYWNrCiAgICAgICAgcHJpbnQodHJhY2ViYWNrLmZvcm1hdF9leGMoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCB0cmFjZWJhY2sK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>routing</last-search>
+      <last-search>slac</last-search>
       <last-offset />
-      <last-pattern>routing</last-pattern>
+      <last-pattern>slac</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -823,7 +834,6 @@
     </search>
     <history>
       <history-search>
-        <entry>urban</entry>
         <entry>opt</entry>
         <entry>divid</entry>
         <entry>is_e</entry>
@@ -843,6 +853,7 @@
         <entry>baid</entry>
         <entry>call</entry>
         <entry>routing</entry>
+        <entry>slac</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
