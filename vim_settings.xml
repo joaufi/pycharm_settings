@@ -189,11 +189,11 @@
         <mark key="." line="26" column="6" />
         <mark key="^" line="26" column="9" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/download_artifact_operator.py" timestamp="1526932068821">
-        <mark key="[" line="34" column="24" />
-        <mark key="]" line="34" column="23" />
-        <mark key="^" line="34" column="23" />
-        <mark key="." line="34" column="23" />
+      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/download_artifact_operator.py" timestamp="1526933345281">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="36" column="44" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/drop_cassandra_facts_tables.sql" timestamp="1522938238985">
         <mark key="[" line="0" column="0" />
@@ -411,8 +411,10 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" timestamp="1526925045654">
-        <mark key="]" line="145" column="0" />
+      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" timestamp="1526932960047">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="19" />
         <mark key="^" line="145" column="0" />
         <mark key="." line="145" column="0" />
       </file>
@@ -684,7 +686,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="15" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
       <jump line="20" column="13" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
       <jump line="25" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
       <jump line="356" column="26" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
@@ -784,55 +785,56 @@
       <jump line="266" column="47" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
       <jump line="39" column="30" filename="$USER_HOME$/repositories/airflow-dags/batch_customer_segmentation.py" />
       <jump line="62" column="25" filename="$USER_HOME$/repositories/airflow-dags/batch_customer_segmentation.py" />
+      <jump line="92" column="0" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>uploader</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>uploader</text>
+        <text>BatchUploaderOperator</text>
       </register>
       <register name="/" type="4">
-        <text>slac</text>
+        <text>sc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">RE9XTkxPQURfQVJUSUZBQ1RfU0NSSVBUID0gIiIiCiAgICBzdWRvIHJtIC1yZiB7d29ya3NwYWNlX3BhdGh9CiAgICBta2RpciB7d29ya3NwYWNlX3BhdGh9CiAgICBjZCB7d29ya3NwYWNlX3BhdGh9CiAgICBicmFuY2g9e2JyYW5jaH0KICAgIHJldj0iJChnaXQgbHMtcmVtb3RlIGdpdEBnaXQuY3Nuem9vLmNvbTp3YXlmYWlyL21lLXJlZGlzLXVwbG9hZGVyLmdpdCB8IGdyZXAgcmVmcy9oZWFkcy8kYnJhbmNoIHwgY3V0IC1mIDEpIgogICAgYXJ0aWZhY3Q9ImJhdGNoLiRicmFuY2guJHJldiIKCiAgICB3Z2V0IGh0dHA6Ly9hcnRpZmFjdG9yeS5zZXJ2aWNlLmJvMS5jc256b28uY29tL2FydGlmYWN0b3J5L2dlbmVyaWMtdGFyYmFsbHMvbWUtcmVkaXMtdXBsb2FkZXIvJGFydGlmYWN0LnRhci5negogICAgdGFyIC14dnpmICRhcnRpZmFjdC50YXIuZ3oKICAgIG12ICRhcnRpZmFjdC5qYXIgdXBsb2FkZXIuamFyCiIiIgo=</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">V09SS1NQQUNFX1BBVEggPSAnL3dheWZhaXIvbW50L2NydW5jaF9idWNrZXRzL2xvY2FsL2N1c3RvbWVyX2lkZW50aXR5L2FkaG9jX2JhdGNoX3VwbG9hZGVycycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIERPV05MT0FEX0FSVElGQUNUX1NDUklQVCA9ICIiIgo=</text>
+        <text encoding="base64">RE9XTkxPQURfQVJUSUZBQ1RfU0NSSVBUID0gIiIiCiAgICBzdWRvIHJtIC1yZiB7d29ya3NwYWNlX3BhdGh9CiAgICBta2RpciB7d29ya3NwYWNlX3BhdGh9CiAgICBjZCB7d29ya3NwYWNlX3BhdGh9CiAgICBicmFuY2g9e2JyYW5jaH0KICAgIHJldj0iJChnaXQgbHMtcmVtb3RlIGdpdEBnaXQuY3Nuem9vLmNvbTp3YXlmYWlyL21lLXJlZGlzLXVwbG9hZGVyLmdpdCB8IGdyZXAgcmVmcy9oZWFkcy8kYnJhbmNoIHwgY3V0IC1mIDEpIgogICAgYXJ0aWZhY3Q9ImJhdGNoLiRicmFuY2guJHJldiIKCiAgICB3Z2V0IGh0dHA6Ly9hcnRpZmFjdG9yeS5zZXJ2aWNlLmJvMS5jc256b28uY29tL2FydGlmYWN0b3J5L2dlbmVyaWMtdGFyYmFsbHMvbWUtcmVkaXMtdXBsb2FkZXIvJGFydGlmYWN0LnRhci5negogICAgdGFyIC14dnpmICRhcnRpZmFjdC50YXIuZ3oKICAgIG12ICRhcnRpZmFjdC5qYXIgdXBsb2FkZXIuamFyCiIiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFzaF9jb21tYW5kPSdlY2hvICJOb0Jhc2ggQ29tbWFuZCBTZXQiOyBleGl0IDEnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2xhY2tfb25fYW55X2ZhaWxyZS4K</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2xhY2tfb25fYW55X2ZhaWx1cmUuCg==</text>
+        <text encoding="base64">ICAgIERPV05MT0FEX0FSVElGQUNUX1NDUklQVCA9ICIiIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHRyYWNlYmFjawogICAgICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJXT08gQk9ZIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>slac</last-search>
+      <last-search>sc</last-search>
       <last-offset />
-      <last-pattern>slac</last-pattern>
+      <last-pattern>sc</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -840,7 +842,6 @@
     </search>
     <history>
       <history-search>
-        <entry>opt</entry>
         <entry>divid</entry>
         <entry>is_e</entry>
         <entry>age</entry>
@@ -860,6 +861,7 @@
         <entry>call</entry>
         <entry>routing</entry>
         <entry>slac</entry>
+        <entry>sc</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
