@@ -135,7 +135,8 @@
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" timestamp="1525980975311">
+      <file name="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" timestamp="1526911141852">
+        <mark key="'" line="266" column="47" />
         <mark key="[" line="402" column="48" />
         <mark key="]" line="402" column="48" />
         <mark key="." line="402" column="48" />
@@ -666,12 +667,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="61" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_inmarket/create_inmarket_last_order_date.sql" />
-      <jump line="15" column="50" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_inmarket/create_inmarket_last_order_date.sql" />
-      <jump line="28" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/favorited_sku_by_customer_guid.sql" />
-      <jump line="31" column="112" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/favorited_sku_by_customer_guid.sql" />
-      <jump line="35" column="56" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/favorited_sku_by_customer_guid.sql" />
-      <jump line="21" column="6" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/recent_filters_by_device_guid.sql" />
       <jump line="125" column="18" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
       <jump line="130" column="17" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
       <jump line="170" column="15" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
@@ -766,6 +761,12 @@
       <jump line="329" column="71" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="17" column="15" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/select_in_market_features_for_scoring.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/select_in_market_features_for_scoring.sql" />
+      <jump line="405" column="41" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
+      <jump line="75" column="30" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
+      <jump line="287" column="47" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
+      <jump line="333" column="26" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
+      <jump line="254" column="18" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
+      <jump line="266" column="47" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -775,7 +776,7 @@
         <text>New</text>
       </register>
       <register name="/" type="4">
-        <text>baid</text>
+        <text>routing</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
@@ -812,9 +813,9 @@
       </register>
     </registers>
     <search>
-      <last-search>baid</last-search>
+      <last-search>routing</last-search>
       <last-offset />
-      <last-pattern>baid</last-pattern>
+      <last-pattern>routing</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -822,8 +823,6 @@
     </search>
     <history>
       <history-search>
-        <entry>def os</entry>
-        <entry>0</entry>
         <entry>urban</entry>
         <entry>opt</entry>
         <entry>divid</entry>
@@ -842,6 +841,8 @@
         <entry>fact_model</entry>
         <entry>order_details</entry>
         <entry>baid</entry>
+        <entry>call</entry>
+        <entry>routing</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
