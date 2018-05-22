@@ -92,8 +92,8 @@
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/redis_dao.py" timestamp="1525973859541">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/redis_dao.py" timestamp="1526995543359">
+        <mark key="'" line="468" column="41" />
       </file>
       <file name="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" timestamp="1522791469005">
         <mark key="[" line="206" column="79" />
@@ -686,7 +686,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="13" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
       <jump line="25" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
       <jump line="356" column="26" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="406" column="15" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
@@ -786,6 +785,7 @@
       <jump line="39" column="30" filename="$USER_HOME$/repositories/airflow-dags/batch_customer_segmentation.py" />
       <jump line="62" column="25" filename="$USER_HOME$/repositories/airflow-dags/batch_customer_segmentation.py" />
       <jump line="92" column="0" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
+      <jump line="468" column="41" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/redis_dao.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -828,7 +828,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -881,9 +881,9 @@
         <entry>vsplit test_controllers.py</entry>
         <entry>W</entry>
         <entry>we</entry>
-        <entry>qa</entry>
         <entry>split</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
