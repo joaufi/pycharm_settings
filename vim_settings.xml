@@ -421,6 +421,12 @@
         <mark key="^" line="145" column="0" />
         <mark key="." line="145" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_devicemap.py" timestamp="1527002172910">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="12" />
+        <mark key="." line="29" column="12" />
+        <mark key="^" line="29" column="18" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/priced_skus_by_device_guid.sql" timestamp="1524757678123">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="8" />
@@ -504,6 +510,11 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="116" column="107" />
       </file>
+      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/models/input_model.py" timestamp="1527001947444">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/customer_history_model.py" timestamp="1524691929840">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="12" />
@@ -582,8 +593,8 @@
         <mark key="." line="50" column="25" />
         <mark key="^" line="50" column="25" />
       </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" timestamp="1526053680787">
-        <mark key="'" line="416" column="31" />
+      <file name="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" timestamp="1527001420618">
+        <mark key="'" line="353" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/controller.py" timestamp="1526587038813">
         <mark key="[" line="98" column="0" />
@@ -620,7 +631,7 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/controller.py" timestamp="1526060723221">
+      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/controller.py" timestamp="1527001576795">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="22" column="40" />
@@ -689,14 +700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
-      <jump line="356" column="26" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
-      <jump line="406" column="15" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
-      <jump line="421" column="53" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
-      <jump line="431" column="33" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
-      <jump line="441" column="23" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
-      <jump line="445" column="12" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
-      <jump line="1321" column="42" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="1376" column="62" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="1454" column="30" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="1455" column="22" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
@@ -789,55 +792,63 @@
       <jump line="62" column="25" filename="$USER_HOME$/repositories/airflow-dags/batch_customer_segmentation.py" />
       <jump line="92" column="0" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
       <jump line="468" column="41" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/redis_dao.py" />
+      <jump line="421" column="31" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
+      <jump line="276" column="13" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
+      <jump line="291" column="25" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
+      <jump line="308" column="13" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
+      <jump line="313" column="25" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
+      <jump line="330" column="13" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
+      <jump line="335" column="25" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
+      <jump line="353" column="13" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ProdConfig</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="-" type="4">
-        <text>ProdConfig</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text>sc</text>
+        <text>avg_price</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">V09SS1NQQUNFX1BBVEggPSAnL3dheWZhaXIvbW50L2NydW5jaF9idWNrZXRzL2xvY2FsL2N1c3RvbWVyX2lkZW50aXR5L2FkaG9jX2JhdGNoX3VwbG9hZGVycycK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgid29vIiArIHN0cihkZXZpY2VfZ3VpZCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RE9XTkxPQURfQVJUSUZBQ1RfU0NSSVBUID0gIiIiCiAgICBzdWRvIHJtIC1yZiB7d29ya3NwYWNlX3BhdGh9CiAgICBta2RpciB7d29ya3NwYWNlX3BhdGh9CiAgICBjZCB7d29ya3NwYWNlX3BhdGh9CiAgICBicmFuY2g9e2JyYW5jaH0KICAgIHJldj0iJChnaXQgbHMtcmVtb3RlIGdpdEBnaXQuY3Nuem9vLmNvbTp3YXlmYWlyL21lLXJlZGlzLXVwbG9hZGVyLmdpdCB8IGdyZXAgcmVmcy9oZWFkcy8kYnJhbmNoIHwgY3V0IC1mIDEpIgogICAgYXJ0aWZhY3Q9ImJhdGNoLiRicmFuY2guJHJldiIKCiAgICB3Z2V0IGh0dHA6Ly9hcnRpZmFjdG9yeS5zZXJ2aWNlLmJvMS5jc256b28uY29tL2FydGlmYWN0b3J5L2dlbmVyaWMtdGFyYmFsbHMvbWUtcmVkaXMtdXBsb2FkZXIvJGFydGlmYWN0LnRhci5negogICAgdGFyIC14dnpmICRhcnRpZmFjdC50YXIuZ3oKICAgIG12ICRhcnRpZmFjdC5qYXIgdXBsb2FkZXIuamFyCiIiIgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmN1c3RvbWVyX2d1aWQ6CiAgICAgICAgICAgIHJldHVybiBbc2VsZi5jdXN0b21lcl9ndWlkXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFzaF9jb21tYW5kPSdlY2hvICJOb0Jhc2ggQ29tbWFuZCBTZXQiOyBleGl0IDEnLAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmN1c3RvbWVyX2d1aWQ6CiAgICAgICAgICAgIHBheWxvYWRbJ2N1c3RvbWVyX2d1aWQnXSA9IHNlbGYuY3VzdG9tZXJfZ3VpZAoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmRldmljZV9ndWlkOgogICAgICAgICAgICBwYXlsb2FkWydkZXZpY2VfZ3VpZCddID0gc2VsZi5kZXZpY2VfZ3VpZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY3VzdG9tZXJfZ3VpZHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIERPV05MT0FEX0FSVElGQUNUX1NDUklQVCA9ICIiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmN1c3RvbWVyX2d1aWQ6CiAgICAgICAgICAgIGN1c3RvbWVyX2d1aWRzLmluc2VydCgwLCBzZWxmLmN1c3RvbWVyX2d1aWQpCiAgICAgICAgcHJpbnQoIldFRSIgKyBzdHIoY3VzdG9tZXJfZ3VpZHMpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sc</last-search>
+      <last-search>avg_price</last-search>
       <last-offset />
-      <last-pattern>sc</last-pattern>
+      <last-pattern>avg_price</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -845,7 +856,6 @@
     </search>
     <history>
       <history-search>
-        <entry>divid</entry>
         <entry>is_e</entry>
         <entry>age</entry>
         <entry>epsi</entry>
@@ -865,6 +875,7 @@
         <entry>routing</entry>
         <entry>slac</entry>
         <entry>sc</entry>
+        <entry>avg_price</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -879,13 +890,13 @@
         <entry>vsplit</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>e</entry>
         <entry>vsplit test_controllers.py</entry>
         <entry>W</entry>
         <entry>we</entry>
         <entry>split</entry>
         <entry>qa</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
