@@ -15,6 +15,9 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="106" />
       </file>
+      <file name="/a.dummy" timestamp="1526995975938">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/intermediate_facts/purchased_skus_by_customer_guid.sql" timestamp="1524757738260">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="8" />
@@ -605,11 +608,11 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py" timestamp="1524689972483">
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="24" />
-        <mark key="." line="55" column="25" />
-        <mark key="^" line="55" column="25" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py" timestamp="1526995983245">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+        <mark key="^" line="8" column="16" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/.python_environment/lib/python3.6/site-packages/me_redis/constants.py" timestamp="1525791459317">
         <mark key="[" line="8" column="38" />
@@ -788,11 +791,11 @@
       <jump line="468" column="41" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/redis_dao.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ProdConfig</text>
       </register>
       <register name="-" type="4">
-        <text>BatchUploaderOperator</text>
+        <text>ProdConfig</text>
       </register>
       <register name="/" type="4">
         <text>sc</text>
@@ -828,7 +831,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -882,8 +885,8 @@
         <entry>W</entry>
         <entry>we</entry>
         <entry>split</entry>
-        <entry>w</entry>
         <entry>qa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
