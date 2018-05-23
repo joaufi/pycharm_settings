@@ -490,10 +490,11 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="116" column="107" />
       </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/models/input_model.py" timestamp="1527025618584">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/models/input_model.py" timestamp="1527084766352">
+        <mark key="[" line="98" column="25" />
+        <mark key="]" line="98" column="36" />
+        <mark key="^" line="98" column="36" />
+        <mark key="." line="98" column="36" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/customer_history_model.py" timestamp="1524691929840">
         <mark key="[" line="4" column="12" />
@@ -782,10 +783,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>.context)</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>.context)</text>
       </register>
       <register name="/" type="4">
         <text>customer-guid-0000-0000-000000000000</text>
@@ -794,31 +795,31 @@
         <text encoding="base64">ICAgICAgICAjIE1vY2sgYXBwbGllcyB0aGUgZWRnZV9saW1pdCBieSBzbGljaW5nIHRoZSByZXNwb25kaW5nIGxpc3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkZXZpY2VfZ3VpZHNfYW5kX21ldGFkYXRhKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBjdXN0aW5mb2xpYiBpbXBvcnQgCg==</text>
+        <text encoding="base64">CiAgICBAbGF6eV9wcm9wZXJ0eQogICAgZGVmIF9pZGVudGlmaWVyX21hcHBlcihzZWxmKToKICAgICAgICByZXR1cm4gSWRlbnRpZmllck1hcHBlcihzZWxmLmNvbnRleHQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIElmIHRoZSByZXF1ZXN0IGNvbnRhaW5zIGEgYmFpZCB3ZSB3YW50IHRvIGdldCB0aGF0IG1hcHBpbmcKICAgICAgICAjIGluc3RlYWQgb2YgdGhlIG5vcm1hbCBjdXN0b21lcl9ndWlkcyBtYXBwaW5nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UK</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiY3VzdG9tZXIiKQogICAgICAgIHByaW50KHJlc3BvbnNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIERvbid0IHdhbnQgdG8gZ2V0IGN1c3RvbWVyX2d1aWRzIHRoZW4gZGV2aWNlX2d1aWRzIGZvciB0aG9zZQogICAgICAgICMgY3VzdG9tZXJfZ3VpZHMgaWYgYSBkZXZpY2VfZ3VpZCBidXQgbm8gY3VzdG9tZXJfZ3VpZCBpcyBpbiBwYXlsb2FkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiZGV2aWNlIikKICAgICAgICBwcmludChyZXNwb25zZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkZXZpY2VfZ3VpZHNfYW5kX21ldGFkYXRhKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjICJBcHBsaWVzIiB0aGUgZWRnZSBsaW1pdCBmcm9tIHRoZSBkZXZpY2VtYXBfZmlsdGVyIGJ5IHNsaWNpbmcgdGhlIGxpc3QK</text>
+        <text encoding="base64">ZnJvbSBjdXN0aW5mb2xpYiBpbXBvcnQgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjICJBcHBsaWVzIiB0aGUgZWRnZSBsaW1pdCBmcm9tIHRoZSBkZXZpY2VtYXBfZmlsdGVyIGJ5IHNsaWNpbmcgdGhlIGxpc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -868,7 +869,6 @@
         <entry>e</entry>
         <entry>vsplit test_controllers.py</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>q</entry>
         <entry>qw</entry>
@@ -876,6 +876,7 @@
         <entry>qa</entry>
         <entry encoding="base64">JzwsJz5zcGxpdA==</entry>
         <entry>split</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
