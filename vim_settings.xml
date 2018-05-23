@@ -15,8 +15,15 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="106" />
       </file>
-      <file name="/a.dummy" timestamp="1526995975938">
+      <file name="/a.dummy" timestamp="1527023525555">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_identifier_mapper.py" timestamp="1527025776505">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="32" column="28" />
+        <mark key="]" line="32" column="8" />
+        <mark key="." line="32" column="8" />
+        <mark key="^" line="32" column="8" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/scorelib/collection/bonsai_leaf_collection.py" timestamp="1513109559503">
         <mark key="[" line="3" column="5" />
@@ -392,11 +399,12 @@
         <mark key="^" line="145" column="0" />
         <mark key="." line="145" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_devicemap.py" timestamp="1527010328600">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="54" />
-        <mark key="^" line="27" column="22" />
-        <mark key="." line="27" column="22" />
+      <file name="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_devicemap.py" timestamp="1527023486725">
+        <mark key="'" line="23" column="31" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="25" column="79" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1522245921036">
         <mark key="[" line="34" column="30" />
@@ -476,11 +484,10 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="116" column="107" />
       </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/models/input_model.py" timestamp="1527020981502">
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="21" column="30" />
-        <mark key="^" line="21" column="30" />
-        <mark key="." line="21" column="30" />
+      <file name="$USER_HOME$/repositories/aggregation-library/aggregation/models/input_model.py" timestamp="1527025618584">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/customer_history_model.py" timestamp="1524691929840">
         <mark key="[" line="4" column="12" />
@@ -561,8 +568,8 @@
         <mark key="." line="50" column="25" />
         <mark key="^" line="50" column="25" />
       </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" timestamp="1527010901005">
-        <mark key="'" line="384" column="0" />
+      <file name="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" timestamp="1527023777087">
+        <mark key="'" line="41" column="12" />
         <mark key="[" line="506" column="56" />
         <mark key="]" line="506" column="56" />
         <mark key="." line="506" column="56" />
@@ -613,6 +620,9 @@
         <mark key="]" line="35" column="54" />
         <mark key="^" line="35" column="54" />
         <mark key="." line="35" column="54" />
+      </file>
+      <file name="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_dao.py" timestamp="1527023786493">
+        <mark key="'" line="85" column="15" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_inmarket/create_inmarket_num_filters.sql" timestamp="1523629648471">
         <mark key="[" line="0" column="14" />
@@ -667,17 +677,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="37" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
-      <jump line="86" column="62" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
-      <jump line="117" column="62" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
-      <jump line="147" column="62" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
-      <jump line="360" column="27" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
-      <jump line="459" column="26" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
-      <jump line="460" column="35" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
-      <jump line="461" column="35" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
-      <jump line="462" column="35" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
-      <jump line="464" column="20" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
-      <jump line="16" column="9" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
       <jump line="369" column="50" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
       <jump line="13" column="0" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
       <jump line="588" column="7" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
@@ -767,55 +766,66 @@
       <jump line="496" column="12" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
       <jump line="384" column="0" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
       <jump line="46" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_devicemap.py" />
+      <jump line="4" column="82" filename="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_devicemap.py" />
+      <jump line="11" column="17" filename="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_devicemap.py" />
+      <jump line="12" column="17" filename="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_devicemap.py" />
+      <jump line="19" column="35" filename="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_devicemap.py" />
+      <jump line="24" column="11" filename="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_devicemap.py" />
+      <jump line="25" column="31" filename="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_devicemap.py" />
+      <jump line="41" column="12" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
+      <jump line="7" column="8" filename="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_dao.py" />
+      <jump line="85" column="15" filename="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_dao.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_identifier_mapper.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Devicemap</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChkZXZpY2VfZ3VpZHNfYW5kX21ldGFkYXRhKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Devicemap</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>store</text>
+        <text>customer-guid-0000-0000-000000000000</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcxNDI3YjE0Mi1iNGEzLTQ3MWMtYWJhMS1lZWJjYTZkNTRjNDEnLAogICAgICAgICAgICAgICAgJzE0MjdiMTQyLWI0YTMtNDcxYy1hYmExLWVlYmNhNmQ1NGM0MicsCg==</text>
+        <text encoding="base64">ICAgICAgICAjIE1vY2sgYXBwbGllcyB0aGUgZWRnZV9saW1pdCBieSBzbGljaW5nIHRoZSByZXNwb25kaW5nIGxpc3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cnQ3Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkZXZpY2VfZ3VpZHNfYW5kX21ldGFkYXRhKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjdXN0aW5mb2xpYiBpbXBvcnQgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIFNlbGVjdCB0aGUgY3VzdG9tZXIgaWQsIGNsYXNzIGlkLCBzdG9yZSBpZCwgYW5kIGZlYXR1cmVzIGZyb20gSGl2ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gZ2V0X2RhdGEoc3BhcmtTZXNzaW9uLCBzdG9yZV9pZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmZWF0dXJlc19kZgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiY3VzdG9tZXIiKQogICAgICAgIHByaW50KHJlc3BvbnNlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBzdG9yZV9pZCBpbiBhcmdzLnN0b3JlX2lkczoK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiZGV2aWNlIikKICAgICAgICBwcmludChyZXNwb25zZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICJBcHBsaWVzIiB0aGUgZWRnZSBsaW1pdCBmcm9tIHRoZSBkZXZpY2VtYXBfZmlsdGVyIGJ5IHNsaWNpbmcgdGhlIGxpc3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICJBcHBsaWVzIiB0aGUgZWRnZSBsaW1pdCBmcm9tIHRoZSBkZXZpY2VtYXBfZmlsdGVyIGJ5IHNsaWNpbmcgdGhlIGxpc3QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>store</last-search>
+      <last-search>customer-guid-0000-0000-000000000000</last-search>
       <last-offset />
-      <last-pattern>store</last-pattern>
+      <last-pattern>customer-guid-0000-0000-000000000000</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -823,9 +833,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test_days_since_most_recent</entry>
-        <entry>devicema</entry>
-        <entry>test_days_since_most_rec</entry>
         <entry>avg_price_p</entry>
         <entry>days_since_m</entry>
         <entry>MockDevicemap</entry>
@@ -838,14 +845,16 @@
         <entry>test_customer_guids_a</entry>
         <entry>test_customer_gu</entry>
         <entry>device_guids</entry>
-        <entry>dev</entry>
         <entry>mode</entry>
         <entry>days_si</entry>
         <entry>super</entry>
         <entry>store</entry>
+        <entry>dev</entry>
+        <entry>def</entry>
+        <entry>test_avg_price_vi</entry>
+        <entry>customer-guid-0000-0000-000000000000</entry>
       </history-search>
       <history-cmd>
-        <entry>2</entry>
         <entry encoding="base64">JzwsJz5zL1wsLzovaWc=</entry>
         <entry encoding="base64">dnNwbGl0IA==</entry>
         <entry>:w</entry>
@@ -856,7 +865,6 @@
         <entry>wq</entry>
         <entry>e</entry>
         <entry>vsplit test_controllers.py</entry>
-        <entry>split</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
@@ -864,6 +872,8 @@
         <entry>qw</entry>
         <entry>we</entry>
         <entry>qa</entry>
+        <entry encoding="base64">JzwsJz5zcGxpdA==</entry>
+        <entry>split</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
