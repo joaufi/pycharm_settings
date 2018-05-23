@@ -424,6 +424,12 @@
         <mark key="^" line="8" column="12" />
         <mark key="." line="8" column="12" />
       </file>
+      <file name="$USER_HOME$/repositories/aggregation-library/setup.py" timestamp="1527084118289">
+        <mark key="[" line="26" column="26" />
+        <mark key="]" line="26" column="28" />
+        <mark key="." line="26" column="28" />
+        <mark key="^" line="26" column="28" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/business_model.py" timestamp="1515786632316">
         <mark key="[" line="3" column="8" />
         <mark key="]" line="3" column="14" />
@@ -611,10 +617,6 @@
         <mark key="." line="125" column="20" />
         <mark key="^" line="125" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/identity_batch_uploaders.py" timestamp="1526928560612">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="53" column="40" />
-      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/customer_guid/purchased_skus_by_customer_guid.sql" timestamp="1523569358567">
         <mark key="[" line="35" column="45" />
         <mark key="]" line="35" column="54" />
@@ -779,11 +781,11 @@
       <jump line="25" column="0" filename="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_identifier_mapper.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkZXZpY2VfZ3VpZHNfYW5kX21ldGFkYXRhKQo=</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>customer-guid-0000-0000-000000000000</text>
