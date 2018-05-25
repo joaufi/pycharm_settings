@@ -536,12 +536,11 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" timestamp="1527271620684">
-        <mark key="'" line="24" column="71" />
-        <mark key="[" line="25" column="19" />
-        <mark key="]" line="25" column="19" />
-        <mark key="." line="25" column="19" />
-        <mark key="^" line="25" column="19" />
+      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" timestamp="1527272455576">
+        <mark key="[" line="27" column="32" />
+        <mark key="]" line="27" column="33" />
+        <mark key="." line="27" column="33" />
+        <mark key="^" line="27" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/inmarket_scores_upload_dag.py" timestamp="1523628499736">
         <mark key="[" line="2" column="29" />
@@ -700,10 +699,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="588" column="7" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
-      <jump line="585" column="35" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
       <jump line="577" column="70" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
       <jump line="55" column="22" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
       <jump line="318" column="14" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
@@ -800,55 +795,69 @@
       <jump line="25" column="0" filename="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_identifier_mapper.py" />
       <jump line="23" column="32" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
       <jump line="24" column="71" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
+      <jump line="76" column="57" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
+      <jump line="3" column="43" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
+      <jump line="35" column="8" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
+      <jump line="49" column="27" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHslIGlmIHB5c3BhcmtfcHl0aG9uICV9XAogICAgUFlTUEFSS19QWVRIT049e3B5c3BhcmtfcHl0aG9ufSBcCiAgICB7JSBlbmRpZiAlfVwK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJhc2hfY29tbWFuZCA9IHNlbGYuU1BBUktfU1VCTUlUX0JBU0hfU0NSSVBULmZvcm1hdCgKICAgICAgICAgICAgZGF0YWNlbnRlcj1zZWxmLmRhdGFjZW50ZXIsCiAgICAgICAgICAgIHB5c3BhcmtfcHl0aG9uPXNlbGYuUFlTUEFSS19QWVRIT05fUEFUSCwKICAgICAgICAgICAgYmxvY2ttYW5hZ2VyX3BvcnRfY29uZj1zZWxmLmJsb2NrbWFuYWdlcl9wb3J0X2NvbmYsCiAgICAgICAgICAgIGV4ZWN1dG9yX2NvcmVzPXNlbGYuZXhlY3V0b3JfY29yZXMsCiAgICAgICAgICAgIG1heF9leGVjdXRvcnM9c2VsZi5tYXhfZXhlY3V0b3JzLAogICAgICAgICAgICBleGVjdXRvcl9tZW1vcnk9c2VsZi5leGVjdXRvcl9tZW1vcnksCiAgICAgICAgICAgIGRyaXZlcl9tZW1vcnk9c2VsZi5kcml2ZXJfbWVtb3J5LAogICAgICAgICAgICB5YXJuX2V4ZWN1dG9yX21lbV9vdmVyaGVhZD1zZWxmLnlhcm5fZXhlY3V0b3JfbWVtX292ZXJoZWFkLAogICAgICAgICAgICBzcGFya19kcml2ZXJfbWF4X3Jlc3VsdF9zaXplPXNlbGYuc3BhcmtfZHJpdmVyX21heF9yZXN1bHRfc2l6ZSwKICAgICAgICAgICAgc3Bhcmtfam9iX2ZpbGU9c2VsZi5weXNwYXJrX2pvYl9maWxlLAogICAgICAgICAgICBzcGFya19wYXJhbXM9c2VsZi5weXNwYXJrX3BhcmFtcywKICAgICAgICAgICAgc3BhcmtfZmlsZXM9c2VsZi5zcGFya19maWxlcwogICAgICAgICkK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>\</text>
+        <text>bigdata_env</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlZ21lbnRhdGlvbl90YXNrID0gU3BhcmtTdWJtaXRCYXNoT3BlcmF0b3IoCiAgICAgICAgcHlzcGFya19qb2JfZmlsZT1weXNwYXJrX2pvYl9maWxlLAogICAgICAgIHB5c3BhcmtfcGFyYW1zPXNlZ21lbnQucGFyYW1zLAogICAgICAgIHRhc2tfaWQ9c2VnbWVudC5uYW1lLAogICAgICAgIGJpZ2RhdGFfZW52PUVOViwKICAgICAgICBkYWc9ZGFnCiAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHslIGlmIHB5c3BhcmtfcHl0aG9uICV9XAogICAgUFlTUEFSS19QWVRIT049e3B5c3BhcmtfcHl0aG9ufSBcCiAgICB7JSBlbmRpZiAlfVwK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJhc2hfY29tbWFuZCA9IHNlbGYuU1BBUktfU1VCTUlUX0JBU0hfU0NSSVBULmZvcm1hdCgKICAgICAgICAgICAgZGF0YWNlbnRlcj1zZWxmLmRhdGFjZW50ZXIsCiAgICAgICAgICAgIHB5c3BhcmtfcHl0aG9uPXNlbGYuUFlTUEFSS19QWVRIT05fUEFUSCwKICAgICAgICAgICAgYmxvY2ttYW5hZ2VyX3BvcnRfY29uZj1zZWxmLmJsb2NrbWFuYWdlcl9wb3J0X2NvbmYsCiAgICAgICAgICAgIGV4ZWN1dG9yX2NvcmVzPXNlbGYuZXhlY3V0b3JfY29yZXMsCiAgICAgICAgICAgIG1heF9leGVjdXRvcnM9c2VsZi5tYXhfZXhlY3V0b3JzLAogICAgICAgICAgICBleGVjdXRvcl9tZW1vcnk9c2VsZi5leGVjdXRvcl9tZW1vcnksCiAgICAgICAgICAgIGRyaXZlcl9tZW1vcnk9c2VsZi5kcml2ZXJfbWVtb3J5LAogICAgICAgICAgICB5YXJuX2V4ZWN1dG9yX21lbV9vdmVyaGVhZD1zZWxmLnlhcm5fZXhlY3V0b3JfbWVtX292ZXJoZWFkLAogICAgICAgICAgICBzcGFya19kcml2ZXJfbWF4X3Jlc3VsdF9zaXplPXNlbGYuc3BhcmtfZHJpdmVyX21heF9yZXN1bHRfc2l6ZSwKICAgICAgICAgICAgc3Bhcmtfam9iX2ZpbGU9c2VsZi5weXNwYXJrX2pvYl9maWxlLAogICAgICAgICAgICBzcGFya19wYXJhbXM9c2VsZi5weXNwYXJrX3BhcmFtcywKICAgICAgICAgICAgc3BhcmtfZmlsZXM9c2VsZi5zcGFya19maWxlcwogICAgICAgICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbmNsdWRlX3B5c3BhcmtfcHl0aG9uPVBZU1BBUktfUFlUSE9OX1BBVEgsCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhcmFtcyA9IHsKICAgICAgICAgICAgJ3NwYXJrX2pvYl9maWxlJzogc3Bhcmtfam9iX2ZpbGUsCiAgICAgICAgICAgICdzcGFya19wYXJhbXMnOiBzcGFya19wYXJhbXMsCiAgICAgICAgICAgICdzcGFya19maWxlcyc6IHNwYXJrX2ZpbGVzLAogICAgICAgICAgICAnZXhlY3V0b3JfY29yZXMnOiBleGVjdXRvcl9jb3JlcywKICAgICAgICAgICAgJ21heF9leGVjdXRvcnMnOiBtYXhfZXhlY3V0b3JzLAogICAgICAgICAgICAnZXhlY3V0b3JfbWVtb3J5JzogZXhlY3V0b3JfbWVtb3J5LAogICAgICAgICAgICAnZHJpdmVyX21lbW9yeSc6IGRyaXZlcl9tZW1vcnksCiAgICAgICAgICAgICd5YXJuX2V4ZWN1dG9yX21lbV9vdmVyaGVhZCc6IHlhcm5fZXhlY3V0b3JfbWVtX292ZXJoZWFkLAogICAgICAgICAgICAnc3BhcmtfZHJpdmVyX21heF9yZXN1bHRfc2l6ZSc6IHNwYXJrX2RyaXZlcl9tYXhfcmVzdWx0X3NpemUsCiAgICAgICAgICAgICdweXNwYXJrX3B5dGhvbic6IHB5c3BhcmtfcHl0aG9uCiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpbmNsdWRlX3B5c3BhcmtfcHl0aG9uOgogICAgICAgICAgICBzZWxmLnB5c3BhcmtfcHl0aG9uID0gcHlzcGFya19weXRob24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBpZiBqYXZhX3NwYXJrX2pvYl9maWxlICV9IHtqYXZhX3NwYXJrX2pvYl9maWxlfSB7amF2YV9zcGFya19wYXJhbXN9IHslIGVuZGlmICV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2JpZ2RhdGFfZW52JzogYmlnZGF0YV9lbnYsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBqYXZhX3NwYXJrX2pvYl9maWxlPU5vbmUsCiAgICAgICAgamF2YV9zcGFya19wYXJhbXM9JycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text>self.
+self.
+self.
+self.
+self.
+self.
+self.
+self.
+self.
+self.
+self.</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBweXNwYXJrX2pvYl9maWxlIGFuZCBqYXZhX3NwYXJrX2pvYl9maWxlOgogICAgICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoCiAgICAgICAgICAgICAgICAnTXVzdCBvbmx5IHNwZWNpZnkgYSBweXNwYXJrX2pvYl9maWxlIE9SIGEgamF2YV9zcGFya19qb2JfZmlsZSwgbm90IGJvdGguJykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNwYXJrX2pvYl9maWxlID0gc3Bhcmtfam9iX2ZpbGUKICAgICAgICBzZWxmLnNwYXJrX3BhcmFtcyA9IHNwYXJrX3BhcmFtcwogICAgICAgIHNlbGYuc3BhcmtfZmlsZXMgPSBzcGFya19maWxlcwogICAgICAgIHNlbGYuYmlnZGF0YV9lbnYgPSBiaWdkYXRhX2VudgogICAgICAgIHNlbGYuZXhlY3V0b3JfY29yZXMgPSBleGVjdXRvcl9jb3JlcwogICAgICAgIHNlbGYubWF4X2V4ZWN1dG9ycyA9IG1heF9leGVjdXRvcnMKICAgICAgICBzZWxmLmV4ZWN1dG9yX21lbW9yeSA9IGV4ZWN1dG9yX21lbW9yeQogICAgICAgIHNlbGYuZHJpdmVyX21lbW9yeSA9IGRyaXZlcl9tZW1vcnkKICAgICAgICBzZWxmLnlhcm5fZXhlY3V0b3JfbWVtX292ZXJoZWFkID0geWFybl9leGVjdXRvcl9tZW1fb3ZlcmhlYWQKICAgICAgICBzZWxmLnNwYXJrX2RyaXZlcl9tYXhfcmVzdWx0X3NpemUgPSBzcGFya19kcml2ZXJfbWF4X3Jlc3VsdF9zaXplCiAgICAgICAgc2VsZi5weXNwYXJrX3B5dGhvbiA9IHB5c3BhcmtfcHl0aG9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHslIGlmIHB5c3BhcmtfcHl0aG9uICV9XAogICAgUFlTUEFSS19QWVRIT049e3B5c3BhcmtfcHl0aG9ufSBcCiAgICB7JSBlbmRpZiAlfVwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">SU5NQVJLRVRfTU9ERUxfUEFUSF9URU1QTEFURSA9IFwKICAgICcvd2F5ZmFpci9tbnQvY3J1bmNoX2J1Y2tldHMvbG9jYWwvZGF0YV9zY2llbmNlL2luX21hcmtldC9scl9pbm1hcmtldENsYXNzX21vZGVsX2FpcmZsb3dfe3N0b3JlX2lkfS5wa2wnCg==</text>
+        <text encoding="base64">ICAgICAgICBpbmNsdWRlX3B5c3BhcmtfcHl0aG9uPVBZU1BBUktfUFlUSE9OX1BBVEgsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\</last-search>
+      <last-search>bigdata_env</last-search>
       <last-offset />
-      <last-pattern>\</last-pattern>
+      <last-pattern>bigdata_env</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -856,8 +865,6 @@
     </search>
     <history>
       <history-search>
-        <entry>days_since_m</entry>
-        <entry>MockDevicemap</entry>
         <entry>cassandra_dao</entry>
         <entry>cust</entry>
         <entry>test_days_since_most</entry>
@@ -876,6 +883,8 @@
         <entry>test_avg_price_vi</entry>
         <entry>customer-guid-0000-0000-000000000000</entry>
         <entry>\</entry>
+        <entry>SPAR</entry>
+        <entry>bigdata_env</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">dnNwbGl0IA==</entry>
@@ -885,7 +894,6 @@
         <entry>qaq</entry>
         <entry>vsplit</entry>
         <entry>wq</entry>
-        <entry>e</entry>
         <entry>vsplit test_controllers.py</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
@@ -897,6 +905,7 @@
         <entry>split</entry>
         <entry>W</entry>
         <entry>ew</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
