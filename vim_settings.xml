@@ -73,11 +73,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" timestamp="1527016534210">
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" timestamp="1527604281061">
         <mark key="'" line="46" column="0" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+        <mark key="[" line="98" column="18" />
+        <mark key="]" line="98" column="23" />
+        <mark key="." line="98" column="23" />
+        <mark key="^" line="98" column="23" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/local.py" timestamp="1525971769820">
         <mark key="[" line="44" column="51" />
@@ -416,12 +417,12 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" timestamp="1526932960047">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="19" />
-        <mark key="^" line="145" column="0" />
-        <mark key="." line="145" column="0" />
+      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" timestamp="1527604420793">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="44" column="36" />
+        <mark key="]" line="45" column="26" />
+        <mark key="^" line="45" column="26" />
+        <mark key="." line="45" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_devicemap.py" timestamp="1527023486725">
         <mark key="'" line="23" column="31" />
@@ -827,16 +828,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>'0 0 * * *'</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>'0 0 * * *'</text>
       </register>
       <register name="/" type="4">
         <text>bigdata_env</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFBZU1BBUktfUFlUSE9OX1BBVEggPSAnL3dheWZhaXIvYXBwL3B5aGFkb29wXzAwMC9weWhhZG9vcF8wMDB2ZW52L2Jpbi9weXRob24nCg==</text>
+        <text encoding="base64">ICAgIGZvciBzdG9yZV9pZCBpbiBhcmdzLnN0b3JlX2lkczoKICAgICAgICAjIFNlbGVjdCB0aGUgY3VzdG9tZXIgaWQsIGNsYXNzIGlkLCBzdG9yZSBpZCwgYW5kIGZlYXR1cmVzIGZyb20gSGl2ZQogICAgICAgIGRhdGEgPSBnZXRfZGF0YShzcGFya1Nlc3Npb24sIHN0b3JlX2lkKQoKICAgICAgICAjIEZvcm1hdHMgdGhlIHNlbGVjdGVkIEhpdmUgZGF0YSBpbnRvIGEgZGF0YSBmcmFtZQogICAgICAgIGZvcm1hdHRlZF9kYXRhID0gZm9ybWF0X2RhdGEoZGF0YSkKCiAgICAgICAgIyBMb2FkcyB0aGUgcGlja2xlZCBtb2RlbCBpbnRvIGEgU3BhcmsgbW9kZWwKICAgICAgICBscl9tb2RlbCA9IGxvYWRfbW9kZWwoc3BhcmtTZXNzaW9uLCBzdG9yZV9pZCkKCiAgICAgICAgIyBDcmVhdGUgc2NvcmVzCiAgICAgICAgcmVzdWx0cyA9IGxyX21vZGVsLnRyYW5zZm9ybShmb3JtYXR0ZWRfZGF0YSkKICAgICAgICByZXN1bHRzID0gcmVzdWx0cy5yZGQubWFwKAogICAgICAgICAgICBsYW1iZGEgcm93OiAocm93WydjdWlkJ10sIHJvd1snY2xpZCddLCByb3dbJ3NvaWQnXSwgcm93Wydwcm9iYWJpbGl0eSddWzFdLml0ZW0oKSkKICAgICAgICApLnRvREYoWydjdWlkJywgJ2NsaWQnLCAnc29pZCcsICdzY29yZSddKQoKICAgICAgICAjIFNhdmUgSW4gTWFya2V0IFNjb3JlcyBhcyBhbiBFeHRlcm5hbCBUYWJsZSAoYWNjZXNzaWJsZSB0aHJvdWdoIEhpdmUgYXQgZGF0YV9zY2llbmNlLnRibGlubWFya2V0c2NvcmVzKQogICAgICAgIHJlc3VsdHMud3JpdGUuc2F2ZUFzVGFibGUoCiAgICAgICAgICAgICdkYXRhX3NjaWVuY2UudGJsSW5NYXJrZXRTY29yZXMnLAogICAgICAgICAgICBtb2RlPSdvdmVyd3JpdGUnLAogICAgICAgICAgICBmb3JtYXQ9J3BhcnF1ZXQnLAogICAgICAgICAgICBwYXRoPScvdmVydGljYS9leHBvcnRfcGFycXVldC9pbk1hcmtldCcKICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">RVNUID0gdGltZXpvbmUoJ1VTL0Vhc3Rlcm4nKQo=</text>
