@@ -139,12 +139,12 @@
         <mark key="." line="51" column="8" />
         <mark key="^" line="40" column="35" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer-identity-jobs/in_market_batch_scoring.py" timestamp="1527618801979">
-        <mark key="'" line="132" column="38" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="30" column="0" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer-identity-jobs/in_market_batch_scoring.py" timestamp="1527622973449">
+        <mark key="'" line="126" column="38" />
+        <mark key="[" line="18" column="57" />
+        <mark key="]" line="19" column="49" />
+        <mark key="." line="19" column="49" />
+        <mark key="^" line="19" column="49" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/factory/bidsift_graph_strategy_factory.py" timestamp="1515018513078">
         <mark key="[" line="1" column="12" />
@@ -212,12 +212,6 @@
         <mark key="]" line="2" column="43" />
         <mark key="^" line="2" column="43" />
         <mark key="." line="2" column="43" />
-      </file>
-      <file name="$USER_HOME$/repositories/aggregation-library/tests/test_models.py" timestamp="1527093776705">
-        <mark key="'" line="54" column="47" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/aggregation-library/README.md" timestamp="1524160366427">
         <mark key="[" line="158" column="102" />
@@ -339,12 +333,12 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" timestamp="1527618502702">
+      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" timestamp="1527622725867">
         <mark key="'" line="26" column="34" />
-        <mark key="[" line="34" column="44" />
-        <mark key="]" line="34" column="44" />
-        <mark key="." line="34" column="44" />
-        <mark key="^" line="34" column="44" />
+        <mark key="[" line="34" column="30" />
+        <mark key="]" line="34" column="34" />
+        <mark key="." line="34" column="34" />
+        <mark key="^" line="34" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_drop_intermediate_facts.sql" timestamp="1524771468468">
         <mark key="[" line="35" column="0" />
@@ -421,11 +415,11 @@
         <mark key="^" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/prediction.py" timestamp="1525375771707">
-        <mark key="[" line="70" column="8" />
-        <mark key="]" line="70" column="8" />
-        <mark key="." line="70" column="8" />
-        <mark key="^" line="18" column="15" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/models/prediction.py" timestamp="1527623814060">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+        <mark key="^" line="1" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/select_in_market_features_for_scoring.sql" timestamp="1526416907253">
         <mark key="'" line="0" column="0" />
@@ -846,53 +840,53 @@
       <jump line="25" column="34" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICcvd2F5ZmFpci9tbnQvY3J1bmNoX2J1Y2tldHMvbG9jYWwvYXJ0aWZhY3RzL2N1c3RvbWVyLWlkZW50aXR5LWpvYnMvaW5tYXJrZXRiYXRjaHNjb3JpbmcvY29uZmlnLnlhbWwnCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>beeline</text>
+        <text>joblibn</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihzZWxmLklOVkFMSURfQ0hBUl9NRVNTQUdFX1RFTVBMQVRFLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICBzdHIoW2FydGlmYWN0X25hbWUsIHJlcG9zaXRvcnlfbmFtZV0pLCBzdHIoc2VsZi5JTlZBTElEX0NIQVJTKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICcvd2F5ZmFpci9tbnQvY3J1bmNoX2J1Y2tldHMvbG9jYWwvYXJ0aWZhY3RzL2N1c3RvbWVyLWlkZW50aXR5LWpvYnMvaW5tYXJrZXRiYXRjaHNjb3JpbmcvY29uZmlnLnlhbWwnCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SU5fTUFSS0VUX0JBVENIX1NDT1JJTkdfSk9CX05BTUUgPSAnaW5tYXJrZXRiYXRjaHNjb3JpbmcnCg==</text>
+        <text encoding="base64">QVJUSUZBQ1RfV09SS1NQQUNFX1BBVEggPSBvcy5wYXRoLmpvaW4oCiAgICBBcnRpZmFjdERvd25sb2FkT3BlcmF0b3IuV09SS1NQQUNFX0JBU0VfUEFUSCwKICAgIENVU1RPTUVSX0lERU5USVRZX0pPQlNfUkVQT1NJVE9SWV9OQU1FLAogICAgSU5fTUFSS0VUX0JBVENIX1NDT1JJTkdfSk9CX05BTUUKKQoKSU5fTUFSS0VUX0JBVENIX1NDT1JJTkdfSk9CX1BBVEggPSBvcy5wYXRoLmpvaW4oCiAgICBBUlRJRkFDVF9XT1JLU1BBQ0VfUEFUSCwgSU5fTUFSS0VUX0JBVENIX1NDT1JJTkdfSk9CX05BTUUgKyAnLmphcicpCklOX01BUktFVF9CQVRDSF9TQ09SSU5HX0pPQl9DT05GSUdfRklMRSA9IG9zLnBhdGguam9pbigKICAgIEFSVElGQUNUX1dPUktTUEFDRV9QQVRILCAnY29uZmlnLnlhbWwnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SU5fTUFSS0VUX0JBVENIX1NDT1JJTkdfSk9CX0NPTkZJR19QQVRIID0gb3MucGF0aC5qb2luKFdPUktTUEFDRV9QQWRkVEgsICdjb25maWcueWFtbCcpCg==</text>
+        <text encoding="base64">ICAgICcvd2F5ZmFpci9tbnQvY3J1bmNoX2J1Y2tldHMvbG9jYWwvYXJ0aWZhY3RzL2N1c3RvbWVyLWlkZW50aXR5LWpvYnMvaW5tYXJrZXRiYXRjaHNjb3JpbmcvY29uZmlnLnlhbWwnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SU5fTUFSS0VUX0JBVENIX1NDT1JJTkdfSk9CX05BTUUgPSAnaW5tYXJrZXRiYXRjaHNjb3JpbmcnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ7fSBjb250YWlucyBhbiBpbnZhbGlkIGNoYXJhY3Rlci4gSW52YWxpZCBjaGFyYWN0ZXJzIGFyZToge30iLmZvcm1hdCgK</text>
+        <text encoding="base64">SU5fTUFSS0VUX0JBVENIX1NDT1JJTkdfSk9CX0NPTkZJR19QQVRIID0gb3MucGF0aC5qb2luKFdPUktTUEFDRV9QQWRkVEgsICdjb25maWcueWFtbCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yIGFueSgpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">IAogCiA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJ7fSBjb250YWlucyBhbiBpbnZhbGlkIGNoYXJhY3Rlci4gSW52YWxpZCBjaGFyYWN0ZXJzIGFyZToge30iLmZvcm1hdCgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">SU5fTUFSS0VUX0JBVENIX1NDT1JJTkdfSk9CX1BBVEggPSBvcy5wYXRoLmpvaW4oCiAgICBXT1JLU1BBQ0VfUEFUSCwgSU5fTUFSS0VUX0JBVENIX1NDT1JJTkdfSk9CX05BTUUgKyAnLmphcicKKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yIGFueSgpOgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">V09SS1NQQUNFX1BBVEggPSBcCiAgICAnL3dheWZhaXIvbW50L2NydW5jaF9idWNrZXRzL2xvY2FsL2N1c3RvbWVyX2lkZW50aXR5L2luX21hcmtldF9iYXRjaF9zY29yaW5nJwo=</text>
+      <register name="9" type="8">
+        <text encoding="base64">IAogCiA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>beeline</last-search>
+      <last-search>joblibn</last-search>
       <last-offset />
-      <last-pattern>beeline</last-pattern>
+      <last-pattern>joblibn</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -900,7 +894,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cust</entry>
         <entry>test_days_since_most</entry>
         <entry>test_days_since</entry>
         <entry>test_most_recent_purchased_sku</entry>
@@ -920,6 +913,7 @@
         <entry>SPAR</entry>
         <entry>bigdata_env</entry>
         <entry>beeline</entry>
+        <entry>joblibn</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">dnNwbGl0IA==</entry>
