@@ -417,12 +417,12 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" timestamp="1527604420793">
-        <mark key="'" line="93" column="0" />
-        <mark key="[" line="44" column="36" />
-        <mark key="]" line="45" column="26" />
-        <mark key="^" line="45" column="26" />
-        <mark key="." line="45" column="26" />
+      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" timestamp="1527606091192">
+        <mark key="'" line="23" column="36" />
+        <mark key="[" line="107" column="16" />
+        <mark key="]" line="107" column="20" />
+        <mark key="^" line="107" column="20" />
+        <mark key="." line="107" column="20" />
       </file>
       <file name="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_devicemap.py" timestamp="1527023486725">
         <mark key="'" line="23" column="31" />
@@ -725,7 +725,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="11" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
       <jump line="52" column="96" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
       <jump line="90" column="32" filename="$USER_HOME$/repositories/aggregation-library/tests/test_business_models.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/aggregation-library/tests/test_business_models.py" />
@@ -825,16 +824,17 @@
       <jump line="81" column="15" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
       <jump line="105" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer-identity-jobs/in_market_batch_scoring.py" />
       <jump line="121" column="38" filename="$USER_HOME$/repositories/airflow-dags/customer-identity-jobs/in_market_batch_scoring.py" />
+      <jump line="23" column="36" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'0 0 * * *'</text>
+        <text>Variable.get('ENV')</text>
       </register>
       <register name="-" type="4">
-        <text>'0 0 * * *'</text>
+        <text>Variable.get('ENV')</text>
       </register>
       <register name="/" type="4">
-        <text>bigdata_env</text>
+        <text>beeline</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZvciBzdG9yZV9pZCBpbiBhcmdzLnN0b3JlX2lkczoKICAgICAgICAjIFNlbGVjdCB0aGUgY3VzdG9tZXIgaWQsIGNsYXNzIGlkLCBzdG9yZSBpZCwgYW5kIGZlYXR1cmVzIGZyb20gSGl2ZQogICAgICAgIGRhdGEgPSBnZXRfZGF0YShzcGFya1Nlc3Npb24sIHN0b3JlX2lkKQoKICAgICAgICAjIEZvcm1hdHMgdGhlIHNlbGVjdGVkIEhpdmUgZGF0YSBpbnRvIGEgZGF0YSBmcmFtZQogICAgICAgIGZvcm1hdHRlZF9kYXRhID0gZm9ybWF0X2RhdGEoZGF0YSkKCiAgICAgICAgIyBMb2FkcyB0aGUgcGlja2xlZCBtb2RlbCBpbnRvIGEgU3BhcmsgbW9kZWwKICAgICAgICBscl9tb2RlbCA9IGxvYWRfbW9kZWwoc3BhcmtTZXNzaW9uLCBzdG9yZV9pZCkKCiAgICAgICAgIyBDcmVhdGUgc2NvcmVzCiAgICAgICAgcmVzdWx0cyA9IGxyX21vZGVsLnRyYW5zZm9ybShmb3JtYXR0ZWRfZGF0YSkKICAgICAgICByZXN1bHRzID0gcmVzdWx0cy5yZGQubWFwKAogICAgICAgICAgICBsYW1iZGEgcm93OiAocm93WydjdWlkJ10sIHJvd1snY2xpZCddLCByb3dbJ3NvaWQnXSwgcm93Wydwcm9iYWJpbGl0eSddWzFdLml0ZW0oKSkKICAgICAgICApLnRvREYoWydjdWlkJywgJ2NsaWQnLCAnc29pZCcsICdzY29yZSddKQoKICAgICAgICAjIFNhdmUgSW4gTWFya2V0IFNjb3JlcyBhcyBhbiBFeHRlcm5hbCBUYWJsZSAoYWNjZXNzaWJsZSB0aHJvdWdoIEhpdmUgYXQgZGF0YV9zY2llbmNlLnRibGlubWFya2V0c2NvcmVzKQogICAgICAgIHJlc3VsdHMud3JpdGUuc2F2ZUFzVGFibGUoCiAgICAgICAgICAgICdkYXRhX3NjaWVuY2UudGJsSW5NYXJrZXRTY29yZXMnLAogICAgICAgICAgICBtb2RlPSdvdmVyd3JpdGUnLAogICAgICAgICAgICBmb3JtYXQ9J3BhcnF1ZXQnLAogICAgICAgICAgICBwYXRoPScvdmVydGljYS9leHBvcnRfcGFycXVldC9pbk1hcmtldCcKICAgICAgICApCg==</text>
@@ -871,9 +871,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bigdata_env</last-search>
+      <last-search>beeline</last-search>
       <last-offset />
-      <last-pattern>bigdata_env</last-pattern>
+      <last-pattern>beeline</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -881,7 +881,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cassandra_dao</entry>
         <entry>cust</entry>
         <entry>test_days_since_most</entry>
         <entry>test_days_since</entry>
@@ -901,6 +900,7 @@
         <entry>\</entry>
         <entry>SPAR</entry>
         <entry>bigdata_env</entry>
+        <entry>beeline</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">dnNwbGl0IA==</entry>
