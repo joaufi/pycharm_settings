@@ -366,12 +366,12 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" timestamp="1527693328583">
-        <mark key="'" line="29" column="61" />
-        <mark key="[" line="20" column="90" />
-        <mark key="]" line="20" column="90" />
-        <mark key="^" line="20" column="19" />
-        <mark key="." line="20" column="90" />
+      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" timestamp="1527695155469">
+        <mark key="'" line="30" column="61" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="17" column="3" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_drop_intermediate_facts.sql" timestamp="1524771468468">
         <mark key="[" line="35" column="0" />
@@ -903,44 +903,44 @@
       <jump line="7" column="41" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgQmVpbmcgZXh0cmEgY2FyZWZ1bCB3aXRoIHRoZSBgc3VkbyAtcmZgIGNvbW1hbmQ7IGlmIGEgZmlsZSBleGlzdHMgaW4gdGhlCiAgICAjIGB3b3Jrc3BhY2VfcGF0aGAgdGhhdCBtYXRjaGVzIHRoZSBgYXJ0aWZhY3RfbmFtZWAsIHRoZW4gZGVsZXRlIHRoZSBmb2xkZXIuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>data</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">L3dheWZhaXIvbW50L2NydW5jaF9idWNrZXRzL2xvY2FsL2FydGlmYWN0cy97eyBwYXJhbXMuYXJ0aWZhY3RfbmFtZSB9fSog</text>
+        <text>/wayfair/mnt/crunch_buckets/local/artifacts/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgQmVpbmcgZXh0cmEgY2FyZWZ1bCB3aXRoIHRoZSBgc3VkbyAtcmZgIGNvbW1hbmQ7IGlmIGEgZmlsZSBleGlzdHMgaW4gdGhlCiAgICAjIGB3b3Jrc3BhY2VfcGF0aGAgdGhhdCBtYXRjaGVzIHRoZSBgYXJ0aWZhY3RfbmFtZWAsIHRoZW4gZGVsZXRlIHRoZSBmb2xkZXIuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBfc2V0X3NwYXJrX2pvYl9hcmd1bWVudHMoc2VsZik6CiAgICAgICAgaWYgc2VsZi5iaWdkYXRhX2VudiA9PSAnZGV2JzoKICAgICAgICAgICAgc2VsZi5kYXRhY2VudGVyID0gJ2RldicKICAgICAgICBlbGlmIHNlbGYuYmlnZGF0YV9lbnYgPT0gJ3Byb2QnOgogICAgICAgICAgICBzZWxmLmRhdGFjZW50ZXIgPSAnYm8xJwogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigKICAgICAgICAgICAgICAgICdFeHBlY3RlZCBEQUdzIEVOViB0byBiZSAiZGV2IiBPUiAicHJvZCIsIGFjdHVhbGx5IGdvdCAie30iJy5mb3JtYXQoc3RyKHNlbGYuZW52KSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3dvcmtzcGFjZV9wYXRoJzogc2VsZi5fd29ya3NwYWNlX3BhdGgsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Rldl9kYXRhY2VudGVyJzogJ2RldicsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Byb2RfZGF0YWNlbnRlcic6ICdibzEnLAo=</text>
+        <text encoding="base64">ICAgIGRlZiBfc2V0X3NwYXJrX2pvYl9hcmd1bWVudHMoc2VsZik6CiAgICAgICAgaWYgc2VsZi5iaWdkYXRhX2VudiA9PSAnZGV2JzoKICAgICAgICAgICAgc2VsZi5kYXRhY2VudGVyID0gJ2RldicKICAgICAgICBlbGlmIHNlbGYuYmlnZGF0YV9lbnYgPT0gJ3Byb2QnOgogICAgICAgICAgICBzZWxmLmRhdGFjZW50ZXIgPSAnYm8xJwogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigKICAgICAgICAgICAgICAgICdFeHBlY3RlZCBEQUdzIEVOViB0byBiZSAiZGV2IiBPUiAicHJvZCIsIGFjdHVhbGx5IGdvdCAie30iJy5mb3JtYXQoc3RyKHNlbGYuZW52KSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFNQQVJLX0NPTkZfRElSPS9ldGMvc3BhcmsyL3t7IHBhcmFtcy5kYXRhY2VudGVyIH19IFwKICAgIEhBRE9PUF9DT05GX0RJUj0vZXRjL2hhZG9vcC97eyBwYXJhbXMuZGF0YWNlbnRlciB9fSBcCiAgICBISVZFX0NPTkZfRElSPS9ldGMvaGl2ZS97eyBwYXJhbXMuZGF0YWNlbnRlciB9fSBcCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2Rldl9kYXRhY2VudGVyJzogJ2RldicsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2RhdGFjZW50ZXInOiBkYXRhY2VudGVyLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Byb2RfZGF0YWNlbnRlcic6ICdibzEnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5ibG9ja21hbmFnZXJfcG9ydF9jb25mID0gJycK</text>
+        <text encoding="base64">ICAgIFNQQVJLX0NPTkZfRElSPS9ldGMvc3BhcmsyL3t7IHBhcmFtcy5kYXRhY2VudGVyIH19IFwKICAgIEhBRE9PUF9DT05GX0RJUj0vZXRjL2hhZG9vcC97eyBwYXJhbXMuZGF0YWNlbnRlciB9fSBcCiAgICBISVZFX0NPTkZfRElSPS9ldGMvaGl2ZS97eyBwYXJhbXMuZGF0YWNlbnRlciB9fSBcCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5ibG9ja21hbmFnZXJfcG9ydF9jb25mID0gJy0tY29uZiAnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2RhdGFjZW50ZXInOiBkYXRhY2VudGVyLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBibG9ja19tYW5hZ2VyX3BvcnQ9Tm9uZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5ibG9ja21hbmFnZXJfcG9ydF9jb25mID0gJycK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
