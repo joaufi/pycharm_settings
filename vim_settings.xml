@@ -82,12 +82,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" timestamp="1527608324643">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="98" column="18" />
-        <mark key="]" line="98" column="23" />
-        <mark key="." line="98" column="23" />
-        <mark key="^" line="98" column="23" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" timestamp="1527688312030">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/local.py" timestamp="1525971769820">
         <mark key="[" line="44" column="51" />
@@ -196,13 +196,6 @@
         <mark key="]" line="48" column="78" />
         <mark key="^" line="48" column="78" />
         <mark key="." line="48" column="78" />
-      </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/batch_customer_segmentation.py" timestamp="1527669971953">
-        <mark key="'" line="71" column="53" />
-        <mark key="[" line="71" column="72" />
-        <mark key="]" line="71" column="80" />
-        <mark key="." line="71" column="80" />
-        <mark key="^" line="71" column="80" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/models/request/input_model.py" timestamp="1517266957136">
         <mark key="[" line="12" column="48" />
@@ -902,53 +895,53 @@
       <jump line="70" column="53" filename="$USER_HOME$/repositories/airflow-dags/batch_customer_segmentation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Bidding</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgRHJvcCB0aGUgY3VycmVudCBkYXRhX3NjaWVuY2UudGJsaW5tYXJrZXRzY29yZXMgdGFibGUKICAgIHNwYXJrU2Vzc2lvbi5zcWwoJ0RST1AgVEFCTEUgSUYgRVhJU1RTIGRhdGFfc2NpZW5jZS50Ymxpbm1hcmtldHNjb3JlcycpCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>Bidding</text>
+        <text>tblInMarketScores</text>
       </register>
       <register name="/" type="4">
-        <text>fai</text>
+        <text>def jv</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAndGV4dCc6IHNsYWNrX21lc3NhZ2VfdGVtcGxhdGUuZm9ybWF0KHN0YXRlPSdzdWNjZWVkZWQnKSwK</text>
+        <text encoding="base64">ICAgICMgRHJvcCB0aGUgY3VycmVudCBkYXRhX3NjaWVuY2UudGJsaW5tYXJrZXRzY29yZXMgdGFibGUKICAgIHNwYXJrU2Vzc2lvbi5zcWwoJ0RST1AgVEFCTEUgSUYgRVhJU1RTIGRhdGFfc2NpZW5jZS50Ymxpbm1hcmtldHNjb3JlcycpCgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAndGV4dCc6IHNsYWNrX21lc3NhZ2VfdGVtcGxhdGUuZm9ybWF0KHN0YXRlPSdzdWNjZWVkZWQnKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAndGV4dCc6IHNsYWNrX21lc3NhZ2VfdGVtcGxhdGUuZm9ybWF0KHN0YXRlPSdmYWlsZWQnKSwK</text>
+        <text encoding="base64">ICAgICAgICAndGV4dCc6IHNsYWNrX21lc3NhZ2VfdGVtcGxhdGUuZm9ybWF0KHN0YXRlPSdzdWNjZWVkZWQnKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2xhY2tfbWVzc2FnZV90ZW1wbGF0ZSA9IFwKICAgIERBR19OQU1FICsgJ2RhZyBydW4gQHt7IGNvbnZlcnRfdGltZXpvbmUoZXhlY3V0aW9uX2RhdGUsICJVUy9FYXN0ZXJuIikgfX0ge3N0YXRlfScK</text>
+        <text encoding="base64">ICAgICAgICAndGV4dCc6IHNsYWNrX21lc3NhZ2VfdGVtcGxhdGUuZm9ybWF0KHN0YXRlPSdmYWlsZWQnKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBjdXN0b21lci1pZGVudGl0eS1kYWdzCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">c2xhY2tfbWVzc2FnZV90ZW1wbGF0ZSA9IFwKICAgIERBR19OQU1FICsgJ2RhZyBydW4gQHt7IGNvbnZlcnRfdGltZXpvbmUoZXhlY3V0aW9uX2RhdGUsICJVUy9FYXN0ZXJuIikgfX0ge3N0YXRlfScK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBjdXN0b21lci1pZGVudGl0eS1kYWdzCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAndGV4dCc6IHNsYWNrX21lc3NhZ2VfdGVtcGxhdGUuZm9ybWF0KHsnc3RhdGUnOiAnc3VjY2VlZGVkJ30pLAo=</text>
+        <text encoding="base64">c2xhY2tfbWVzc2FnZV90ZW1wbGF0ZSA9IFwKICAgIERBR19OQU1FICsgJ2RhZyBydW4gQHt7IGNvbnZlcnRfdGltZXpvbmUoZXhlY3V0aW9uX2RhdGUsICJVUy9FYXN0ZXJuIikgfX0ge3N0YXRlfScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAndGV4dCc6IHNsYWNrX21lc3NhZ2VfdGVtcGxhdGUuZm9ybWF0KHsnc3RhdGUnOiAnZmFpbGVkJ30pLAo=</text>
+        <text encoding="base64">ICAgICAgICAndGV4dCc6IHNsYWNrX21lc3NhZ2VfdGVtcGxhdGUuZm9ybWF0KHsnc3RhdGUnOiAnc3VjY2VlZGVkJ30pLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBweXR6IGltcG9ydCB0aW1lem9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAndGV4dCc6IHNsYWNrX21lc3NhZ2VfdGVtcGxhdGUuZm9ybWF0KHsnc3RhdGUnOiAnZmFpbGVkJ30pLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fai</last-search>
+      <last-search>def jv</last-search>
       <last-offset />
-      <last-pattern>fai</last-pattern>
+      <last-pattern>def jv</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -956,7 +949,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SPAR</entry>
         <entry>bigdata_env</entry>
         <entry>beeline</entry>
         <entry>joblibn</entry>
@@ -976,6 +968,7 @@
         <entry>succ</entry>
         <entry>fia</entry>
         <entry>fai</entry>
+        <entry>def jv</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
