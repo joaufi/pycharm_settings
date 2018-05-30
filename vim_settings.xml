@@ -333,12 +333,12 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" timestamp="1527622725867">
-        <mark key="'" line="26" column="34" />
-        <mark key="[" line="34" column="30" />
-        <mark key="]" line="34" column="34" />
-        <mark key="." line="34" column="34" />
-        <mark key="^" line="34" column="34" />
+      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" timestamp="1527641117603">
+        <mark key="'" line="45" column="42" />
+        <mark key="[" line="68" column="19" />
+        <mark key="]" line="68" column="55" />
+        <mark key="^" line="68" column="55" />
+        <mark key="." line="68" column="55" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_drop_intermediate_facts.sql" timestamp="1524771468468">
         <mark key="[" line="35" column="0" />
@@ -738,9 +738,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/aggregation-library/tests/test_business_models.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/repositories/aggregation-library/tests/test_business_models.py" />
-      <jump line="416" column="31" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
       <jump line="391" column="36" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/daos.py" />
       <jump line="538" column="19" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/daos.py" />
       <jump line="23" column="47" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
@@ -837,56 +834,59 @@
       <jump line="121" column="38" filename="$USER_HOME$/repositories/airflow-dags/customer-identity-jobs/in_market_batch_scoring.py" />
       <jump line="23" column="36" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
       <jump line="16" column="50" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
-      <jump line="25" column="34" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
+      <jump line="54" column="67" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
+      <jump line="25" column="4" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
+      <jump line="26" column="62" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
+      <jump line="45" column="42" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>type</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
-        <text>joblibn</text>
+        <text>rev</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihzZWxmLklOVkFMSURfQ0hBUl9NRVNTQUdFX1RFTVBMQVRFLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICBzdHIoW2FydGlmYWN0X25hbWUsIHJlcG9zaXRvcnlfbmFtZV0pLCBzdHIoc2VsZi5JTlZBTElEX0NIQVJTKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy5iYXNoX29wZXJhdG9yIGltcG9ydCBCYXNoT3BlcmF0b3IK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">QVJUSUZBQ1RfV09SS1NQQUNFX1BBVEggPSBvcy5wYXRoLmpvaW4oCiAgICBBcnRpZmFjdERvd25sb2FkT3BlcmF0b3IuV09SS1NQQUNFX0JBU0VfUEFUSCwKICAgIENVU1RPTUVSX0lERU5USVRZX0pPQlNfUkVQT1NJVE9SWV9OQU1FLAogICAgSU5fTUFSS0VUX0JBVENIX1NDT1JJTkdfSk9CX05BTUUKKQoKSU5fTUFSS0VUX0JBVENIX1NDT1JJTkdfSk9CX1BBVEggPSBvcy5wYXRoLmpvaW4oCiAgICBBUlRJRkFDVF9XT1JLU1BBQ0VfUEFUSCwgSU5fTUFSS0VUX0JBVENIX1NDT1JJTkdfSk9CX05BTUUgKyAnLmphcicpCklOX01BUktFVF9CQVRDSF9TQ09SSU5HX0pPQl9DT05GSUdfRklMRSA9IG9zLnBhdGguam9pbigKICAgIEFSVElGQUNUX1dPUktTUEFDRV9QQVRILCAnY29uZmlnLnlhbWwnKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICcvd2F5ZmFpci9tbnQvY3J1bmNoX2J1Y2tldHMvbG9jYWwvYXJ0aWZhY3RzL2N1c3RvbWVyLWlkZW50aXR5LWpvYnMvaW5tYXJrZXRiYXRjaHNjb3JpbmcvY29uZmlnLnlhbWwnCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">SU5fTUFSS0VUX0JBVENIX1NDT1JJTkdfSk9CX05BTUUgPSAnaW5tYXJrZXRiYXRjaHNjb3JpbmcnCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">SU5fTUFSS0VUX0JBVENIX1NDT1JJTkdfSk9CX0NPTkZJR19QQVRIID0gb3MucGF0aC5qb2luKFdPUktTUEFDRV9QQWRkVEgsICdjb25maWcueWFtbCcpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXRfd29ya3NwYWNlX3BhdGgoc2VsZik6Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9pbml0X2NvbXBsZXRlID0gVHJ1ZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlcG9zaXRvcnlfbmFtZSA9IHJlcG9zaXRvcnlfbmFtZQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ7fSBjb250YWlucyBhbiBpbnZhbGlkIGNoYXJhY3Rlci4gSW52YWxpZCBjaGFyYWN0ZXJzIGFyZToge30iLmZvcm1hdCgK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFydGlmYWN0X25hbWUgPSBhcnRpZmFjdF9uYW1lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yIGFueSgpOgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fd29ya3NwYWNlX3BhdGgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>joblibn</last-search>
+      <last-search>rev</last-search>
       <last-offset />
-      <last-pattern>joblibn</last-pattern>
+      <last-pattern>rev</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -894,7 +894,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test_days_since_most</entry>
         <entry>test_days_since</entry>
         <entry>test_most_recent_purchased_sku</entry>
         <entry>test_customer_guids</entry>
@@ -914,6 +913,7 @@
         <entry>bigdata_env</entry>
         <entry>beeline</entry>
         <entry>joblibn</entry>
+        <entry>rev</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">dnNwbGl0IA==</entry>
@@ -921,9 +921,7 @@
         <entry encoding="base64">JzwsJz5zL3N0YXJ0XF9kYXRlL3N0YXJ0XF9kYXlcX29mZnNldC9pZw==</entry>
         <entry>vspit</entry>
         <entry>qaq</entry>
-        <entry>wq</entry>
         <entry>vsplit test_controllers.py</entry>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>qw</entry>
         <entry>we</entry>
         <entry encoding="base64">JzwsJz5zcGxpdA==</entry>
@@ -935,6 +933,8 @@
         <entry>q</entry>
         <entry>qa</entry>
         <entry>W</entry>
+        <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
