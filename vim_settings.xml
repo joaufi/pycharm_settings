@@ -134,6 +134,12 @@
         <mark key="^" line="36" column="36" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/segmentations_config.py" timestamp="1527709492205">
+        <mark key="[" line="18" column="98" />
+        <mark key="]" line="18" column="98" />
+        <mark key="." line="18" column="98" />
+        <mark key="^" line="18" column="98" />
+      </file>
       <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/__init__.py" timestamp="1527662187878">
         <mark key="[" line="16" column="77" />
         <mark key="]" line="13" column="59" />
@@ -187,16 +193,17 @@
         <mark key="." line="4" column="57" />
         <mark key="^" line="4" column="57" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/batch_uploader_operator.py" timestamp="1527696309890">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/common/identifier_mapper.py" timestamp="1527663421437">
         <mark key="[" line="48" column="78" />
         <mark key="]" line="48" column="78" />
         <mark key="^" line="48" column="78" />
         <mark key="." line="48" column="78" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/batch_customer_segmentation.py" timestamp="1527709705343">
+        <mark key="[" line="92" column="31" />
+        <mark key="]" line="92" column="29" />
+        <mark key="." line="92" column="29" />
+        <mark key="^" line="92" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/models/request/input_model.py" timestamp="1517266957136">
         <mark key="[" line="12" column="48" />
@@ -602,13 +609,6 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" timestamp="1527697820600">
-        <mark key="'" line="51" column="27" />
-        <mark key="[" line="59" column="45" />
-        <mark key="]" line="59" column="44" />
-        <mark key="." line="59" column="44" />
-        <mark key="^" line="59" column="44" />
-      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/inmarket_scores_upload_dag.py" timestamp="1523628499736">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="9" />
@@ -719,12 +719,6 @@
         <mark key="]" line="125" column="20" />
         <mark key="." line="125" column="20" />
         <mark key="^" line="125" column="20" />
-      </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/identity_batch_uploaders.py" timestamp="1527643644662">
-        <mark key="[" line="51" column="40" />
-        <mark key="]" line="51" column="59" />
-        <mark key="." line="51" column="59" />
-        <mark key="^" line="51" column="59" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/customer_guid/purchased_skus_by_customer_guid.sql" timestamp="1523569358567">
         <mark key="[" line="35" column="45" />
@@ -892,10 +886,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Jsb2NrX21hbmFnZXJfcG9ydCc6IGJsb2NrX21hbmFnZXJfcG9ydCwK</text>
+        <text encoding="base64">ICAgICAgICAqKmt3YXJncwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">VGhlIA==</text>
       </register>
       <register name="/" type="4">
         <text>bigdata_env</text>
@@ -904,28 +898,28 @@
         <text>/wayfair/mnt/crunch_buckets/local/artifacts/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Jsb2NrX21hbmFnZXJfcG9ydCc6IGJsb2NrX21hbmFnZXJfcG9ydCwK</text>
+        <text encoding="base64">ICAgICAgICAqKmt3YXJncwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2Jsb2NrX21hbmFnZXJfcG9ydCc6IGJsb2NrX21hbmFnZXJfcG9ydCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJpZ2RhdGFfZW52ID0gYmlnZGF0YV9lbnYK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJsb2NrbWFuYWdlcl9wb3J0X2NvbmYgPSBOb25lCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGFjZW50ZXIgPSBOb25lCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmJpZ2RhdGFfZW52ID0gYmlnZGF0YV9lbnYK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmJsb2NrbWFuYWdlcl9wb3J0X2NvbmYgPSBOb25lCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGFjZW50ZXIgPSBOb25lCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zZXRfc3Bhcmtfam9iX2FyZ3VtZW50cygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3b3Jrc3BhY2VfcGF0aCwK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9zZXRfc3Bhcmtfam9iX2FyZ3VtZW50cygpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB3b3Jrc3BhY2VfcGF0aCwK</text>
@@ -979,13 +973,13 @@
         <entry>ew</entry>
         <entry>wq</entry>
         <entry>e</entry>
-        <entry>qa</entry>
         <entry>.,.+5w</entry>
         <entry>vsplit</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
