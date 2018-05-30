@@ -9,11 +9,6 @@
         <mark key="^" line="1" column="50" />
         <mark key="." line="1" column="50" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sh" timestamp="1527618074776">
-        <mark key="]" line="19" column="88" />
-        <mark key="^" line="19" column="88" />
-        <mark key="." line="19" column="88" />
-      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/hooks/hive_hooks.py" timestamp="1527608581610">
         <mark key="[" line="70" column="54" />
         <mark key="]" line="70" column="49" />
@@ -25,6 +20,9 @@
         <mark key="]" line="1" column="106" />
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="106" />
+      </file>
+      <file name="/a.dummy" timestamp="1527672017585">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_identifier_mapper.py" timestamp="1527663094217">
         <mark key="'" line="28" column="0" />
@@ -142,6 +140,7 @@
         <mark key="^" line="13" column="59" />
         <mark key="." line="13" column="59" />
       </file>
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/app.py" timestamp="1527671309282" />
       <file name="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/aggregation/context.py" timestamp="1517341917960">
         <mark key="[" line="22" column="6" />
         <mark key="]" line="22" column="7" />
@@ -476,6 +475,9 @@
         <mark key="^" line="42" column="45" />
         <mark key="." line="42" column="45" />
       </file>
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/business_lead_scoring/views.py" timestamp="1527671654784">
+        <mark key="^" line="94" column="19" />
+      </file>
       <file name="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_devicemap.py" timestamp="1527023486725">
         <mark key="'" line="23" column="31" />
         <mark key="[" line="43" column="0" />
@@ -573,11 +575,11 @@
         <mark key="^" line="11" column="63" />
         <mark key="." line="11" column="63" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/README.md" timestamp="1515178112835">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="116" column="107" />
+      <file name="$USER_HOME$/repositories/bidsift/README.md" timestamp="1527671938775">
+        <mark key="[" line="246" column="5" />
+        <mark key="]" line="246" column="25" />
+        <mark key="." line="246" column="25" />
+        <mark key="^" line="246" column="25" />
       </file>
       <file name="$USER_HOME$/repositories/aggregation-library/aggregation/models/input_model.py" timestamp="1527663117944">
         <mark key="[" line="0" column="0" />
@@ -901,16 +903,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>the dag and the state</text>
+        <text>Bidding</text>
       </register>
       <register name="-" type="4">
-        <text>the dag and the state</text>
+        <text>Bidding</text>
       </register>
       <register name="/" type="4">
         <text>fai</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAndGV4dCc6IFNMQUNLX01FU1NBR0VfVEVNUExBVEUuZm9ybWF0KGRhZ19uYW1lPURBR19OQU1FLCBzdGF0ZT0nZmFpbGVkJyksCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAndGV4dCc6IHNsYWNrX21lc3NhZ2VfdGVtcGxhdGUuZm9ybWF0KHN0YXRlPSdzdWNjZWVkZWQnKSwK</text>
@@ -990,10 +992,10 @@
         <entry>e</entry>
         <entry>qa</entry>
         <entry>.,.+5w</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>vsplit</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
