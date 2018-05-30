@@ -26,9 +26,6 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="106" />
       </file>
-      <file name="/a.dummy" timestamp="1527274080821">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_identifier_mapper.py" timestamp="1527025776505">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="32" column="28" />
@@ -613,6 +610,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer-identity-dags/in_market_batch_scoring.py" timestamp="1527648214633">
+        <mark key="[" line="21" column="62" />
+        <mark key="]" line="21" column="69" />
+        <mark key="." line="21" column="69" />
+        <mark key="^" line="21" column="69" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/context.py" timestamp="1517342043979">
         <mark key="[" line="2" column="34" />
         <mark key="]" line="2" column="3" />
@@ -860,8 +863,8 @@
       <jump line="28" column="61" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l facts by customer tables</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>l facts by customer tables</text>
@@ -873,31 +876,31 @@
         <text>git@git.csnzoo.com:wayfair/{{ params.repository_name }}.git</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRhZz1kYWcK</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRhc2tfaWQ9J2Rvd25sb2FkX2luX21hcmtldF9iYXRjaF9zY29yaW5nX2pvYicsCg==</text>
+        <text encoding="base64">ICAgIGRhZz1kYWcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJHJlcG9zaXRvcnkK</text>
+        <text encoding="base64">ICAgIHRhc2tfaWQ9J2Rvd25sb2FkX2luX21hcmtldF9iYXRjaF9zY29yaW5nX2pvYicsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy5iYXNoX29wZXJhdG9yIGltcG9ydCBCYXNoT3BlcmF0b3IK</text>
+        <text encoding="base64">ICAgIGVjaG8gJHJlcG9zaXRvcnkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBpbiB0aGUgU3BhcmtTdWJtaXRPcGVyYXRvciBkb3duc3RyZWFtIGZyb20gdGhpcyB0YXNrCg==</text>
+        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy5iYXNoX29wZXJhdG9yIGltcG9ydCBCYXNoT3BlcmF0b3IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBTaW5jZSB0aGUgd29ya3NwYWNlIHBhdGggaXMgZ2VuZXJhdGVkIGJ5IHRoZSBvcGVyYXRvciwgd2UgZ2V0IGl0IGhlcmUgdG8gdXNlIGl0Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">IyBpbiB0aGUgU3BhcmtTdWJtaXRPcGVyYXRvciBkb3duc3RyZWFtIGZyb20gdGhpcyB0YXNrCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">IyBTaW5jZSB0aGUgd29ya3NwYWNlIHBhdGggaXMgZ2VuZXJhdGVkIGJ5IHRoZSBvcGVyYXRvciwgd2UgZ2V0IGl0IGhlcmUgdG8gdXNlIGl0Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">IyBpbiB0aGUgU3BhcmtTdWJtaXRPcGVyYXRvciBkb3duc3RyZWFtIGZyb20gdGhpcyB0YXNrCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
