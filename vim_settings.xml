@@ -359,11 +359,11 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" timestamp="1527695816599">
-        <mark key="[" line="25" column="59" />
-        <mark key="]" line="26" column="43" />
-        <mark key="." line="26" column="43" />
-        <mark key="^" line="26" column="43" />
+      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" timestamp="1527697647861">
+        <mark key="[" line="70" column="34" />
+        <mark key="]" line="70" column="34" />
+        <mark key="." line="70" column="34" />
+        <mark key="^" line="70" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_drop_intermediate_facts.sql" timestamp="1524771468468">
         <mark key="[" line="35" column="0" />
@@ -515,12 +515,12 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" timestamp="1527690801336">
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" timestamp="1527697216959">
         <mark key="'" line="68" column="6" />
-        <mark key="[" line="82" column="74" />
-        <mark key="]" line="82" column="75" />
-        <mark key="^" line="82" column="75" />
-        <mark key="." line="82" column="75" />
+        <mark key="[" line="37" column="41" />
+        <mark key="]" line="37" column="46" />
+        <mark key="^" line="37" column="46" />
+        <mark key="." line="37" column="46" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/setup.py" timestamp="1518032271864">
         <mark key="[" line="28" column="27" />
@@ -600,10 +600,12 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" timestamp="1527695452642">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" timestamp="1527697820600">
+        <mark key="'" line="51" column="27" />
+        <mark key="[" line="59" column="45" />
+        <mark key="]" line="59" column="44" />
+        <mark key="." line="59" column="44" />
+        <mark key="^" line="59" column="44" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/inmarket_scores_upload_dag.py" timestamp="1523628499736">
         <mark key="[" line="2" column="29" />
@@ -784,9 +786,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="374" column="24" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
-      <jump line="433" column="24" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
-      <jump line="397" column="26" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
       <jump line="399" column="40" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
       <jump line="417" column="12" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
       <jump line="381" column="0" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
@@ -872,7 +871,6 @@
       <jump line="12" column="47" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
       <jump line="18" column="24" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
       <jump line="40" column="11" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
-      <jump line="51" column="30" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
       <jump line="52" column="13" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
       <jump line="69" column="18" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
       <jump line="70" column="17" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
@@ -884,55 +882,59 @@
       <jump line="61" column="8" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
       <jump line="41" column="5" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
       <jump line="42" column="5" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
+      <jump line="60" column="8" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
+      <jump line="14" column="21" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
+      <jump line="36" column="8" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
+      <jump line="51" column="27" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3b3Jrc3BhY2VfcGF0aCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2Jsb2NrX21hbmFnZXJfcG9ydCc6IGJsb2NrX21hbmFnZXJfcG9ydCwK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>INVA</text>
+        <text>bigdata_env</text>
       </register>
       <register name="0" type="4">
         <text>/wayfair/mnt/crunch_buckets/local/artifacts/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3b3Jrc3BhY2VfcGF0aCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2Jsb2NrX21hbmFnZXJfcG9ydCc6IGJsb2NrX21hbmFnZXJfcG9ydCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3b3Jrc3BhY2VfcGF0aCwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3b3Jrc3BhY2VfcGF0aCwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3b3Jrc3BhY2VfcGF0aD1Ob25lLAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmJpZ2RhdGFfZW52ID0gYmlnZGF0YV9lbnYK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmJsb2NrbWFuYWdlcl9wb3J0X2NvbmYgPSBOb25lCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGFjZW50ZXIgPSBOb25lCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIEFsbG93cyB1cyB0byBzZXQgYHNlbGYuX3dvcmtzcGFjZV9wYXRoYCBpbiB0aGUgaW5pdCBhbmQgcHJldmVudAogICAgICAgICMgcmVhc3NpZ25tZW50IGFmdGVyIGluaXQgaXMgY29tcGxldGUuCiAgICAgICAgc2VsZi5faW5pdF9jb21wbGV0ZSA9IFRydWUKCiAgICBkZWYgX19zZXRhdHRyX18oc2VsZiwgbmFtZSwgdmFsdWUpOgogICAgICAgIGlmIGdldGF0dHIoc2VsZiwgJ19pbml0X2NvbXBsZXRlJywgRmFsc2UpIGFuZCBcCiAgICAgICAgICAgIG5hbWUgPT0gIl93b3Jrc3BhY2VfcGF0aCIgb3IgXAogICAgICAgICAgICBuYW1lID09ICJfV09SS1NQQUNFX0JBU0VfUEFUSCI6CiAgICAgICAgICAgIHJhaXNlIEF0dHJpYnV0ZUVycm9yKAogICAgICAgICAgICAgICAgIkNhbm5vdCBtb2RpZnkgYW55dGhpbmcgcmVsYXRlZCB0byBfd29ya3NwYWNlX3BhdGggZm9yIHNhZmV0eSEiKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBzdXBlcihBcnRpZmFjdERvd25sb2FkT3BlcmF0b3IsIHNlbGYpLl9fc2V0YXR0cl9fKG5hbWUsIHZhbHVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhbnkoKGNoYXIgaW4gc2VsZi5JTlZBTElEX0NIQVJTKSBmb3IgY2hhciBpbiByZXBvc2l0b3J5X25hbWUpOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKHNlbGYuSU5WQUxJRF9DSEFSX01FU1NBR0VfVEVNUExBVEUuZm9ybWF0KHN0cihyZXBvc2l0b3J5X25hbWUpKSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9zZXRfc3Bhcmtfam9iX2FyZ3VtZW50cygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhbnkoKGNoYXIgaW4gc2VsZi5JTlZBTElEX0NIQVJTKSBmb3IgY2hhciBpbiBhcnRpZmFjdF9uYW1lKToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihzZWxmLklOVkFMSURfQ0hBUl9NRVNTQUdFX1RFTVBMQVRFLmZvcm1hdChzdHIoYXJ0aWZhY3RfbmFtZSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICB3b3Jrc3BhY2VfcGF0aCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhbnkoKGNoYXIgaW4gc2VsZi5JTlZBTElEX0NIQVMpKQo=</text>
+        <text encoding="base64">ICAgICAgICB3b3Jrc3BhY2VfcGF0aCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>INVA</last-search>
+      <last-search>bigdata_env</last-search>
       <last-offset />
-      <last-pattern>INVA</last-pattern>
+      <last-pattern>bigdata_env</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -940,7 +942,6 @@
     </search>
     <history>
       <history-search>
-        <entry>context</entry>
         <entry>WORKSPACE_BASE_PATH</entry>
         <entry>.workspace_path</entry>
         <entry>ls</entry>
@@ -960,6 +961,7 @@
         <entry>&quot;</entry>
         <entry>data</entry>
         <entry>INVA</entry>
+        <entry>bigdata_env</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -980,8 +982,8 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
