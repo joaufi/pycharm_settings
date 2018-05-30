@@ -145,12 +145,12 @@
         <mark key="." line="51" column="8" />
         <mark key="^" line="40" column="35" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer-identity-jobs/in_market_batch_scoring.py" timestamp="1527643684981">
+      <file name="$USER_HOME$/repositories/airflow-dags/customer-identity-jobs/in_market_batch_scoring.py" timestamp="1527647248953">
         <mark key="'" line="124" column="38" />
-        <mark key="[" line="93" column="39" />
-        <mark key="]" line="93" column="58" />
-        <mark key="^" line="93" column="58" />
-        <mark key="." line="93" column="58" />
+        <mark key="[" line="75" column="28" />
+        <mark key="]" line="75" column="61" />
+        <mark key="^" line="75" column="61" />
+        <mark key="." line="75" column="61" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/factory/bidsift_graph_strategy_factory.py" timestamp="1515018513078">
         <mark key="[" line="1" column="12" />
@@ -345,12 +345,12 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" timestamp="1527644213726">
-        <mark key="'" line="22" column="16" />
-        <mark key="[" line="28" column="31" />
-        <mark key="]" line="28" column="30" />
-        <mark key="^" line="28" column="30" />
-        <mark key="." line="28" column="30" />
+      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" timestamp="1527646898754">
+        <mark key="'" line="29" column="61" />
+        <mark key="[" line="21" column="6" />
+        <mark key="]" line="17" column="59" />
+        <mark key="^" line="17" column="59" />
+        <mark key="." line="17" column="59" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_drop_intermediate_facts.sql" timestamp="1524771468468">
         <mark key="[" line="35" column="0" />
@@ -758,9 +758,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="405" column="41" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
-      <jump line="75" column="30" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
-      <jump line="287" column="47" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
       <jump line="333" column="26" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
       <jump line="254" column="18" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
       <jump line="266" column="47" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
@@ -858,64 +855,65 @@
       <jump line="19" column="26" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
       <jump line="21" column="19" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
       <jump line="22" column="16" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
+      <jump line="27" column="4" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
+      <jump line="29" column="51" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
+      <jump line="28" column="61" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>l facts by customer tables</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>l facts by customer tables</text>
       </register>
       <register name="/" type="4">
-        <text>.workspace_path</text>
+        <text>branch</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyBgd29ya3NwYWNlX3BhdGhgIGlzIGdlbmVyYXRlZCBieSB0aGUgQXJ0aWZhY3REb3dubG9hZE9wZXJhdG9yCg==</text>
+      <register name="0" type="4">
+        <text>git@git.csnzoo.com:wayfair/{{ params.repository_name }}.git</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy5iYXNoX29wZXJhdG9yIGltcG9ydCBCYXNoT3BlcmF0b3IK</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBpbiB0aGUgU3BhcmtTdWJtaXRPcGVyYXRvciBkb3duc3RyZWFtIGZyb20gdGhpcyB0YXNrCg==</text>
+        <text encoding="base64">ICAgIGRhZz1kYWcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBTaW5jZSB0aGUgd29ya3NwYWNlIHBhdGggaXMgZ2VuZXJhdGVkIGJ5IHRoZSBvcGVyYXRvciwgd2UgZ2V0IGl0IGhlcmUgdG8gdXNlIGl0Cg==</text>
+        <text encoding="base64">ICAgIHRhc2tfaWQ9J2Rvd25sb2FkX2luX21hcmtldF9iYXRjaF9zY29yaW5nX2pvYicsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBpbiB0aGUgU3BhcmtTdWJtaXRPcGVyYXRvciBkb3duc3RyZWFtIGZyb20gdGhpcyB0YXNrCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gJHJlcG9zaXRvcnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBTaW5jZSB0aGUgd29ya3NwYWNlIHBhdGggaXMgZ2VuZXJhdGVkIGJ5IHRoZSBvcGVyYXRvciwgd2UgZ2V0IGl0IGhlcmUgdG8gdXNlIGl0Cg==</text>
+        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy5iYXNoX29wZXJhdG9yIGltcG9ydCBCYXNoT3BlcmF0b3IK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBpbiB0aGUgU3BhcmtTdWJtaXRPcGVyYXRvciBkb3duc3RyZWFtIGZyb20gdGhpcyB0YXNrCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBTaW5jZSB0aGUgd29ya3NwYWNlIHBhdGggaXMgZ2VuZXJhdGVkIGJ5IHRoZSBvcGVyYXRvciwgd2UgZ2V0IGl0IGhlcmUgdG8gdXNlIGl0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RE9XTkxPQURfQVJUSUZBQ1RfU0NSSVBUID0gIiIiCiAgICBzdWRvIHJtIC1yZiB7d29ya3NwYWNlX3BhdGh9CiAgICBta2RpciB7d29ya3NwYWNlX3BhdGh9CiAgICBjZCB7d29ya3NwYWNlX3BhdGh9CiAgICBicmFuY2g9bWFzdGVyCiAgICByZXY9IiQoZ2l0IGxzLXJlbW90ZSBnaXRAZ2l0LmNzbnpvby5jb206d2F5ZmFpci9tZS1yZWRpcy11cGxvYWRlci5naXQgfCBncmVwIHJlZnMvaGVhZHMvJGJyYW5jaCB8IGN1dCAtZiAxKSIKICAgIGFydGlmYWN0PSJiYXRjaC4kYnJhbmNoLiRyZXYiCgogICAgd2dldCBodHRwOi8vYXJ0aWZhY3Rvcnkuc2VydmljZS5ibzEuY3Nuem9vLmNvbS9hcnRpZmFjdG9yeS9nZW5lcmljLXRhcmJhbGxzL21lLXJlZGlzLXVwbG9hZGVyLyRhcnRpZmFjdC50YXIuZ3oKICAgIHRhciAteHZ6ZiAkYXJ0aWZhY3QudGFyLmd6CiAgICBtdiAkYXJ0aWZhY3QuamFyIHVwbG9hZGVyLmphcgoiIiIuZm9ybWF0KHdvcmtzcGFjZV9wYXRoPVdPUktTUEFDRV9QQVRIKQo=</text>
+        <text encoding="base64">IyBpbiB0aGUgU3BhcmtTdWJtaXRPcGVyYXRvciBkb3duc3RyZWFtIGZyb20gdGhpcyB0YXNrCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">V09SS1NQQUNFX1BBVEggPSAnL3dheWZhaXIvbW50L2NydW5jaF9idWNrZXRzL2xvY2FsL2N1c3RvbWVyX2lkZW50aXR5L2FkaG9jX2JhdGNoX3VwbG9hZGVycycK</text>
+        <text encoding="base64">IyBTaW5jZSB0aGUgd29ya3NwYWNlIHBhdGggaXMgZ2VuZXJhdGVkIGJ5IHRoZSBvcGVyYXRvciwgd2UgZ2V0IGl0IGhlcmUgdG8gdXNlIGl0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>.workspace_path</last-search>
+      <last-search>branch</last-search>
       <last-offset />
-      <last-pattern>.workspace_path</last-pattern>
+      <last-pattern>branch</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>test_customer_guids_a</entry>
-        <entry>test_customer_gu</entry>
         <entry>device_guids</entry>
         <entry>mode</entry>
         <entry>days_si</entry>
@@ -934,6 +932,8 @@
         <entry>context</entry>
         <entry>WORKSPACE_BASE_PATH</entry>
         <entry>.workspace_path</entry>
+        <entry>ls</entry>
+        <entry>branch</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">dnNwbGl0IA==</entry>
