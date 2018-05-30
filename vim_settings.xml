@@ -228,6 +228,12 @@
         <mark key="." line="161" column="10" />
         <mark key="^" line="161" column="10" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer-identity-dags/queries/hive/in_market_batch_scoring/create_drop_intermediate_facts.sql" timestamp="1527649204990">
+        <mark key="[" line="19" column="31" />
+        <mark key="]" line="19" column="51" />
+        <mark key="." line="19" column="51" />
+        <mark key="^" line="19" column="51" />
+      </file>
       <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/common/redis_dao.py" timestamp="1521659128385">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="0" />
@@ -367,6 +373,9 @@
         <mark key="]" line="19" column="44" />
         <mark key="^" line="19" column="44" />
         <mark key="." line="19" column="44" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" timestamp="1527649530159">
+        <mark key="'" line="2794" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/tmpDeviceMapOneHop.sql" timestamp="1522419254846">
         <mark key="[" line="0" column="0" />
@@ -610,11 +619,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer-identity-dags/in_market_batch_scoring.py" timestamp="1527648214633">
-        <mark key="[" line="21" column="62" />
-        <mark key="]" line="21" column="69" />
-        <mark key="." line="21" column="69" />
-        <mark key="^" line="21" column="69" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer-identity-dags/in_market_batch_scoring.py" timestamp="1527650182848">
+        <mark key="'" line="113" column="26" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/context.py" timestamp="1517342043979">
         <mark key="[" line="2" column="34" />
@@ -761,24 +771,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="333" column="26" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
-      <jump line="254" column="18" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
-      <jump line="266" column="47" filename="$USER_HOME$/repositories/scoring-library/tests/test_controllers.py" />
-      <jump line="39" column="30" filename="$USER_HOME$/repositories/airflow-dags/batch_customer_segmentation.py" />
-      <jump line="62" column="25" filename="$USER_HOME$/repositories/airflow-dags/batch_customer_segmentation.py" />
-      <jump line="92" column="0" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
-      <jump line="468" column="41" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/redis_dao.py" />
-      <jump line="421" column="31" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
-      <jump line="276" column="13" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
-      <jump line="291" column="25" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
-      <jump line="308" column="13" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
-      <jump line="313" column="25" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
-      <jump line="330" column="13" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
-      <jump line="335" column="25" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
-      <jump line="353" column="13" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
-      <jump line="374" column="33" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
-      <jump line="503" column="8" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
-      <jump line="516" column="0" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
       <jump line="501" column="0" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
       <jump line="347" column="23" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
       <jump line="524" column="44" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
@@ -861,66 +853,80 @@
       <jump line="27" column="4" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
       <jump line="29" column="51" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
       <jump line="28" column="61" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
+      <jump line="2868" column="8" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="2874" column="12" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="2919" column="22" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="2920" column="35" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="2921" column="35" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="2942" column="13" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="3267" column="16" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="3269" column="22" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="3271" column="12" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="374" column="20" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="2794" column="18" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="96" column="9" filename="$USER_HOME$/repositories/airflow-dags/customer-identity-dags/in_market_batch_scoring.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer-identity-dags/in_market_batch_scoring.py" />
+      <jump line="106" column="2" filename="$USER_HOME$/repositories/airflow-dags/customer-identity-dags/in_market_batch_scoring.py" />
+      <jump line="112" column="2" filename="$USER_HOME$/repositories/airflow-dags/customer-identity-dags/in_market_batch_scoring.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer-identity-dags/in_market_batch_scoring.py" />
+      <jump line="111" column="26" filename="$USER_HOME$/repositories/airflow-dags/customer-identity-dags/in_market_batch_scoring.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>create_master_in_market_features_table_task</text>
       </register>
       <register name="-" type="4">
-        <text>l facts by customer tables</text>
+        <text>create_master_in_market_features_table_task</text>
       </register>
       <register name="/" type="4">
-        <text>branch</text>
+        <text>Step</text>
       </register>
-      <register name="0" type="4">
-        <text>git@git.csnzoo.com:wayfair/{{ params.repository_name }}.git</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyMjIyMjIyMjIwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q1JFQVRFX0lOTUFSS0VUX0ZFQVRVUkVTX0ZJTEVfTkFNRSA9ICdwb3B1bGF0ZV9pbl9tYXJrZXRfZmVhdHVyZXNfdGFibGUuc3FsJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRhZz1kYWcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRhc2tfaWQ9J2Rvd25sb2FkX2luX21hcmtldF9iYXRjaF9zY29yaW5nX2pvYicsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJHJlcG9zaXRvcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy5iYXNoX29wZXJhdG9yIGltcG9ydCBCYXNoT3BlcmF0b3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBpbiB0aGUgU3BhcmtTdWJtaXRPcGVyYXRvciBkb3duc3RyZWFtIGZyb20gdGhpcyB0YXNrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBTaW5jZSB0aGUgd29ya3NwYWNlIHBhdGggaXMgZ2VuZXJhdGVkIGJ5IHRoZSBvcGVyYXRvciwgd2UgZ2V0IGl0IGhlcmUgdG8gdXNlIGl0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBpbiB0aGUgU3BhcmtTdWJtaXRPcGVyYXRvciBkb3duc3RyZWFtIGZyb20gdGhpcyB0YXNrCg==</text>
+        <text encoding="base64">IyMjIyMjIyMjCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>branch</last-search>
+      <last-search>Step</last-search>
       <last-offset />
-      <last-pattern>branch</last-pattern>
+      <last-pattern>Step</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>device_guids</entry>
-        <entry>mode</entry>
-        <entry>days_si</entry>
-        <entry>super</entry>
         <entry>store</entry>
         <entry>dev</entry>
         <entry>def</entry>
@@ -937,9 +943,12 @@
         <entry>.workspace_path</entry>
         <entry>ls</entry>
         <entry>branch</entry>
+        <entry>template_search_path</entry>
+        <entry>template</entry>
+        <entry>step</entry>
+        <entry>Step</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">dnNwbGl0IA==</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz5zL3N0YXJ0XF9kYXRlL3N0YXJ0XF9kYXlcX29mZnNldC9pZw==</entry>
         <entry>vspit</entry>
@@ -951,13 +960,14 @@
         <entry>split</entry>
         <entry>ew</entry>
         <entry>q</entry>
-        <entry>qa</entry>
         <entry>W</entry>
         <entry>wq</entry>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>vsplit</entry>
         <entry>e</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>qa</entry>
+        <entry>.,.+5w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
