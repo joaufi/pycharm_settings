@@ -146,12 +146,12 @@
         <mark key="^" line="13" column="59" />
         <mark key="." line="13" column="59" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/app.py" timestamp="1527711233978">
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/app.py" timestamp="1527715643871">
         <mark key="'" line="102" column="4" />
-        <mark key="[" line="151" column="56" />
-        <mark key="]" line="151" column="55" />
-        <mark key="^" line="151" column="55" />
-        <mark key="." line="151" column="55" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="161" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/aggregation/context.py" timestamp="1517341917960">
         <mark key="[" line="22" column="6" />
@@ -898,7 +898,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VGhlIA==</text>
+        <text>scores_app</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
@@ -910,28 +910,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgQ3VycmVudGx5IHdlIG9ubHkgaGF2ZSBsb2FkZWQgcmVkaXMgaW4gYm8xIGFuZCBzZTEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBUaGUgZGVmYXVsdCBzb2NrZXRfdGltZW91dCBpcyBzb21ldGhpbmcgcmlkaWN1bG91cyBsaWtlIDAuMDA1CiMgZGVmaW5pdGVseSB3YW50IHRvIGFsbG93IG1vcmUgd2lnZ2xlIHJvb20gdGhhbiB0aGF0ClJFRElTX1NPQ0tFVF9USU1FT1VUID0gMC4xNgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGNvbmZpZ3VyZV9yZWRpcyhhcHAsIGVudik6CgogICAgIyBDdXJyZW50bHkgd2Ugb25seSBoYXZlIGxvYWRlZCByZWRpcyBpbiBibzEgYW5kIHNlMQogICAgYXBwLm1lbV9yZWRpc19jbGllbnQgPSBnZXRfbWFya2V0aW5nX21lbV9yZWRpc19jbGllbnQoZW52LCBzb2NrZXRfdGltZW91dD1zb2NrZXRfdGltZW91dCkKCiAgICAjIFBlcnNpc3RlbnQgUmVkaXMgQ2xpZW50CiAgICBhcHAucGVyc2lzdGVudF9yZWRpc19jbGllbnQgPSBnZXRfcGVyc2lzdGVudF9yZWRpc19jbGllbnQoZW52LCBzb2NrZXRfdGltZW91dD1zb2NrZXRfdGltZW91dCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICIiIkNvbmZpZ3VyZSBSZWRpcy4iIiIKICAgICMgVGhlIGBzb2NrZXRfdGltZW91dGAgaXMgb3ZlcnJpZGRlbiBiZWxvdyAoRldJVyAwLjE2LCB3aGljaCBpcyBhIGhvbGQtb3ZlcgogICAgIyBjb25maWd1cmF0aW9uIHZhbHVlLCBzZWVtcyBsaWtlIGFuIG9kZCBjaG9pY2UgPHNocnVnPikKICAgIHNvY2tldF90aW1lb3V0ID0gMC4xNgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICIiIkNvbmZpZ3VyZSBSZWRpcy4iIiIKICAgICMgVGhlIGBzb2NrZXRfdGltZW91dGAgaXMgb3ZlcnJpZGRlbiBiZWxvdyAoRldJVyAwLjE2LCB3aGljaCBpcyBhIGhvbGQtb3ZlcgogICAgIyBjb25maWd1cmF0aW9uIHZhbHVlLCBzZWVtcyBsaWtlIGFuIG9kZCBjaG9pY2UgPHNocnVnPikKICAgIHNvY2tldF90aW1lb3V0ID0gMC4xNgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAqKmt3YXJncwo=</text>
+        <text encoding="base64">ZGVmIGNvbmZpZ3VyZV9yZWRpcyhhcHAsIGVudik6CgogICAgIyBDdXJyZW50bHkgd2Ugb25seSBoYXZlIGxvYWRlZCByZWRpcyBpbiBibzEgYW5kIHNlMQogICAgYXBwLm1lbV9yZWRpc19jbGllbnQgPSBnZXRfbWFya2V0aW5nX21lbV9yZWRpc19jbGllbnQoZW52LCBzb2NrZXRfdGltZW91dD1zb2NrZXRfdGltZW91dCkKCiAgICAjIFBlcnNpc3RlbnQgUmVkaXMgQ2xpZW50CiAgICBhcHAucGVyc2lzdGVudF9yZWRpc19jbGllbnQgPSBnZXRfcGVyc2lzdGVudF9yZWRpc19jbGllbnQoZW52LCBzb2NrZXRfdGltZW91dD1zb2NrZXRfdGltZW91dCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Jsb2NrX21hbmFnZXJfcG9ydCc6IGJsb2NrX21hbmFnZXJfcG9ydCwK</text>
+        <text encoding="base64">ICAgICIiIkNvbmZpZ3VyZSBSZWRpcy4iIiIKICAgICMgVGhlIGBzb2NrZXRfdGltZW91dGAgaXMgb3ZlcnJpZGRlbiBiZWxvdyAoRldJVyAwLjE2LCB3aGljaCBpcyBhIGhvbGQtb3ZlcgogICAgIyBjb25maWd1cmF0aW9uIHZhbHVlLCBzZWVtcyBsaWtlIGFuIG9kZCBjaG9pY2UgPHNocnVnPikKICAgIHNvY2tldF90aW1lb3V0ID0gMC4xNgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIkNvbmZpZ3VyZSBSZWRpcy4iIiIKICAgICMgVGhlIGBzb2NrZXRfdGltZW91dGAgaXMgb3ZlcnJpZGRlbiBiZWxvdyAoRldJVyAwLjE2LCB3aGljaCBpcyBhIGhvbGQtb3ZlcgogICAgIyBjb25maWd1cmF0aW9uIHZhbHVlLCBzZWVtcyBsaWtlIGFuIG9kZCBjaG9pY2UgPHNocnVnPikKICAgIHNvY2tldF90aW1lb3V0ID0gMC4xNgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -970,7 +970,6 @@
         <entry>redis</entry>
       </history-search>
       <history-cmd>
-        <entry>:w</entry>
         <entry encoding="base64">JzwsJz5zL3N0YXJ0XF9kYXRlL3N0YXJ0XF9kYXlcX29mZnNldC9pZw==</entry>
         <entry>vspit</entry>
         <entry>qaq</entry>
@@ -989,6 +988,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qa</entry>
         <entry>W</entry>
+        <entry>:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
