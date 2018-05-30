@@ -366,12 +366,12 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" timestamp="1527689429214">
+      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" timestamp="1527693328583">
         <mark key="'" line="29" column="61" />
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="15" />
-        <mark key="^" line="20" column="15" />
-        <mark key="." line="20" column="15" />
+        <mark key="[" line="20" column="90" />
+        <mark key="]" line="20" column="90" />
+        <mark key="^" line="20" column="19" />
+        <mark key="." line="20" column="90" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_drop_intermediate_facts.sql" timestamp="1524771468468">
         <mark key="[" line="35" column="0" />
@@ -614,12 +614,10 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" timestamp="1527618154498">
-        <mark key="'" line="5" column="15" />
-        <mark key="[" line="36" column="18" />
-        <mark key="]" line="36" column="18" />
-        <mark key="." line="36" column="18" />
-        <mark key="^" line="36" column="23" />
+      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" timestamp="1527693231840">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/inmarket_scores_upload_dag.py" timestamp="1523628499736">
         <mark key="[" line="2" column="29" />
@@ -803,17 +801,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="274" column="55" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
-      <jump line="361" column="65" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
-      <jump line="32" column="8" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
-      <jump line="88" column="24" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
-      <jump line="119" column="24" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
-      <jump line="149" column="24" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
-      <jump line="178" column="24" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
-      <jump line="207" column="24" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
-      <jump line="236" column="24" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
-      <jump line="266" column="24" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
       <jump line="291" column="24" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
       <jump line="314" column="24" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
       <jump line="340" column="26" filename="$USER_HOME$/repositories/aggregation-library/aggregation/models/business_model.py" />
@@ -849,7 +836,6 @@
       <jump line="3" column="43" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
       <jump line="35" column="8" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
       <jump line="49" column="27" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
-      <jump line="81" column="15" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
       <jump line="105" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer-identity-jobs/in_market_batch_scoring.py" />
       <jump line="121" column="38" filename="$USER_HOME$/repositories/airflow-dags/customer-identity-jobs/in_market_batch_scoring.py" />
       <jump line="23" column="36" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
@@ -903,55 +889,67 @@
       <jump line="82" column="75" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
       <jump line="77" column="6" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
       <jump line="68" column="6" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
+      <jump line="12" column="47" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
+      <jump line="18" column="24" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
+      <jump line="40" column="11" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
+      <jump line="51" column="30" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
+      <jump line="52" column="13" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
+      <jump line="69" column="18" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
+      <jump line="70" column="17" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
+      <jump line="80" column="19" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
+      <jump line="81" column="17" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
+      <jump line="82" column="21" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
+      <jump line="83" column="17" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
+      <jump line="7" column="41" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGBldmVudGRhdGVgIHN0cmluZwo=</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>data</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGBldmVudGRhdGVgIHN0cmluZyBDT01NRU5UICdZWVlZLU1NLUREJwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">L3dheWZhaXIvbW50L2NydW5jaF9idWNrZXRzL2xvY2FsL2FydGlmYWN0cy97eyBwYXJhbXMuYXJ0aWZhY3RfbmFtZSB9fSog</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGBldmVudGRhdGVgIHN0cmluZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdtYXhfYWN0aXZlX3J1bnMnOiAxLAo=</text>
+        <text encoding="base64">ICAgIGRlZiBfc2V0X3NwYXJrX2pvYl9hcmd1bWVudHMoc2VsZik6CiAgICAgICAgaWYgc2VsZi5iaWdkYXRhX2VudiA9PSAnZGV2JzoKICAgICAgICAgICAgc2VsZi5kYXRhY2VudGVyID0gJ2RldicKICAgICAgICBlbGlmIHNlbGYuYmlnZGF0YV9lbnYgPT0gJ3Byb2QnOgogICAgICAgICAgICBzZWxmLmRhdGFjZW50ZXIgPSAnYm8xJwogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigKICAgICAgICAgICAgICAgICdFeHBlY3RlZCBEQUdzIEVOViB0byBiZSAiZGV2IiBPUiAicHJvZCIsIGFjdHVhbGx5IGdvdCAie30iJy5mb3JtYXQoc3RyKHNlbGYuZW52KSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdzdGFydF9kYXRlJzogU1RBUlRfREFURSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2Rldl9kYXRhY2VudGVyJzogJ2RldicsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgRHJvcCB0aGUgY3VycmVudCBkYXRhX3NjaWVuY2UudGJsaW5tYXJrZXRzY29yZXMgdGFibGUKICAgIHNwYXJrU2Vzc2lvbi5zcWwoJ0RST1AgVEFCTEUgSUYgRVhJU1RTIGRhdGFfc2NpZW5jZS50Ymxpbm1hcmtldHNjb3JlcycpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Byb2RfZGF0YWNlbnRlcic6ICdibzEnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAndGV4dCc6IHNsYWNrX21lc3NhZ2VfdGVtcGxhdGUuZm9ybWF0KHN0YXRlPSdzdWNjZWVkZWQnKSwK</text>
+        <text encoding="base64">ICAgIFNQQVJLX0NPTkZfRElSPS9ldGMvc3BhcmsyL3t7IHBhcmFtcy5kYXRhY2VudGVyIH19IFwKICAgIEhBRE9PUF9DT05GX0RJUj0vZXRjL2hhZG9vcC97eyBwYXJhbXMuZGF0YWNlbnRlciB9fSBcCiAgICBISVZFX0NPTkZfRElSPS9ldGMvaGl2ZS97eyBwYXJhbXMuZGF0YWNlbnRlciB9fSBcCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAndGV4dCc6IHNsYWNrX21lc3NhZ2VfdGVtcGxhdGUuZm9ybWF0KHN0YXRlPSdzdWNjZWVkZWQnKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2RhdGFjZW50ZXInOiBkYXRhY2VudGVyLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAndGV4dCc6IHNsYWNrX21lc3NhZ2VfdGVtcGxhdGUuZm9ybWF0KHN0YXRlPSdmYWlsZWQnKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5ibG9ja21hbmFnZXJfcG9ydF9jb25mID0gJycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2xhY2tfbWVzc2FnZV90ZW1wbGF0ZSA9IFwKICAgIERBR19OQU1FICsgJ2RhZyBydW4gQHt7IGNvbnZlcnRfdGltZXpvbmUoZXhlY3V0aW9uX2RhdGUsICJVUy9FYXN0ZXJuIikgfX0ge3N0YXRlfScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5ibG9ja21hbmFnZXJfcG9ydF9jb25mID0gJy0tY29uZiAnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBjdXN0b21lci1pZGVudGl0eS1kYWdzCg==</text>
+        <text encoding="base64">ICAgICAgICBibG9ja19tYW5hZ2VyX3BvcnQ9Tm9uZSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>data</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -959,7 +957,6 @@
     </search>
     <history>
       <history-search>
-        <entry>joblibn</entry>
         <entry>rev</entry>
         <entry>context</entry>
         <entry>WORKSPACE_BASE_PATH</entry>
@@ -979,6 +976,7 @@
         <entry>def jv</entry>
         <entry>START_DATE</entry>
         <entry>&quot;</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -998,8 +996,8 @@
         <entry>vsplit</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
