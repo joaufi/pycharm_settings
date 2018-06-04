@@ -64,11 +64,11 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_inmarket/create_inmarket_device_map.sql" timestamp="1527607687414">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="15" column="16" />
-        <mark key="^" line="15" column="16" />
-        <mark key="." line="15" column="16" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/hive/create_inmarket/create_inmarket_device_map.sql" timestamp="1528120322062">
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="13" />
+        <mark key="^" line="15" column="13" />
+        <mark key="." line="15" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/product_price_model.py" timestamp="1513026974438">
         <mark key="[" line="1" column="5" />
@@ -82,12 +82,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" timestamp="1527688312030">
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" timestamp="1528120192181">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="0" />
+        <mark key="[" line="99" column="26" />
+        <mark key="]" line="99" column="42" />
+        <mark key="." line="99" column="42" />
+        <mark key="^" line="99" column="42" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/local.py" timestamp="1525971769820">
         <mark key="[" line="44" column="51" />
@@ -202,11 +202,6 @@
         <mark key="]" line="48" column="78" />
         <mark key="^" line="48" column="78" />
         <mark key="." line="48" column="78" />
-      </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/batch_customer_segmentation.py" timestamp="1527716285168">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/models/request/input_model.py" timestamp="1517266957136">
         <mark key="[" line="12" column="48" />
@@ -619,13 +614,6 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" timestamp="1527717420209">
-        <mark key="'" line="27" column="36" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="63" column="67" />
-        <mark key="." line="63" column="67" />
-        <mark key="^" line="63" column="67" />
-      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/inmarket_scores_upload_dag.py" timestamp="1523628499736">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="9" />
@@ -746,7 +734,6 @@
       <file name="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_dao.py" timestamp="1527023786493">
         <mark key="'" line="85" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/me_redis/me_redis/constants.py" timestamp="1527707466174" />
       <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_dowload_operator.py" timestamp="1527274076338">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="3" />
@@ -905,11 +892,11 @@
       <jump line="27" column="36" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>tblInMarketScores</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>tblInMarketScores</text>
       </register>
       <register name="/" type="4">
         <text>params</text>
@@ -991,7 +978,6 @@
         <entry>split</entry>
         <entry>ew</entry>
         <entry>wq</entry>
-        <entry>e</entry>
         <entry>.,.+5w</entry>
         <entry>vsplit</entry>
         <entry>q</entry>
@@ -1000,6 +986,7 @@
         <entry>W</entry>
         <entry>:w</entry>
         <entry>qa</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
