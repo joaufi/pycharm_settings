@@ -148,6 +148,13 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="161" column="7" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_features_table.sql" timestamp="1528400687841">
+        <mark key="'" line="18" column="164" />
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="40" />
+        <mark key="." line="23" column="40" />
+        <mark key="^" line="23" column="40" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/aggregation/context.py" timestamp="1517341917960">
         <mark key="[" line="22" column="6" />
         <mark key="]" line="22" column="7" />
@@ -834,7 +841,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="11" filename="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_devicemap.py" />
       <jump line="25" column="31" filename="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_devicemap.py" />
       <jump line="41" column="12" filename="$USER_HOME$/repositories/aggregation-library/tests/test_controllers.py" />
       <jump line="7" column="8" filename="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_dao.py" />
@@ -934,13 +940,14 @@
       <jump line="63" column="0" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
       <jump line="22" column="16" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
       <jump line="2061" column="13" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="18" column="164" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_features_table.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHslIGlmIHBhcmFtcy5zcGFya19maWxlcyAlfSBcCiAgICAtLWZpbGVzPXt7IHBhcmFtcy5zcGFya19maWxlcyB9fSBcCiAgICB7JSBlbmRpZiAlfSBcCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YW1wbGUg</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text encoding="base64">YW1wbGUg</text>
       </register>
       <register name="/" type="4">
         <text>param params</text>
@@ -976,7 +983,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1028,10 +1035,10 @@
         <entry>e</entry>
         <entry>qw</entry>
         <entry>Lw</entry>
-        <entry>W</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>qa</entry>
+        <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
