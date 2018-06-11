@@ -111,6 +111,9 @@
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="28" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pytz/__init__.py" timestamp="1528723256530">
+        <mark key="'" line="18" column="16" />
+      </file>
       <file name="$USER_HOME$/repositories/aggregation-library/aggregation/daos.py" timestamp="1522791469005">
         <mark key="[" line="206" column="79" />
         <mark key="]" line="150" column="7" />
@@ -265,12 +268,12 @@
         <mark key="^" line="18" column="534" />
         <mark key="." line="18" column="118" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/utility_macros/datetime_macros.py" timestamp="1528685922492">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="48" />
-        <mark key="." line="5" column="48" />
-        <mark key="^" line="5" column="48" />
+      <file name="$USER_HOME$/repositories/airflow-dags/utility_macros/datetime_macros.py" timestamp="1528724149032">
+        <mark key="'" line="8" column="8" />
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="8" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/tests/mocks/mock_context.py" timestamp="1517342371765">
         <mark key="[" line="3" column="0" />
@@ -509,11 +512,11 @@
         <mark key="." line="25" column="67" />
         <mark key="^" line="25" column="67" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/utility/slack_message_template.py" timestamp="1528484950312">
-        <mark key="[" line="4" column="53" />
-        <mark key="]" line="4" column="66" />
-        <mark key="^" line="4" column="66" />
-        <mark key="." line="4" column="66" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/utility/slack_message_template.py" timestamp="1528723425279">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="29" />
+        <mark key="^" line="4" column="29" />
+        <mark key="." line="4" column="29" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1522245921036">
         <mark key="[" line="34" column="30" />
@@ -857,11 +860,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="8" filename="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_dao.py" />
-      <jump line="85" column="15" filename="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_dao.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/repositories/aggregation-library/tests/mocks/mock_identifier_mapper.py" />
-      <jump line="23" column="32" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
-      <jump line="24" column="71" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
       <jump line="76" column="57" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
       <jump line="3" column="43" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
       <jump line="35" column="8" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
@@ -957,16 +955,21 @@
       <jump line="18" column="164" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_features_table.sql" />
       <jump line="66" column="15" filename="$USER_HOME$/repositories/airflow-dags/redis_loader_dag.py" />
       <jump line="14" column="0" filename="$USER_HOME$/repositories/airflow-dags/utility_macros/datetime_macros.py" />
+      <jump line="3" column="26" filename="$USER_HOME$/repositories/airflow-dags/utility_macros/datetime_macros.py" />
+      <jump line="4" column="51" filename="$USER_HOME$/repositories/airflow-dags/utility_macros/datetime_macros.py" />
+      <jump line="8" column="8" filename="$USER_HOME$/repositories/airflow-dags/utility_macros/datetime_macros.py" />
+      <jump line="233" column="8" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pytz/__init__.py" />
+      <jump line="18" column="16" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pytz/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>is converted to UTC first.</text>
+        <text>P</text>
       </register>
       <register name="-" type="4">
-        <text>is converted to UTC first.</text>
+        <text>P</text>
       </register>
       <register name="/" type="4">
-        <text>failure_slack</text>
+        <text>'utc'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2xhY2tfb25fYW55X2ZhaWx1cmUgPSBDaGF0Ym90TWVzc2FnZU9wZXJhdG9yKAogICAgdGFza19pZD0nc2xhY2tfb25fYW55X2ZhaWx1cmUnLAogICAgbWVzc2FnZT17CiAgICAgICAgJ3RleHQnOiBTTEFDS19NRVNTQUdFX1RFTVBMQVRFLAogICAgICAgICdjb2xvcic6ICd5ZWxsb3cnLAogICAgfSwKICAgIHBhcmFtcz17CiAgICAgICAgJ3N0YXRlJzogJ2ZhaWxlZCcsCiAgICB9LAogICAgdXNlcnM9Q0hBVEJPVF9BUkdTWydzbGFja191c2VycyddLAogICAgcm9vbXM9Q0hBVEJPVF9BUkdTWydjcml0X3NsYWNrX3Jvb21zJ10sCiAgICB0cmlnZ2VyX3J1bGU9VHJpZ2dlclJ1bGUuT05FX0ZBSUxFRCwKICAgIGRhZz1kYWcKKQpzbGFja19vbl9hbGxfc3VjY2VzcyA9IENoYXRib3RNZXNzYWdlT3BlcmF0b3IoCiAgICB0YXNrX2lkPSdzbGFja19vbl9hbGxfc3VjY2VzcycsCiAgICBtZXNzYWdlPXsKICAgICAgICAndGV4dCc6IFNMQUNLX01FU1NBR0VfVEVNUExBVEUsCiAgICAgICAgJ2NvbG9yJzogJ2dvb2QnCiAgICB9LAogICAgcGFyYW1zPXsKICAgICAgICAnc3RhdGUnOiAnc3VjY2VlZGVkJywKICAgIH0sCiAgICB1c2Vycz1DSEFUQk9UX0FSR1NbJ3NsYWNrX3VzZXJzJ10sCiAgICByb29tcz1DSEFUQk9UX0FSR1NbJ2luZm9fc2xhY2tfcm9vbXMnXSwKICAgIHRyaWdnZXJfcnVsZT1UcmlnZ2VyUnVsZS5BTExfU1VDQ0VTUywKICAgIGRhZz1kYWcKKQo=</text>
@@ -1003,9 +1006,9 @@
       </register>
     </registers>
     <search>
-      <last-search>failure_slack</last-search>
+      <last-search>'utc'</last-search>
       <last-offset />
-      <last-pattern>failure_slack</last-pattern>
+      <last-pattern>'utc'</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -1013,8 +1016,6 @@
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
-        <entry>INVA</entry>
         <entry>bigdata_env</entry>
         <entry>redis</entry>
         <entry>params</entry>
@@ -1033,6 +1034,8 @@
         <entry>'</entry>
         <entry>param params</entry>
         <entry>failure_slack</entry>
+        <entry>tar</entry>
+        <entry>'utc'</entry>
       </history-search>
       <history-cmd>
         <entry>vspit</entry>
