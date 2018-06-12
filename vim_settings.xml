@@ -756,11 +756,12 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py" timestamp="1527602727855">
-        <mark key="[" line="8" column="6" />
-        <mark key="]" line="8" column="16" />
-        <mark key="." line="8" column="16" />
-        <mark key="^" line="8" column="16" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py" timestamp="1528833091017">
+        <mark key="'" line="66" column="27" />
+        <mark key="[" line="66" column="23" />
+        <mark key="]" line="66" column="25" />
+        <mark key="^" line="66" column="25" />
+        <mark key="." line="66" column="25" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/.python_environment/lib/python3.6/site-packages/me_redis/constants.py" timestamp="1525791459317">
         <mark key="[" line="8" column="38" />
@@ -864,7 +865,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="43" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
       <jump line="35" column="8" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
       <jump line="49" column="27" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
       <jump line="105" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer-identity-jobs/in_market_batch_scoring.py" />
@@ -964,13 +964,14 @@
       <jump line="233" column="8" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pytz/__init__.py" />
       <jump line="18" column="16" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pytz/__init__.py" />
       <jump line="11" column="18" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="66" column="27" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSAK</text>
+      <register name="&quot;" type="4">
+        <text>Cassy</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>Cassy</text>
       </register>
       <register name="/" type="4">
         <text>'utc'</text>
@@ -979,31 +980,31 @@
         <text encoding="base64">ICAgICAgICBmZWF0dXJlX2FycmF5ID0gbnVtcHkuYXJyYXkoW2ZlYXR1cmVzXSkKICAgICAgICBwcmVkaWN0aW9uID0gbW9kZWwucHJlZGljdChmZWF0dXJlX2FycmF5KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIG4gaW4gcmFuZ2UoNSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2Nhc3NhbmRyYWMxbiVkLmhvc3QuYm8xLmNzbnpvby5jb20nICUgKG4gKyAxKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVkaWN0aW9uID0gbW9kZWwucHJlZGljdChkYXRhZnJhbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2Nhc3NhbmRyYWMxbiVkLmhvc3QuYm8xLmNzbnpvby5jb20nICUgKG4gKyAxKQogICAgICAgICAgICBmb3IgbiBpbiByYW5nZSg1KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhZnJhbWUgPSBEYXRhRnJhbWUoW2ZlYXR1cmVzXSwgY29sdW1ucz1mZWF0dXJlX25hbWVzKQo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmZWF0dXJlX25hbWVzID0gVHJhaW5lZE1vZGVsQ29uc3RhbnRzLkJPT1NURURfVFJFRV9GRUFUVVJFUwo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmVkaWN0aW9uID0gbW9kZWwucHJlZGljdChkYXRhZnJhbWUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBmcm9tIHNjb3JpbmcuY29uc3RhbnRzIGltcG9ydCBUcmFpbmVkTW9kZWxDb25zdGFudHMK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhZnJhbWUgPSBEYXRhRnJhbWUoW2ZlYXR1cmVzXSwgY29sdW1ucz1mZWF0dXJlX25hbWVzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmZWF0dXJlX25hbWVzID0gVHJhaW5lZE1vZGVsQ29uc3RhbnRzLkJPT1NURURfVFJFRV9GRUFUVVJFUwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBmcm9tIHhnYm9vc3QgaW1wb3J0IERNYXRyaXgK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
