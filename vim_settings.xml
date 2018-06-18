@@ -301,6 +301,9 @@
         <mark key="^" line="43" column="4" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" timestamp="1529334806296">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/aggregation-library/requirements.txt" timestamp="1527020507299">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -649,12 +652,12 @@
         <mark key="." line="80" column="38" />
         <mark key="^" line="85" column="5" />
       </file>
-      <file name="$USER_HOME$/repositories/DB/BOSQLC6/csn_product/tables/update_coefficients_v2_1_PROD.sql" timestamp="1529331805348">
-        <mark key="'" line="49" column="30" />
+      <file name="$USER_HOME$/repositories/DB/BOSQLC6/csn_product/tables/update_coefficients_v2_1_PROD.sql" timestamp="1529334793268">
+        <mark key="'" line="133" column="120" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="49" column="30" />
-        <mark key="^" line="49" column="30" />
-        <mark key="." line="49" column="30" />
+        <mark key="]" line="125" column="119" />
+        <mark key="^" line="125" column="119" />
+        <mark key="." line="125" column="119" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/identity_batch_uploaders.py" timestamp="1528256849906">
         <mark key="[" line="51" column="40" />
@@ -721,9 +724,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="27" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" />
-      <jump line="105" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer-identity-jobs/in_market_batch_scoring.py" />
-      <jump line="121" column="38" filename="$USER_HOME$/repositories/airflow-dags/customer-identity-jobs/in_market_batch_scoring.py" />
       <jump line="23" column="36" filename="$USER_HOME$/repositories/airflow-dags/inmarket_score_customers_spark_hive.py" />
       <jump line="54" column="67" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
       <jump line="25" column="4" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
@@ -821,6 +821,9 @@
       <jump line="11" column="18" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
       <jump line="66" column="27" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py" />
       <jump line="49" column="30" filename="$USER_HOME$/repositories/DB/BOSQLC6/csn_product/tables/update_coefficients_v2_1_PROD.sql" />
+      <jump line="22" column="11" filename="$USER_HOME$/repositories/DB/BOSQLC6/csn_product/tables/update_coefficients_v2_1_PROD.sql" />
+      <jump line="125" column="116" filename="$USER_HOME$/repositories/DB/BOSQLC6/csn_product/tables/update_coefficients_v2_1_PROD.sql" />
+      <jump line="133" column="120" filename="$USER_HOME$/repositories/DB/BOSQLC6/csn_product/tables/update_coefficients_v2_1_PROD.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -830,7 +833,7 @@
         <text>Cassy</text>
       </register>
       <register name="/" type="4">
-        <text>'utc'</text>
+        <text>919</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmZWF0dXJlX2FycmF5ID0gbnVtcHkuYXJyYXkoW2ZlYXR1cmVzXSkKICAgICAgICBwcmVkaWN0aW9uID0gbW9kZWwucHJlZGljdChmZWF0dXJlX2FycmF5KQo=</text>
@@ -867,9 +870,9 @@
       </register>
     </registers>
     <search>
-      <last-search>'utc'</last-search>
+      <last-search>919</last-search>
       <last-offset />
-      <last-pattern>'utc'</last-pattern>
+      <last-pattern>919</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -877,7 +880,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bigdata_env</entry>
         <entry>redis</entry>
         <entry>params</entry>
         <entry>id</entry>
@@ -897,6 +899,7 @@
         <entry>failure_slack</entry>
         <entry>tar</entry>
         <entry>'utc'</entry>
+        <entry>919</entry>
       </history-search>
       <history-cmd>
         <entry>vspit</entry>
