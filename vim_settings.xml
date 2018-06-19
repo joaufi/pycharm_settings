@@ -465,8 +465,8 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" timestamp="1529415703377">
-        <mark key="'" line="162" column="37" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" timestamp="1529417982701">
+        <mark key="'" line="18" column="37" />
         <mark key="[" line="138" column="44" />
         <mark key="]" line="138" column="44" />
         <mark key="." line="138" column="44" />
@@ -740,7 +740,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="67" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
       <jump line="25" column="4" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
       <jump line="26" column="62" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
       <jump line="45" column="42" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" />
@@ -840,6 +839,7 @@
       <jump line="125" column="116" filename="$USER_HOME$/repositories/DB/BOSQLC6/csn_product/tables/update_coefficients_v2_1_PROD.sql" />
       <jump line="133" column="120" filename="$USER_HOME$/repositories/DB/BOSQLC6/csn_product/tables/update_coefficients_v2_1_PROD.sql" />
       <jump line="162" column="37" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
+      <jump line="18" column="37" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -849,7 +849,7 @@
         <text>business_lead_scoring</text>
       </register>
       <register name="/" type="4">
-        <text>inmarketbatchscoring</text>
+        <text>in_market_batch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmZWF0dXJlX2FycmF5ID0gbnVtcHkuYXJyYXkoW2ZlYXR1cmVzXSkKICAgICAgICBwcmVkaWN0aW9uID0gbW9kZWwucHJlZGljdChmZWF0dXJlX2FycmF5KQo=</text>
@@ -886,9 +886,9 @@
       </register>
     </registers>
     <search>
-      <last-search>inmarketbatchscoring</last-search>
+      <last-search>in_market_batch</last-search>
       <last-offset />
-      <last-pattern>inmarketbatchscoring</last-pattern>
+      <last-pattern>in_market_batch</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -896,7 +896,6 @@
     </search>
     <history>
       <history-search>
-        <entry>params</entry>
         <entry>id</entry>
         <entry>fe</entry>
         <entry>hql</entry>
@@ -916,6 +915,7 @@
         <entry>'utc'</entry>
         <entry>919</entry>
         <entry>inmarketbatchscoring</entry>
+        <entry>in_market_batch</entry>
       </history-search>
       <history-cmd>
         <entry>vspit</entry>
