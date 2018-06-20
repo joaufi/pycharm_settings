@@ -153,6 +153,12 @@
       <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/aggregate_model.py" timestamp="1529420876377">
         <mark key="[" line="38" column="95" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/added_cart_skus_by_device_guid.sql" timestamp="1529466146135">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="34" column="94" />
+        <mark key="]" line="34" column="94" />
+        <mark key="." line="34" column="94" />
+      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/factory/bidsift_graph_strategy_factory.py" timestamp="1515018513078">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="1" column="7" />
@@ -782,7 +788,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2920" column="35" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="2921" column="35" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="2942" column="13" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="3267" column="16" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
@@ -882,16 +887,17 @@
       <jump line="437" column="7" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="438" column="7" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="439" column="7" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/added_cart_skus_by_device_guid.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBkaXZpc2lvbgo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>ashrestha</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>fu</text>
+        <text>TO_DATE(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHNlYWJvcm4gYXMgc25zCmltcG9ydCBweW9kYmMKaW1wb3J0IHBhbmRhcyBhcyBwZAojaW1wb3J0IHF1ZXJ5X2dlbmVyYXRvcgppbXBvcnQgbWF0cGxvdGxpYgppbXBvcnQgbnVtcHkgYXMgbnAKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAppbXBvcnQgcmUKaW1wb3J0IHBpY2tsZQolbWF0cGxvdGxpYiBpbmxpbmUKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBkaXZpc2lvbgppbXBvcnQganNvbgppbXBvcnQgYXN0CgoKCmltcG9ydCBweWFycm93IGFzIHBhCmltcG9ydCBweWFycm93LnBhcnF1ZXQgYXMgcHEKZnJvbSBweWhpdmUgaW1wb3J0IGhpdmUKaW1wb3J0IHRleHR3cmFwCg==</text>
@@ -928,9 +934,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fu</last-search>
+      <last-search>TO_DATE(</last-search>
       <last-offset />
-      <last-pattern>fu</last-pattern>
+      <last-pattern>TO_DATE(</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -938,7 +944,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_w</entry>
         <entry>_W</entry>
         <entry>'</entry>
         <entry>param params</entry>
@@ -958,6 +963,7 @@
         <entry>ag</entry>
         <entry>st</entry>
         <entry>fu</entry>
+        <entry>TO_DATE(</entry>
       </history-search>
       <history-cmd>
         <entry>vspit</entry>
