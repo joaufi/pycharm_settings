@@ -469,12 +469,12 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/client/model_storage_client.py" timestamp="1529953048904">
-        <mark key="'" line="29" column="47" />
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="9" />
-        <mark key="." line="21" column="9" />
-        <mark key="^" line="21" column="9" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/client/model_storage_client.py" timestamp="1529956813531">
+        <mark key="'" line="30" column="47" />
+        <mark key="[" line="13" column="59" />
+        <mark key="]" line="13" column="62" />
+        <mark key="." line="13" column="62" />
+        <mark key="^" line="13" column="62" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/utilities.py" timestamp="1529519398334">
         <mark key="[" line="157" column="0" />
@@ -536,9 +536,11 @@
         <mark key="." line="28" column="27" />
         <mark key="^" line="28" column="27" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/model_service_script.py" timestamp="1529953242587">
+      <file name="$USER_HOME$/repositories/scoring-library/model_service_script.py" timestamp="1529955513001">
         <mark key="[" line="27" column="22" />
-        <mark key="]" line="51" column="48" />
+        <mark key="]" line="30" column="48" />
+        <mark key="^" line="30" column="48" />
+        <mark key="." line="30" column="48" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/models/structs/aggregate_payload_model" timestamp="1517261430743">
         <mark key="[" line="0" column="0" />
@@ -950,10 +952,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>self.MODEL_STORAGE_LATEST_TEMPLATE.format(model=model, version=version)</text>
+        <text>DEV</text>
       </register>
       <register name="-" type="4">
-        <text>self.MODEL_STORAGE_LATEST_TEMPLATE.format(model=model, version=version)</text>
+        <text>DEV</text>
       </register>
       <register name="/" type="4">
         <text>models</text>
@@ -962,31 +964,31 @@
         <text encoding="base64">ICAgICAgICByZXF1ZXN0X3VybCA9IHNlbGYuTU9ERUxfU1RPUkFHRV9MQVRFU1RfVEVNUExBVEUuZm9ybWF0KG1vZGVsPW1vZGVsLCB2ZXJzaW9uPXZlcnNpb24pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdHIocmVzcG9uc2VfY29udGVudCkpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0X3VybCA9ICdodHRwOi8vMTAuMjI4LjEyOC40MS9tb2RlbF9zdG9yYWdlL21vZGVscy91c2VyX2xldmVsX2JpZGRpbmcvdmVyc2lvbnMvdHJhaW5lZF92Mi90cmFpbmluZ19ncm91cHMvMTAyNy9maWxlcycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE1PREVMX1NUT1JBR0VfSEFSRENPREVTVF9QQVRIID0gCg==</text>
+        <text encoding="base64">ICAgIE1PREVMX1NUT1JBR0VfSEFSRENPREVTVF9QQVRIPSAnbW9kZWxzL3ttb2RlbH0vdmVyc2lvbnMve3ZlcnNpb259L3RyYWluaW5nX2dyb3Vwcy8xMDI3L2ZpbGVzJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuX3RyYWluZWRfbW9kZWxzW3NwZWNpZmljYXRpb25bJ2FsZ29yaXRobSddXQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzdHIocmVzcG9uc2VfY29udGVudCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubW9kZWxfc3RvcmFnZV9jbGllbnQuZ2V0X3RyYWluZWRfbW9kZWwoc3BlY2lmaWNhdGlvblsndHJhaW5lZF9tb2RlbCddLCB2ZXJzaW9uKQo=</text>
+        <text encoding="base64">ICAgIE1PREVMX1NUT1JBR0VfSEFSRENPREVTVF9QQVRIID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuX3RyYWluZWRfbW9kZWxzW3NwZWNpZmljYXRpb25bJ2FsZ29yaXRobSddXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubW9kZWxfc3RvcmFnZV9jbGllbnQuZ2V0X3RyYWluZWRfbW9kZWwoc3BlY2lmaWNhdGlvblsnbW9kZWxfbmFtZSddLCB2ZXJzaW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubW9kZWxfc3RvcmFnZV9jbGllbnQuZ2V0X3RyYWluZWRfbW9kZWwoc3BlY2lmaWNhdGlvblsndHJhaW5lZF9tb2RlbCddLCB2ZXJzaW9uKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBAbGF6eV9wcm9wZXJ0eQogICAgZGVmIHRyYWluZWRfbW9kZWxzKHNlbGYpOgogICAgICAgIHJldHVybiB7fQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubW9kZWxfc3RvcmFnZV9jbGllbnQuZ2V0X3RyYWluZWRfbW9kZWwoc3BlY2lmaWNhdGlvblsnbW9kZWxfbmFtZSddLCB2ZXJzaW9uKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiB0cmFpbmVkX21vZGVscyhzZWxmKToK</text>
+        <text encoding="base64">CiAgICBAbGF6eV9wcm9wZXJ0eQogICAgZGVmIHRyYWluZWRfbW9kZWxzKHNlbGYpOgogICAgICAgIHJldHVybiB7fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
