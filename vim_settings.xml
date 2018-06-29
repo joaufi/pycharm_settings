@@ -48,11 +48,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/views.py" timestamp="1530301595165">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="120" column="73" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/views.py" timestamp="1530303385896">
+        <mark key="'" line="62" column="4" />
+        <mark key="[" line="87" column="66" />
+        <mark key="]" line="87" column="73" />
+        <mark key="." line="87" column="73" />
+        <mark key="^" line="87" column="73" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1530123189243">
         <mark key="[" line="82" column="0" />
@@ -96,8 +97,8 @@
         <mark key="^" line="112" column="3" />
         <mark key="." line="112" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/utilities.py" timestamp="1530301154356">
-        <mark key="'" line="47" column="39" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/utilities.py" timestamp="1530303364284">
+        <mark key="'" line="27" column="6" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="64" />
       </file>
@@ -141,9 +142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/repositories/airflow-dags/utility_macros/datetime_macros.py" />
-      <jump line="3" column="26" filename="$USER_HOME$/repositories/airflow-dags/utility_macros/datetime_macros.py" />
-      <jump line="4" column="51" filename="$USER_HOME$/repositories/airflow-dags/utility_macros/datetime_macros.py" />
       <jump line="8" column="8" filename="$USER_HOME$/repositories/airflow-dags/utility_macros/datetime_macros.py" />
       <jump line="233" column="8" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pytz/__init__.py" />
       <jump line="18" column="16" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pytz/__init__.py" />
@@ -241,6 +239,9 @@
       <jump line="4" column="62911" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" />
       <jump line="9751" column="30" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" />
       <jump line="9748" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.json" />
+      <jump line="27" column="6" filename="$USER_HOME$/repositories/bidsift/bidsift/utilities.py" />
+      <jump line="26" column="25" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/views.py" />
+      <jump line="62" column="4" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -250,7 +251,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>Score</text>
+        <text>get_context</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBzY29yaW5nLmV2YWx1YXRpb24uY29udGV4dCBpbXBvcnQgQ29udGV4dCBhcyBTY29yaW5nQ29udGV4dAo=</text>
@@ -287,9 +288,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Score</last-search>
+      <last-search>get_context</last-search>
       <last-offset />
-      <last-pattern>Score</last-pattern>
+      <last-pattern>get_context</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -297,7 +298,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fu</entry>
         <entry>TO_DATE(</entry>
         <entry>return</entry>
         <entry>])</entry>
@@ -317,6 +317,7 @@
         <entry>strategy</entry>
         <entry>score</entry>
         <entry>Score</entry>
+        <entry>get_context</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
