@@ -73,18 +73,12 @@
         <mark key="^" line="5" column="244" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py" timestamp="1529957691711">
-        <mark key="'" line="18" column="10" />
-      </file>
       <file name="$USER_HOME$/repositories/DB/BOSQLC6/csn_product/tables/update_coefficients_v2_1_PROD.sql" timestamp="1529342304712">
         <mark key="'" line="133" column="120" />
         <mark key="[" line="16" column="40" />
         <mark key="]" line="16" column="40" />
         <mark key="^" line="16" column="40" />
         <mark key="." line="16" column="40" />
-      </file>
-      <file name="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/requests/models.py" timestamp="1529958955925">
-        <mark key="'" line="278" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" timestamp="1529420688276">
         <mark key="'" line="0" column="0" />
@@ -129,22 +123,23 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1530286751532">
+        <mark key="'" line="9751" column="30" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9751" column="30" />
+        <mark key="^" line="9751" column="30" />
+        <mark key="." line="9751" column="30" />
+      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/rich_application.py" timestamp="1530125147312">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/utilities.py" timestamp="1529589542560">
-        <mark key="'" line="47" column="39" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" timestamp="1530113733546">
         <mark key="[" line="23" column="11" />
         <mark key="]" line="23" column="20" />
         <mark key="." line="23" column="20" />
         <mark key="^" line="23" column="20" />
-      </file>
-      <file name="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/requests/api.py" timestamp="1529958891968">
-        <mark key="'" line="107" column="31" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_features_table.sql" timestamp="1528400687841">
         <mark key="'" line="18" column="164" />
@@ -164,6 +159,13 @@
         <mark key="]" line="18" column="9" />
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.json" timestamp="1530286754271">
+        <mark key="'" line="9748" column="21" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9748" column="21" />
+        <mark key="^" line="9748" column="21" />
+        <mark key="." line="9748" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/.gitignore" timestamp="1530125697589">
         <mark key="[" line="9" column="0" />
@@ -208,8 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="164" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_features_table.sql" />
-      <jump line="66" column="15" filename="$USER_HOME$/repositories/airflow-dags/redis_loader_dag.py" />
       <jump line="14" column="0" filename="$USER_HOME$/repositories/airflow-dags/utility_macros/datetime_macros.py" />
       <jump line="3" column="26" filename="$USER_HOME$/repositories/airflow-dags/utility_macros/datetime_macros.py" />
       <jump line="4" column="51" filename="$USER_HOME$/repositories/airflow-dags/utility_macros/datetime_macros.py" />
@@ -308,6 +308,8 @@
       <jump line="2" column="1184" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" />
       <jump line="3" column="7044" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" />
       <jump line="4" column="62911" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" />
+      <jump line="9751" column="30" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" />
+      <jump line="9748" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -350,7 +352,7 @@
         <text encoding="base64">cHljcGFyc2VyPT0yLjE3Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsplit</text>
       </register>
     </registers>
     <search>
@@ -397,15 +399,15 @@
         <entry>Lw</entry>
         <entry encoding="base64">JzwsJz4=</entry>
         <entry>e</entry>
-        <entry>vsplit</entry>
         <entry>wq</entry>
         <entry>2</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>qa</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>qa</entry>
+        <entry>vsplit</entry>
       </history-cmd>
       <history-expr />
       <history-input />
