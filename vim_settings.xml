@@ -41,6 +41,12 @@
         <mark key="." line="64" column="0" />
         <mark key="^" line="66" column="17" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" timestamp="1530566296884">
+        <mark key="[" line="150" column="11" />
+        <mark key="]" line="151" column="0" />
+        <mark key="^" line="151" column="0" />
+        <mark key="." line="151" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/model_service_script.py" timestamp="1529958302165">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
@@ -71,28 +77,16 @@
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/collection/product_collection.py" timestamp="1530298277085">
         <mark key="[" line="35" column="25" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/delete_temp_tables/drop_scribe_page_views_temp_table.sql" timestamp="1530566775289" />
       <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" timestamp="1530123427976">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" timestamp="1530209810877">
-        <mark key="'" line="1668" column="3" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1838" column="38" />
-        <mark key="^" line="1838" column="38" />
-        <mark key="." line="1838" column="38" />
-        <mark key="n" line="1668" column="3" />
-      </file>
       <file name="$USER_HOME$/repositories/akritee_script/requirements.txt" timestamp="1529439960301">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1530296038398">
-        <mark key="]" line="112" column="3" />
-        <mark key="^" line="112" column="3" />
-        <mark key="." line="112" column="3" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/rich_application.py" timestamp="1530125147312">
         <mark key="[" line="12" column="0" />
@@ -115,12 +109,39 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/priced_skus_by_device_guid.sql" timestamp="1530567169855">
+        <mark key="[" line="36" column="92" />
+        <mark key="]" line="36" column="92" />
+        <mark key="." line="36" column="92" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/create_temp_tables/scribe_page_views_temp_table.sql" timestamp="1530566581562">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="86" />
+        <mark key="^" line="11" column="5" />
+        <mark key="." line="11" column="5" />
+      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/views.py" timestamp="1530303385896">
         <mark key="'" line="62" column="4" />
         <mark key="[" line="87" column="66" />
         <mark key="]" line="87" column="73" />
         <mark key="." line="87" column="73" />
         <mark key="^" line="87" column="73" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/added_cart_skus_by_device_guid.sql" timestamp="1530567115351">
+        <mark key="[" line="35" column="94" />
+        <mark key="]" line="35" column="94" />
+        <mark key="." line="35" column="94" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/viewed_sku_by_device_guid.sql" timestamp="1530567600547">
+        <mark key="[" line="31" column="59" />
+        <mark key="]" line="31" column="58" />
+        <mark key="." line="31" column="58" />
+        <mark key="^" line="31" column="58" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/keyword_search_by_device_guid.sql" timestamp="1530567150803">
+        <mark key="[" line="32" column="91" />
+        <mark key="]" line="32" column="91" />
+        <mark key="." line="32" column="91" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/.gitignore" timestamp="1530125697589">
         <mark key="[" line="9" column="0" />
@@ -253,32 +274,32 @@
       <jump line="51" column="19" filename="$USER_HOME$/repositories/bidsift/bidsift/utilities.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>get_con</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEFFUk9TUElLRV9DT05GSUcgPSB7CiAgICAgICAgJ2hvc3RzJzogWwogICAgICAgICAgICAnYWVyb3NwaWtlYzFuMS5kZXYuYm8xLmNzbnpvby5jb20nLAogICAgICAgICAgICAnYWVyb3NwaWtlYzFuMi5kZXYuYm8xLmNzbnpvby5jb20nLAogICAgICAgICAgICAnYWVyb3NwaWtlYzFuMy5kZXYuYm8xLmNzbnpvby5jb20nLAogICAgICAgIF0sCiAgICB9Cg==</text>
+        <text encoding="base64">V0hFUkUgZXZlbnRkYXRlIEJFVFdFRU4gJ3t7IG1hY3Jvcy5kc19hZGQodG9tb3Jyb3dfZHMsIC0yOCkgfX0nIEFORCAne3sgdG9tb3Jyb3dfZHMgfX0nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">V0hFUkUgZXZlbnRkYXRlIEJFVFdFRU4gQU5EIDplbmREYXRlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBiaWRzaWZ0LnV0aWxpdGllcyBpbXBvcnQgZ2V0X2NvbnRleHQK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBiaWRzaWZ0LnV0aWxpdGllcyBpbXBvcnQgZ2V0X2NvbnRleHQK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBiaWRzaWZ0IGltcG9ydCB0YXNrX2NvbnRleHQKZnJvbSBiaWRzaWZ0LnJpY2hfYXBwbGljYXRpb24gaW1wb3J0IEFwcGxpY2F0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBzY29yaW5nLmV2YWx1YXRpb24uY29udGV4dCBpbXBvcnQgQ29udGV4dCBhcyBTY29yaW5nQ29udGV4dAo=</text>
+        <text encoding="base64">ZnJvbSBiaWRzaWZ0IGltcG9ydCB0YXNrX2NvbnRleHQKZnJvbSBiaWRzaWZ0LnJpY2hfYXBwbGljYXRpb24gaW1wb3J0IEFwcGxpY2F0aW9uCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ZnJvbSBzY29yaW5nLmV2YWx1YXRpb24uY29udGV4dCBpbXBvcnQgQ29udGV4dCBhcyBTY29yaW5nQ29udGV4dAo=</text>
@@ -290,7 +311,7 @@
         <text encoding="base64">ZnJvbSBzY29yaW5nLmV2YWx1YXRpb24uY29udGV4dCBpbXBvcnQgQ29udGV4dCBhcyBTY29yaW5nQ29udGV4dAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBhdGNpZWNvbW1vbnMgaW1wb3J0IENvbnRleHQK</text>
+        <text encoding="base64">ZnJvbSBzY29yaW5nLmV2YWx1YXRpb24uY29udGV4dCBpbXBvcnQgQ29udGV4dCBhcyBTY29yaW5nQ29udGV4dAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -331,7 +352,6 @@
       <history-cmd>
         <entry>we</entry>
         <entry encoding="base64">JzwsJz5zcGxpdA==</entry>
-        <entry>split</entry>
         <entry>ew</entry>
         <entry>.,.+5w</entry>
         <entry>:w</entry>
@@ -348,6 +368,7 @@
         <entry>vsplit</entry>
         <entry>qa!</entry>
         <entry>W</entry>
+        <entry>split</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
