@@ -45,12 +45,12 @@
         <mark key="." line="64" column="0" />
         <mark key="^" line="66" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" timestamp="1530746342438">
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" timestamp="1530748015993">
         <mark key="'" line="110" column="0" />
-        <mark key="[" line="116" column="8" />
-        <mark key="]" line="116" column="24" />
-        <mark key="^" line="116" column="24" />
-        <mark key="." line="116" column="24" />
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="27" column="23" />
+        <mark key="^" line="27" column="23" />
+        <mark key="." line="27" column="23" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/model_service_script.py" timestamp="1529958302165">
         <mark key="[" line="72" column="0" />
@@ -88,6 +88,11 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_temp_tables/populate_in_market_scribe_page_views.sql" timestamp="1530747865938">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" timestamp="1530123427976">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -102,6 +107,12 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_temp_tables/populate_in_market_device_map.sql" timestamp="1530747766432">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="4" column="34" />
+        <mark key="^" line="4" column="34" />
+        <mark key="." line="4" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/rich_application.py" timestamp="1530125147312">
         <mark key="[" line="12" column="0" />
@@ -297,40 +308,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CREATE_TEMP_TABLES_PATH</text>
+        <text>in_market_tables</text>
       </register>
       <register name="-" type="4">
-        <text>CREATE_TEMP_TABLES_PATH</text>
+        <text>in_market_tables</text>
       </register>
       <register name="/" type="4">
         <text>POP</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cXVlcnlfd2l0aF9jb25maWcgPSBISVZFX1FVRVJZX0NPTkZJR19URU1QTEFURS5mb3JtYXQoCiAgICBxdWVyeT1vcGVuKFBPUFVMQVRFX0lOX01BUktFVF9GRUFUVVJFU19UQUJMRV9GSUxFX1BBVEgsICdyJykucmVhZCgpCikK</text>
+        <text encoding="base64">UE9QVUxBVEVfSU5fTUFSS0VUX1RBQkxFU19ESVJfUEFUSCA9IG9zLnBhdGguam9pbihISVZFX1FVRVJZX0RJUl9QQVRILCAncG9wdWxhdGVfaW5fbWFya2V0X3RhYmxlcycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">REVMRVRFX1RFTVBfVEFCTEVTX1BBVEggPSBvcy5wYXRoLmpvaW4oSElWRV9RVUVSWV9ESVJfUEFUSCwgJ2RlbGV0ZV90ZW1wX3RhYmxlcy9kcm9wX3NjcmliZV9wYWdlX3ZpZXdzX3RlbXBfdGFibGUuc3FsJykK</text>
+        <text encoding="base64">UE9QVUxBVEVfSU5fTUFSS0VUX1BBR0VfVklFV1NfVEFCTEVfRklMRV9QQVRIID0gXAogICAgb3MucGF0aC5qb2luKEhJVkVfUVVFUllfRElSX1BBVEgsICdwb3B1bGF0ZV9pbl9tYXJrZXRfcGFnZV92aWV3cy5zcWwnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">V0hFUkUgZXZlbnRkYXRlIEJFVFdFRU4gQU5EIDplbmREYXRlOwo=</text>
+        <text encoding="base64">LS0gY3JlYXRlIGEgdGVtcCB0YWJsZSB3aXRoIHJlZmVycmluZ3RyYW5zYWN0aW9uaWQsIHRyYW5zYWN0aW9uaWQgYW5kIGV2ZW50ZGF0ZSBmcm9tIHRibHNjcmliZXBhZ2V2aWV3Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">REVMRVRFX1RFTVBfVEFCTEVTX1BBVEggPSBvcy5wYXRoLmpvaW4oSElWRV9RVUVSWV9ESVJfUEFUSCwgJ2RlbGV0ZV90ZW1wX3RhYmxlcy9kcm9wX3NjcmliZV9wYWdlX3ZpZXdzX3RlbXBfdGFibGUuc3FsJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBiaWRzaWZ0LnV0aWxpdGllcyBpbXBvcnQgZ2V0X2NvbnRleHQK</text>
+        <text encoding="base64">V0hFUkUgZXZlbnRkYXRlIEJFVFdFRU4gQU5EIDplbmREYXRlOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBiaWRzaWZ0IGltcG9ydCB0YXNrX2NvbnRleHQKZnJvbSBiaWRzaWZ0LnJpY2hfYXBwbGljYXRpb24gaW1wb3J0IEFwcGxpY2F0aW9uCg==</text>
+        <text encoding="base64">ZnJvbSBiaWRzaWZ0LnV0aWxpdGllcyBpbXBvcnQgZ2V0X2NvbnRleHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBzY29yaW5nLmV2YWx1YXRpb24uY29udGV4dCBpbXBvcnQgQ29udGV4dCBhcyBTY29yaW5nQ29udGV4dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBzY29yaW5nLmV2YWx1YXRpb24uY29udGV4dCBpbXBvcnQgQ29udGV4dCBhcyBTY29yaW5nQ29udGV4dAo=</text>
+        <text encoding="base64">ZnJvbSBiaWRzaWZ0IGltcG9ydCB0YXNrX2NvbnRleHQKZnJvbSBiaWRzaWZ0LnJpY2hfYXBwbGljYXRpb24gaW1wb3J0IEFwcGxpY2F0aW9uCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ZnJvbSBzY29yaW5nLmV2YWx1YXRpb24uY29udGV4dCBpbXBvcnQgQ29udGV4dCBhcyBTY29yaW5nQ29udGV4dAo=</text>
