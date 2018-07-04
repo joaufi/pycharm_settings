@@ -25,7 +25,6 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_tables/populate_in_market_device_map.sql" timestamp="1530561831099" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" timestamp="1530210120207">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="293" />
@@ -77,7 +76,6 @@
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/collection/product_collection.py" timestamp="1530298277085">
         <mark key="[" line="35" column="25" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/delete_temp_tables/drop_scribe_page_views_temp_table.sql" timestamp="1530566775289" />
       <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" timestamp="1530123427976">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -98,6 +96,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="64" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/purchased_skus_by_customer_guid.sql" timestamp="1530736376138">
+        <mark key="'" line="35" column="17" />
+        <mark key="[" line="35" column="89" />
+        <mark key="]" line="35" column="89" />
+        <mark key="." line="35" column="89" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/artifact_download_operator.py" timestamp="1530113733546">
         <mark key="[" line="23" column="11" />
         <mark key="]" line="23" column="20" />
@@ -114,7 +118,7 @@
         <mark key="]" line="36" column="92" />
         <mark key="." line="36" column="92" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/create_temp_tables/scribe_page_views_temp_table.sql" timestamp="1530566581562">
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/create_temp_tables/scribe_page_views_temp_table.sql" timestamp="1530736596551">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="86" />
         <mark key="^" line="11" column="5" />
@@ -132,6 +136,7 @@
         <mark key="]" line="35" column="94" />
         <mark key="." line="35" column="94" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/recent_filters_by_device_guid.sql" timestamp="1530736535354" />
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/viewed_sku_by_device_guid.sql" timestamp="1530569543705">
         <mark key="[" line="31" column="111" />
         <mark key="]" line="31" column="111" />
@@ -172,7 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="233" column="8" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pytz/__init__.py" />
       <jump line="18" column="16" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pytz/__init__.py" />
       <jump line="11" column="18" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
       <jump line="66" column="27" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py" />
@@ -272,6 +276,7 @@
       <jump line="26" column="25" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/views.py" />
       <jump line="62" column="4" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/views.py" />
       <jump line="51" column="19" filename="$USER_HOME$/repositories/bidsift/bidsift/utilities.py" />
+      <jump line="35" column="17" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/purchased_skus_by_customer_guid.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -281,7 +286,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>get_con</text>
+        <text>TO</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">V0hFUkUgZXZlbnRkYXRlIEJFVFdFRU4gJ3t7IG1hY3Jvcy5kc19hZGQodG9tb3Jyb3dfZHMsIC0yOCkgfX0nIEFORCAne3sgdG9tb3Jyb3dfZHMgfX0nCg==</text>
@@ -318,9 +323,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get_con</last-search>
+      <last-search>TO</last-search>
       <last-offset />
-      <last-pattern>get_con</last-pattern>
+      <last-pattern>TO</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -328,7 +333,6 @@
     </search>
     <history>
       <history-search>
-        <entry>return</entry>
         <entry>])</entry>
         <entry>2:</entry>
         <entry>1</entry>
@@ -348,6 +352,7 @@
         <entry>Score</entry>
         <entry>get_context</entry>
         <entry>get_con</entry>
+        <entry>TO</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
@@ -364,11 +369,11 @@
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>qa</entry>
         <entry>vsplit</entry>
         <entry>qa!</entry>
         <entry>W</entry>
         <entry>split</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
