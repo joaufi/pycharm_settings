@@ -45,11 +45,12 @@
         <mark key="." line="64" column="0" />
         <mark key="^" line="66" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" timestamp="1530566296884">
-        <mark key="[" line="150" column="11" />
-        <mark key="]" line="151" column="0" />
-        <mark key="^" line="151" column="0" />
-        <mark key="." line="151" column="0" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" timestamp="1530746342438">
+        <mark key="'" line="110" column="0" />
+        <mark key="[" line="116" column="8" />
+        <mark key="]" line="116" column="24" />
+        <mark key="^" line="116" column="24" />
+        <mark key="." line="116" column="24" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/model_service_script.py" timestamp="1529958302165">
         <mark key="[" line="72" column="0" />
@@ -153,10 +154,10 @@
         <mark key="." line="35" column="94" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/recent_filters_by_device_guid.sql" timestamp="1530736535354" />
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/viewed_sku_by_device_guid.sql" timestamp="1530569543705">
-        <mark key="[" line="31" column="111" />
-        <mark key="]" line="31" column="111" />
-        <mark key="." line="31" column="111" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/viewed_sku_by_device_guid.sql" timestamp="1530746200785">
+        <mark key="[" line="31" column="116" />
+        <mark key="]" line="31" column="116" />
+        <mark key="." line="31" column="116" />
         <mark key="^" line="31" column="111" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/keyword_search_by_device_guid.sql" timestamp="1530567150803">
@@ -193,7 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="16" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pytz/__init__.py" />
       <jump line="11" column="18" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
       <jump line="66" column="27" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py" />
       <jump line="49" column="30" filename="$USER_HOME$/repositories/DB/BOSQLC6/csn_product/tables/update_coefficients_v2_1_PROD.sql" />
@@ -293,37 +293,38 @@
       <jump line="62" column="4" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/views.py" />
       <jump line="51" column="19" filename="$USER_HOME$/repositories/bidsift/bidsift/utilities.py" />
       <jump line="35" column="17" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/purchased_skus_by_customer_guid.sql" />
+      <jump line="110" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>CREATE_TEMP_TABLES_PATH</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>CREATE_TEMP_TABLES_PATH</text>
       </register>
       <register name="/" type="4">
-        <text>TO</text>
+        <text>POP</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">V0hFUkUgZXZlbnRkYXRlIEJFVFdFRU4gJ3t7IG1hY3Jvcy5kc19hZGQodG9tb3Jyb3dfZHMsIC0yOCkgfX0nIEFORCAne3sgdG9tb3Jyb3dfZHMgfX0nCg==</text>
+        <text encoding="base64">cXVlcnlfd2l0aF9jb25maWcgPSBISVZFX1FVRVJZX0NPTkZJR19URU1QTEFURS5mb3JtYXQoCiAgICBxdWVyeT1vcGVuKFBPUFVMQVRFX0lOX01BUktFVF9GRUFUVVJFU19UQUJMRV9GSUxFX1BBVEgsICdyJykucmVhZCgpCikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">V0hFUkUgZXZlbnRkYXRlIEJFVFdFRU4gQU5EIDplbmREYXRlOwo=</text>
+        <text encoding="base64">REVMRVRFX1RFTVBfVEFCTEVTX1BBVEggPSBvcy5wYXRoLmpvaW4oSElWRV9RVUVSWV9ESVJfUEFUSCwgJ2RlbGV0ZV90ZW1wX3RhYmxlcy9kcm9wX3NjcmliZV9wYWdlX3ZpZXdzX3RlbXBfdGFibGUuc3FsJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">V0hFUkUgZXZlbnRkYXRlIEJFVFdFRU4gQU5EIDplbmREYXRlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBiaWRzaWZ0LnV0aWxpdGllcyBpbXBvcnQgZ2V0X2NvbnRleHQK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBiaWRzaWZ0LnV0aWxpdGllcyBpbXBvcnQgZ2V0X2NvbnRleHQK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBiaWRzaWZ0IGltcG9ydCB0YXNrX2NvbnRleHQKZnJvbSBiaWRzaWZ0LnJpY2hfYXBwbGljYXRpb24gaW1wb3J0IEFwcGxpY2F0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBzY29yaW5nLmV2YWx1YXRpb24uY29udGV4dCBpbXBvcnQgQ29udGV4dCBhcyBTY29yaW5nQ29udGV4dAo=</text>
+        <text encoding="base64">ZnJvbSBiaWRzaWZ0IGltcG9ydCB0YXNrX2NvbnRleHQKZnJvbSBiaWRzaWZ0LnJpY2hfYXBwbGljYXRpb24gaW1wb3J0IEFwcGxpY2F0aW9uCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ZnJvbSBzY29yaW5nLmV2YWx1YXRpb24uY29udGV4dCBpbXBvcnQgQ29udGV4dCBhcyBTY29yaW5nQ29udGV4dAo=</text>
@@ -339,9 +340,9 @@
       </register>
     </registers>
     <search>
-      <last-search>TO</last-search>
+      <last-search>POP</last-search>
       <last-offset />
-      <last-pattern>TO</last-pattern>
+      <last-pattern>POP</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -349,7 +350,6 @@
     </search>
     <history>
       <history-search>
-        <entry>])</entry>
         <entry>2:</entry>
         <entry>1</entry>
         <entry>lin</entry>
@@ -369,6 +369,7 @@
         <entry>get_context</entry>
         <entry>get_con</entry>
         <entry>TO</entry>
+        <entry>POP</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
