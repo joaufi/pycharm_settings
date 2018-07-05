@@ -24,12 +24,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/client/model_storage_client.py" timestamp="1530758466412">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/client/model_storage_client.py" timestamp="1530801621547">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="16" column="59" />
-        <mark key="]" line="16" column="62" />
-        <mark key="." line="16" column="62" />
-        <mark key="^" line="16" column="62" />
+        <mark key="]" line="16" column="61" />
+        <mark key="." line="16" column="61" />
+        <mark key="^" line="16" column="61" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py" timestamp="1530539101401">
         <mark key="[" line="69" column="0" />
@@ -314,11 +314,11 @@
       <jump line="141" column="31" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">SElWRV9RVUVSWV9PV05FUiA9ICdDdXN0b21lciBJZGVudGl0eSBJbiBNYXJrZXQgQmF0Y2ggU2NvcmluZycK</text>
+      <register name="&quot;" type="4">
+        <text>PROD</text>
       </register>
       <register name="-" type="4">
-        <text>'Customer Identity In Market Batch Scoring'</text>
+        <text>PROD</text>
       </register>
       <register name="/" type="4">
         <text>CONFIG_TEMPLATE</text>
