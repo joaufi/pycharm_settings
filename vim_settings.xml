@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica_segment_operator.py" timestamp="1531158499249">
+        <mark key="[" line="51" column="52" />
+        <mark key="]" line="52" column="39" />
+        <mark key="." line="52" column="39" />
+        <mark key="^" line="52" column="39" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/client/model_storage_client.py" timestamp="1530898327595">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="40" column="9" />
@@ -67,12 +73,12 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/plcc_customers.sql" timestamp="1531110096927">
-        <mark key="'" line="7" column="20" />
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="3" />
-        <mark key="." line="8" column="3" />
-        <mark key="^" line="8" column="3" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/plcc_customers.sql" timestamp="1531157922862">
+        <mark key="'" line="9" column="20" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="10" column="36" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_temp_tables/populate_in_market_scribe_page_views.sql" timestamp="1530747865938">
         <mark key="[" line="4" column="0" />
@@ -96,11 +102,10 @@
         <mark key="." line="16" column="9" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/utility/spark_submit_bash_script_template.py" timestamp="1531112021874">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/active_plcc_customers.sql" timestamp="1531158515430">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_temp_tables/populate_in_market_device_map.sql" timestamp="1530748466959">
         <mark key="[" line="4" column="31" />
@@ -109,6 +114,12 @@
         <mark key="." line="4" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_tables/populate_in_market_num_filters.sql" timestamp="1531146405140" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/segmentations_config.py" timestamp="1531158658127">
+        <mark key="'" line="149" column="0" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/rich_application.py" timestamp="1530125147312">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -171,11 +182,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/acquisitions_by_channel.sql" timestamp="1531109745075">
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/acquisitions_by_channel.sql" timestamp="1531158508734">
         <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="45" />
+        <mark key="]" line="11" column="0" />
         <mark key="^" line="2" column="1" />
-        <mark key="." line="2" column="1" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py" timestamp="1530539101401">
         <mark key="[" line="69" column="0" />
@@ -226,11 +237,10 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/my_way_loyalty_customers.sql" timestamp="1531110073086">
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/my_way_loyalty_customers.sql" timestamp="1531158517857">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/purchased_skus_by_customer_guid.sql" timestamp="1530908794408">
         <mark key="[" line="43" column="24" />
@@ -299,12 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="11" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
-      <jump line="284" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
-      <jump line="292" column="16" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
-      <jump line="305" column="55" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
-      <jump line="319" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
-      <jump line="322" column="16" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="333" column="12" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="436" column="7" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="437" column="7" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
@@ -399,55 +403,61 @@
       <jump line="4" column="11" filename="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/my_way_loyalty_customers.sql" />
       <jump line="142" column="62" filename="$USER_HOME$/repositories/airflow-dags/templates/segmentation/segmentations_config.py" />
       <jump line="7" column="20" filename="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/plcc_customers.sql" />
+      <jump line="137" column="58" filename="$USER_HOME$/repositories/airflow-dags/templates/segmentation/segmentations_config.py" />
+      <jump line="25" column="8" filename="$USER_HOME$/repositories/airflow-dags/templates/segmentation/segmentations_config.py" />
+      <jump line="131" column="21" filename="$USER_HOME$/repositories/airflow-dags/templates/segmentation/segmentations_config.py" />
+      <jump line="143" column="21" filename="$USER_HOME$/repositories/airflow-dags/templates/segmentation/segmentations_config.py" />
+      <jump line="155" column="21" filename="$USER_HOME$/repositories/airflow-dags/templates/segmentation/segmentations_config.py" />
+      <jump line="149" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/segmentation/segmentations_config.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRyYW5zYWN0aW9uaWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZlcnRpY2FfcGFyYW1zPXsKICAgICAgICAgICAgICAgICAgICAndGFyZ2V0X3RhYmxlX2NvbHVtbnMnOiAnY3VzdG9tZXJndWlkIHN0cmluZycsCiAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>customerid bigint</text>
       </register>
       <register name="/" type="4">
-        <text>sta</text>
+        <text>start_date</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBMSU1JVCAxMDAwMDAwMDAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndGFyZ2V0X3RhYmxlX2NvbHVtbnMnOiAnY3VzdG9tZXJndWlkIHN0cmluZycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyYW5zYWN0aW9uaWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZlcnRpY2FfcGFyYW1zPXsKICAgICAgICAgICAgICAgICAgICAndGFyZ2V0X3RhYmxlX2NvbHVtbnMnOiAnY3VzdG9tZXJndWlkIHN0cmluZycsCiAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBMSU1JVCAxMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZlcnRpY2FfcGFyYW1zPXsKICAgICAgICAgICAgICAgICAgICAndGFyZ2V0X3RhYmxlX2NvbHVtbnMnOiAnY3VzdG9tZXJndWlkIHN0cmluZycsCiAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEFORCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc3RhcnRfZGF0ZSc6ICcyMDEyLTAxLTAxJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBXSEVSRSBhY3EuQWNxdWlzaXRpb25EYXRlID49ICd7c3RhcnRfZGF0ZX0nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc3RhcnRfZGF0ZSc6ICcyMDEyLTAxLTAxJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGVnb3J5PSdiYXRjaF9lbWFpbCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndGFyZ2V0X3RhYmxlX2NvbHVtbnMnOiAnY3VzdG9tZXJpZCBiaWdpbnQnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICoK</text>
+        <text encoding="base64">ICBXSEVSRSBDcmVhdGVkRGF0ZSA+PSAne3N0YXJ0X2RhdGV9Jwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEN1TG95YWx0eUlEIEFTIGN1c3RvbWVybG95YWx0eWlkCg==</text>
+        <text encoding="base64">ICAgIEFORCBhZC5EYXRlQ3JlYXRlZCA+PSAne3N0YXJ0X2RhdGV9Jwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBMSU1JVCAxMAo=</text>
+        <text encoding="base64">ICBXSEVSRSBhY3EuQWNxdWlzaXRpb25EYXRlID49ICd7c3RhcnRfZGF0ZX0nCg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlZ21lbnQudmVydGljYV9wYXJhbQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sta</last-search>
+      <last-search>start_date</last-search>
       <last-offset />
-      <last-pattern>sta</last-pattern>
+      <last-pattern>start_date</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -455,7 +465,6 @@
     </search>
     <history>
       <history-search>
-        <entry>def\ load</entry>
         <entry>load</entry>
         <entry>Response</entry>
         <entry>strategydata</entry>
@@ -475,9 +484,9 @@
         <entry>parque</entry>
         <entry>parquet</entry>
         <entry>sta</entry>
+        <entry>start_date</entry>
       </history-search>
       <history-cmd>
-        <entry>we</entry>
         <entry encoding="base64">JzwsJz5zcGxpdA==</entry>
         <entry>ew</entry>
         <entry>.,.+5w</entry>
@@ -491,11 +500,12 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qa!</entry>
         <entry>Lw</entry>
-        <entry>vsplit</entry>
         <entry>split</entry>
-        <entry>W</entry>
         <entry>qa</entry>
         <entry>q</entry>
+        <entry>W</entry>
+        <entry>&quot;w</entry>
+        <entry>vsplit</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
