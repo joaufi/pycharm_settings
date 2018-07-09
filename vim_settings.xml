@@ -114,11 +114,12 @@
         <mark key="." line="4" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_tables/populate_in_market_num_filters.sql" timestamp="1531146405140" />
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/segmentations_config.py" timestamp="1531158658127">
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/segmentations_config.py" timestamp="1531165015064">
         <mark key="'" line="149" column="0" />
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
+        <mark key="[" line="145" column="14" />
+        <mark key="]" line="145" column="18" />
+        <mark key="." line="145" column="18" />
+        <mark key="^" line="145" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/rich_application.py" timestamp="1530125147312">
         <mark key="[" line="12" column="0" />
@@ -411,11 +412,11 @@
       <jump line="149" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/segmentation/segmentations_config.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZlcnRpY2FfcGFyYW1zPXsKICAgICAgICAgICAgICAgICAgICAndGFyZ2V0X3RhYmxlX2NvbHVtbnMnOiAnY3VzdG9tZXJndWlkIHN0cmluZycsCiAgICAgICAgICAgICAgICB9LAo=</text>
+      <register name="&quot;" type="4">
+        <text>C</text>
       </register>
       <register name="-" type="4">
-        <text>customerid bigint</text>
+        <text>C</text>
       </register>
       <register name="/" type="4">
         <text>start_date</text>
