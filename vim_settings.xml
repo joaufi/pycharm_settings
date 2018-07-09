@@ -245,11 +245,22 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/viewed_sku_by_device_guid.sql" timestamp="1531148802579">
-        <mark key="[" line="52" column="20" />
-        <mark key="]" line="32" column="27" />
-        <mark key="." line="32" column="27" />
-        <mark key="^" line="32" column="27" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.jql" timestamp="1531150138707">
+        <mark key="[" line="10" column="114" />
+        <mark key="]" line="9" column="50" />
+        <mark key="^" line="9" column="50" />
+        <mark key="." line="9" column="50" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_temporary_tables/populate_temp_page_views.sql" timestamp="1531150088141">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/viewed_sku_by_device_guid.sql" timestamp="1531150122512">
+        <mark key="[" line="35" column="95" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/.gitignore" timestamp="1530125697589">
         <mark key="[" line="9" column="0" />
@@ -390,7 +401,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBMSU1JVCAxMAo=</text>
+        <text encoding="base64">ICAgIHRyYW5zYWN0aW9uaWQsCg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -402,34 +413,34 @@
         <text encoding="base64">ICBMSU1JVCAxMDAwMDAwMDAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBMSU1JVCAxMAo=</text>
+        <text encoding="base64">ICAgIHRyYW5zYWN0aW9uaWQsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEFORCAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBXSEVSRSBhY3EuQWNxdWlzaXRpb25EYXRlID49ICd7c3RhcnRfZGF0ZX0nCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGVnb3J5PSdiYXRjaF9lbWFpbCcsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEN1TG95YWx0eUlEIEFTIGN1c3RvbWVybG95YWx0eWlkCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICBMSU1JVCAxMAo=</text>
       </register>
-      <register name="8" type="8">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEFORCAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBXSEVSRSBhY3EuQWNxdWlzaXRpb25EYXRlID49ICd7c3RhcnRfZGF0ZX0nCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGVnb3J5PSdiYXRjaF9lbWFpbCcsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICoK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEN1TG95YWx0eUlEIEFTIGN1c3RvbWVybG95YWx0eWlkCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBMSU1JVCAxMAo=</text>
+      </register>
+      <register name="9" type="8">
         <text encoding="base64">ICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBTRUxFQ1QKICAgIHN0b3JlLlRvcFNvSUQgQVMgc3RvcmVpZCwKICAgIGFjcS5DaGFubmVsTmFtZSBBUyBjaGFubmVsLAogICAgTE9XRVIobG9va3VwLkNsVXNXZWJDb29raWUpIEFTIGN1c3RvbWVyZ3VpZAogIEZST00gY3NuX3JlcG9ydGluZy52d0N1c3RvbWVyQWNxdWlzaXRpb24gYWNxCiAgSU5ORVIgSk9JTiBjc25fcmVwb3J0aW5nLkRJTVNUT1JFIHN0b3JlCiAgICBPTiBhY3EuU3RvcmVOYW1lID0gc3RvcmUuVG9wU29OYW1lCiAgSU5ORVIgSk9JTiBjc25fc2hhcmRsb29rdXAudGJsQ3VzdG9tZXJMb29rdXAgbG9va3VwCiAgICBPTiBhY3EuQ3VzdG9tZXJJRCA9IGxvb2t1cC5DbEN1SUQKICBXSEVSRSBhY3EuQWNxdWlzaXRpb25EYXRlID49ICcyMDEyLTAxLTAxJwogIExJTUlUIDEwCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -479,12 +490,12 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qa!</entry>
         <entry>Lw</entry>
-        <entry>q</entry>
         <entry>vsplit</entry>
         <entry>split</entry>
         <entry>W</entry>
         <entry>qa</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
