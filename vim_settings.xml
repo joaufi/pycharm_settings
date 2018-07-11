@@ -3,23 +3,37 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" timestamp="1531324160005">
+        <mark key="'" line="568" column="19" />
+        <mark key="[" line="514" column="19" />
+        <mark key="]" line="514" column="22" />
+        <mark key="^" line="514" column="22" />
+        <mark key="." line="514" column="22" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica_segment_operator.py" timestamp="1531158499249">
         <mark key="[" line="51" column="52" />
         <mark key="]" line="52" column="39" />
         <mark key="." line="52" column="39" />
         <mark key="^" line="52" column="39" />
       </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/client/model_storage_client.py" timestamp="1530898327595">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="40" column="9" />
+        <mark key="]" line="41" column="24" />
+        <mark key="." line="41" column="24" />
+        <mark key="^" line="41" column="24" />
+      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/monkey.py" timestamp="1530124165430">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/utilities.py" timestamp="1531321160203">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/utilities.py" timestamp="1531322829021">
         <mark key="'" line="20" column="71" />
-        <mark key="[" line="23" column="15" />
-        <mark key="]" line="23" column="24" />
-        <mark key="." line="23" column="24" />
-        <mark key="^" line="23" column="24" />
+        <mark key="[" line="121" column="33" />
+        <mark key="]" line="121" column="33" />
+        <mark key="." line="121" column="33" />
+        <mark key="^" line="24" column="3" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" timestamp="1530210120207">
         <mark key="[" line="2" column="0" />
@@ -27,10 +41,12 @@
         <mark key="^" line="5" column="71691" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" timestamp="1531318498884">
-        <mark key="[" line="233" column="41" />
-        <mark key="]" line="10" column="18" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" timestamp="1531323909728">
+        <mark key="'" line="268" column="28" />
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="0" />
+        <mark key="^" line="268" column="78" />
+        <mark key="." line="223" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" timestamp="1531170808032">
         <mark key="'" line="144" column="20" />
@@ -134,6 +150,13 @@
         <mark key="^" line="32" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_features_table.sql" timestamp="1531151927389" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_facebook_model.py" timestamp="1531323781470">
+        <mark key="'" line="272" column="80" />
+        <mark key="[" line="228" column="0" />
+        <mark key="]" line="234" column="26" />
+        <mark key="." line="280" column="78" />
+        <mark key="^" line="280" column="78" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/create_temp_tables/scribe_page_views_temp_table.sql" timestamp="1530736596551">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="86" />
@@ -174,6 +197,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" timestamp="1531322725180">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="25" column="30" />
+        <mark key="." line="25" column="30" />
+        <mark key="^" line="21" column="30" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/acquisitions_by_channel.sql" timestamp="1531158508734">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -202,6 +231,13 @@
         <mark key="]" line="31" column="92" />
         <mark key="." line="31" column="92" />
         <mark key="^" line="31" column="7" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch..cmdline" timestamp="1530878810983">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="634" />
+        <mark key="]" line="0" column="634" />
+        <mark key="^" line="0" column="634" />
+        <mark key="." line="0" column="634" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/my_way_customers.sql" timestamp="1530940978017">
         <mark key="[" line="4" column="0" />
@@ -294,34 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="28" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="82" column="24" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="89" column="24" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="96" column="24" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="103" column="24" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="148" column="24" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="44" column="19" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="109" column="16" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="108" column="22" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="107" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="265" column="12" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="266" column="37" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="270" column="16" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="221" column="41" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" />
-      <jump line="289" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="295" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="274" column="12" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="47" column="39" filename="$USER_HOME$/repositories/bidsift/bidsift/utilities.py" />
-      <jump line="225" column="60" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" />
-      <jump line="271" column="39" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="35" column="49" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="39" column="61" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="238" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" />
-      <jump line="280" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="29" column="49" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/client/model_storage_client.py" />
-      <jump line="31" column="52" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/client/model_storage_client.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/client/model_storage_client.py" />
       <jump line="1" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/client/model_storage_client.py" />
       <jump line="10" column="33" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/client/model_storage_client.py" />
       <jump line="15" column="52" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/client/model_storage_client.py" />
@@ -394,55 +402,83 @@
       <jump line="7" column="20" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/utilities.py" />
       <jump line="19" column="111" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/utilities.py" />
       <jump line="20" column="71" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/utilities.py" />
+      <jump line="265" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
+      <jump line="222" column="49" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
+      <jump line="237" column="70" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_facebook_model.py" />
+      <jump line="245" column="62" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_facebook_model.py" />
+      <jump line="252" column="69" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_facebook_model.py" />
+      <jump line="280" column="28" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_facebook_model.py" />
+      <jump line="257" column="73" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_facebook_model.py" />
+      <jump line="249" column="56" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_facebook_model.py" />
+      <jump line="264" column="42" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_facebook_model.py" />
+      <jump line="269" column="52" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_facebook_model.py" />
+      <jump line="272" column="80" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_facebook_model.py" />
+      <jump line="245" column="73" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
+      <jump line="268" column="28" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
+      <jump line="418" column="0" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
+      <jump line="479" column="28" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
+      <jump line="480" column="54" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
+      <jump line="472" column="0" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
+      <jump line="376" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
+      <jump line="377" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
+      <jump line="378" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
+      <jump line="379" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
+      <jump line="380" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
+      <jump line="447" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
+      <jump line="448" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
+      <jump line="449" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
+      <jump line="450" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
+      <jump line="451" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
+      <jump line="568" column="19" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZSBmbG9hdCh2YWwpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>4.84</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>4.84</text>
       </register>
       <register name="/" type="4">
-        <text>val</text>
+        <text>4.84</text>
       </register>
-      <register name="0" type="4">
-        <text>val is not None or not isinstance(val, int) or not isinstance(val, float) else float(default)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ1dpbmRvd3MnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZSBmbG9hdCh2YWwpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGZWF0dXJlTW9kZWwoCiAgICAgICAgICAgICAgICAgICAgICAgICdpc19pb3Nfb3MnLCAtMC41ODExLAogICAgICAgICAgICAgICAgICAgICAgICBGYWN0UGF5bG9hZE1vZGVsKCdkZXZpY2Vfb3BlcmF0aW5nX3N5c3RlbScpLAogICAgICAgICAgICAgICAgICAgICAgICBwb3N0X2FnZ3JlZ2F0aW9uX2Z1bmN0aW9ucz1bCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250YWlucygnaU9TJyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb252ZXJ0X3RvX2Jvb2xlYW5fYml0LAogICAgICAgICAgICAgICAgICAgICAgICBdKSwK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">XAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ1dpbmRvd3MnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ1dpbmRvd3MnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmbG9hdCh2YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ1dpbmRvd3MnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIHZhbHVlIGlzIE5vbmUgb3Igbm90IGlzaW5zdGFuY2UodmFsdWUsIGludCkgb3Igbm90IGlzaW5zdGFuY2UodmFsdWUsIGZsb2F0KToKICAgICAgICByZXR1cm4gZmxvYXQoZGVmYXVsdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ1dpbmRvd3MnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFwcGx5X2RlZmF1bHQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ1dpbmRvd3MnLAogICAgICAgICAgICAnV2luZG93cycsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFub3RoZXIgc3RyaW5nLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ1dpbmRvd3MnLAogICAgICAgICAgICAnV2luZG93cycsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ1dpbmRvd3MnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmVhdHVyZS5uYW1lLCByZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX2FnZ3JlZ2F0ZS5yZXR1cm5fdmFsdWUgPSBbCiAgICAgICAgICAgIDUuNSwKICAgICAgICAgICAgNSwKICAgICAgICAgICAgOS41LAogICAgICAgICAgICAzLAogICAgICAgICAgICAzLjUsCiAgICAgICAgICAgIDEwLAogICAgICAgICAgICAyMCwKICAgICAgICAgICAgMCwKICAgICAgICAgICAgJ05ldycsCiAgICAgICAgICAgICdOZXcnLAogICAgICAgICAgICAnTmV3JywKICAgICAgICAgICAgJ05ldycsCiAgICAgICAgICAgIFt7CiAgICAgICAgICAgICAgICAnY2FtcGFpZ25fY29kZSc6ICdHWDE3RjRLM1RFU1RDTUNPREUnLAogICAgICAgICAgICAgICAgJ3RpbWVzdGFtcE1pbGxpc2Vjb25kcyc6IDE1MjM5MzM1MDc4MzUsCiAgICAgICAgICAgICAgICAnY2hhbm5lbCc6ICdCcmFuZCcKICAgICAgICAgICAgfV0sCiAgICAgICAgICAgICdXaW5kb3dzJywKICAgICAgICAgICAgJ1dpbmRvd3MnLAogICAgICAgICAgICAnV2luZG93cycsCiAgICAgICAgICAgICdXaW5kb3dzJywKICAgICAgICAgICAgJ1dpbmRvd3MnLAogICAgICAgICAgICAnV2luZG93cycsCiAgICAgICAgICAgICdXaW5kb3dzJywKICAgICAgICAgICAgNzkuOSwKICAgICAgICAgICAgbW9ja19pbmNvbXBsZXRlX2Vwc2lsb25fZGF0YSwKICAgICAgICAgICAgbW9ja19pbmNvbXBsZXRlX2Vwc2lsb25fZGF0YSwKICAgICAgICAgICAgbW9ja19pbmNvbXBsZXRlX2Vwc2lsb25fZGF0YSwKICAgICAgICAgICAgbW9ja19pbmNvbXBsZXRlX2Vwc2lsb25fZGF0YSwKICAgICAgICAgICAgbW9ja19pbmNvbXBsZXRlX2Vwc2lsb25fZGF0YSwKICAgICAgICBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>val</last-search>
+      <last-search>4.84</last-search>
       <last-offset />
-      <last-pattern>val</last-pattern>
+      <last-pattern>4.84</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>-1</last-dir>
@@ -450,17 +486,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_con</entry>
-        <entry>TO</entry>
-        <entry>POP</entry>
-        <entry>temporar</entry>
-        <entry>TEMP</entry>
-        <entry>CONFIG_TEMPLATE</entry>
-        <entry>slee</entry>
-        <entry>os</entry>
-        <entry>as</entry>
-        <entry>parque</entry>
-        <entry>parquet</entry>
         <entry>sta</entry>
         <entry>start_date</entry>
         <entry>spark</entry>
@@ -470,10 +495,19 @@
         <entry>value</entry>
         <entry>vla</entry>
         <entry>val</entry>
+        <entry>61</entry>
+        <entry>0.5</entry>
+        <entry>219</entry>
+        <entry>AGE</entry>
+        <entry>A</entry>
+        <entry>HO</entry>
+        <entry>HOME</entry>
+        <entry>450</entry>
+        <entry>2</entry>
+        <entry>Windows</entry>
+        <entry>4.84</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zcGxpdA==</entry>
-        <entry>ew</entry>
         <entry>.,.+5w</entry>
         <entry>:w</entry>
         <entry>qw</entry>
@@ -481,16 +515,18 @@
         <entry>e</entry>
         <entry>wq</entry>
         <entry>2</entry>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>qa!</entry>
         <entry>Lw</entry>
         <entry>split</entry>
         <entry>q</entry>
         <entry>&quot;w</entry>
-        <entry>vsplit</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qa</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz5zb3I=</entry>
+        <entry>sort</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>vsplit</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
