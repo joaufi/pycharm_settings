@@ -14,11 +14,12 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/utilities.py" timestamp="1531259043176">
-        <mark key="[" line="169" column="45" />
-        <mark key="]" line="169" column="54" />
-        <mark key="." line="169" column="54" />
-        <mark key="^" line="169" column="54" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/utilities.py" timestamp="1531318295025">
+        <mark key="'" line="19" column="23" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="83" />
+        <mark key="." line="17" column="24" />
+        <mark key="^" line="17" column="23" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" timestamp="1530210120207">
         <mark key="[" line="2" column="0" />
@@ -293,7 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/added_cart_skus_by_device_guid.sql" />
       <jump line="36" column="10" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="262" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
@@ -393,63 +393,63 @@
       <jump line="11" column="57" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
       <jump line="88" column="32" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
       <jump line="144" column="20" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
+      <jump line="19" column="23" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/utilities.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmIHZhbHVlIGlzIE5vbmUgb3Igbm90IGlzaW5zdGFuY2UodmFsdWUsIGludCkgb3Igbm90IGlzaW5zdGFuY2UodmFsdWUsIGZsb2F0KToK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>HIVE_QUERY_CONFIG_TEMPLATE</text>
+        <text>if</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZGl0aW9uYWxfY29uZmlnPVNFVF9ISVZFX0VYRUNVVElPTl9FTkdJTkVfU1BBUkssCg==</text>
+        <text encoding="base64">ICAgIGlmIHZhbHVlIGlzIE5vbmUgb3Igbm90IGlzaW5zdGFuY2UodmFsdWUsIGludCkgb3Igbm90IGlzaW5zdGFuY2UodmFsdWUsIGZsb2F0KToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmVhdHVyZS5uYW1lLCByZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgIGFub3RoZXIgc3RyaW5nLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmVhdHVyZS5uYW1lLCByZXN1bHQpCiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UocmVzdWx0LCBsaXN0KToKICAgICAgICAgICAgICAgIHJlc3VsdCA9IFtOb25lLCAxLCAzLCA1LCBOb25lXQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmVhdHVyZS5uYW1lLCByZXN1bHQpCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpdCBpcyBwb3NzaWJsZSB0aGF0IHJlc3VsdCBjb3VsZCBiZSBhIGxpc3Qgb2YgTm9uZSwgd2hpY2ggY2FuCiAgICAgICAgICAgICMgY2F1c2UgZXJyb3JzIGRvd24gdGhlIGxpbmUuIEFzIHN1Y2gsIHdlIGZpbHRlciBOb25lIG91dC4KICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShyZXN1bHQsIGxpc3QpOgogICAgICAgICAgICAgICAgcmVzdWx0ID0gW3ZhbCBmb3IgdmFsIGluIHJlc3VsdCBpZiB2YWwgaXMgbm90IE5vbmVdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmVhdHVyZS5uYW1lLCByZXN1bHQpCiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UocmVzdWx0LCBsaXN0KToKICAgICAgICAgICAgICAgIHJlc3VsdCA9IFtOb25lLCAxLCAzLCA1LCBOb25lXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW5kZXgsIHJlc3VsdCwgZmVhdHVyZS5uYW1lKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShyZXN1bHQsIGxpc3QpOgogICAgICAgICAgICAgICAgcmVzdWx0ID0gW05vbmVdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBpdCBpcyBwb3NzaWJsZSB0aGF0IHJlc3VsdCBjb3VsZCBiZSBhIGxpc3Qgb2YgTm9uZSwgd2hpY2ggY2FuCiAgICAgICAgICAgICMgY2F1c2UgZXJyb3JzIGRvd24gdGhlIGxpbmUuIEFzIHN1Y2gsIHdlIGZpbHRlciBOb25lIG91dC4KICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShyZXN1bHQsIGxpc3QpOgogICAgICAgICAgICAgICAgcmVzdWx0ID0gW3ZhbCBmb3IgdmFsIGluIHJlc3VsdCBpZiB2YWwgaXMgbm90IE5vbmVdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVzdWx0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW5kZXgsIHJlc3VsdCwgZmVhdHVyZS5uYW1lKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShyZXN1bHQsIGxpc3QpOgogICAgICAgICAgICAgICAgcmVzdWx0ID0gW05vbmVdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVzdWx0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>HIVE_QUERY_CONFIG_TEMPLATE</last-search>
+      <last-search>if</last-search>
       <last-offset />
-      <last-pattern>HIVE_QUERY_CONFIG_TEMPLATE</last-pattern>
+      <last-pattern>if</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>strategydata</entry>
         <entry>strategy</entry>
         <entry>score</entry>
         <entry>Score</entry>
@@ -469,6 +469,7 @@
         <entry>start_date</entry>
         <entry>spark</entry>
         <entry>HIVE_QUERY_CONFIG_TEMPLATE</entry>
+        <entry>if</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zcGxpdA==</entry>
