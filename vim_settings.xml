@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" timestamp="1531324160005">
+      <file name="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" timestamp="1531332782649">
         <mark key="'" line="568" column="19" />
-        <mark key="[" line="514" column="19" />
-        <mark key="]" line="514" column="22" />
-        <mark key="^" line="514" column="22" />
-        <mark key="." line="514" column="22" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica_segment_operator.py" timestamp="1531158499249">
         <mark key="[" line="51" column="52" />
@@ -322,11 +322,11 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" timestamp="1531316713857">
-        <mark key="[" line="65" column="58" />
-        <mark key="]" line="65" column="59" />
-        <mark key="^" line="65" column="59" />
-        <mark key="." line="65" column="59" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" timestamp="1531332817933">
+        <mark key="[" line="65" column="51" />
+        <mark key="]" line="65" column="55" />
+        <mark key="^" line="65" column="55" />
+        <mark key="." line="65" column="55" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_tables/populate_in_market_num_favorite_skus.sql" timestamp="1531146171119" />
       <file name="$USER_HOME$/repositories/bidsift/bidsift/task_context.py" timestamp="1530123194064">
@@ -438,11 +438,11 @@
       <jump line="568" column="19" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBJTk5FUiBKT0lOIHNjcmliZS50Ymx0ZW1wcGFnZXZpZXcgQVMgdDIgT04gdDEudHJhbnNhY3Rpb25pZCA9IHQyLnJlZmVycmluZ3RyYW5zYWN0aW9uaWQK</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>4.84</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>4.84</text>
@@ -451,16 +451,16 @@
         <text encoding="base64">ICAgIElOTkVSIEpPSU4gc2NyaWJlLnRibHRlbXBwYWdldmlldyBBUyB0MiBPTiBDT0FMRVNDRSh0MS5yZWZlcnJpbmd0cmFuc2FjdGlvbmlkLCB0MS50cmFuc2FjdGlvbmlkKSA9IHQyLnJlZmVycmluZ3RyYW5zYWN0aW9uaWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBJTk5FUiBKT0lOIHNjcmliZS50Ymx0ZW1wcGFnZXZpZXcgQVMgdDIgT04gdDEudHJhbnNhY3Rpb25pZCA9IHQyLnJlZmVycmluZ3RyYW5zYWN0aW9uaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCA9IFt2YWx1ZSBmb3IgdmFsdWUgaW4gcmVzdWx0IGlmIHZhbHVlIGlzIG5vdCBOb25lXQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBJTk5FUiBKT0lOIHNjcmliZS50Ymx0ZW1wcGFnZXZpZXcgQVMgdDIgT04gdDEudHJhbnNhY3Rpb25pZCA9IHQyLnJlZmVycmluZ3RyYW5zYWN0aW9uaWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGZWF0dXJlTW9kZWwoCiAgICAgICAgICAgICAgICAgICAgICAgICdpc19pb3Nfb3MnLCAtMC41ODExLAogICAgICAgICAgICAgICAgICAgICAgICBGYWN0UGF5bG9hZE1vZGVsKCdkZXZpY2Vfb3BlcmF0aW5nX3N5c3RlbScpLAogICAgICAgICAgICAgICAgICAgICAgICBwb3N0X2FnZ3JlZ2F0aW9uX2Z1bmN0aW9ucz1bCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250YWlucygnaU9TJyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb252ZXJ0X3RvX2Jvb2xlYW5fYml0LAogICAgICAgICAgICAgICAgICAgICAgICBdKSwK</text>
+        <text encoding="base64">ICAgICAgICBJTk5FUiBKT0lOIHNjcmliZS50Ymx0ZW1wcGFnZXZpZXcgQVMgdDIgT04gdDEudHJhbnNhY3Rpb25pZCA9IHQyLnJlZmVycmluZ3RyYW5zYWN0aW9uaWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1dpbmRvd3MnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGZWF0dXJlTW9kZWwoCiAgICAgICAgICAgICAgICAgICAgICAgICdpc19pb3Nfb3MnLCAtMC41ODExLAogICAgICAgICAgICAgICAgICAgICAgICBGYWN0UGF5bG9hZE1vZGVsKCdkZXZpY2Vfb3BlcmF0aW5nX3N5c3RlbScpLAogICAgICAgICAgICAgICAgICAgICAgICBwb3N0X2FnZ3JlZ2F0aW9uX2Z1bmN0aW9ucz1bCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250YWlucygnaU9TJyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb252ZXJ0X3RvX2Jvb2xlYW5fYml0LAogICAgICAgICAgICAgICAgICAgICAgICBdKSwK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ1dpbmRvd3MnLAo=</text>
@@ -472,7 +472,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJ1dpbmRvd3MnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1dpbmRvd3MnLAogICAgICAgICAgICAnV2luZG93cycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ1dpbmRvd3MnLAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ1dpbmRvd3MnLAogICAgICAgICAgICAnV2luZG93cycsCg==</text>
@@ -527,12 +527,12 @@
         <entry>q</entry>
         <entry>&quot;w</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>qa</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zb3I=</entry>
         <entry>sort</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>vsplit</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
