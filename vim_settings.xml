@@ -304,6 +304,9 @@
         <mark key="." line="31" column="92" />
         <mark key="^" line="31" column="7" />
       </file>
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" timestamp="1531514945114">
+        <mark key="'" line="342" column="27" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch..cmdline" timestamp="1530878810983">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="634" />
@@ -315,6 +318,9 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_tables/populate_in_market_added_to_cart_skus.sql" timestamp="1531146089892">
+        <mark key="[" line="4" column="31" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" timestamp="1530195833860">
         <mark key="[" line="0" column="626" />
@@ -334,11 +340,6 @@
         <mark key="^" line="16" column="19" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py.default" timestamp="1531422084708">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="80" column="4" />
-        <mark key="." line="78" column="37" />
-      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/context.py" timestamp="1531404842858">
         <mark key="[" line="17" column="29" />
         <mark key="]" line="18" column="33" />
@@ -349,11 +350,6 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/my_way_loyalty_customers.sql" timestamp="1531158517857">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/utilities.py" timestamp="1531422675181">
         <mark key="[" line="16" column="29" />
@@ -409,6 +405,9 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1531514544005">
+        <mark key="[" line="272" column="14" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/models/prediction.py" timestamp="1528830382174">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
@@ -434,9 +433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="21" filename="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/requests/api.py" />
-      <jump line="92" column="31" filename="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/requests/api.py" />
-      <jump line="93" column="21" filename="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/requests/api.py" />
       <jump line="107" column="31" filename="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/requests/api.py" />
       <jump line="28" column="30" filename="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/requests/models.py" />
       <jump line="278" column="7" filename="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/requests/models.py" />
@@ -534,6 +530,9 @@
       <jump line="1" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
       <jump line="295" column="6" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="5" column="11" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
+      <jump line="514" column="58" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" />
+      <jump line="324" column="48" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" />
+      <jump line="342" column="27" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -543,7 +542,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>def set</text>
+        <text>viewed_categories</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRlc3RzX3JlcXVpcmU9WwogICAgICAgICdmbGFrZTg+PTMuNS4wJywKICAgICAgICAnbW9jaz49Mi4wLjAnLAogICAgICAgICdweXRlc3Q+PTMuMC4wJywKICAgIF0sCg==</text>
@@ -580,9 +579,9 @@
       </register>
     </registers>
     <search>
-      <last-search>def set</last-search>
+      <last-search>viewed_categories</last-search>
       <last-offset />
-      <last-pattern>def set</last-pattern>
+      <last-pattern>viewed_categories</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -590,7 +589,6 @@
     </search>
     <history>
       <history-search>
-        <entry>HIVE_QUERY_CONFIG_TEMPLATE</entry>
         <entry>if</entry>
         <entry>co</entry>
         <entry>value</entry>
@@ -610,6 +608,7 @@
         <entry encoding="base64">PDw8</entry>
         <entry>host</entry>
         <entry>def set</entry>
+        <entry>viewed_categories</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+5w</entry>
