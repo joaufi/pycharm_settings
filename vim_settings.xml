@@ -48,9 +48,9 @@
         <mark key="^" line="5" column="71691" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" timestamp="1531490859721">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" timestamp="1531938075711">
         <mark key="'" line="5" column="11" />
-        <mark key="[" line="5" column="0" />
+        <mark key="[" line="113" column="28" />
         <mark key="]" line="8" column="20" />
         <mark key="^" line="282" column="13" />
         <mark key="." line="8" column="20" />
@@ -382,11 +382,12 @@
         <mark key="^" line="5" column="39" />
         <mark key="." line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/prediction.py" timestamp="1531429277801">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/prediction.py" timestamp="1531937557498">
+        <mark key="'" line="42" column="40" />
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="16" />
+        <mark key="." line="22" column="16" />
+        <mark key="^" line="22" column="16" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1531514544005">
         <mark key="[" line="272" column="14" />
@@ -416,10 +417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="31" filename="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/requests/api.py" />
-      <jump line="28" column="30" filename="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/requests/models.py" />
-      <jump line="278" column="7" filename="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/requests/models.py" />
-      <jump line="217" column="25" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" />
       <jump line="40" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/helpers/db_helper.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/bidsift/requirements.lock" />
       <jump line="36" column="14" filename="$USER_HOME$/repositories/bidsift/requirements.lock" />
@@ -516,55 +513,59 @@
       <jump line="514" column="58" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" />
       <jump line="324" column="48" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" />
       <jump line="342" column="27" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" />
+      <jump line="19" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/prediction.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/prediction.py" />
+      <jump line="38" column="28" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/prediction.py" />
+      <jump line="40" column="40" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/prediction.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQU5EIHQyLmV2ZW50ZGF0ZSBCRVRXRUVOICd7eyBtYWNyb3MuZHNfYWRkKHRvbW9ycm93X2RzLCAtMjgpIH19JyBBTkQgJ3t7IHRvbW9ycm93X2RzIH19Jwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text>viewed_categories</text>
+        <text>num</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQU5EIHQyLmV2ZW50ZGF0ZSBCRVRXRUVOICd7eyBtYWNyb3MuZHNfYWRkKHRvbW9ycm93X2RzLCAtMjgpIH19JyBBTkQgJ3t7IHRvbW9ycm93X2RzIH19Jwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgncmVzdWx0ID0gJyArIHN0cihyZXN1bHQpKQogICAgICAgIHJldHVybiByZXN1bHQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBJTk5FUiBKT0lOIHNjcmliZS50Ymx0ZW1wcGFnZXZpZXcgQVMgdDIgT04gdDEudHJhbnNhY3Rpb25pZCA9IHQyLnJlZmVycmluZ3RyYW5zYWN0aW9uaWQK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnY29lZmZpY2llbnRzID0gJyArIHN0cihjb2VmZmljaWVudHMpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0LmNsYXNzaWRzLAo=</text>
+        <text encoding="base64">ICAgICAgICBJTk5FUiBKT0lOIHNjcmliZS50Ymx0ZW1wcGFnZXZpZXcgQVMgdDIgT04gdDEudHJhbnNhY3Rpb25pZCA9IHQyLnJlZmVycmluZ3RyYW5zYWN0aW9uaWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bW9uaXRvcmVkX3Rhc2tzID4+IHNsYWNrX29uX2FueV9mYWlsdXJlCm1vbml0b3JlZF90YXNrcyA+PiBzbGFja19vbl9hbGxfc3VjY2Vzcwo=</text>
+        <text encoding="base64">ICAgICAgICB0LmNsYXNzaWRzLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQU5EIHQyLmV2ZW50ZGF0ZSBCRVRXRUVOICd7eyBtYWNyb3MuZHNfYWRkKHRvbW9ycm93X2RzLCAtMjgpIH19JyBBTkQgJ3t7IHRvbW9ycm93X2RzIH19Jwo=</text>
+        <text encoding="base64">bW9uaXRvcmVkX3Rhc2tzID4+IHNsYWNrX29uX2FueV9mYWlsdXJlCm1vbml0b3JlZF90YXNrcyA+PiBzbGFja19vbl9hbGxfc3VjY2Vzcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBJTk5FUiBKT0lOIHNjcmliZS50Ymx0ZW1wcGFnZXZpZXcgQVMgdDIKICAgICAgICAgICAgT04gQ09BTEVTQ0UodDEucmVmZXJyaW5ndHJhbnNhY3Rpb25pZCwgdDEudHJhbnNhY3Rpb25pZCkgPSB0Mi5yZWZlcnJpbmd0cmFuc2FjdGlvbmlkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQU5EIHQyLmV2ZW50ZGF0ZSBCRVRXRUVOICd7eyBtYWNyb3MuZHNfYWRkKHRvbW9ycm93X2RzLCAtMjgpIH19JyBBTkQgJ3t7IHRvbW9ycm93X2RzIH19Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRlc3RzX3JlcXVpcmU9WydweXRlc3Q+PTMuMy4xJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICBJTk5FUiBKT0lOIHNjcmliZS50Ymx0ZW1wcGFnZXZpZXcgQVMgdDIKICAgICAgICAgICAgT04gQ09BTEVTQ0UodDEucmVmZXJyaW5ndHJhbnNhY3Rpb25pZCwgdDEudHJhbnNhY3Rpb25pZCkgPSB0Mi5yZWZlcnJpbmd0cmFuc2FjdGlvbmlkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNldHVwX3JlcXVpcmVzPVsncHl0ZXN0LXJ1bm5lciddLAo=</text>
+        <text encoding="base64">ICAgIHRlc3RzX3JlcXVpcmU9WydweXRlc3Q+PTMuMy4xJ10sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IG1hc3Rlcgo=</text>
+        <text encoding="base64">ICAgIHNldHVwX3JlcXVpcmVzPVsncHl0ZXN0LXJ1bm5lciddLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IG1hc3Rlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>viewed_categories</last-search>
+      <last-search>num</last-search>
       <last-offset />
-      <last-pattern>viewed_categories</last-pattern>
+      <last-pattern>num</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -572,8 +573,6 @@
     </search>
     <history>
       <history-search>
-        <entry>if</entry>
-        <entry>co</entry>
         <entry>value</entry>
         <entry>vla</entry>
         <entry>val</entry>
@@ -592,6 +591,8 @@
         <entry>host</entry>
         <entry>def set</entry>
         <entry>viewed_categories</entry>
+        <entry>coe</entry>
+        <entry>num</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
