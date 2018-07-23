@@ -265,11 +265,12 @@
       <file name="/Dummy.txt" timestamp="1532109423487">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/daos/redis_dao.py" timestamp="1532369735545">
-        <mark key="[" line="93" column="14" />
-        <mark key="]" line="94" column="7" />
-        <mark key="." line="94" column="7" />
-        <mark key="^" line="94" column="7" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/daos/redis_dao.py" timestamp="1532370787762">
+        <mark key="'" line="115" column="20" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="115" column="40" />
+        <mark key="." line="115" column="40" />
+        <mark key="^" line="115" column="40" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/utilities.py" timestamp="1531422675181">
         <mark key="[" line="16" column="29" />
@@ -283,12 +284,12 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="35" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/model_retriever.py" timestamp="1532369777645">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="31" column="7" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/model_retriever.py" timestamp="1532370159171">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="25" column="52" />
+        <mark key="]" line="26" column="97" />
+        <mark key="." line="26" column="97" />
+        <mark key="^" line="26" column="97" />
       </file>
       <file name="$USER_HOME$/repositories/atcie-python-commons/atciecommons/model_storage/client.py" timestamp="1532022515517">
         <mark key="'" line="34" column="43" />
@@ -343,8 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="32" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
-      <jump line="144" column="20" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
       <jump line="16" column="55" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/utilities.py" />
       <jump line="7" column="20" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/utilities.py" />
       <jump line="19" column="111" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/utilities.py" />
@@ -443,55 +442,57 @@
       <jump line="72" column="6" filename="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/custinfolib/common/redis_dao.py" />
       <jump line="91" column="39" filename="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/custinfolib/common/redis_dao.py" />
       <jump line="67" column="21" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/daos/redis_dao.py" />
+      <jump line="92" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/daos/redis_dao.py" />
+      <jump line="115" column="20" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/daos/redis_dao.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHVwbGUocmVzdWx0KSBpZiByZXN1bHQK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>MO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBsb2dfdGltZSgpCiAgICBAcmV0cnlhYmxlKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdldF9tb2RlbF9zdG9yYWdlX3BhdGgobW9kZWwsIHZlcnNpb24sIHBpcGVsaW5lPXNlbGYuX2NvbnNpc3RlbnRfcGlwZWxpbmUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHVwbGUocmVzdWx0KSBpZiByZXN1bHQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbF9wYXRoX2tleSA9IFwKICAgICAgICAgICAgTU9ERUxfUEFUSF9LRVlfVEVNUExBVEUuZm9ybWF0KG1vZGVsPW1vZGVsLCB2ZXJzaW9uPXZlcnNpb24pCiAgICAgICAgZmVhdHVyZV9vcmRlcl9rZXkgPSBcCiAgICAgICAgICAgIEZFQVRVUkVfT1JERVJfS0VZX1RFTVBMQVRFLmZvcm1hdChtb2RlbD1tb2RlbCwgdmVyc2lvbj12ZXJzaW9uKQo=</text>
+        <text encoding="base64">ICAgIEBsb2cK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmdldChrZXkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBzY29yaW5nLmV2YWx1YXRpb24uY29uc3RhbnRzIGltcG9ydCBSZWRpc0tleVByZWZpeAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHBpcGVsaW5lLnpyYW5nZShrZXksIDAsIC0xKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVkaXNLZXlQcmVmaXguTU9ERUxfRkVBVFVSRV9PUkRFUl9LRVlfVEVNUExBVEUuZm9ybWF0KG1vZGVsPW1vZGVsLCB2ZXJzaW9uPXZlcnNpb24pLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RkVBVFVSRV9PUkRFUl9LRVlfVEVNUExBVEUgPSAnbWU6ZmVhdHVyZV9vcmRlcjp7bW9kZWx9Ont2ZXJzaW9ufScKTU9ERUxfUEFUSF9LRVlfVEVNUExBVEUgPSAnbWU6aG90X3N0b3JhZ2VfcGF0aDp7bW9kZWx9Ont2ZXJzaW9ufScK</text>
+        <text encoding="base64">ICAgICAgICBrZXkgPSBSZWRpc0tleVByZWZpeC5NT0RFTF9TVE9SQUdFX1BBVEhfS0VZX1RFTVBMQVRFLmZvcm1hdChtb2RlbD1tb2RlbCwgdmVyc2lvbj12ZXJzaW9uKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBrZXkgPQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBsb2dfdGltZSgpCiAgICBAcmV0cnlhYmxlKCkKICAgIGRlZiBnZXQoc2VsZiwga2V5KToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVkaXNLZXlQcmVmaXguTU9ERUxfU1RPUkFHRV9QQVRIX0tFWV9URU1QTEFURS5mb3JtYXQobW9kZWw9bW9kZWwsIHZlcnNpb249dmVyc2lvbikpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBsb2cK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>MO</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>MO</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -499,7 +500,6 @@
     </search>
     <history>
       <history-search>
-        <entry>viewed_categories</entry>
         <entry>coe</entry>
         <entry>num</entry>
         <entry>Modelk</entry>
@@ -519,6 +519,7 @@
         <entry>res</entry>
         <entry>pri</entry>
         <entry>get</entry>
+        <entry>MO</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4=</entry>
@@ -535,11 +536,11 @@
         <entry>w'</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>qa</entry>
         <entry>vsplit</entry>
         <entry>ew</entry>
         <entry>we</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
