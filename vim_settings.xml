@@ -84,6 +84,9 @@
         <mark key="." line="16" column="9" />
         <mark key="^" line="16" column="9" />
       </file>
+      <file name="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/custinfolib/common/redis_dao.py" timestamp="1532369069354">
+        <mark key="'" line="91" column="39" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_temp_tables/populate_in_market_device_map.sql" timestamp="1530748466959">
         <mark key="[" line="4" column="31" />
         <mark key="]" line="4" column="34" />
@@ -172,11 +175,11 @@
         <mark key="." line="2" column="27" />
         <mark key="^" line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" timestamp="1532098915138">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="6" column="14" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" timestamp="1532369506020">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="9" />
+        <mark key="." line="22" column="9" />
+        <mark key="^" line="22" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/data/feature_models.py" timestamp="1532098825466">
         <mark key="[" line="3" column="8" />
@@ -262,12 +265,11 @@
       <file name="/Dummy.txt" timestamp="1532109423487">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/daos/redis_dao.py" timestamp="1532098097767">
-        <mark key="'" line="46" column="20" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="45" column="39" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/daos/redis_dao.py" timestamp="1532369735545">
+        <mark key="[" line="93" column="14" />
+        <mark key="]" line="94" column="7" />
+        <mark key="." line="94" column="7" />
+        <mark key="^" line="94" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/utilities.py" timestamp="1531422675181">
         <mark key="[" line="16" column="29" />
@@ -281,12 +283,12 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="35" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/model_retriever.py" timestamp="1532368559932">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="56" column="84" />
-        <mark key="]" line="56" column="84" />
-        <mark key="." line="56" column="84" />
-        <mark key="^" line="56" column="84" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/model_retriever.py" timestamp="1532369777645">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="31" column="7" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/atcie-python-commons/atciecommons/model_storage/client.py" timestamp="1532022515517">
         <mark key="'" line="34" column="43" />
@@ -341,9 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="65" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
-      <jump line="146" column="4" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
-      <jump line="11" column="57" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
       <jump line="88" column="32" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
       <jump line="144" column="20" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
       <jump line="16" column="55" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/utilities.py" />
@@ -414,7 +413,6 @@
       <jump line="439" column="0" filename="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/custinfolib/common/redis_dao.py" />
       <jump line="480" column="0" filename="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/custinfolib/common/redis_dao.py" />
       <jump line="30" column="5" filename="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/custinfolib/common/redis_dao.py" />
-      <jump line="72" column="0" filename="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/custinfolib/common/redis_dao.py" />
       <jump line="73" column="30" filename="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/custinfolib/common/redis_dao.py" />
       <jump line="83" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/daos/redis_dao.py" />
       <jump line="43" column="82" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/client/model_storage_client.py" />
@@ -441,63 +439,66 @@
       <jump line="298" column="6" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="68" column="51" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/model_retriever.py" />
       <jump line="57" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/model_retriever.py" />
+      <jump line="81" column="58" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/daos/redis_dao.py" />
+      <jump line="72" column="6" filename="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/custinfolib/common/redis_dao.py" />
+      <jump line="91" column="39" filename="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/custinfolib/common/redis_dao.py" />
+      <jump line="67" column="21" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/daos/redis_dao.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnXG5cbiBORVcgUkVRVUVTVCBcblxuJykKICAgICAgICBwcmludChtb2RlbF9wYXRoX2tleSkKICAgICAgICBwcmludChmZWF0dXJlX29yZGVyX2tleSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>pri</text>
+        <text>get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChtb2RlbF9wYXRoX2tleSkK</text>
+        <text encoding="base64">ICAgIEBsb2dfdGltZSgpCiAgICBAcmV0cnlhYmxlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnXG5cbiBORVcgUkVRVUVTVCBcblxuJykKICAgICAgICBwcmludChtb2RlbF9wYXRoX2tleSkKICAgICAgICBwcmludChmZWF0dXJlX29yZGVyX2tleSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjYWNoZWRfZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbF9wYXRoX2tleSA9IFwKICAgICAgICAgICAgTU9ERUxfUEFUSF9LRVlfVEVNUExBVEUuZm9ybWF0KG1vZGVsPW1vZGVsLCB2ZXJzaW9uPXZlcnNpb24pCiAgICAgICAgZmVhdHVyZV9vcmRlcl9rZXkgPSBcCiAgICAgICAgICAgIEZFQVRVUkVfT1JERVJfS0VZX1RFTVBMQVRFLmZvcm1hdChtb2RlbD1tb2RlbCwgdmVyc2lvbj12ZXJzaW9uKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChtb2RlbF9kYXRhKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChob3Rfc3RvcmFnZV9wYXRoKQo=</text>
+        <text encoding="base64">ZnJvbSBzY29yaW5nLmV2YWx1YXRpb24uY29uc3RhbnRzIGltcG9ydCBSZWRpc0tleVByZWZpeAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmZWF0dXJlX29yZGVyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHQpCg==</text>
+        <text encoding="base64">RkVBVFVSRV9PUkRFUl9LRVlfVEVNUExBVEUgPSAnbWU6ZmVhdHVyZV9vcmRlcjp7bW9kZWx9Ont2ZXJzaW9ufScKTU9ERUxfUEFUSF9LRVlfVEVNUExBVEUgPSAnbWU6aG90X3N0b3JhZ2VfcGF0aDp7bW9kZWx9Ont2ZXJzaW9ufScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBwaXBlbGluZVwK</text>
+        <text encoding="base64">ICAgIEBsb2dfdGltZSgpCiAgICBAcmV0cnlhYmxlKCkKICAgIGRlZiBnZXQoc2VsZiwga2V5KToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIEBsb2cK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pri</last-search>
+      <last-search>get</last-search>
       <last-offset />
-      <last-pattern>pri</last-pattern>
+      <last-pattern>get</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>host</entry>
         <entry>viewed_categories</entry>
         <entry>coe</entry>
         <entry>num</entry>
@@ -517,9 +518,9 @@
         <entry>_mem</entry>
         <entry>res</entry>
         <entry>pri</entry>
+        <entry>get</entry>
       </history-search>
       <history-cmd>
-        <entry>qw</entry>
         <entry encoding="base64">JzwsJz4=</entry>
         <entry>e</entry>
         <entry>wq</entry>
@@ -529,15 +530,16 @@
         <entry>&quot;w</entry>
         <entry encoding="base64">JzwsJz5zb3I=</entry>
         <entry>sort</entry>
-        <entry>we</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>split</entry>
         <entry>w'</entry>
-        <entry>vsplit</entry>
-        <entry>qa</entry>
         <entry>q</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>qa</entry>
+        <entry>vsplit</entry>
+        <entry>ew</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
