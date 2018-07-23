@@ -142,11 +142,11 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/common/constants.py" timestamp="1532053851017">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/common/constants.py" timestamp="1532371919035">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+        <mark key="." line="4" column="20" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1532116058613">
         <mark key="[" line="96" column="18" />
@@ -265,12 +265,11 @@
       <file name="/Dummy.txt" timestamp="1532109423487">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/daos/redis_dao.py" timestamp="1532370787762">
-        <mark key="'" line="115" column="20" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="115" column="40" />
-        <mark key="." line="115" column="40" />
-        <mark key="^" line="115" column="40" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/daos/redis_dao.py" timestamp="1532372442668">
+        <mark key="[" line="86" column="97" />
+        <mark key="]" line="86" column="97" />
+        <mark key="^" line="86" column="97" />
+        <mark key="." line="86" column="97" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/utilities.py" timestamp="1531422675181">
         <mark key="[" line="16" column="29" />
@@ -284,12 +283,11 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="35" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/model_retriever.py" timestamp="1532370159171">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="25" column="52" />
-        <mark key="]" line="26" column="97" />
-        <mark key="." line="26" column="97" />
-        <mark key="^" line="26" column="97" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/model_retriever.py" timestamp="1532371536779">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="31" column="35" />
       </file>
       <file name="$USER_HOME$/repositories/atcie-python-commons/atciecommons/model_storage/client.py" timestamp="1532022515517">
         <mark key="'" line="34" column="43" />
@@ -447,40 +445,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHVwbGUocmVzdWx0KSBpZiByZXN1bHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVE9ETzogV0hPIEtOT1dTIT8K</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
         <text>MO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdldF9tb2RlbF9zdG9yYWdlX3BhdGgobW9kZWwsIHZlcnNpb24sIHBpcGVsaW5lPXNlbGYuX2NvbnNpc3RlbnRfcGlwZWxpbmUpCg==</text>
+        <text encoding="base64">ICAgICAgICBleGVjdXRvciA9IHNlbGYKICAgICAgICBpZiBwaXBlbGluZToKICAgICAgICAgICAgZXhlY3V0b3IgPSBwaXBlbGluZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHVwbGUocmVzdWx0KSBpZiByZXN1bHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVE9ETzogV0hPIEtOT1dTIT8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBsb2cK</text>
+        <text encoding="base64">ICAgICAgICBleGVjdXRvciA9IHNlbGYucmVkaXNfY2xpZW50CiAgICAgICAgaWYgcGlwZWxpbmU6CiAgICAgICAgICAgIGV4ZWN1dG9yID0gcGlwZWxpbmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmdldChrZXkpCg==</text>
+        <text encoding="base64">ICAgICAgICBleGVjdXRvciA9IHNlbGYucmVkaXNfY2xpZW50CiAgICAgICAgaWYgcGlwZWxpbmU6CiAgICAgICAgICAgIGV4ZWN1dG9yID0gcGlwZWxpbmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHBpcGVsaW5lLnpyYW5nZShrZXksIDAsIC0xKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVkaXNLZXlQcmVmaXguTU9ERUxfRkVBVFVSRV9PUkRFUl9LRVlfVEVNUExBVEUuZm9ybWF0KG1vZGVsPW1vZGVsLCB2ZXJzaW9uPXZlcnNpb24pLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBrZXkgPSBSZWRpc0tleVByZWZpeC5NT0RFTF9TVE9SQUdFX1BBVEhfS0VZX1RFTVBMQVRFLmZvcm1hdChtb2RlbD1tb2RlbCwgdmVyc2lvbj12ZXJzaW9uKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBrZXkgPQo=</text>
+        <text encoding="base64">ICAgICAgICAjIENhY2hlIGJvdGggZmVhdHVyZSBvcmRlciBhbmQgc3RvcmFnZSBwYXRoIHdpdGggYSBUVEwgZXhwaXJhdGlvbiBvZiBvbmUgZGF5LgogICAgICAgIHBpcGVsaW5lID0gc2VsZi5tZW1fcmVkaXNfZGFvLnBpcGVsaW5lKCkKICAgICAgICBmb3IgcG9zaXRpb24sIGZlYXR1cmVfbmFtZSBpbiBlbnVtZXJhdGUoZmVhdHVyZV9vcmRlcik6CiAgICAgICAgICAgIHBpcGVsaW5lLnphZGQoZmVhdHVyZV9vcmRlcl9rZXksIGZsb2F0KHBvc2l0aW9uKSwgZmVhdHVyZV9uYW1lKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVkaXNLZXlQcmVmaXguTU9ERUxfU1RPUkFHRV9QQVRIX0tFWV9URU1QTEFURS5mb3JtYXQobW9kZWw9bW9kZWwsIHZlcnNpb249dmVyc2lvbikpCg==</text>
+        <text encoding="base64">ICAgICAgICBwaXBlbGluZS5zZXQobW9kZWxfcGF0aF9rZXksIGhvdF9zdG9yYWdlX3BhdGgpIFwKICAgICAgICAgICAgLmV4cGlyZShtb2RlbF9wYXRoX2tleSwgVGltZUNvbnN0YW50cy5PTkVfREFZX0lOX1NFQ09ORFMpIFwKICAgICAgICAgICAgLmV4cGlyZShmZWF0dXJlX29yZGVyX2tleSwgVGltZUNvbnN0YW50cy5PTkVfREFZX0lOX1NFQ09ORFMpIFwKICAgICAgICAgICAgLmV4ZWN1dGUoKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -522,7 +520,6 @@
         <entry>MO</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4=</entry>
         <entry>e</entry>
         <entry>wq</entry>
         <entry>2</entry>
@@ -535,13 +532,14 @@
         <entry>split</entry>
         <entry>w'</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>qa</entry>
         <entry>vsplit</entry>
         <entry>ew</entry>
         <entry>we</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>:w</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
