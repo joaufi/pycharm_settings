@@ -3,14 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" timestamp="1532450905652">
+        <mark key="'" line="304" column="38" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica_segment_operator.py" timestamp="1531158499249">
         <mark key="[" line="51" column="52" />
         <mark key="]" line="52" column="39" />
         <mark key="." line="52" column="39" />
         <mark key="^" line="52" column="39" />
-      </file>
-      <file name="/a.dummy" timestamp="1532101561498">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/client/model_storage_client.py" timestamp="1532378956265">
         <mark key="'" line="35" column="33" />
@@ -18,9 +18,6 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
         <mark key="^" line="11" column="32" />
-      </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/utilities.py" timestamp="1532098893665">
-        <mark key="[" line="165" column="4" />
       </file>
       <file name="$USER_HOME$/repositories/atcie-python-commons/atciecommons/model_storage/fields.py" timestamp="1531949509680">
         <mark key="[" line="0" column="5" />
@@ -68,9 +65,6 @@
         <mark key="]" line="1" column="293" />
         <mark key="^" line="0" column="71691" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/validation/input_model_fields.py" timestamp="1531949532886">
-        <mark key="[" line="42" column="4" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_scribe_page_views.sql" timestamp="1530745017434">
         <mark key="[" line="4" column="19" />
@@ -166,26 +160,17 @@
         <mark key="^" line="120" column="14" />
         <mark key="." line="120" column="24" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/modelvalidation/__init__.py" timestamp="1531948927936">
-        <mark key="[" line="9" column="41" />
-      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/attribute_transformation_model.py" timestamp="1531756801846">
         <mark key="[" line="262" column="19" />
         <mark key="]" line="262" column="18" />
         <mark key="^" line="262" column="18" />
         <mark key="." line="262" column="18" />
       </file>
-      <file name="/Python Console" timestamp="1532109315462">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/exceptions.py" timestamp="1532376644605">
         <mark key="[" line="22" column="11" />
         <mark key="]" line="22" column="19" />
         <mark key="." line="22" column="19" />
         <mark key="^" line="22" column="19" />
-      </file>
-      <file name="/fragment.py" timestamp="1532110780403">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/atcie-python-commons/atciecommons/modelvalidation/exceptions.py" timestamp="1531942133127">
         <mark key="[" line="2" column="14" />
@@ -277,12 +262,6 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/data/base_payload_model.py" timestamp="1532098708815">
-        <mark key="[" line="17" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1532109423487">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/daos/redis_dao.py" timestamp="1532444363527">
         <mark key="'" line="102" column="15" />
         <mark key="[" line="113" column="97" />
@@ -366,7 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="69" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_facebook_model.py" />
       <jump line="280" column="28" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_facebook_model.py" />
       <jump line="257" column="73" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_facebook_model.py" />
       <jump line="249" column="56" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_facebook_model.py" />
@@ -466,6 +444,7 @@
       <jump line="111" column="11" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/daos/redis_dao.py" />
       <jump line="181" column="24" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/daos/redis_dao.py" />
       <jump line="102" column="15" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/daos/redis_dao.py" />
+      <jump line="304" column="38" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
