@@ -12,13 +12,6 @@
         <mark key="." line="52" column="39" />
         <mark key="^" line="52" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/client/model_storage_client.py" timestamp="1532378956265">
-        <mark key="'" line="35" column="33" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="11" column="32" />
-      </file>
       <file name="$USER_HOME$/repositories/atcie-python-commons/atciecommons/model_storage/fields.py" timestamp="1531949509680">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="17" />
@@ -37,11 +30,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="5" column="87" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" timestamp="1532615188618">
-        <mark key="[" line="216" column="68" />
-        <mark key="]" line="216" column="69" />
-        <mark key="." line="216" column="69" />
-        <mark key="^" line="216" column="69" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" timestamp="1532628820062">
+        <mark key="[" line="131" column="36" />
+        <mark key="]" line="131" column="36" />
+        <mark key="." line="131" column="36" />
+        <mark key="^" line="131" column="36" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/utility/hive_query_config_template.py" timestamp="1531170239178">
         <mark key="[" line="19" column="0" />
@@ -67,11 +60,11 @@
         <mark key="." line="81" column="22" />
         <mark key="^" line="81" column="22" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_tables/populate_in_market_viewed_sku_features.sql" timestamp="1532509451765">
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="22" column="58" />
-        <mark key="." line="22" column="58" />
-        <mark key="^" line="22" column="58" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_tables/populate_in_market_viewed_sku_features.sql" timestamp="1532628131185">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+        <mark key="^" line="11" column="13" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" timestamp="1530210117907">
         <mark key="[" line="1" column="0" />
@@ -144,11 +137,6 @@
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/recent_filters_by_device_guid.sql" timestamp="1532621162843">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_tables/populate_in_market_num_searches.sql" timestamp="1532509442953">
         <mark key="'" line="11" column="54" />
         <mark key="[" line="11" column="24" />
@@ -162,11 +150,10 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/keyword_search_by_device_guid.sql" timestamp="1532614667281">
-        <mark key="[" line="31" column="41" />
-        <mark key="]" line="31" column="41" />
-        <mark key="^" line="31" column="41" />
-        <mark key="." line="31" column="41" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/keyword_search_by_device_guid.sql" timestamp="1532628070037">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/atcie-python-commons/atciecommons/model_storage/exceptions.py" timestamp="1531944417603">
         <mark key="[" line="8" column="0" />
@@ -300,13 +287,6 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/daos/redis_dao.py" timestamp="1532444363527">
-        <mark key="'" line="102" column="15" />
-        <mark key="[" line="113" column="97" />
-        <mark key="]" line="114" column="15" />
-        <mark key="^" line="114" column="15" />
-        <mark key="." line="114" column="15" />
-      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/utilities.py" timestamp="1531422675181">
         <mark key="[" line="16" column="29" />
         <mark key="]" line="17" column="53" />
@@ -337,6 +317,12 @@
         <mark key="]" line="9" column="50" />
         <mark key="^" line="9" column="50" />
         <mark key="." line="9" column="50" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_temporary_tables/populate_temp_page_views.sql" timestamp="1532628148995">
+        <mark key="[" line="9" column="87" />
+        <mark key="]" line="9" column="87" />
+        <mark key="^" line="9" column="87" />
+        <mark key="." line="9" column="87" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/viewed_sku_by_device_guid.sql" timestamp="1532508496490">
         <mark key="[" line="31" column="0" />
@@ -491,11 +477,11 @@
       <jump line="11" column="54" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_tables/populate_in_market_num_searches.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtLSBUT0RPOiBTaG91bGQgd2UgcHV0IGBPTiB0MS5ldmVudGRhdGUgPSB0Mi5ldmVudGRhdGVgPwo=</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>pipeline.execute</text>
@@ -504,31 +490,31 @@
         <text>{{ macros.ds_add(tomorrow_ds, -14) }}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtLSBUT0RPOiBTaG91bGQgd2UgcHV0IGBPTiB0MS5ldmVudGRhdGUgPSB0Mi5ldmVudGRhdGVgPwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBGaXggQXJ0aWZhY3REb3dubG9hZE9wZXJhdG9yIGFuZCBoaXZlIHF1ZXJpZXMgYmFja2VkIGJ5IHRibHNjcmliZXNvbHJyZXF1ZXN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRibC5kZXZpY2VndWlkLAogICAgdGJsLmV2ZW50dGltZXN0YW1wLAogICAgMCBBUyBvZmZzZXQsCiAgICB0Ymwuc3RvcmVpZCwKICAgIE5VTEwgQVMgc2t1LAogICAgTlVMTCBBUyBza3VxdWFudGl0eSwKICAgIE5VTEwgQVMgdW5pdHByaWNlY2VudHMsCiAgICB0YmwuY2xhc3NpZCwKICAgIHRibC5rZXl3b3JkLAogICAgTlVMTCBBUyBmaWx0ZXIsCiAgICBOVUxMIEFTIGZpbHRlck9wdGlvbnMsCiAgICB0YmwuZGF0YWNlbnRlciwKICAgICdrZXl3b3JkX3NlYXJjaF9ieV9kZXZpY2VfZ3VpZCcgQVMgZmFjdHR5cGUsCiAgICB0YmwuZXZlbnRkYXRlCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjZi5jbGFzc2lkLAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBwYXJlbnQgb2YgZTdkNDM1ZDIuLi4gQ2hhbmdlIGZhY3QgdGFibGUgcG9wdWxhdGlvbiB0byBkYWlseSBpbnN0ZWFkIG9mIHB1bGxpbmcgd2hvbGUgbW9udGgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgdDEuc3RvcmVpZCwKICAgICAgICB0MS5kZXZpY2VndWlkLAogICAgICAgIHQxLmV2ZW50dGltZXN0YW1wLAogICAgICAgIHQxLm9yaWdpbmFsc2VhcmNodGVybSBBUyBrZXl3b3JkLAogICAgICAgIHQxLmNsYXNzaWRzWzBdIEFTIGNsYXNzaWQsCiAgICAgICAgdDEuZGF0YWNlbnRlciwKICAgICAgICB0MS5ldmVudGRhdGUsCiAgICAgICAgUk9XX05VTUJFUigpIE9WRVIgKFBBUlRJVElPTiBCWSB0MS5kZXZpY2VndWlkLCB0MS5zdG9yZWlkIE9SREVSIEJZIHQxLmV2ZW50dGltZXN0YW1wIERFU0MpIGFzIGlkCiAgICBGUk9NIHNjcmliZS50YmxzY3JpYmVzb2xycmVxdWVzdCBBUyB0MQogICAgSU5ORVIgSk9JTiBzY3JpYmUudGJsdGVtcHBhZ2V2aWV3IEFTIHQyIE9OIENPQUxFU0NFKHQxLnJlZmVycmluZ3RyYW5zYWN0aW9uaWQsIHQxLnRyYW5zYWN0aW9uaWQpID0gdDIucmVmZXJyaW5ndHJhbnNhY3Rpb25pZAo9PT09PT09Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBwYXJlbnQgb2YgZTdkNDM1ZDIuLi4gQ2hhbmdlIGZhY3QgdGFibGUgcG9wdWxhdGlvbiB0byBkYWlseSBpbnN0ZWFkIG9mIHB1bGxpbmcgd2hvbGUgbW9udGgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2NhY2hpbmcgcmVzdWx0JykKICAgICAgICAgICAgcHJpbnQocmVzdWx0KQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgdDEuc3RvcmVpZCwKICAgICAgICB0MS5kZXZpY2VndWlkLAogICAgICAgIHQxLmV2ZW50dGltZXN0YW1wLAogICAgICAgIHQxLm9yaWdpbmFsc2VhcmNodGVybSBBUyBrZXl3b3JkLAogICAgICAgIHQxLmNsYXNzaWRzWzBdIEFTIGNsYXNzaWQsCiAgICAgICAgdDEuZGF0YWNlbnRlciwKICAgICAgICB0MS5ldmVudGRhdGUsCiAgICAgICAgUk9XX05VTUJFUigpIE9WRVIgKFBBUlRJVElPTiBCWSB0MS5kZXZpY2VndWlkLCB0MS5zdG9yZWlkIE9SREVSIEJZIHQxLmV2ZW50dGltZXN0YW1wIERFU0MpIGFzIGlkCiAgICBGUk9NIHNjcmliZS50YmxzY3JpYmVzb2xycmVxdWVzdCBBUyB0MQogICAgSU5ORVIgSk9JTiBzY3JpYmUudGJsdGVtcHBhZ2V2aWV3IEFTIHQyIE9OIENPQUxFU0NFKHQxLnJlZmVycmluZ3RyYW5zYWN0aW9uaWQsIHQxLnRyYW5zYWN0aW9uaWQpID0gdDIucmVmZXJyaW5ndHJhbnNhY3Rpb25pZAo9PT09PT09Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGhvdF9zdG9yYWdlX3BhdGgsIGZlYXR1cmVfb3JkZXIpCg==</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgIHQuc3RvcmVpZCwKICAgICAgICB0LmRldmljZWd1aWQsCiAgICAgICAgdC5ldmVudHRpbWVzdGFtcCwKICAgICAgICB0Lm9yaWdpbmFsc2VhcmNodGVybSBBUyBrZXl3b3JkLAogICAgICAgIHQuY2xhc3NpZHNbMF0gQVMgY2xhc3NpZCwKICAgICAgICB0LmRhdGFjZW50ZXIsCiAgICAgICAgdC5ldmVudGRhdGUsCiAgICAgICAgUk9XX05VTUJFUigpIE9WRVIgKFBBUlRJVElPTiBCWSB0LmRldmljZWd1aWQsIHQuc3RvcmVpZCBPUkRFUiBCWSB0LmV2ZW50dGltZXN0YW1wIERFU0MpIGFzIGlkCiAgICBGUk9NIHNjcmliZS50YmxzY3JpYmVzb2xycmVxdWVzdCBBUyB0Cj4+Pj4+Pj4gcGFyZW50IG9mIGU3ZDQzNWQyLi4uIENoYW5nZSBmYWN0IHRhYmxlIHBvcHVsYXRpb24gdG8gZGFpbHkgaW5zdGVhZCBvZiBwdWxsaW5nIHdob2xlIG1vbnRoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBiaWRzaWZ0LmNsaWVudC5tb2RlbF9zdG9yYWdlX2NsaWVudCBpbXBvcnQgTW9kZWxTdG9yYWdlQ2xpZW50Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBwYXJlbnQgb2YgZTdkNDM1ZDIuLi4gQ2hhbmdlIGZhY3QgdGFibGUgcG9wdWxhdGlvbiB0byBkYWlseSBpbnN0ZWFkIG9mIHB1bGxpbmcgd2hvbGUgbW9udGgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgSU5ORVIgSk9JTiBzY3JpYmUudGJsdGVtcHBhZ2V2aWV3IEFTIHQyIE9OIHQxLnRyYW5zYWN0aW9uaWQgPSB0Mi5yZWZlcnJpbmd0cmFuc2FjdGlvbmlkCiAgICAgICAgV0hFUkUKICAgICAgICAgICAgdDEuZXZlbnRkYXRlIEJFVFdFRU4gJ3t7IG1hY3Jvcy5kc19hZGQodG9tb3Jyb3dfZHMsIC0yOCkgfX0nIEFORCAne3sgdG9tb3Jyb3dfZHMgfX0nCiAgICAgICAgICAgIEFORCB0Mi5ldmVudGRhdGUgQkVUV0VFTiAne3sgbWFjcm9zLmRzX2FkZCh0b21vcnJvd19kcywgLTI4KSB9fScgQU5EICd7eyB0b21vcnJvd19kcyB9fScKPT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
