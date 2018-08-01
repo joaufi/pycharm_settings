@@ -9,7 +9,8 @@
         <mark key="." line="52" column="39" />
         <mark key="^" line="52" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-service/docs/details/README.md" timestamp="1533142271474">
+      <file name="$USER_HOME$/repositories/customer-information-service/docs/details/README.md" timestamp="1533150585131">
+        <mark key="'" line="1469" column="18" />
         <mark key="[" line="256" column="8" />
         <mark key="]" line="258" column="15" />
         <mark key="." line="258" column="15" />
@@ -394,9 +395,6 @@
         <mark key="^" line="19" column="61" />
         <mark key="." line="19" column="61" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1533142312096">
-        <mark key="[" line="895" column="11" />
-      </file>
       <file name="$USER_HOME$/repositories/scoring-library/requirements.txt" timestamp="1531490070218">
         <mark key="[" line="15" column="15" />
         <mark key="]" line="16" column="13" />
@@ -424,12 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="80" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_facebook_model.py" />
-      <jump line="245" column="73" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="268" column="28" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="418" column="0" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
-      <jump line="479" column="28" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
-      <jump line="480" column="54" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
       <jump line="472" column="0" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
       <jump line="376" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
       <jump line="377" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
@@ -524,6 +516,12 @@
       <jump line="0" column="32" filename="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" />
       <jump line="236" column="9" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
       <jump line="173" column="22" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
+      <jump line="250" column="15" filename="$USER_HOME$/repositories/customer-information-service/docs/details/README.md" />
+      <jump line="1492" column="18" filename="$USER_HOME$/repositories/customer-information-service/docs/details/README.md" />
+      <jump line="1400" column="18" filename="$USER_HOME$/repositories/customer-information-service/docs/details/README.md" />
+      <jump line="1423" column="18" filename="$USER_HOME$/repositories/customer-information-service/docs/details/README.md" />
+      <jump line="1446" column="18" filename="$USER_HOME$/repositories/customer-information-service/docs/details/README.md" />
+      <jump line="1469" column="18" filename="$USER_HOME$/repositories/customer-information-service/docs/details/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -533,7 +531,7 @@
         <text>CartActionEvent</text>
       </register>
       <register name="/" type="4">
-        <text>plcc</text>
+        <text>VIEWED_SKU</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CioqUmVxdWVzdGVkIFR5cGU6IEFEREVEX0NBUlRfU0tVUyoqCjxiciAvPgpEZXNjcmlwdGlvbjogTGlzdCBvZiB0aGUgU0tVcyBhIHVzZXIgaGFzIGFkZGVkIHRvIHRoZWlyIGNhcnQuCjxiciAvPgpEYXRhc3RvcmU6IFJlZGlzCjxiciAvPgpTb3VyY2U6IFNjcmliZSBDYXJ0QWN0aW9uRXZlbnQKPGJyIC8+ClNpemUgb2YgU2V0OiA1MAo8YnIgLz4KVFRMOiA5MCBEYXlzCjxiciAvPgpgYGBSZWRpcyBLZXk6IG1lOmFkZGVkX2NhcnRfc2t1czp7c3RvcmVfaWR9OntndWlkfWBgYAo8YnIgLz4KUmVhbC1UaW1lOiBZZXMKPGJyIC8+CkJhdGNoOiBZZXMKPGJyIC8+CktleSBJZGVudGlmaWVyOiBDdXN0b21lckd1SUQKPGJyIC8+Ck5vdGVzOiAKPGJyIC8+Cg==</text>
@@ -570,9 +568,9 @@
       </register>
     </registers>
     <search>
-      <last-search>plcc</last-search>
+      <last-search>VIEWED_SKU</last-search>
       <last-offset />
-      <last-pattern>plcc</last-pattern>
+      <last-pattern>VIEWED_SKU</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -580,7 +578,6 @@
     </search>
     <history>
       <history-search>
-        <entry>class</entry>
         <entry>MemRedisDao</entry>
         <entry>def\_set</entry>
         <entry>def\ set</entry>
@@ -600,6 +597,7 @@
         <entry>pipeline.execute</entry>
         <entry>PLCC</entry>
         <entry>plcc</entry>
+        <entry>VIEWED_SKU</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
