@@ -395,7 +395,9 @@
         <mark key="^" line="19" column="61" />
         <mark key="." line="19" column="61" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1533152989131">
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1533154419739">
+        <mark key="'" line="635" column="15" />
+        <mark key="[" line="739" column="8" />
         <mark key="]" line="1540" column="62" />
         <mark key="^" line="1540" column="62" />
         <mark key="." line="1540" column="62" />
@@ -427,7 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="472" column="0" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
       <jump line="376" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
       <jump line="377" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
       <jump line="378" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
@@ -527,6 +528,7 @@
       <jump line="1423" column="18" filename="$USER_HOME$/repositories/customer-information-service/docs/details/README.md" />
       <jump line="1446" column="18" filename="$USER_HOME$/repositories/customer-information-service/docs/details/README.md" />
       <jump line="1469" column="18" filename="$USER_HOME$/repositories/customer-information-service/docs/details/README.md" />
+      <jump line="635" column="15" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -536,7 +538,7 @@
         <text>CartActionEvent</text>
       </register>
       <register name="/" type="4">
-        <text>VIEWED_SKU</text>
+        <text>order_details</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CioqUmVxdWVzdGVkIFR5cGU6IEFEREVEX0NBUlRfU0tVUyoqCjxiciAvPgpEZXNjcmlwdGlvbjogTGlzdCBvZiB0aGUgU0tVcyBhIHVzZXIgaGFzIGFkZGVkIHRvIHRoZWlyIGNhcnQuCjxiciAvPgpEYXRhc3RvcmU6IFJlZGlzCjxiciAvPgpTb3VyY2U6IFNjcmliZSBDYXJ0QWN0aW9uRXZlbnQKPGJyIC8+ClNpemUgb2YgU2V0OiA1MAo8YnIgLz4KVFRMOiA5MCBEYXlzCjxiciAvPgpgYGBSZWRpcyBLZXk6IG1lOmFkZGVkX2NhcnRfc2t1czp7c3RvcmVfaWR9OntndWlkfWBgYAo8YnIgLz4KUmVhbC1UaW1lOiBZZXMKPGJyIC8+CkJhdGNoOiBZZXMKPGJyIC8+CktleSBJZGVudGlmaWVyOiBDdXN0b21lckd1SUQKPGJyIC8+Ck5vdGVzOiAKPGJyIC8+Cg==</text>
@@ -573,9 +575,9 @@
       </register>
     </registers>
     <search>
-      <last-search>VIEWED_SKU</last-search>
+      <last-search>order_details</last-search>
       <last-offset />
-      <last-pattern>VIEWED_SKU</last-pattern>
+      <last-pattern>order_details</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -583,7 +585,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MemRedisDao</entry>
         <entry>def\_set</entry>
         <entry>def\ set</entry>
         <entry>set</entry>
@@ -603,6 +604,7 @@
         <entry>PLCC</entry>
         <entry>plcc</entry>
         <entry>VIEWED_SKU</entry>
+        <entry>order_details</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
