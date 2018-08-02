@@ -9,12 +9,12 @@
         <mark key="." line="52" column="39" />
         <mark key="^" line="52" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-service/docs/details/README.md" timestamp="1533150585131">
-        <mark key="'" line="1469" column="18" />
-        <mark key="[" line="256" column="8" />
-        <mark key="]" line="258" column="15" />
-        <mark key="." line="258" column="15" />
-        <mark key="^" line="258" column="15" />
+      <file name="$USER_HOME$/repositories/customer-information-service/docs/details/README.md" timestamp="1533224171848">
+        <mark key="'" line="158" column="34" />
+        <mark key="[" line="151" column="2" />
+        <mark key="]" line="151" column="14" />
+        <mark key="." line="151" column="14" />
+        <mark key="^" line="151" column="14" />
       </file>
       <file name="$USER_HOME$/repositories/atcie-python-commons/atciecommons/model_storage/fields.py" timestamp="1531949509680">
         <mark key="[" line="0" column="5" />
@@ -298,6 +298,12 @@
         <mark key="." line="36" column="41" />
         <mark key="^" line="36" column="41" />
       </file>
+      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/details/__init__.py" timestamp="1533224275467">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/context.py" timestamp="1532023109120">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -433,7 +439,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="376" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
       <jump line="377" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
       <jump line="378" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
       <jump line="379" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
@@ -533,43 +538,49 @@
       <jump line="1446" column="18" filename="$USER_HOME$/repositories/customer-information-service/docs/details/README.md" />
       <jump line="1469" column="18" filename="$USER_HOME$/repositories/customer-information-service/docs/details/README.md" />
       <jump line="635" column="15" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="158" column="34" filename="$USER_HOME$/repositories/customer-information-service/docs/details/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CartActionEvent</text>
+        <text>Details Batch</text>
       </register>
       <register name="-" type="4">
-        <text>CartActionEvent</text>
+        <text>Details Batch</text>
       </register>
       <register name="/" type="4">
-        <text>order_details</text>
+        <text>details_batch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CioqUmVxdWVzdGVkIFR5cGU6IEFEREVEX0NBUlRfU0tVUyoqCjxiciAvPgpEZXNjcmlwdGlvbjogTGlzdCBvZiB0aGUgU0tVcyBhIHVzZXIgaGFzIGFkZGVkIHRvIHRoZWlyIGNhcnQuCjxiciAvPgpEYXRhc3RvcmU6IFJlZGlzCjxiciAvPgpTb3VyY2U6IFNjcmliZSBDYXJ0QWN0aW9uRXZlbnQKPGJyIC8+ClNpemUgb2YgU2V0OiA1MAo8YnIgLz4KVFRMOiA5MCBEYXlzCjxiciAvPgpgYGBSZWRpcyBLZXk6IG1lOmFkZGVkX2NhcnRfc2t1czp7c3RvcmVfaWR9OntndWlkfWBgYAo8YnIgLz4KUmVhbC1UaW1lOiBZZXMKPGJyIC8+CkJhdGNoOiBZZXMKPGJyIC8+CktleSBJZGVudGlmaWVyOiBDdXN0b21lckd1SUQKPGJyIC8+Ck5vdGVzOiAKPGJyIC8+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>details_batch` endpoint. This endpoint allows a user
+to pass in a list of device_guid, customer_guid pairs and it will return results for each pair.
+
+URL
+```
+/customer-information/</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwcm9kdWN0X2RldGFpbHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnU1FMIElTIEJVVCBBIERBVFVNIE1BTjogJyArIHN0cihkYXRhKSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwcm9kdWN0X2RldGFpbHMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChxdWVyeSkKICAgICAgICBwcmludCgnbWFnZXInKQogICAgICAgIHByaW50KGd1aWQpCiAgICAgICAgcHJpbnQoJ3N0YWdlcicpCiAgICAgICAgcHJpbnQoJ0EgR1VJRCBMSUtFIEEgSEFXSyBSVU4gQU1PVUs6ICcgKyBzdHIoZ3VpZCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnU1FMIElTIEJVVCBBIERBVFVNIE1BTjogJyArIHN0cihkYXRhKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChxdWVyeSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChxdWVyeSkKICAgICAgICBwcmludCgnbWFnZXInKQogICAgICAgIHByaW50KGd1aWQpCiAgICAgICAgcHJpbnQoJ3N0YWdlcicpCiAgICAgICAgcHJpbnQoJ0EgR1VJRCBMSUtFIEEgSEFXSyBSVU4gQU1PVUs6ICcgKyBzdHIoZ3VpZCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">OTE5OEZFQkYtMzY1Qy00NzU2LUJDMjctQ0YzQ0YxMERBNzc5Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChxdWVyeSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIGUK</text>
+        <text encoding="base64">OTE5OEZFQkYtMzY1Qy00NzU2LUJDMjctQ0YzQ0YxMERBNzc5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIGUK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgZQo=</text>
@@ -579,9 +590,9 @@
       </register>
     </registers>
     <search>
-      <last-search>order_details</last-search>
+      <last-search>details_batch</last-search>
       <last-offset />
-      <last-pattern>order_details</last-pattern>
+      <last-pattern>details_batch</last-pattern>
       <last-replace>start\_day\_offset</last-replace>
       <last-substitute>start\_date</last-substitute>
       <last-dir>1</last-dir>
@@ -589,8 +600,6 @@
     </search>
     <history>
       <history-search>
-        <entry>def\_set</entry>
-        <entry>def\ set</entry>
         <entry>set</entry>
         <entry>def set</entry>
         <entry>load_strings</entry>
@@ -609,6 +618,8 @@
         <entry>plcc</entry>
         <entry>VIEWED_SKU</entry>
         <entry>order_details</entry>
+        <entry encoding="base64">XDxkZXRhaWxzX2JhdGNoXD4=</entry>
+        <entry>details_batch</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
