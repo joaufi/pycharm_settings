@@ -175,8 +175,11 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1533741972948">
-        <mark key="[" line="85" column="36" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1533743857376">
+        <mark key="[" line="95" column="34" />
+        <mark key="]" line="95" column="38" />
+        <mark key="^" line="95" column="38" />
+        <mark key="." line="95" column="38" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/controller.py" timestamp="1532979524339">
         <mark key="[" line="36" column="4" />
@@ -540,10 +543,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">c2luZ2xlX2ZhY3Qg</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">c2luZ2xlX2ZhY3Qg</text>
       </register>
       <register name="/" type="4">
         <text>details_batch</text>
@@ -551,12 +554,12 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgREFUQUJBU0UKICAgIGNzbl9pZGVudGl0eV91c2VyID0gJ2Nzbl9pZGVudGl0eScKICAgIGNzbl9pZGVudGl0eV9wYXNzd29yZCA9ICdYX3pXbmhqNzQnCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gZmFjdF9saXN0OiAKICAgICAgICA6cGFyYW0gY3VzdG9tZXJfZ3VpZDogCiAgICAgICAgOnBhcmFtIGRldmljZV9ndWlkOiAKICAgICAgICA6cGFyYW0gc3RvcmVfaWQ6IAogICAgICAgIDpyZXR1cm46IAo=</text>
+      </register>
+      <register name="2" type="4">
         <text># Currently the function in the CustInfoLib for batch_details is
         # `details_batch`. Eventually this will change, for now we kee</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICMgREFUQUJBU0UKICAgIGNzbl9pZGVudGl0eV91c2VyID0gJ2Nzbl9pZGVudGl0eScKICAgIGNzbl9pZGVudGl0eV9wYXNzd29yZCA9ICcnICAjIFJlcGxhY2UgdGhpcyB3aXRoIHRoZSBEQiBwYXNzd29yZCBmb3IgREVWQk9TUUwyNAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICMgREFUQUJBU0UKICAgIGNzbl9pZGVudGl0eV91c2VyID0gJ2Nzbl9pZGVudGl0eScKICAgIGNzbl9pZGVudGl0eV9wYXNzd29yZCA9ICcnICAjIFJlcGxhY2UgdGhpcyB3aXRoIHRoZSBEQiBwYXNzd29yZCBmb3IgREVWQk9TUUwyNAo=</text>
@@ -565,12 +568,15 @@
         <text encoding="base64">ICAgICMgREFUQUJBU0UKICAgIGNzbl9pZGVudGl0eV91c2VyID0gJ2Nzbl9pZGVudGl0eScKICAgIGNzbl9pZGVudGl0eV9wYXNzd29yZCA9ICcnICAjIFJlcGxhY2UgdGhpcyB3aXRoIHRoZSBEQiBwYXNzd29yZCBmb3IgREVWQk9TUUwyNAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgREFUQUJBU0UKICAgIGNzbl9pZGVudGl0eV91c2VyID0gJ2Nzbl9pZGVudGl0eScKICAgIGNzbl9pZGVudGl0eV9wYXNzd29yZCA9ICcnICAjIFJlcGxhY2UgdGhpcyB3aXRoIHRoZSBEQiBwYXNzd29yZCBmb3IgREVWQk9TUUwyNAo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ZnJvbSB3YXlmYWlydXRpbCBpbXBvcnQgd2ZzZXR0aW5ncwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>details_batch` endpoint. This endpoint allows a user
 to pass in a list of device_guid, customer_guid pairs and it will return results for each pair.
 
@@ -578,11 +584,8 @@ URL
 ```
 /customer-information/</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwcm9kdWN0X2RldGFpbHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
