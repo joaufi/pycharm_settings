@@ -175,11 +175,12 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1533743857376">
-        <mark key="[" line="95" column="34" />
-        <mark key="]" line="95" column="38" />
-        <mark key="^" line="95" column="38" />
-        <mark key="." line="95" column="38" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1533750787497">
+        <mark key="'" line="91" column="12" />
+        <mark key="[" line="93" column="12" />
+        <mark key="]" line="93" column="22" />
+        <mark key="^" line="93" column="22" />
+        <mark key="." line="93" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1532375951197">
         <mark key="[" line="128" column="24" />
@@ -244,10 +245,11 @@
         <mark key="." line="19" column="45" />
         <mark key="^" line="19" column="45" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/constants.py" timestamp="1533736862006">
-        <mark key="[" line="52" column="32" />
-        <mark key="]" line="52" column="32" />
-        <mark key="." line="52" column="32" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/constants.py" timestamp="1533750377602">
+        <mark key="[" line="27" column="9" />
+        <mark key="]" line="27" column="9" />
+        <mark key="." line="27" column="9" />
+        <mark key="^" line="27" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/dao/product_redis_dao.py" timestamp="1530297562506">
         <mark key="[" line="64" column="0" />
@@ -434,10 +436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="378" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
-      <jump line="379" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
-      <jump line="380" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
-      <jump line="447" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
       <jump line="448" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
       <jump line="449" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
       <jump line="450" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
@@ -534,72 +532,66 @@
       <jump line="635" column="15" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="158" column="34" filename="$USER_HOME$/repositories/customer-information-service/docs/details/README.md" />
       <jump line="122" column="29" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/details/routes.py" />
+      <jump line="90" column="30" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="91" column="12" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="25" column="9" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/constants.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/constants.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c2luZ2xlX2ZhY3Qg</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2luZ2xlX2ZhY3Qg</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>details_batch</text>
+        <text>\ =</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgREFUQUJBU0UKICAgIGNzbl9pZGVudGl0eV91c2VyID0gJ2Nzbl9pZGVudGl0eScKICAgIGNzbl9pZGVudGl0eV9wYXNzd29yZCA9ICdYX3pXbmhqNzQnCg==</text>
+        <text encoding="base64">ICAgIEFEREVEX0NBUlRfU0tVUyA9ICJhZGRlZF9jYXJ0X3NrdXMiCiAgICBDQVJUX1ZJRVcgPSAiY2FydF92aWV3IgogICAgQ1VTVE9NRVJfQUNRVUlTSVRJT04gPSAiY3VzdG9tZXJfYWNxdWlzaXRpb24iCiAgICBDVVNUT01FUl9WSVNJVFMgPSAiY3VzdG9tZXJfdmlzaXRzIgogICAgREVWSUNFX01PU1RfUkVDRU5UX1ZJU0lUID0gImRldmljZV9tb3N0X3JlY2VudF92aXNpdCIKICAgIERFVklDRV9WSVNJVFNfV0lUSF9QTEFURk9STSA9ICJkZXZpY2VfdmlzaXRzX3dpdGhfcGxhdGZvcm0iCiAgICBLRVlXT1JEX1NFQVJDSCA9ICJrZXl3b3JkX3NlYXJjaCIKICAgIExJRkVUSU1FX1BVUkNIQVNFRF9TS1VTID0gImxpZmV0aW1lX3B1cmNoYXNlZF9za3VzIgogICAgT1JERVJfREVUQUlMUyA9ICJvcmRlcl9kZXRhaWxzIgogICAgT1JERVJfUFJPRFVDVF9ERVRBSUxTID0gIm9yZGVyX3Byb2R1Y3RfZGV0YWlscyIKICAgIFBVUkNIQVNFRF9TS1VTID0gInB1cmNoYXNlZF9za3VzIgogICAgUkVDRU5UX0NBTVBBSUdOX0NPREVTX0FORF9DSEFOTkVMUyA9ICJyZWNlbnRfY2FtcGFpZ25fY29kZXNfYW5kX2NoYW5uZWxzIgogICAgUkVRVUVTVF9NRVRBREFUQSA9ICJyZXF1ZXN0X21ldGFkYXRhIgogICAgVklFV0VEX0NBVEVHT1JZX0NMQVNTRVMgPSAidmlld2VkX2NhdGVnb3J5X2NsYXNzZXMiCiAgICBWSUVXRURfU0tVUyA9ICJ2aWV3ZWRfc2t1cyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gZmFjdF9saXN0OiAKICAgICAgICA6cGFyYW0gY3VzdG9tZXJfZ3VpZDogCiAgICAgICAgOnBhcmFtIGRldmljZV9ndWlkOiAKICAgICAgICA6cGFyYW0gc3RvcmVfaWQ6IAogICAgICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">CgoK</text>
       </register>
-      <register name="2" type="4">
-        <text># Currently the function in the CustInfoLib for batch_details is
-        # `details_batch`. Eventually this will change, for now we kee</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwYXlsb2FkID0gewogICAgICAgICAgICAnY3VzdG9tZXJfZ3VpZCc6IGN1c3RvbWVyX2d1aWQsCiAgICAgICAgICAgICdjdXN0b21lcl9pZCc6IGN1c3RvbWVyX2lkLAogICAgICAgICAgICAnc3RvcmVfaWQnOiBzdG9yZV9pZCwKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgREFUQUJBU0UKICAgIGNzbl9pZGVudGl0eV91c2VyID0gJ2Nzbl9pZGVudGl0eScKICAgIGNzbl9pZGVudGl0eV9wYXNzd29yZCA9ICcnICAjIFJlcGxhY2UgdGhpcyB3aXRoIHRoZSBEQiBwYXNzd29yZCBmb3IgREVWQk9TUUwyNAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3JlcXVlc3RlZF90eXBlcyc6IEIyYkN1c3RvbWVySGlzdG9yeUZhY3QuRkFDVF9UWVBFX0xJU1QsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgREFUQUJBU0UKICAgIGNzbl9pZGVudGl0eV91c2VyID0gJ2Nzbl9pZGVudGl0eScKICAgIGNzbl9pZGVudGl0eV9wYXNzd29yZCA9ICcnICAjIFJlcGxhY2UgdGhpcyB3aXRoIHRoZSBEQiBwYXNzd29yZCBmb3IgREVWQk9TUUwyNAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgREFUQUJBU0UKICAgIGNzbl9pZGVudGl0eV91c2VyID0gJ2Nzbl9pZGVudGl0eScKICAgIGNzbl9pZGVudGl0eV9wYXNzd29yZCA9ICcnICAjIFJlcGxhY2UgdGhpcyB3aXRoIHRoZSBEQiBwYXNzd29yZCBmb3IgREVWQk9TUUwyNAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB3YXlmYWlydXRpbCBpbXBvcnQgd2ZzZXR0aW5ncwo=</text>
+        <text encoding="base64">ICAgIEFEREVEX0NBUlRfU0tVUyA9ICJhZGRlZF9jYXJ0X3NrdXMiCiAgICBDQVJUX1ZJRVcgPSAiY2FydF92aWV3IgogICAgQ1VTVE9NRVJfQUNRVUlTSVRJT04gPSAiY3VzdG9tZXJfYWNxdWlzaXRpb24iCiAgICBDVVNUT01FUl9WSVNJVFMgPSAiY3VzdG9tZXJfdmlzaXRzIgogICAgREVWSUNFX01PU1RfUkVDRU5UX1ZJU0lUID0gImRldmljZV9tb3N0X3JlY2VudF92aXNpdCIKICAgIERFVklDRV9WSVNJVFNfV0lUSF9QTEFURk9STSA9ICJkZXZpY2VfdmlzaXRzX3dpdGhfcGxhdGZvcm0iCiAgICBLRVlXT1JEX1NFQVJDSCA9ICJrZXl3b3JkX3NlYXJjaCIKICAgIExJRkVUSU1FX1BVUkNIQVNFRF9TS1VTID0gImxpZmV0aW1lX3B1cmNoYXNlZF9za3VzIgogICAgT1JERVJfREVUQUlMUyA9ICJvcmRlcl9kZXRhaWxzIgogICAgT1JERVJfUFJPRFVDVF9ERVRBSUxTID0gIm9yZGVyX3Byb2R1Y3RfZGV0YWlscyIKICAgIFBVUkNIQVNFRF9TS1VTID0gInB1cmNoYXNlZF9za3VzIgogICAgUkVDRU5UX0NBTVBBSUdOX0NPREVTX0FORF9DSEFOTkVMUyA9ICJyZWNlbnRfY2FtcGFpZ25fY29kZXNfYW5kX2NoYW5uZWxzIgogICAgUkVRVUVTVF9NRVRBREFUQSA9ICJyZXF1ZXN0X21ldGFkYXRhIgogICAgVklFV0VEX0NBVEVHT1JZX0NMQVNTRVMgPSAidmlld2VkX2NhdGVnb3J5X2NsYXNzZXMiCiAgICBWSUVXRURfU0tVUyA9ICJ2aWV3ZWRfc2t1cyIK</text>
       </register>
-      <register name="8" type="4">
-        <text>details_batch` endpoint. This endpoint allows a user
-to pass in a list of device_guid, customer_guid pairs and it will return results for each pair.
-
-URL
-```
-/customer-information/</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYwogICAgc3RhdGljCiAgICBmaW5hbAogICAgU3RyaW5nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYwogICAgc3RhdGljCiAgICBmaW5hbAogICAgU3RyaW5nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>details_batch</last-search>
+      <last-search>\ =</last-search>
       <last-offset />
-      <last-pattern>details_batch</last-pattern>
-      <last-replace>start\_day\_offset</last-replace>
-      <last-substitute>start\_date</last-substitute>
+      <last-pattern>\ =</last-pattern>
+      <last-replace>\:</last-replace>
+      <last-substitute>\ =</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>set</entry>
-        <entry>def set</entry>
-        <entry>load_strings</entry>
-        <entry>def cache</entry>
         <entry>def execute</entry>
         <entry>def load_strings</entry>
         <entry>_mem</entry>
@@ -616,12 +608,12 @@ URL
         <entry>order_details</entry>
         <entry encoding="base64">XDxkZXRhaWxzX2JhdGNoXD4=</entry>
         <entry>details_batch</entry>
+        <entry>raise</entry>
+        <entry>\;</entry>
+        <entry>\ \=</entry>
+        <entry>\ =</entry>
       </history-search>
       <history-cmd>
-        <entry>e</entry>
-        <entry>2</entry>
-        <entry>qa!</entry>
-        <entry encoding="base64">JzwsJz5zb3I=</entry>
         <entry>sort</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>split</entry>
@@ -631,12 +623,16 @@ URL
         <entry>we</entry>
         <entry>:w</entry>
         <entry>&quot;w</entry>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>wq</entry>
         <entry>W</entry>
         <entry>Lw</entry>
         <entry>q</entry>
         <entry>qa</entry>
+        <entry encoding="base64">JzwsJz5zL1w7Ly9pZw==</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry encoding="base64">JzwsJz5zL1wgXD0vXDovaWc=</entry>
+        <entry encoding="base64">JzwsJz5zL1wgPS9cOi8=</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
