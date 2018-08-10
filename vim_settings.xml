@@ -358,8 +358,8 @@
         <mark key="." line="44" column="12" />
         <mark key="^" line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1533759987876">
-        <mark key="'" line="34" column="63" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1533910961166">
+        <mark key="'" line="3" column="30" />
         <mark key="[" line="10" column="30" />
         <mark key="]" line="10" column="35" />
         <mark key="." line="10" column="35" />
@@ -441,7 +441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="233" column="31" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="277" column="3" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="16" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="219" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
@@ -541,6 +540,7 @@
       <jump line="209" column="52" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="50" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="52" column="63" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
+      <jump line="3" column="30" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -550,7 +550,7 @@
         <text>'acquisition_timestamp'</text>
       </register>
       <register name="/" type="4">
-        <text>Logger</text>
+        <text>ProductModel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEFEREVEX0NBUlRfU0tVUyA9ICJhZGRlZF9jYXJ0X3NrdXMiCiAgICBDQVJUX1ZJRVcgPSAiY2FydF92aWV3IgogICAgQ1VTVE9NRVJfQUNRVUlTSVRJT04gPSAiY3VzdG9tZXJfYWNxdWlzaXRpb24iCiAgICBDVVNUT01FUl9WSVNJVFMgPSAiY3VzdG9tZXJfdmlzaXRzIgogICAgREVWSUNFX01PU1RfUkVDRU5UX1ZJU0lUID0gImRldmljZV9tb3N0X3JlY2VudF92aXNpdCIKICAgIERFVklDRV9WSVNJVFNfV0lUSF9QTEFURk9STSA9ICJkZXZpY2VfdmlzaXRzX3dpdGhfcGxhdGZvcm0iCiAgICBLRVlXT1JEX1NFQVJDSCA9ICJrZXl3b3JkX3NlYXJjaCIKICAgIExJRkVUSU1FX1BVUkNIQVNFRF9TS1VTID0gImxpZmV0aW1lX3B1cmNoYXNlZF9za3VzIgogICAgT1JERVJfREVUQUlMUyA9ICJvcmRlcl9kZXRhaWxzIgogICAgT1JERVJfUFJPRFVDVF9ERVRBSUxTID0gIm9yZGVyX3Byb2R1Y3RfZGV0YWlscyIKICAgIFBVUkNIQVNFRF9TS1VTID0gInB1cmNoYXNlZF9za3VzIgogICAgUkVDRU5UX0NBTVBBSUdOX0NPREVTX0FORF9DSEFOTkVMUyA9ICJyZWNlbnRfY2FtcGFpZ25fY29kZXNfYW5kX2NoYW5uZWxzIgogICAgUkVRVUVTVF9NRVRBREFUQSA9ICJyZXF1ZXN0X21ldGFkYXRhIgogICAgVklFV0VEX0NBVEVHT1JZX0NMQVNTRVMgPSAidmlld2VkX2NhdGVnb3J5X2NsYXNzZXMiCiAgICBWSUVXRURfU0tVUyA9ICJ2aWV3ZWRfc2t1cyIK</text>
@@ -587,9 +587,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Logger</last-search>
+      <last-search>ProductModel</last-search>
       <last-offset />
-      <last-pattern>Logger</last-pattern>
+      <last-pattern>ProductModel</last-pattern>
       <last-replace>\:</last-replace>
       <last-substitute>\ =</last-substitute>
       <last-dir>1</last-dir>
@@ -597,7 +597,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_mem</entry>
         <entry>res</entry>
         <entry>pri</entry>
         <entry>MO</entry>
@@ -617,6 +616,7 @@
         <entry>\ =</entry>
         <entry>copy</entry>
         <entry>Logger</entry>
+        <entry>ProductModel</entry>
       </history-search>
       <history-cmd>
         <entry>sort</entry>
