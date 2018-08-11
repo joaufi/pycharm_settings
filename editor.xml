@@ -1,4 +1,16 @@
 <application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="13" />
+    <option name="FONT_FAMILY" value="Inconsolata" />
+    <option name="SECONDARY_FONT_FAMILY" value="Monaco" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
+    <option name="CUSTOM_SOFT_WRAP_INDENT" value="4" />
+    <option name="IS_VIRTUAL_SPACE" value="true" />
+    <option name="IS_DND_ENABLED" value="false" />
+  </component>
   <component name="SqlEditorOptions">
     <option name="qualificationType" value="On collisions" />
   </component>
