@@ -177,6 +177,11 @@
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="7" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1534185387322">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="33" column="5" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_temp_tables/populate_in_market_page_views.sql" timestamp="1530748557484">
         <mark key="[" line="4" column="20" />
         <mark key="]" line="4" column="20" />
@@ -201,12 +206,12 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1534184776719">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1534185351641">
         <mark key="'" line="464" column="23" />
-        <mark key="[" line="740" column="0" />
-        <mark key="]" line="740" column="0" />
-        <mark key="." line="740" column="0" />
-        <mark key="^" line="740" column="3" />
+        <mark key="[" line="750" column="16" />
+        <mark key="]" line="750" column="16" />
+        <mark key="." line="750" column="16" />
+        <mark key="^" line="720" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1532375951197">
         <mark key="[" line="128" column="24" />
@@ -271,9 +276,9 @@
         <mark key="." line="19" column="45" />
         <mark key="^" line="19" column="45" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/constants.py" timestamp="1534131290078">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/constants.py" timestamp="1534185386159">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="40" column="4" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/common/redis_dao.py" timestamp="1534124587124">
@@ -608,16 +613,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgQjJiQ3VzdG9tZXJIaXN0b3J5RmFjdChvYmplY3QpOgogICAgQURERURfQ0FSVF9TS1VTID0gImFkZGVkX2NhcnRfc2t1cyIKICAgIENBUlRfVklFVyA9ICJjYXJ0X3ZpZXciCiAgICBDVVNUT01FUl9BQ1FVSVNJVElPTiA9ICJjdXN0b21lcl9hY3F1aXNpdGlvbiIKICAgIENVU1RPTUVSX1ZJU0lUUyA9ICJjdXN0b21lcl92aXNpdHMiCiAgICBERVZJQ0VfTU9TVF9SRUNFTlRfVklTSVQgPSAiZGV2aWNlX21vc3RfcmVjZW50X3Zpc2l0IgogICAgREVWSUNFX1ZJU0lUU19XSVRIX1BMQVRGT1JNID0gImRldmljZV92aXNpdHNfd2l0aF9wbGF0Zm9ybSIKICAgIEtFWVdPUkRfU0VBUkNIID0gImtleXdvcmRfc2VhcmNoIgogICAgTElGRVRJTUVfUFVSQ0hBU0VEX1NLVVMgPSAibGlmZXRpbWVfcHVyY2hhc2VkX3NrdXMiCiAgICBPUkRFUl9ERVRBSUxTID0gIm9yZGVyX2RldGFpbHMiCiAgICBPUkRFUl9QUk9EVUNUX0RFVEFJTFMgPSAib3JkZXJfcHJvZHVjdF9kZXRhaWxzIgogICAgUFVSQ0hBU0VEX1NLVVMgPSAicHVyY2hhc2VkX3NrdXMiCiAgICBSRUNFTlRfQ0FNUEFJR05fQ09ERVNfQU5EX0NIQU5ORUxTID0gInJlY2VudF9jYW1wYWlnbl9jb2Rlc19hbmRfY2hhbm5lbHMiCiAgICBSRVFVRVNUX01FVEFEQVRBID0gInJlcXVlc3RfbWV0YWRhdGEiCiAgICBWSUVXRURfQ0FURUdPUllfQ0xBU1NFUyA9ICJ2aWV3ZWRfY2F0ZWdvcnlfY2xhc3NlcyIKICAgIFZJRVdFRF9TS1VTID0gInZpZXdlZF9za3VzIgoKICAgIEZBQ1RfVFlQRV9MSVNUID0gWwogICAgICAgIEFEREVEX0NBUlRfU0tVUywKICAgICAgICBDQVJUX1ZJRVcsCiAgICAgICAgQ1VTVE9NRVJfQUNRVUlTSVRJT04sCiAgICAgICAgQ1VTVE9NRVJfVklTSVRTLAogICAgICAgIERFVklDRV9NT1NUX1JFQ0VOVF9WSVNJVCwKICAgICAgICBERVZJQ0VfVklTSVRTX1dJVEhfUExBVEZPUk0sCiAgICAgICAgS0VZV09SRF9TRUFSQ0gsCiAgICAgICAgTElGRVRJTUVfUFVSQ0hBU0VEX1NLVVMsCiAgICAgICAgT1JERVJfREVUQUlMUywKICAgICAgICBPUkRFUl9QUk9EVUNUX0RFVEFJTFMsCiAgICAgICAgUFVSQ0hBU0VEX1NLVVMsCiAgICAgICAgUkVDRU5UX0NBTVBBSUdOX0NPREVTX0FORF9DSEFOTkVMUywKICAgICAgICBSRVFVRVNUX01FVEFEQVRBLAogICAgICAgIFZJRVdFRF9DQVRFR09SWV9DTEFTU0VTLAogICAgICAgIFZJRVdFRF9TS1VTLAogICAgXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>cust</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGxhc3RfdmlzaXRfdmlld2VkX2NhdGVnb3JpZXMoc2VsZik6CiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgY2F0ZWdvcnlbJ2NhdGVnb3J5X2lkJ10KICAgICAgICAgICAgZm9yIGNhdGVnb3J5IGluIHNlbGYudmlld2VkX2NhdGVnb3J5X2NsYXNzZXMKICAgICAgICAgICAgaWYgY2F0ZWdvcnlbJ2NhdGVnb3J5X2lkJ10gYW5kIGNhdGVnb3J5Wyd2aWV3ZWRfdGltZXN0YW1wJ10gPj0gc2VsZi5sYXN0X3Zpc2l0X3RpbWVzdGFtcAogICAgICAgIF0K</text>
+        <text encoding="base64">Y2xhc3MgQjJiQ3VzdG9tZXJIaXN0b3J5RmFjdChvYmplY3QpOgogICAgQURERURfQ0FSVF9TS1VTID0gImFkZGVkX2NhcnRfc2t1cyIKICAgIENBUlRfVklFVyA9ICJjYXJ0X3ZpZXciCiAgICBDVVNUT01FUl9BQ1FVSVNJVElPTiA9ICJjdXN0b21lcl9hY3F1aXNpdGlvbiIKICAgIENVU1RPTUVSX1ZJU0lUUyA9ICJjdXN0b21lcl92aXNpdHMiCiAgICBERVZJQ0VfTU9TVF9SRUNFTlRfVklTSVQgPSAiZGV2aWNlX21vc3RfcmVjZW50X3Zpc2l0IgogICAgREVWSUNFX1ZJU0lUU19XSVRIX1BMQVRGT1JNID0gImRldmljZV92aXNpdHNfd2l0aF9wbGF0Zm9ybSIKICAgIEtFWVdPUkRfU0VBUkNIID0gImtleXdvcmRfc2VhcmNoIgogICAgTElGRVRJTUVfUFVSQ0hBU0VEX1NLVVMgPSAibGlmZXRpbWVfcHVyY2hhc2VkX3NrdXMiCiAgICBPUkRFUl9ERVRBSUxTID0gIm9yZGVyX2RldGFpbHMiCiAgICBPUkRFUl9QUk9EVUNUX0RFVEFJTFMgPSAib3JkZXJfcHJvZHVjdF9kZXRhaWxzIgogICAgUFVSQ0hBU0VEX1NLVVMgPSAicHVyY2hhc2VkX3NrdXMiCiAgICBSRUNFTlRfQ0FNUEFJR05fQ09ERVNfQU5EX0NIQU5ORUxTID0gInJlY2VudF9jYW1wYWlnbl9jb2Rlc19hbmRfY2hhbm5lbHMiCiAgICBSRVFVRVNUX01FVEFEQVRBID0gInJlcXVlc3RfbWV0YWRhdGEiCiAgICBWSUVXRURfQ0FURUdPUllfQ0xBU1NFUyA9ICJ2aWV3ZWRfY2F0ZWdvcnlfY2xhc3NlcyIKICAgIFZJRVdFRF9TS1VTID0gInZpZXdlZF9za3VzIgoKICAgIEZBQ1RfVFlQRV9MSVNUID0gWwogICAgICAgIEFEREVEX0NBUlRfU0tVUywKICAgICAgICBDQVJUX1ZJRVcsCiAgICAgICAgQ1VTVE9NRVJfQUNRVUlTSVRJT04sCiAgICAgICAgQ1VTVE9NRVJfVklTSVRTLAogICAgICAgIERFVklDRV9NT1NUX1JFQ0VOVF9WSVNJVCwKICAgICAgICBERVZJQ0VfVklTSVRTX1dJVEhfUExBVEZPUk0sCiAgICAgICAgS0VZV09SRF9TRUFSQ0gsCiAgICAgICAgTElGRVRJTUVfUFVSQ0hBU0VEX1NLVVMsCiAgICAgICAgT1JERVJfREVUQUlMUywKICAgICAgICBPUkRFUl9QUk9EVUNUX0RFVEFJTFMsCiAgICAgICAgUFVSQ0hBU0VEX1NLVVMsCiAgICAgICAgUkVDRU5UX0NBTVBBSUdOX0NPREVTX0FORF9DSEFOTkVMUywKICAgICAgICBSRVFVRVNUX01FVEFEQVRBLAogICAgICAgIFZJRVdFRF9DQVRFR09SWV9DTEFTU0VTLAogICAgICAgIFZJRVdFRF9TS1VTLAogICAgXQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -626,25 +631,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jdXN0b21lcl9tb2RlbC5mdW5uZWxfcHJvZ3Jlc3Npb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgZnVubmVsX3Byb2dyZXNzaW9uKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jdXN0b21lcl9tb2RlbC5mdW5uZWxfcHJvZ3Jlc3Npb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgZnVubmVsX3Byb2dyZXNzaW9uKHNlbGYpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VzdG9tZXJfaWRzID0gaW5wdXRfbW9kZWwuY3VzdG9tZXJfaWRzCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY3VzdG9tZXJfaWRzID0gaW5wdXRfbW9kZWwuY3VzdG9tZXJfaWRzCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjdXN0b21lcl9pZD1Ob25lLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
