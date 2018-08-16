@@ -323,11 +323,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="50" column="50" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/customer_history_model.py" timestamp="1534380747661">
-        <mark key="'" line="155" column="38" />
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="201" column="8" />
-        <mark key="." line="121" column="48" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/customer_history_model.py" timestamp="1534454660187">
+        <mark key="'" line="153" column="38" />
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
         <mark key="^" line="121" column="48" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_tables/populate_in_market_num_filters.sql" timestamp="1532509436988">
@@ -494,12 +494,12 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1534450891357">
-        <mark key="'" line="341" column="28" />
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="0" />
-        <mark key="^" line="269" column="22" />
-        <mark key="." line="200" column="0" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1534454902475">
+        <mark key="'" line="342" column="28" />
+        <mark key="[" line="120" column="93" />
+        <mark key="]" line="121" column="48" />
+        <mark key="^" line="121" column="48" />
+        <mark key="." line="121" column="48" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.jql" timestamp="1531150138707">
         <mark key="[" line="10" column="114" />
@@ -641,8 +641,8 @@
       <jump line="345" column="28" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>u</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmxhc3RfdmlzaXRfY2FydF9za3VzOgogICAgICAgICAgICByZXR1cm4gMwo=</text>
       </register>
       <register name="-" type="4">
         <text>u</text>
@@ -654,7 +654,7 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zdGF0X2NvdW50KHNlbGYuU1RBVF9HRVRfQ0xBU1NfSURfRlJPTV9SRURJUywgbWV0aG9kKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmxhc3RfdmlzaXRfY2FydF9za3VzOgogICAgICAgICAgICByZXR1cm4gMwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -663,16 +663,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgogICAgQHByb3BlcnR5CiAgICBkZWYgbGFzdF92aXNpdF92aWV3ZWRfc2t1cyhzZWxmKToKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICBza3VbJ3NrdSddCiAgICAgICAgICAgIGZvciBza3UgaW4gc2VsZi52aWV3ZWRfc2t1cwogICAgICAgICAgICBpZiBza3VbJ3ZpZXdlZF90aW1lc3RhbXAnXSA+PSBzZWxmLmxhc3RfdmlzaXRfdGltZXN0YW1wCiAgICAgICAgXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGxhc3RfdmlzaXRfdmlld2VkX2NhdGVnb3JpZXMoc2VsZik6CiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgY2F0ZWdvcnlbJ2NhdGVnb3J5X2lkJ10KICAgICAgICAgICAgZm9yIGNhdGVnb3J5IGluIHNlbGYudmlld2VkX2NhdGVnb3J5X2NsYXNzZXMKICAgICAgICAgICAgaWYgY2F0ZWdvcnlbJ2NhdGVnb3J5X2lkJ10gYW5kIGNhdGVnb3J5Wyd2aWV3ZWRfdGltZXN0YW1wJ10gPj0gc2VsZi5sYXN0X3Zpc2l0X3RpbWVzdGFtcAogICAgICAgIF0KCiAgICBAcHJvcGVydHkKICAgIGRlZiBsYXN0X3Zpc2l0X3ZpZXdlZF9jbGFzc2VzKHNlbGYpOgogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgIGNsYXNzX2lkWydjbGFzc19pZCddCiAgICAgICAgICAgIGZvciBjbGFzc19pZCBpbiBzZWxmLnZpZXdlZF9jYXRlZ29yeV9jbGFzc2VzCiAgICAgICAgICAgIGlmICdjbGFzc19pZCcgaW4gY2xhc3NfaWQgYW5kCiAgICAgICAgICAgICAgIGNsYXNzX2lkWydjbGFzc19pZCddIGFuZAogICAgICAgICAgICAgICBjbGFzc19pZFsndmlld2VkX3RpbWVzdGFtcCddID49IHNlbGYubGFzdF92aXNpdF90aW1lc3RhbXAKICAgICAgICBdCg==</text>
+        <text encoding="base64">CgogICAgQHByb3BlcnR5CiAgICBkZWYgbGFzdF92aXNpdF92aWV3ZWRfc2t1cyhzZWxmKToKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICBza3VbJ3NrdSddCiAgICAgICAgICAgIGZvciBza3UgaW4gc2VsZi52aWV3ZWRfc2t1cwogICAgICAgICAgICBpZiBza3VbJ3ZpZXdlZF90aW1lc3RhbXAnXSA+PSBzZWxmLmxhc3RfdmlzaXRfdGltZXN0YW1wCiAgICAgICAgXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGxhc3RfdmlzaXRfcHVyY2hhc2VkX3NrdXMoc2VsZik6CiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgc2t1Wydza3UnXQogICAgICAgICAgICBmb3Igc2t1IGluIHNlbGYucHVyY2hhc2VkX3NrdXMKICAgICAgICAgICAgaWYgc2t1WydwdXJjaGFzZWRfdGltZXN0YW1wJ10gPj0gc2VsZi5sYXN0X3Zpc2l0X3RpbWVzdGFtcAogICAgICAgIF0K</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGxhc3RfdmlzaXRfdmlld2VkX2NhdGVnb3JpZXMoc2VsZik6CiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgY2F0ZWdvcnlbJ2NhdGVnb3J5X2lkJ10KICAgICAgICAgICAgZm9yIGNhdGVnb3J5IGluIHNlbGYudmlld2VkX2NhdGVnb3J5X2NsYXNzZXMKICAgICAgICAgICAgaWYgY2F0ZWdvcnlbJ2NhdGVnb3J5X2lkJ10gYW5kIGNhdGVnb3J5Wyd2aWV3ZWRfdGltZXN0YW1wJ10gPj0gc2VsZi5sYXN0X3Zpc2l0X3RpbWVzdGFtcAogICAgICAgIF0KCiAgICBAcHJvcGVydHkKICAgIGRlZiBsYXN0X3Zpc2l0X3ZpZXdlZF9jbGFzc2VzKHNlbGYpOgogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgIGNsYXNzX2lkWydjbGFzc19pZCddCiAgICAgICAgICAgIGZvciBjbGFzc19pZCBpbiBzZWxmLnZpZXdlZF9jYXRlZ29yeV9jbGFzc2VzCiAgICAgICAgICAgIGlmICdjbGFzc19pZCcgaW4gY2xhc3NfaWQgYW5kCiAgICAgICAgICAgICAgIGNsYXNzX2lkWydjbGFzc19pZCddIGFuZAogICAgICAgICAgICAgICBjbGFzc19pZFsndmlld2VkX3RpbWVzdGFtcCddID49IHNlbGYubGFzdF92aXNpdF90aW1lc3RhbXAKICAgICAgICBdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGxhc3RfdmlzaXRfcHVyY2hhc2VkX3NrdXMoc2VsZik6CiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgc2t1Wydza3UnXQogICAgICAgICAgICBmb3Igc2t1IGluIHNlbGYucHVyY2hhc2VkX3NrdXMKICAgICAgICAgICAgaWYgc2t1WydwdXJjaGFzZWRfdGltZXN0YW1wJ10gPj0gc2VsZi5sYXN0X3Zpc2l0X3RpbWVzdGFtcAogICAgICAgIF0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
