@@ -494,12 +494,12 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1534447030573">
-        <mark key="'" line="226" column="58" />
-        <mark key="[" line="373" column="89" />
-        <mark key="]" line="373" column="90" />
-        <mark key="." line="373" column="90" />
-        <mark key="^" line="373" column="90" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1534448621674">
+        <mark key="'" line="344" column="28" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="105" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.jql" timestamp="1531150138707">
         <mark key="[" line="10" column="114" />
@@ -539,10 +539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="33" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
-      <jump line="135" column="10" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
-      <jump line="136" column="24" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="184" column="30" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="168" column="15" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/call_routing_model.py" />
       <jump line="18" column="26" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
@@ -639,55 +635,59 @@
       <jump line="213" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="68" column="4" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="225" column="58" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
+      <jump line="370" column="13" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
+      <jump line="384" column="41" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
+      <jump line="345" column="28" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdjbGFzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>stat_prefix</text>
+        <text>REDIS</text>
       </register>
       <register name="/" type="4">
-        <text>MO</text>
+        <text>st</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhY3QuZmFjdF90eXBlLAogICAgICAgICAgICAgICAgY3VzdG9tZXJfZ3VpZD1jdXN0b21lcl9ndWlkLAogICAgICAgICAgICAgICAgZGV2aWNlX2d1aWQ9ZGV2aWNlX2d1aWQsCiAgICAgICAgICAgICAgICBzdG9yZV9pZD1zdG9yZV9pZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zdGF0X2NvdW50KHNlbGYuU1RBVF9HRVRfQ0xBU1NfSURfRlJPTV9SRURJUywgbWV0aG9kKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdjbGFzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFzZV90YWdzID0gewogICAgICAgICAgICAgICAgJ3N0YXRfcm9vdCc6IFNUQVRTX1JPT1QsCiAgICAgICAgICAgICAgICAnY2xhc3MnOiBzZWxmLlNUQVRfUFJFRklYLAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zdGF0cy5pbmNyKHNlbGYuR0VUX0NMQVNTX0lEX0ZST01fUkVESVMpCiAgICAgICAgICAgIGlmIHNlbGYud2Zfc3RhdHM6CiAgICAgICAgICAgICAgICB0YWdzID0gZGljdChzZWxmLkJBU0VfVEFHUywgbWV0aG9kPSdfdXBkYXRlX3Byb2R1Y3RfY2xhc3NfaWQnKQogICAgICAgICAgICAgICAgc2VsZi53Zl9zdGF0cy5jb3VudCgnZ2V0X2NsYXNzX2lkX2Zyb21fcmVkaXMnLCAxLCB0YWdzPXRhZ3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRlZiBzdGF0X2NvdW50KHNlbGYsIHN0YXRfdG9fY291bnQsIG1ldGhvZD1Ob25lKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRfY291bnQoU1RBVFNfUk9PVCwgc2VsZi5TVEFUU19QUkVGSVgsIHNlbGYuU1RBVF9HRVRfQ0xBU1NfSURfRlJPTV9PQkpFQ1QsCiAgICAgICAgICAgICAgICAgICAgICAgIG1ldGhvZD0nX3VwZGF0ZV9wcm9kdWN0X2NsYXNzX2lkJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zdGF0X2NvdW50KCwgc2VsZi5TVEFUX0dFVF9DTEFTU19JRF9GUk9NX1JFRElTLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWV0aG9kPSdfdXBkYXRlX3Byb2R1Y3RfY2xhc3NfaWQnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRfY291bnQoU1RBVFNfUk9PVCwgc2VsZi5TVEFUU19QUkVGSVgsIHNlbGYuU1RBVF9HRVRfQ0xBU1NfSURfRlJPTV9PQkpFQ1QsCiAgICAgICAgICAgICAgICAgICAgICAgIG1ldGhvZD0nX3VwZGF0ZV9wcm9kdWN0X2NsYXNzX2lkJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRvIGFsbCBhZXJvc3Bpa2UgYWdncmVnYXRpb25zIHN5bmNocm9ub3VzbHkKICAgICAgICBmb3IgaW5kZXgsIGFnZ3JlZ2F0ZSBpbiBlbnVtZXJhdGUoaW5wdXRfbW9kZWwuYWdncmVnYXRpb25zKToKICAgICAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UoYWdncmVnYXRlLCBBZ2dyZWdhdGVNb2RlbCk6CiAgICAgICAgICAgICAgICBjb250aW51ZQoKICAgICAgICAgICAgYWdncmVnYXRpb25zW2luZGV4XSA9IChhZ2dyZWdhdGUsIHNlbGYuX2FnZ3JlZ2F0ZV90b19idXNpbmVzc19tZXRob2QoCiAgICAgICAgICAgICAgICBpbnB1dF9tb2RlbCwgYWdncmVnYXRlKSkKCiAgICAgICAgIyBkbyBhbGwgZXZlbnQgYmFzZWQgYWdncmVnYXRpb25zIGFuZCBjcmVhdGUgYW5kIHBvcHVsYXRlIHRoZSBDdXN0b21lckhpc3RvcnlNb2RlbCBmb3IgdGhlbQogICAgICAgIGZvciBpbmRleCwgYWdncmVnYXRlIGluIGVudW1lcmF0ZShpbnB1dF9tb2RlbC5hZ2dyZWdhdGlvbnMpOgogICAgICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShhZ2dyZWdhdGUsIEV2ZW50QWdncmVnYXRlTW9kZWwpOgogICAgICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgICAgIGlmIG5vdCBjdXN0b21lcl9oaXN0b3J5X21vZGVsOgogICAgICAgICAgICAgICAgY3VzdG9tZXJfaGlzdG9yeV9tb2RlbCA9IEN1c3RvbWVySGlzdG9yeU1vZGVsKHNlbGYuY29udGV4dCkKICAgICAgICAgICAgICAgIGN1c3RvbWVyX2hpc3RvcnlfbW9kZWwucG9wdWxhdGUoCiAgICAgICAgICAgICAgICAgICAgaW5wdXRfbW9kZWwuY3VycmVudF9ldmVudCwKICAgICAgICAgICAgICAgICAgICBpbnB1dF9tb2RlbC5yZXF1ZXN0X21ldGFkYXRhLAogICAgICAgICAgICAgICAgICAgIGN1c3RvbWVyX2d1aWQsCiAgICAgICAgICAgICAgICAgICAgY3VzdG9tZXJfaWQsCiAgICAgICAgICAgICAgICAgICAgc3RvcmVfaWQsCiAgICAgICAgICAgICAgICAgICAgZGV2aWNlX2d1aWQ9ZGV2aWNlX2d1aWQKICAgICAgICAgICAgICAgICkKCiAgICAgICAgICAgIGFnZ3JlZ2F0aW9uc1tpbmRleF0gPSAoYWdncmVnYXRlLCBzZWxmLl9ldmVudF9hZ2dyZWdhdGVfdG9fYnVzaW5lc3NfbWV0aG9kKAogICAgICAgICAgICAgICAgYWdncmVnYXRlLCBjdXN0b21lcl9oaXN0b3J5X21vZGVsKSkKCiAgICAgICAgIyB3aGlsZSB0aG9zZSBhcmUgcmVzb2x2aW5nLCBkbyBhbnkgcmVkaXMgYmFzZWQgcXVlcmllcyB2aWEgdGhlIENJTAogICAgICAgIGZvciBpbmRleCwgZmFjdCBpbiBlbnVtZXJhdGUoaW5wdXRfbW9kZWwuYWdncmVnYXRpb25zKToKICAgICAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UoZmFjdCwgRmFjdE1vZGVsKToKICAgICAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgICAgICBmYWN0c1tpbmRleF0gPSBzZWxmLl9idXNpbmVzc19tb2RlbC5mYWN0KAogICAgICAgICAgICAgICAgZmFjdC5mYWN0X3R5cGUsCiAgICAgICAgICAgICAgICBjdXN0b21lcl9ndWlkPWN1c3RvbWVyX2d1aWQsCiAgICAgICAgICAgICAgICBkZXZpY2VfZ3VpZD1kZXZpY2VfZ3VpZCwKICAgICAgICAgICAgICAgIHN0b3JlX2lkPXN0b3JlX2lkCiAgICAgICAgICAgICkKCiAgICAgICAgIyByZXNvbHZlIGFuZCBibG9jayBvbiB0aGUgY2Fzc2FuZHJhIGJhc2VkIGFnZ3JlZ2F0aW9ucwogICAgICAgIGZvciBpbmRleCwgKGFnZ3JlZ2F0ZSwgZnV0dXJlKSBpbiBhZ2dyZWdhdGlvbnMuaXRlbXMoKToKICAgICAgICAgICAgYWdncmVnYXRpb25zW2luZGV4XSA9IHNlbGYuX2FnZ3JlZ2F0ZV90b19idXNpbmVzc19tZXRob2QoCiAgICAgICAgICAgICAgICBpbnB1dF9tb2RlbCwKICAgICAgICAgICAgICAgIGFnZ3JlZ2F0ZSwKICAgICAgICAgICAgICAgIGRhb19mdXR1cmU9ZnV0dXJlCiAgICAgICAgICAgICkKCiAgICAgICAgIyBjb21iaW5lIHRoZSBmYWN0cyBhbmQgYWdncmVnYXRpb25zIGJ5IHRoZWlyIGtleQogICAgICAgIHJlc3VsdCA9IFtdCiAgICAgICAgZm9yIGluZGV4IGluIHJhbmdlKDAsIGxlbihpbnB1dF9tb2RlbC5hZ2dyZWdhdGlvbnMpKToKICAgICAgICAgICAgaWYgaW5kZXggaW4gYWdncmVnYXRpb25zOgogICAgICAgICAgICAgICAgcmVzdWx0LmFwcGVuZChhZ2dyZWdhdGlvbnNbaW5kZXhdKQogICAgICAgICAgICBpZiBpbmRleCBpbiBmYWN0czoKICAgICAgICAgICAgICAgIHJlc3VsdC5hcHBlbmQoZmFjdHNbaW5kZXhdKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzLmluY3Ioc2VsZi5HRVRfQ0xBU1NfSURfRlJPTV9PQkpFQ1QpCiAgICAgICAgaWYgc2VsZi53Zl9zdGF0czoKICAgICAgICAgICAgdGFncyA9IGRpY3Qoc2VsZi5CQVNFX1RBR1MsIG1ldGhvZD0nX3VwZGF0ZV9wcm9kdWN0X2NsYXNzX2lkJykKICAgICAgICAgICAgc2VsZi53Zl9zdGF0cy5jb3VudCgnZ2V0X2NsYXNzX2lkX2Zyb21fb2JqZWN0JywgMSwgdGFncz10YWdzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsYXNzX21vZHVsZT1jbGFzc19tb2R1bGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>MO</last-search>
+      <last-search>st</last-search>
       <last-offset />
-      <last-pattern>MO</last-pattern>
+      <last-pattern>st</last-pattern>
       <last-replace>WEB</last-replace>
       <last-substitute>APP</last-substitute>
       <last-dir>1</last-dir>
@@ -695,7 +695,6 @@
     </search>
     <history>
       <history-search>
-        <entry>&quot;&quot;&quot;</entry>
         <entry>Event</entry>
         <entry>customer\_history\_facts</entry>
         <entry>added_cart</entry>
@@ -715,6 +714,7 @@
         <entry>MOBILE</entry>
         <entry>APP</entry>
         <entry>MO</entry>
+        <entry>st</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
