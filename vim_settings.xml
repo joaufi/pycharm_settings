@@ -494,12 +494,12 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1534515129038">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1534515998617">
         <mark key="'" line="151" column="8" />
-        <mark key="[" line="332" column="0" />
-        <mark key="]" line="332" column="0" />
-        <mark key="." line="332" column="0" />
-        <mark key="^" line="332" column="0" />
+        <mark key="[" line="171" column="29" />
+        <mark key="]" line="171" column="33" />
+        <mark key="." line="171" column="33" />
+        <mark key="^" line="171" column="33" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.jql" timestamp="1531150138707">
         <mark key="[" line="10" column="114" />
@@ -641,11 +641,11 @@
       <jump line="151" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>tsamp</text>
       </register>
       <register name="-" type="4">
-        <text>purchased_timestamp</text>
+        <text>tsamp</text>
       </register>
       <register name="/" type="4">
         <text>vie</text>
