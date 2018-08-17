@@ -494,12 +494,12 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1534514287189">
-        <mark key="'" line="331" column="28" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
-        <mark key="^" line="121" column="78" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1534515129038">
+        <mark key="'" line="151" column="8" />
+        <mark key="[" line="332" column="0" />
+        <mark key="]" line="332" column="0" />
+        <mark key="." line="332" column="0" />
+        <mark key="^" line="332" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.jql" timestamp="1531150138707">
         <mark key="[" line="10" column="114" />
@@ -539,8 +539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="30" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
-      <jump line="168" column="15" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/call_routing_model.py" />
       <jump line="18" column="26" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="667" column="4" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="36" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
@@ -639,55 +637,57 @@
       <jump line="384" column="41" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="39" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="345" column="28" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
+      <jump line="181" column="12" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
+      <jump line="151" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IE5lZWRzIHRvIGJlICJwdXJjaGFzZWRfdGltZXN0YW1wIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>purchased_timestamp</text>
       </register>
       <register name="/" type="4">
-        <text>st</text>
+        <text>vie</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zdGF0X2NvdW50KHNlbGYuU1RBVF9HRVRfQ0xBU1NfSURfRlJPTV9SRURJUywgbWV0aG9kKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fZ2V0X2xhc3RfdmlzaXRfaXRlbXMoc2VsZi52aWV3ZWRfc2t1cywgJ3NrdScsICd0aW1lc3RhbXBNaWxsaXNlY29uZHMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IE5lZWRzIHRvIGJlICJwdXJjaGFzZWRfdGltZXN0YW1wIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZm9ybWF0X3NrdV9wcm9kdWN0cyhzZWxmLCB1bmZvcm1hdHRlZF9wdXJjaGFzZWRfc2t1cyk6CiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgJ3NrdSc6IHVuZm9ybWF0dGVkX3B1cmNoYXNlZF9za3VbJ3NrdSddLAogICAgICAgICAgICAgICAgJ3B1cmNoYXNlZF90aW1lc3RhbXAnOiB1bmZvcm1hdHRlZF9wdXJjaGFzZWRfc2t1Wyd0aW1lc3RhbXBNaWxsaXNlY29uZHMnXQogICAgICAgICAgICB9CiAgICAgICAgICAgIGZvciB1bmZvcm1hdHRlZF9wdXJjaGFzZWRfc2t1IGluIHVuZm9ybWF0dGVkX3B1cmNoYXNlZF9za3VzCiAgICAgICAgXQo=</text>
+        <text encoding="base64">CiAgICBAcHJvcGVydHkKICAgIGRlZiBsYXN0X3llYXJfcHVyY2hhc2VkX3NrdXMoc2VsZik6CiAgICAgICAgeWVhcl9hZ29fdGltZSA9IHNlbGYuY3JlYXRpb25fdGltZXN0YW1wIC0gc2VsZi5ZRUFSX0lOX01JTExJU0VDT05EUwogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgIHNrdVsnc2t1J10KICAgICAgICAgICAgZm9yIHNrdSBpbiBzZWxmLnB1cmNoYXNlZF9za3VzCiAgICAgICAgICAgIGlmIHNrdVsncHVyY2hhc2VkX3RpbWVzdGFtcCddID49IHllYXJfYWdvX3RpbWUKICAgICAgICBdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmxhc3RfdmlzaXRfY2FydF9za3VzOgogICAgICAgICAgICByZXR1cm4gMwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gWwogICAgICAgICAgICBza3VbJ3NrdSddCiAgICAgICAgICAgIGZvciBza3UgaW4gc2VsZi5jYXJ0X3NrdXMKICAgICAgICAgICAgaWYgc2t1Wyd2aWV3ZWRfdGltZXN0YW1wJ10gPj0gc2VsZi5sYXN0X3Zpc2l0X3RpbWVzdGFtcAogICAgICAgIF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gWwogICAgICAgICAgICBza3VbJ3NrdSddCiAgICAgICAgICAgIGZvciBza3UgaW4gc2VsZi52aWV3ZWRfc2t1cwogICAgICAgICAgICBpZiBza3VbJ3ZpZXdlZF90aW1lc3RhbXAnXSA+PSBzZWxmLmxhc3RfdmlzaXRfdGltZXN0YW1wCiAgICAgICAgXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gWwogICAgICAgICAgICBza3VbJ3NrdSddCiAgICAgICAgICAgIGZvciBza3UgaW4gc2VsZi5wdXJjaGFzZWRfc2t1cwogICAgICAgICAgICBpZiBza3VbJ3B1cmNoYXNlZF90aW1lc3RhbXAnXSA+PSBzZWxmLmxhc3RfdmlzaXRfdGltZXN0YW1wCiAgICAgICAgXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgogICAgQHByb3BlcnR5CiAgICBkZWYgbGFzdF92aXNpdF92aWV3ZWRfc2t1cyhzZWxmKToKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICBza3VbJ3NrdSddCiAgICAgICAgICAgIGZvciBza3UgaW4gc2VsZi52aWV3ZWRfc2t1cwogICAgICAgICAgICBpZiBza3VbJ3ZpZXdlZF90aW1lc3RhbXAnXSA+PSBzZWxmLmxhc3RfdmlzaXRfdGltZXN0YW1wCiAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gWwogICAgICAgICAgICBjYXRlZ29yeVsnY2F0ZWdvcnlfaWQnXQogICAgICAgICAgICBmb3IgY2F0ZWdvcnkgaW4gc2VsZi52aWV3ZWRfY2F0ZWdvcnlfY2xhc3NlcwogICAgICAgICAgICBpZiBjYXRlZ29yeVsnY2F0ZWdvcnlfaWQnXSBhbmQgY2F0ZWdvcnlbJ3ZpZXdlZF90aW1lc3RhbXAnXSA+PSBzZWxmLmxhc3RfdmlzaXRfdGltZXN0YW1wCiAgICAgICAgXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGxhc3RfdmlzaXRfdmlld2VkX2NhdGVnb3JpZXMoc2VsZik6CiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgY2F0ZWdvcnlbJ2NhdGVnb3J5X2lkJ10KICAgICAgICAgICAgZm9yIGNhdGVnb3J5IGluIHNlbGYudmlld2VkX2NhdGVnb3J5X2NsYXNzZXMKICAgICAgICAgICAgaWYgY2F0ZWdvcnlbJ2NhdGVnb3J5X2lkJ10gYW5kIGNhdGVnb3J5Wyd2aWV3ZWRfdGltZXN0YW1wJ10gPj0gc2VsZi5sYXN0X3Zpc2l0X3RpbWVzdGFtcAogICAgICAgIF0KCiAgICBAcHJvcGVydHkKICAgIGRlZiBsYXN0X3Zpc2l0X3ZpZXdlZF9jbGFzc2VzKHNlbGYpOgogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgIGNsYXNzX2lkWydjbGFzc19pZCddCiAgICAgICAgICAgIGZvciBjbGFzc19pZCBpbiBzZWxmLnZpZXdlZF9jYXRlZ29yeV9jbGFzc2VzCiAgICAgICAgICAgIGlmICdjbGFzc19pZCcgaW4gY2xhc3NfaWQgYW5kCiAgICAgICAgICAgICAgIGNsYXNzX2lkWydjbGFzc19pZCddIGFuZAogICAgICAgICAgICAgICBjbGFzc19pZFsndmlld2VkX3RpbWVzdGFtcCddID49IHNlbGYubGFzdF92aXNpdF90aW1lc3RhbXAKICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gWwogICAgICAgICAgICBjbGFzc19pZFsnY2xhc3NfaWQnXQogICAgICAgICAgICBmb3IgY2xhc3NfaWQgaW4gc2VsZi52aWV3ZWRfY2F0ZWdvcnlfY2xhc3NlcwogICAgICAgICAgICBpZiAnY2xhc3NfaWQnIGluIGNsYXNzX2lkIGFuZAogICAgICAgICAgICAgICBjbGFzc19pZFsnY2xhc3NfaWQnXSBhbmQKICAgICAgICAgICAgICAgY2xhc3NfaWRbJ3ZpZXdlZF90aW1lc3RhbXAnXSA+PSBzZWxmLmxhc3RfdmlzaXRfdGltZXN0YW1wCiAgICAgICAgXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>st</last-search>
+      <last-search>vie</last-search>
       <last-offset />
-      <last-pattern>st</last-pattern>
+      <last-pattern>vie</last-pattern>
       <last-replace>WEB</last-replace>
       <last-substitute>APP</last-substitute>
       <last-dir>1</last-dir>
@@ -695,7 +695,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Event</entry>
         <entry>customer\_history\_facts</entry>
         <entry>added_cart</entry>
         <entry>keyword_search</entry>
@@ -715,6 +714,7 @@
         <entry>APP</entry>
         <entry>MO</entry>
         <entry>st</entry>
+        <entry>vie</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
