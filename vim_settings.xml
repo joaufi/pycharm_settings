@@ -495,12 +495,12 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1534528232666">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="44" column="33" />
-        <mark key="]" line="127" column="24" />
-        <mark key="^" line="127" column="24" />
-        <mark key="." line="127" column="24" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1534529625847">
+        <mark key="'" line="193" column="30" />
+        <mark key="[" line="187" column="0" />
+        <mark key="]" line="187" column="0" />
+        <mark key="^" line="193" column="67" />
+        <mark key="." line="187" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.jql" timestamp="1531150138707">
         <mark key="[" line="10" column="114" />
@@ -540,7 +540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="674" column="3" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="45" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="145" column="9" filename="$USER_HOME$/repositories/scoring-library/scoring/core/dao/redis_dao.py" />
       <jump line="675" column="3" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
@@ -640,55 +639,56 @@
       <jump line="175" column="19" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="7" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/constants.py" />
+      <jump line="202" column="30" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>self.crea</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>self.crea</text>
+        <text>ninety_days_ago_in_milliseconds</text>
       </register>
       <register name="/" type="4">
-        <text>vie</text>
+        <text>nine</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIG5pbmV0eV9kYXlzX2FkZGVkX2NhcnRfc2t1cyhzZWxmKToK</text>
+        <text encoding="base64">CiAgICBAcHJvcGVydHkKICAgIGRlZiBuaW5ldHlfZGF5c192aWV3ZWRfc2t1cyhzZWxmKToKICAgICAgICBuaW5ldHlfZGF5c19hZ29faW5fbWlsbGlzZWNvbmRzID0gc2VsZi5jcmVhdGlvbl90aW1lc3RhbXAgLSBzZWxmLk5JTkVUWV9EQVlTX0lOX01JTExJU0VDT05EUwoKICAgICAgICByZXR1cm4gc2VsZi5fZ2V0X2l0ZW1zX2FmdGVyX3RpbWVzdGFtcCgKICAgICAgICAgICAgc2VsZi52aWV3ZWRfc2t1cywgJ3NrdScsIG5pbmV0eV9kYXlzX2Fnb19pbl9taWxsaXNlY29uZHMpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZ2V0X2xhc3RfdGltZV9yYW5nZV9pdGVtcyhzZWxmLCBpdGVtcywgaXRlbV9rZXksIHRpbWVzdGFtcF9rZXksICk6Cg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGxhc3RfeWVhcl9wdXJjaGFzZWRfc2t1cyhzZWxmKToKICAgICAgICB5ZWFyX2Fnb190aW1lID0gc2VsZi5jcmVhdGlvbl90aW1lc3RhbXAgLSBzZWxmLllFQVJfSU5fTUlMTElTRUNPTkRTCiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgc2t1Wydza3UnXQogICAgICAgICAgICBmb3Igc2t1IGluIHNlbGYucHVyY2hhc2VkX3NrdXMKICAgICAgICAgICAgaWYgc2t1WydwdXJjaGFzZWRfdGltZXN0YW1wJ10gPj0geWVhcl9hZ29fdGltZQogICAgICAgIF0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIG5pbmV0eV9kYXlzX2FkZGVkX2NhcnRfc2t1cyhzZWxmKToKICAgICAgICBuaW5ldHlfZGF5c19hZ29fdGltZSA9IChzZWxmLmNyZWF0aW9uX3RpbWVzdGFtcCAtIHNlbGYuTklORVRZX0RBWVNfSU5fTUlMTElTRUNPTkRTKQogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgIHNrdVsnc2t1J10KICAgICAgICAgICAgZm9yIHNrdSBpbiBzZWxmLmFkZGVkX2NhcnRfc2t1cwogICAgICAgICAgICBpZiBza3VbJ3ZpZXdlZF90aW1lc3RhbXAnXSA+PSBuaW5ldHlfZGF5c19hZ29fdGltZQogICAgICAgIF0KCiAgICBAcHJvcGVydHkKICAgIGRlZiBuaW5ldHlfZGF5c192aWV3ZWRfc2t1cyhzZWxmKToKICAgICAgICBuaW5ldHlfZGF5c19hZ29fdGltZSA9IHNlbGYuY3JlYXRpb25fdGltZXN0YW1wIC0gc2VsZi5OSU5FVFlfREFZU19JTl9NSUxMSVNFQ09ORFMKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICBza3VbJ3NrdSddCiAgICAgICAgICAgIGZvciBza3UgaW4gc2VsZi52aWV3ZWRfc2t1cwogICAgICAgICAgICBpZiBza3VbJ3ZpZXdlZF90aW1lc3RhbXAnXSA+PSBuaW5ldHlfZGF5c19hZ29fdGltZQogICAgICAgIF0KCiAgICBAcHJvcGVydHkKICAgIGRlZiBsYXN0X3llYXJfcHVyY2hhc2VkX3NrdXMoc2VsZik6CiAgICAgICAgeWVhcl9hZ29fdGltZSA9IHNlbGYuY3JlYXRpb25fdGltZXN0YW1wIC0gc2VsZi5ZRUFSX0lOX01JTExJU0VDT05EUwogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgIHNrdVsnc2t1J10KICAgICAgICAgICAgZm9yIHNrdSBpbiBzZWxmLnB1cmNoYXNlZF9za3VzCiAgICAgICAgICAgIGlmIHNrdVsncHVyY2hhc2VkX3RpbWVzdGFtcCddID49IHllYXJfYWdvX3RpbWUKICAgICAgICBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIG5pbmV0eV9kYXlzX3ZpZXdlZF9za3VzKHNlbGYpOgogICAgICAgIG5pbmV0eV9kYXlzX2Fnb190aW1lID0gc2VsZi5jcmVhdGlvbl90aW1lc3RhbXAgLSBzZWxmLk5JTkVUWV9EQVlTX0lOX01JTExJU0VDT05EUwogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgIHNrdVsnc2t1J10KICAgICAgICAgICAgZm9yIHNrdSBpbiBzZWxmLnZpZXdlZF9za3VzCiAgICAgICAgICAgIGlmIHNrdVsndmlld2VkX3RpbWVzdGFtcCddID49IG5pbmV0eV9kYXlzX2Fnb190aW1lCiAgICAgICAgXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBAcHJvcGVydHkKICAgIGRlZiBsYXN0X3llYXJfcHVyY2hhc2VkX3NrdXMoc2VsZik6CiAgICAgICAgeWVhcl9hZ29fdGltZSA9IHNlbGYuY3JlYXRpb25fdGltZXN0YW1wIC0gc2VsZi5ZRUFSX0lOX01JTExJU0VDT05EUwogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgIHNrdVsnc2t1J10KICAgICAgICAgICAgZm9yIHNrdSBpbiBzZWxmLnB1cmNoYXNlZF9za3VzCiAgICAgICAgICAgIGlmIHNrdVsncHVyY2hhc2VkX3RpbWVzdGFtcCddID49IHllYXJfYWdvX3RpbWUKICAgICAgICBdCg==</text>
+        <text encoding="base64">CiAgICBAcHJvcGVydHkKICAgIGRlZiBuaW5ldHlfZGF5c19hZGRlZF9jYXJ0X3NrdXMoc2VsZik6CiAgICAgICAgbmluZXR5X2RheXNfYWdvX3RpbWUgPSAoc2VsZi5jcmVhdGlvbl90aW1lc3RhbXAgLSBzZWxmLk5JTkVUWV9EQVlTX0lOX01JTExJU0VDT05EUykKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICBza3VbJ3NrdSddCiAgICAgICAgICAgIGZvciBza3UgaW4gc2VsZi5hZGRlZF9jYXJ0X3NrdXMKICAgICAgICAgICAgaWYgc2t1Wyd2aWV3ZWRfdGltZXN0YW1wJ10gPj0gbmluZXR5X2RheXNfYWdvX3RpbWUKICAgICAgICBdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gWwogICAgICAgICAgICBza3VbJ3NrdSddCiAgICAgICAgICAgIGZvciBza3UgaW4gc2VsZi5jYXJ0X3NrdXMKICAgICAgICAgICAgaWYgc2t1Wyd2aWV3ZWRfdGltZXN0YW1wJ10gPj0gc2VsZi5sYXN0X3Zpc2l0X3RpbWVzdGFtcAogICAgICAgIF0K</text>
+        <text encoding="base64">ICAgIGRlZiBfZ2V0X2xhc3RfdGltZV9yYW5nZV9pdGVtcyhzZWxmLCBpdGVtcywgaXRlbV9rZXksIHRpbWVzdGFtcF9rZXksICk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>vie</last-search>
+      <last-search>nine</last-search>
       <last-offset />
-      <last-pattern>vie</last-pattern>
+      <last-pattern>nine</last-pattern>
       <last-replace>WEB</last-replace>
       <last-substitute>APP</last-substitute>
       <last-dir>1</last-dir>
@@ -696,7 +696,6 @@
     </search>
     <history>
       <history-search>
-        <entry>customer\_history\_facts</entry>
         <entry>added_cart</entry>
         <entry>keyword_search</entry>
         <entry>key</entry>
@@ -716,6 +715,7 @@
         <entry>MO</entry>
         <entry>st</entry>
         <entry>vie</entry>
+        <entry>nine</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
