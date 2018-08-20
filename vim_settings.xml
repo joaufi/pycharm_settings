@@ -27,11 +27,6 @@
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" timestamp="1534380324362">
-        <mark key="[" line="20" column="17" />
-        <mark key="]" line="20" column="17" />
-        <mark key="." line="20" column="17" />
-      </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/local.py" timestamp="1533225602302">
         <mark key="[" line="14" column="5" />
         <mark key="]" line="14" column="24" />
@@ -67,11 +62,6 @@
         <mark key="]" line="32" column="6" />
         <mark key="." line="32" column="6" />
         <mark key="^" line="32" column="6" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1534252688141">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/aggregate_model.py" timestamp="1534431942396">
         <mark key="'" line="221" column="4" />
@@ -117,8 +107,11 @@
         <mark key="^" line="55" column="22" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" timestamp="1534447326926">
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" timestamp="1534790698654">
         <mark key="'" line="173" column="22" />
+        <mark key="[" line="374" column="0" />
+        <mark key="]" line="374" column="0" />
+        <mark key="." line="374" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/in_market_model.py" timestamp="1532101757677">
         <mark key="[" line="19" column="36" />
@@ -299,11 +292,6 @@
         <mark key="^" line="43" column="23" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/aerospike_dao.py" timestamp="1534380295379">
-        <mark key="[" line="44" column="44" />
-        <mark key="]" line="44" column="44" />
-        <mark key="." line="44" column="44" />
-      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/prod.py" timestamp="1532452960432">
         <mark key="[" line="94" column="29" />
         <mark key="]" line="94" column="22" />
@@ -458,12 +446,12 @@
         <mark key="^" line="16" column="19" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" timestamp="1534453901770">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" timestamp="1534790936226">
         <mark key="'" line="103" column="0" />
-        <mark key="[" line="82" column="46" />
-        <mark key="]" line="82" column="46" />
-        <mark key="." line="82" column="46" />
-        <mark key="^" line="153" column="3" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="29" />
+        <mark key="." line="140" column="0" />
+        <mark key="^" line="143" column="42" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.json" timestamp="1531948768958">
         <mark key="[" line="15" column="15" />
@@ -502,12 +490,18 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1534788716458">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.json" timestamp="1534791059735">
+        <mark key="[" line="0" column="598" />
+        <mark key="]" line="0" column="597" />
+        <mark key="^" line="0" column="597" />
+        <mark key="." line="0" column="597" />
+      </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1534791262458">
         <mark key="'" line="146" column="44" />
-        <mark key="[" line="102" column="58" />
-        <mark key="]" line="102" column="58" />
-        <mark key="." line="102" column="58" />
-        <mark key="^" line="102" column="58" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="106" column="29" />
+        <mark key="." line="106" column="29" />
+        <mark key="^" line="106" column="29" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.jql" timestamp="1531150138707">
         <mark key="[" line="10" column="114" />
@@ -525,6 +519,12 @@
         <mark key="]" line="31" column="128" />
         <mark key="." line="36" column="15" />
         <mark key="^" line="36" column="15" />
+      </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" timestamp="1534260032199">
+        <mark key="'" line="224" column="0" />
+        <mark key="[" line="247" column="0" />
+        <mark key="]" line="247" column="0" />
+        <mark key="." line="247" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/details/routes.py" timestamp="1533243922817">
         <mark key="'" line="122" column="29" />
@@ -649,8 +649,8 @@
       <jump line="146" column="44" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdG9yZV9pZCwK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -662,28 +662,28 @@
         <text encoding="base64">ICAgICAgICBjdXN0b21lcl9pZCA9IHJlcXVlc3RfanNvbi5nZXQoJ2N1c3RvbWVyX2lkJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdG9yZV9pZCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBUT0RPIEFzayBBa3JpdGVlIGFib3V0IHJlcXVlc3RfdGltZXN0YW1wIChjcmVhdGlvbl90aW1lc3RhbXApCg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZV9pZCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQTEFURk9STSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgIyBUT0RPIEFzayBBa3JpdGVlIGFib3V0IHJlcXVlc3RfdGltZXN0YW1wIChjcmVhdGlvbl90aW1lc3RhbXApCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBkZWYgX2dldF9pdGVtc19hZnRlcl90aW1lc3RhbXAoCiAgICAgICAgc2VsZiwKICAgICAgICBpdGVtcywKICAgICAgICBpdGVtX2tleSwKICAgICAgICBzaW5jZV90aW1lc3RhbXAsCiAgICAgICAgdGltZXN0YW1wX2tleT0ndGltZXN0YW1wTWlsbGlzZWNvbmRzJwogICAgKToKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICBpdGVtW2l0ZW1fa2V5XQogICAgICAgICAgICBmb3IgaXRlbSBpbiBpdGVtcwogICAgICAgICAgICBpZiBpdGVtW2l0ZW1fa2V5XSBhbmQgaXRlbVt0aW1lc3RhbXBfa2V5XSA+PSBzaW5jZV90aW1lc3RhbXAKICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8gVEhJUyBNQVkgTk9UIEJFIE5FRURFRAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -725,7 +725,6 @@
         <entry>self.custin</entry>
       </history-search>
       <history-cmd>
-        <entry>&quot;w</entry>
         <entry>Lw</entry>
         <entry encoding="base64">JzwsJz5zL1w7Ly9pZw==</entry>
         <entry encoding="base64">JzwsJz5zL1wgXD0vXDovaWc=</entry>
@@ -741,9 +740,10 @@
         <entry encoding="base64">JzwsJz5zL0FQUC9XRUIvaWc=</entry>
         <entry>vsplit</entry>
         <entry>w3</entry>
-        <entry>split</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>qa</entry>
+        <entry>&quot;w</entry>
+        <entry>split</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
