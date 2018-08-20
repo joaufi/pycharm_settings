@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/input_model.py" timestamp="1534381698250">
-        <mark key="[" line="29" column="39" />
-        <mark key="]" line="30" column="34" />
-        <mark key="^" line="30" column="34" />
-        <mark key="." line="30" column="34" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/input_model.py" timestamp="1534788621914">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="32" />
+        <mark key="^" line="19" column="32" />
+        <mark key="." line="19" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/utility/hive_query_config_template.py" timestamp="1531170239178">
         <mark key="[" line="19" column="0" />
@@ -138,12 +138,12 @@
         <mark key="." line="31" column="92" />
         <mark key="^" line="31" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/aggregates/views.py" timestamp="1534554103233">
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/aggregates/views.py" timestamp="1534788326140">
         <mark key="'" line="76" column="19" />
-        <mark key="[" line="96" column="36" />
-        <mark key="]" line="97" column="37" />
-        <mark key="." line="97" column="37" />
-        <mark key="^" line="97" column="37" />
+        <mark key="[" line="115" column="26" />
+        <mark key="]" line="116" column="34" />
+        <mark key="." line="116" column="34" />
+        <mark key="^" line="116" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/data/fact_payload_model.py" timestamp="1534259172714">
         <mark key="[" line="3" column="21" />
@@ -502,10 +502,12 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1534779758354">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1534788716458">
+        <mark key="'" line="146" column="44" />
+        <mark key="[" line="102" column="58" />
+        <mark key="]" line="102" column="58" />
+        <mark key="." line="102" column="58" />
+        <mark key="^" line="102" column="58" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.jql" timestamp="1531150138707">
         <mark key="[" line="10" column="114" />
@@ -545,7 +547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="11" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/input_attribute_model.py" />
       <jump line="759" column="33" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="787" column="44" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="733" column="32" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
@@ -645,16 +646,17 @@
       <jump line="33" column="23" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="323" column="57" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="326" column="16" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
+      <jump line="146" column="44" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>metadata</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>'spend'</text>
+        <text>self.custin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjdXN0b21lcl9pZCA9IHJlcXVlc3RfanNvbi5nZXQoJ2N1c3RvbWVyX2lkJykK</text>
@@ -691,9 +693,9 @@
       </register>
     </registers>
     <search>
-      <last-search>'spend'</last-search>
+      <last-search>self.custin</last-search>
       <last-offset />
-      <last-pattern>'spend'</last-pattern>
+      <last-pattern>self.custin</last-pattern>
       <last-replace>WEB</last-replace>
       <last-substitute>APP</last-substitute>
       <last-dir>1</last-dir>
@@ -701,7 +703,6 @@
     </search>
     <history>
       <history-search>
-        <entry>product</entry>
         <entry>visit</entry>
         <entry>class_id</entry>
         <entry>in</entry>
@@ -721,6 +722,7 @@
         <entry>id</entry>
         <entry>'sk</entry>
         <entry>'spend'</entry>
+        <entry>self.custin</entry>
       </history-search>
       <history-cmd>
         <entry>&quot;w</entry>
