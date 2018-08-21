@@ -87,12 +87,12 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1534882468447">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1534883244151">
         <mark key="'" line="711" column="24" />
-        <mark key="[" line="732" column="72" />
-        <mark key="]" line="732" column="70" />
-        <mark key="." line="732" column="70" />
-        <mark key="^" line="732" column="70" />
+        <mark key="[" line="727" column="36" />
+        <mark key="]" line="754" column="3" />
+        <mark key="." line="754" column="3" />
+        <mark key="^" line="754" column="3" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1534441651237">
         <mark key="[" line="128" column="24" />
@@ -303,9 +303,9 @@
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="13" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/helper/transformation_functions_helper.py" timestamp="1534882087799">
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/helper/transformation_functions_helper.py" timestamp="1534883141155">
         <mark key="'" line="143" column="20" />
-        <mark key="[" line="222" column="0" />
+        <mark key="[" line="113" column="0" />
         <mark key="]" line="223" column="31" />
         <mark key="^" line="222" column="0" />
         <mark key="." line="222" column="0" />
@@ -653,10 +653,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>num</text>
+        <text>last_order_timestamp</text>
       </register>
       <register name="-" type="4">
-        <text>num</text>
+        <text>last_order_timestamp</text>
       </register>
       <register name="/" type="4">
         <text>def time\_since</text>
@@ -664,32 +664,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBkaXZpZGUoc2VsZiwgZGF0YSwgbnVtKToKICAgICAgICByZXR1cm4gZGF0YSAvIGZsb2F0KG51bSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>int_months = min(maximum, int_months)
+        int_months = max(minimum, int_months)
+        return data</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuTE9HX1dBUk4sCg==</text>
+        <text encoding="base64">ICAgICMgb25lX21vbnRoX2luX21pbGxpc2Vjb25kcyA9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBkZWYgd29vYm9vKHNlbGYsIGNobSk6CiAgICAgICAgcHJpbnQoJ2hleSAnICsgc3RyKDEpKQogICAgICAgIHJldHVybiAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RfbWV0YWRhdGEgPSBGaWVsZHMuUkVRVUVTVF9NRVRBREFUQV9GSUVMRAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFVTRV9DVVJSRU5UX0VWRU5UX0ZJRUxEID0gRmllbGQoCiAgICAgICAgdHlwZT1UeXBlcy5CT09MCiAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuTE9HX1dBUk4sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RfbWV0YWRhdGEgPSBGaWVsZHMuUkVRVUVTVF9NRVRBREFUQV9GSUVMRAo=</text>
+        <text encoding="base64">CiAgICBkZWYgd29vYm9vKHNlbGYsIGNobSk6CiAgICAgICAgcHJpbnQoJ2hleSAnICsgc3RyKDEpKQogICAgICAgIHJldHVybiAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdSRVNVTFQgMSA9ICcgKyBzdHIoYWdncmVnYXRpb25zW2luZGV4XSkpCg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3RfbWV0YWRhdGEgPSBGaWVsZHMuUkVRVUVTVF9NRVRBREFUQV9GSUVMRAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlJFU1VMVCAyMjIyID0gIiArIHN0cihhZ2dyZWdhdGlvbnNbaW5kZXhdKSkK</text>
+        <text encoding="base64">ICAgIFVTRV9DVVJSRU5UX0VWRU5UX0ZJRUxEID0gRmllbGQoCiAgICAgICAgdHlwZT1UeXBlcy5CT09MCiAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
