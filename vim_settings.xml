@@ -15,12 +15,12 @@
         <mark key="." line="222" column="0" />
         <mark key="^" line="220" column="34" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1534965391064">
-        <mark key="'" line="111" column="17" />
-        <mark key="[" line="731" column="51" />
-        <mark key="]" line="731" column="81" />
-        <mark key="." line="731" column="81" />
-        <mark key="^" line="731" column="81" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1535040347226">
+        <mark key="'" line="715" column="0" />
+        <mark key="[" line="732" column="15" />
+        <mark key="]" line="732" column="78" />
+        <mark key="^" line="732" column="78" />
+        <mark key="." line="732" column="78" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1534441651237">
         <mark key="[" line="128" column="24" />
@@ -87,12 +87,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="5" column="87" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/helper/transformation_functions_helper.py" timestamp="1534944243757">
-        <mark key="'" line="143" column="20" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="79" column="29" />
-        <mark key="^" line="79" column="29" />
-        <mark key="." line="79" column="29" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/helper/transformation_functions_helper.py" timestamp="1535039573371">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="113" column="8" />
+        <mark key="]" line="112" column="0" />
+        <mark key="^" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/core/dao/redis_dao.py" timestamp="1534442326653">
         <mark key="'" line="152" column="9" />
@@ -113,6 +113,12 @@
         <mark key="[" line="283" column="0" />
         <mark key="]" line="283" column="0" />
         <mark key="." line="283" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" timestamp="1535039309256">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="43" column="4" />
+        <mark key="^" line="43" column="18" />
+        <mark key="." line="43" column="4" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" timestamp="1534432794929">
         <mark key="'" line="0" column="0" />
@@ -161,16 +167,16 @@
         <mark key="^" line="0" column="597" />
         <mark key="." line="0" column="597" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1534967719754">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1535039640104">
         <mark key="'" line="153" column="0" />
         <mark key="[" line="145" column="40" />
         <mark key="]" line="145" column="58" />
         <mark key="." line="145" column="58" />
         <mark key="^" line="145" column="58" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/input_attribute_model.py" timestamp="1534880169277">
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/input_attribute_model.py" timestamp="1535040256482">
         <mark key="'" line="90" column="11" />
-        <mark key="[" line="399" column="35" />
+        <mark key="[" line="383" column="8" />
         <mark key="]" line="397" column="81" />
         <mark key="^" line="397" column="81" />
         <mark key="." line="397" column="81" />
@@ -196,9 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="726" column="59" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
-      <jump line="734" column="55" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
-      <jump line="736" column="29" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="717" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="735" column="30" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="212" column="60" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
@@ -296,21 +299,33 @@
       <jump line="111" column="17" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="145" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="41" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utilities.py" />
+      <jump line="714" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="240" column="12" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/helper/transformation_functions_helper.py" />
+      <jump line="112" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/helper/transformation_functions_helper.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>129</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiBkaXZpZGUoc2VsZiwgZGF0YSwgbnVtKToKICAgICAgICByZXR1cm4gZGF0YSAvIGZsb2F0KG51bSkK</text>
       </register>
       <register name="-" type="4">
-        <text>129</text>
+        <text>max(0, min(months_since_activation, default_months_since_activation))</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvclw+</text>
+        <text>def</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuT05FX01PTlRIX0lOX01JTExJU0VDT05EUwo=</text>
+        <text encoding="base64">ICAgIGRlZiBkaXZpZGUoc2VsZiwgZGF0YSwgbnVtKToKICAgICAgICByZXR1cm4gZGF0YSAvIGZsb2F0KG51bSkK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBmdW5jdG9vbHMgaW1wb3J0IHBhcnRpYWwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBmdW5jdG9vbHMgaW1wb3J0IHBhcnRpYWwK</text>
+      </register>
+      <register name="4" type="4">
         <text>or a customer has no activation_timestamp, 129 months is returned.
 
         Legacy Name: MosSinceActivation
@@ -324,47 +339,36 @@
         default_months_since_activation = 129
         activation_timestamp = customer_history_model.activation_timestamp</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCB0aW1lCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CgoKZGVmIHRpbWVfc2luY2VfdGltZXN0YW1wKHNlbGYsIHRpbWVzdGFtcF9taWxsaXNlY29uZHMpOgogICAgcmV0dXJuICh0aW1lKCkgKiAxMDAwKSAtIHRpbWVzdGFtcF9taWxsaXNlY29uZHMKCgpkZWYgZGl2aWRlKHNlbGYsIHRpbWVzdGFtcF9taWxsaXNlY29uZHMsIG9uZV9tb250aF9pbl9taWxsaXNlY29uZHM9MjU5MjAwMDAwMCk6CiAgICByZXR1cm4gdGltZXN0YW1wX21pbGxpc2Vjb25kcyAvIGZsb2F0KG9uZV9tb250aF9pbl9taWxsaXNlY29uZHMpCgoKZGVmIGludF9yb3VuZChzZWxmLCBmbG9hdF9tb250aHMpOgogICAgcmV0dXJuIGludChyb3VuZChmbG9hdF9tb250aHMpKQoKCmRlZiBsaW1pdF9yYW5nZShzZWxmLCBpbnRfbW9udGhzLCBtaW5pbXVtPTAsIG1heGltdW09MTI5KToKICAgIHRyeToKICAgICAgICBtaW5pbXVtID0gZmxvYXQobWluaW11bSkKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgbWluaW11bSA9IE5vbmUKICAgIHRyeToKICAgICAgICBtYXhpbXVtID0gZmxvYXQobWF4aW11bSkKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgbWF4aW11bSA9IE5vbmUKICAgIGlmIG1heGltdW0gaXMgbm90IE5vbmU6CiAgICAgICAgaW50X21vbnRocyA9IG1pbihtYXhpbXVtLCBpbnRfbW9udGhzKQogICAgaW50X21vbnRocyA9IG1heChtaW5pbXVtLCBpbnRfbW9udGhzKQoKICAgIHJldHVybiBpbnRfbW9udGhzCgoKCgoKCiAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICA6cGFyYW0gY3VzdG9tZXJfaGlzdG9yeV9tb2RlbDogCiAgICAgICAgOnJldHVybjogCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgYWN0aXZhdGlvbl90aW1lc3RhbXA6CiAgICAgICAgICAgIHJldHVybiAwCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBub3dfbWlsbGlzZWNvbmRzID0gdGltZSgpICogMTAwMAo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICA6cGFyYW0gY3VzdG9tZXJfaGlzdG9yeV9tb2RlbDogCiAgICAgICAgOnJldHVybjogCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHRpbWVfc2luY2VfdGltZXN0YW1wKHNlbGYsIHRpbWVzdGFtcF9taWxsaXNlY29uZHMpOgogICAgcmV0dXJuICh0aW1lKCkgKiAxMDAwKSAtIHRpbWVzdGFtcF9taWxsaXNlY29uZHMKCgpkZWYgZGl2aWRlKHNlbGYsIHRpbWVzdGFtcF9taWxsaXNlY29uZHMsIG9uZV9tb250aF9pbl9taWxsaXNlY29uZHM9MjU5MjAwMDAwMCk6CiAgICByZXR1cm4gdGltZXN0YW1wX21pbGxpc2Vjb25kcyAvIGZsb2F0KG9uZV9tb250aF9pbl9taWxsaXNlY29uZHMpCgoKZGVmIGludF9yb3VuZChzZWxmLCBmbG9hdF9tb250aHMpOgogICAgcmV0dXJuIGludChyb3VuZChmbG9hdF9tb250aHMpKQoKCmRlZiBsaW1pdF9yYW5nZShzZWxmLCBpbnRfbW9udGhzLCBtaW5pbXVtPTAsIG1heGltdW09MTI5KToKICAgIHRyeToKICAgICAgICBtaW5pbXVtID0gZmxvYXQobWluaW11bSkKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgbWluaW11bSA9IE5vbmUKICAgIHRyeToKICAgICAgICBtYXhpbXVtID0gZmxvYXQobWF4aW11bSkKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgbWF4aW11bSA9IE5vbmUKICAgIGlmIG1heGltdW0gaXMgbm90IE5vbmU6CiAgICAgICAgaW50X21vbnRocyA9IG1pbihtYXhpbXVtLCBpbnRfbW9udGhzKQogICAgaW50X21vbnRocyA9IG1heChtaW5pbXVtLCBpbnRfbW9udGhzKQoKICAgIHJldHVybiBpbnRfbW9udGhzCgoK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgYWN0aXZhdGlvbl90aW1lc3RhbXA6CiAgICAgICAgICAgIHJldHVybiAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvclw+</last-search>
+      <last-search>def</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvclw+</last-pattern>
+      <last-pattern>def</last-pattern>
       <last-replace>WEB</last-replace>
       <last-substitute>APP</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>update</entry>
-        <entry>update_</entry>
         <entry>WEB</entry>
         <entry>MOBILE</entry>
         <entry>APP</entry>
@@ -383,6 +387,8 @@
         <entry>def time\_since</entry>
         <entry>num</entry>
         <entry encoding="base64">XDxvclw+</entry>
+        <entry>def round</entry>
+        <entry>def</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wgXD0vXDovaWc=</entry>
@@ -401,9 +407,9 @@
         <entry>e</entry>
         <entry>split</entry>
         <entry>W</entry>
-        <entry>qa</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
