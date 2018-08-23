@@ -15,12 +15,12 @@
         <mark key="." line="222" column="0" />
         <mark key="^" line="220" column="34" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1535040347226">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1535045423318">
         <mark key="'" line="715" column="0" />
-        <mark key="[" line="732" column="15" />
-        <mark key="]" line="732" column="78" />
+        <mark key="[" line="725" column="8" />
+        <mark key="]" line="725" column="8" />
         <mark key="^" line="732" column="78" />
-        <mark key="." line="732" column="78" />
+        <mark key="." line="725" column="8" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1534441651237">
         <mark key="[" line="128" column="24" />
@@ -87,12 +87,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="5" column="87" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/helper/transformation_functions_helper.py" timestamp="1535039573371">
-        <mark key="'" line="112" column="0" />
-        <mark key="[" line="113" column="8" />
-        <mark key="]" line="112" column="0" />
-        <mark key="^" line="112" column="0" />
-        <mark key="." line="112" column="0" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/helper/transformation_functions_helper.py" timestamp="1535045072191">
+        <mark key="'" line="64" column="81" />
+        <mark key="[" line="258" column="27" />
+        <mark key="]" line="258" column="33" />
+        <mark key="^" line="258" column="33" />
+        <mark key="." line="258" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/core/dao/redis_dao.py" timestamp="1534442326653">
         <mark key="'" line="152" column="9" />
@@ -202,8 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="717" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
-      <jump line="735" column="30" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="212" column="60" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="178" column="7" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="66" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
@@ -302,16 +300,18 @@
       <jump line="714" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="240" column="12" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/helper/transformation_functions_helper.py" />
       <jump line="112" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/helper/transformation_functions_helper.py" />
+      <jump line="333" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/helper/transformation_functions_helper.py" />
+      <jump line="64" column="81" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/helper/transformation_functions_helper.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBkaXZpZGUoc2VsZiwgZGF0YSwgbnVtKToKICAgICAgICByZXR1cm4gZGF0YSAvIGZsb2F0KG51bSkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>max(0, min(months_since_activation, default_months_since_activation))</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>def</text>
+        <text>time_since</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBkaXZpZGUoc2VsZiwgZGF0YSwgbnVtKToKICAgICAgICByZXR1cm4gZGF0YSAvIGZsb2F0KG51bSkK</text>
@@ -359,9 +359,9 @@
       </register>
     </registers>
     <search>
-      <last-search>def</last-search>
+      <last-search>time_since</last-search>
       <last-offset />
-      <last-pattern>def</last-pattern>
+      <last-pattern>time_since</last-pattern>
       <last-replace>WEB</last-replace>
       <last-substitute>APP</last-substitute>
       <last-dir>1</last-dir>
@@ -383,12 +383,12 @@
         <entry>year</entry>
         <entry>YEAR</entry>
         <entry>avg_price_purchased</entry>
-        <entry>time_since</entry>
         <entry>def time\_since</entry>
         <entry>num</entry>
         <entry encoding="base64">XDxvclw+</entry>
         <entry>def round</entry>
         <entry>def</entry>
+        <entry>time_since</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wgXD0vXDovaWc=</entry>
