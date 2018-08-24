@@ -106,9 +106,9 @@
         <mark key="^" line="55" column="22" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" timestamp="1534790698654">
-        <mark key="'" line="173" column="22" />
-        <mark key="[" line="374" column="0" />
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" timestamp="1535135365299">
+        <mark key="'" line="85" column="4" />
+        <mark key="[" line="160" column="0" />
         <mark key="]" line="374" column="0" />
         <mark key="." line="374" column="0" />
       </file>
@@ -580,24 +580,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="21" filename="$USER_HOME$/repositories/scoring-library/scoring/core/fields.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/aggregate_model.py" />
-      <jump line="226" column="4" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/aggregate_model.py" />
-      <jump line="65" column="11" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" />
-      <jump line="250" column="0" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
-      <jump line="362" column="0" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
-      <jump line="42" column="33" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
-      <jump line="117" column="79" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
-      <jump line="90" column="22" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
-      <jump line="91" column="20" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
-      <jump line="99" column="18" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
-      <jump line="107" column="71" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
-      <jump line="155" column="38" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/customer_history_model.py" />
-      <jump line="109" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" />
-      <jump line="114" column="42" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" />
-      <jump line="115" column="21" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" />
-      <jump line="116" column="20" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" />
       <jump line="118" column="68" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" />
       <jump line="122" column="42" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" />
       <jump line="123" column="21" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" />
@@ -680,6 +662,24 @@
       <jump line="0" column="7" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="560" column="19" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="28" column="23" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utility/transformation_functions.py" />
+      <jump line="122" column="10" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
+      <jump line="152" column="17" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
+      <jump line="155" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
+      <jump line="156" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
+      <jump line="157" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
+      <jump line="158" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
+      <jump line="159" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
+      <jump line="166" column="9" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
+      <jump line="199" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
+      <jump line="228" column="13" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
+      <jump line="229" column="13" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
+      <jump line="234" column="9" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
+      <jump line="242" column="13" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
+      <jump line="243" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
+      <jump line="245" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
+      <jump line="246" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
+      <jump line="247" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
+      <jump line="85" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -689,7 +689,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>is</text>
+        <text>VIEW</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBvcmRlcl90b3RhbHMgPSBnZXRfdmFsdWVzX2F0X2tleShLZXkuT1JERVJfVE9UQUwsIGN1c3RvbWVyX2hpc3RvcnlfbW9kZWwub3JkZXJfaGlzdG9yeSkK</text>
@@ -726,9 +726,9 @@
       </register>
     </registers>
     <search>
-      <last-search>is</last-search>
+      <last-search>VIEW</last-search>
       <last-offset />
-      <last-pattern>is</last-pattern>
+      <last-pattern>VIEW</last-pattern>
       <last-replace>WEB</last-replace>
       <last-substitute>APP</last-substitute>
       <last-dir>1</last-dir>
@@ -736,7 +736,6 @@
     </search>
     <history>
       <history-search>
-        <entry>st</entry>
         <entry>vie</entry>
         <entry>nine</entry>
         <entry>id</entry>
@@ -756,6 +755,7 @@
         <entry>add</entry>
         <entry>pytz</entry>
         <entry>is</entry>
+        <entry>VIEW</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wgXD0vXDovaWc=</entry>
