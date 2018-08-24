@@ -87,11 +87,11 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1535139853935">
-        <mark key="[" line="18" column="48" />
-        <mark key="]" line="18" column="53" />
-        <mark key="." line="18" column="53" />
-        <mark key="^" line="18" column="53" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1535141408764">
+        <mark key="'" line="72" column="5" />
+        <mark key="[" line="760" column="0" />
+        <mark key="]" line="760" column="0" />
+        <mark key="." line="760" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1534441651237">
         <mark key="[" line="128" column="24" />
@@ -129,13 +129,13 @@
         <mark key="." line="31" column="92" />
         <mark key="^" line="31" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utility/transformation_functions.py" timestamp="1535137358246">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utility/transformation_functions.py" timestamp="1535141493528">
         <mark key="'" line="28" column="23" />
         <mark key="k" line="33" column="6" />
-        <mark key="[" line="46" column="17" />
-        <mark key="]" line="46" column="29" />
-        <mark key="." line="46" column="29" />
-        <mark key="^" line="46" column="29" />
+        <mark key="[" line="74" column="8" />
+        <mark key="]" line="74" column="48" />
+        <mark key="." line="74" column="48" />
+        <mark key="^" line="74" column="48" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/aggregates/views.py" timestamp="1534788326140">
         <mark key="'" line="76" column="19" />
@@ -584,7 +584,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="68" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" />
       <jump line="122" column="42" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" />
       <jump line="123" column="21" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" />
       <jump line="124" column="20" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" />
@@ -684,46 +683,47 @@
       <jump line="246" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
       <jump line="247" column="11" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
       <jump line="85" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
+      <jump line="72" column="5" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>T</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBudW1fb3JkZXJzID0gbGVuKG9yZGVyX3RvdGFsZCkK</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>VIEW</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcl90b3RhbHMgPSBnZXRfdmFsdWVzX2F0X2tleShLZXkuT1JERVJfVE9UQUwsIGN1c3RvbWVyX2hpc3RvcnlfbW9kZWwub3JkZXJfaGlzdG9yeSkK</text>
+        <text encoding="base64">ICAgICAgICBvcmRlcl90b3RhbHMgPSBnZXRfdmFsdWVzX2F0X2tleShLZXkuT1JERVJfVE9UQUwsIGN1c3RvbWVyX2hpc3Rvcnkub3JkZXJfaGlzdG9yeSkKCiAgICAgICAgcmV0dXJuIHN1bShvcmRlcl90b3RhbHMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcl90aW1lc3RhbXBzID0gY3VzdG9tZXJfaGlzdG9yeS5nZXQoS2V5Lk9SREVSX1RJTUVTVEFNUCwgJ29yZGVyX2hpc3RvcnknKQo=</text>
+        <text encoding="base64">ICAgICAgICBudW1fb3JkZXJzID0gbGVuKG9yZGVyX3RvdGFsZCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VtKG9yZGVyX3RvdGFscykgLyBsZW4ob3JkZXJfdG90YWxzKSBpZiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjdXN0b21lcl9oaXN0b3J5ID0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5saWZldGltZV9yZXZlbnVlKGN1c3RvbWVyX2hpc3RvcnkpIC8gbGVuKGN1c3RvbWVyX2hpc3Rvcnkub3JkZXJfaGlzdG9yeSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcl90aW1lc3RhbXBzID0gY3VzdG9tZXJfaGlzdG9yeS5nZXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBvcmRlcl90b3RhbHMgPSBnZXRfdmFsdWVzX2F0X2tleShLZXkuT1JERVJfVE9UQUwsIGN1c3RvbWVyX2hpc3Rvcnkub3JkZXJfaGlzdG9yeSkKCiAgICAgICAgcmV0dXJuIHN1bShvcmRlcl90b3RhbHMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcmRlcl90b3RhbHMgPQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIG9yZGVyX3RvdGFsKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gY3VzdG9tZXJfaGlzdG9yeToKICAgICAgICA6cmV0dXJuOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcmRlcl90aW1lc3RhbXBzID0gY3VzdG9tZXJfaGlzdG9yeS5nZXQoS2V5Lk9SREVSX1RJTUVTVEFNUCwgJ29yZGVyX2hpc3RvcnknKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSAK</text>
+        <text encoding="base64">ICAgICAgICBjdXN0b21lcl9oaXN0b3J5ID0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
