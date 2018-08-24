@@ -130,13 +130,13 @@
         <mark key="." line="31" column="92" />
         <mark key="^" line="31" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utility/transformation_functions.py" timestamp="1535079801957">
-        <mark key="'" line="30" column="0" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utility/transformation_functions.py" timestamp="1535118772156">
+        <mark key="'" line="28" column="23" />
         <mark key="k" line="33" column="6" />
-        <mark key="[" line="23" column="51" />
-        <mark key="]" line="23" column="51" />
-        <mark key="." line="23" column="51" />
-        <mark key="^" line="7" column="43" />
+        <mark key="[" line="29" column="48" />
+        <mark key="]" line="29" column="61" />
+        <mark key="." line="29" column="61" />
+        <mark key="^" line="29" column="61" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/aggregates/views.py" timestamp="1534788326140">
         <mark key="'" line="76" column="19" />
@@ -275,11 +275,11 @@
         <mark key="^" line="5" column="71691" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" timestamp="1534944670345">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="5" column="87" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" timestamp="1535119368186">
+        <mark key="[" line="280" column="27" />
+        <mark key="]" line="267" column="32" />
+        <mark key="." line="267" column="32" />
+        <mark key="^" line="267" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/product_model.py" timestamp="1534124243925">
         <mark key="[" line="27" column="0" />
@@ -580,7 +580,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="5" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/aggregate_model.py" />
       <jump line="45" column="21" filename="$USER_HOME$/repositories/scoring-library/scoring/core/fields.py" />
       <jump line="26" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/aggregate_model.py" />
       <jump line="226" column="4" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/aggregate_model.py" />
@@ -680,16 +679,17 @@
       <jump line="2" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="0" column="7" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="560" column="19" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="28" column="23" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utility/transformation_functions.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>129</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>129</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>pytz</text>
+        <text>is</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBvcmRlcl90b3RhbHMgPSBnZXRfdmFsdWVzX2F0X2tleShLZXkuT1JERVJfVE9UQUwsIGN1c3RvbWVyX2hpc3RvcnlfbW9kZWwub3JkZXJfaGlzdG9yeSkK</text>
@@ -726,9 +726,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pytz</last-search>
+      <last-search>is</last-search>
       <last-offset />
-      <last-pattern>pytz</last-pattern>
+      <last-pattern>is</last-pattern>
       <last-replace>WEB</last-replace>
       <last-substitute>APP</last-substitute>
       <last-dir>1</last-dir>
@@ -736,7 +736,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MO</entry>
         <entry>st</entry>
         <entry>vie</entry>
         <entry>nine</entry>
@@ -756,6 +755,7 @@
         <entry>dict\_item\_list</entry>
         <entry>add</entry>
         <entry>pytz</entry>
+        <entry>is</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wgXD0vXDovaWc=</entry>
