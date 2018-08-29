@@ -273,8 +273,8 @@
         <mark key="^" line="5" column="71691" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" timestamp="1535119368186">
-        <mark key="[" line="267" column="27" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" timestamp="1535554227515">
+        <mark key="[" line="284" column="40" />
         <mark key="]" line="267" column="32" />
         <mark key="." line="267" column="32" />
         <mark key="^" line="267" column="32" />
@@ -445,8 +445,11 @@
         <mark key="^" line="12" column="54" />
         <mark key="." line="12" column="54" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/core/fields.py" timestamp="1534864508174">
-        <mark key="^" line="48" column="29" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/core/fields.py" timestamp="1535554705412">
+        <mark key="[" line="75" column="28" />
+        <mark key="]" line="75" column="32" />
+        <mark key="^" line="75" column="32" />
+        <mark key="." line="75" column="32" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" timestamp="1530195833860">
         <mark key="[" line="0" column="626" />
@@ -678,11 +681,11 @@
       <jump line="72" column="5" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZm9ybWF0X2NhcnRfc2t1cyhzZWxmLCBjYXJ0X2l0ZW1zX2FmdGVyKToKICAgICAgICAiIiJUT0RPOiBERVBSRUNBVEVEIiIiCiAgICAgICAgY2FydF9za3VzID0gW10KICAgICAgICBmb3IgcHJvZHVjdCBpbiBjYXJ0X2l0ZW1zX2FmdGVyOgogICAgICAgICAgICBza3UgPSBwcm9kdWN0LmdldChLZXkuU0tVKQogICAgICAgICAgICBhZGRfdGltZXN0YW1wID0gcHJvZHVjdC5nZXQoJ2FkZFRpbWVzdGFtcCcpCiAgICAgICAgICAgIGlmIHNrdSBhbmQgYWRkX3RpbWVzdGFtcDoKICAgICAgICAgICAgICAgIGNhcnRfc2t1cy5hcHBlbmQoewogICAgICAgICAgICAgICAgICAgIEtleS5TS1U6IHNrdSwKICAgICAgICAgICAgICAgICAgICBLZXkuVElNRVNUQU1QX01JTExJU0VDT05EUzogYWRkX3RpbWVzdGFtcCwKICAgICAgICAgICAgICAgIH0pCgogICAgICAgIHJldHVybiBjYXJ0X3NrdXMKCg==</text>
+      <register name="&quot;" type="4">
+        <text>string</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>VIEW</text>
