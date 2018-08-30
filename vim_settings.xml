@@ -227,8 +227,8 @@
         <mark key="^" line="5" column="39" />
         <mark key="." line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/algorithms.py" timestamp="1532115908003">
-        <mark key="[" line="47" column="0" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/algorithms.py" timestamp="1535661926481">
+        <mark key="[" line="44" column="15" />
         <mark key="]" line="48" column="69" />
         <mark key="^" line="19" column="61" />
         <mark key="." line="19" column="61" />
@@ -240,7 +240,8 @@
         <mark key="^" line="1302" column="1" />
         <mark key="." line="1302" column="1" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/requirements.txt" timestamp="1531490070218">
+      <file name="$USER_HOME$/repositories/scoring-library/requirements.txt" timestamp="1535661208060">
+        <mark key="'" line="13" column="14" />
         <mark key="[" line="15" column="15" />
         <mark key="]" line="16" column="13" />
         <mark key="^" line="16" column="13" />
@@ -585,7 +586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="21" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" />
       <jump line="124" column="20" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" />
       <jump line="129" column="20" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" />
       <jump line="130" column="20" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" />
@@ -685,6 +685,7 @@
       <jump line="85" column="4" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" />
       <jump line="72" column="5" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="273" column="14" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
+      <jump line="13" column="14" filename="$USER_HOME$/repositories/scoring-library/requirements.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -694,7 +695,7 @@
         <text>lower</text>
       </register>
       <register name="/" type="4">
-        <text>VIEW</text>
+        <text>numpy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBDYXN0IGEgdmFsdWUgdG8gYSBzdHJpbmcKICAgICAgICAiIiIKICAgICAgICBpZiB2YWx1ZSBpcyBOb25lOgogICAgICAgICAgICByZXR1cm4gTm9uZQogICAgICAgIHJldHVybiBzdHIodmFsdWUpCg==</text>
@@ -731,9 +732,9 @@
       </register>
     </registers>
     <search>
-      <last-search>VIEW</last-search>
+      <last-search>numpy</last-search>
       <last-offset />
-      <last-pattern>VIEW</last-pattern>
+      <last-pattern>numpy</last-pattern>
       <last-replace>WEB</last-replace>
       <last-substitute>APP</last-substitute>
       <last-dir>1</last-dir>
@@ -741,7 +742,6 @@
     </search>
     <history>
       <history-search>
-        <entry>vie</entry>
         <entry>nine</entry>
         <entry>id</entry>
         <entry>'sk</entry>
@@ -761,6 +761,7 @@
         <entry>pytz</entry>
         <entry>is</entry>
         <entry>VIEW</entry>
+        <entry>numpy</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wgXD0vXDovaWc=</entry>
