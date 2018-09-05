@@ -91,10 +91,11 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1536115023312">
-        <mark key="[" line="758" column="0" />
-        <mark key="]" line="758" column="0" />
-        <mark key="." line="758" column="0" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1536115751241">
+        <mark key="[" line="759" column="90" />
+        <mark key="]" line="759" column="96" />
+        <mark key="." line="759" column="96" />
+        <mark key="^" line="759" column="96" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1535728539439">
         <mark key="[" line="159" column="26" />
@@ -132,13 +133,13 @@
         <mark key="." line="31" column="92" />
         <mark key="^" line="31" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utility/transformation_functions.py" timestamp="1536114973580">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utility/transformation_functions.py" timestamp="1536116112231">
         <mark key="'" line="31" column="23" />
         <mark key="k" line="36" column="6" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-        <mark key="^" line="79" column="0" />
+        <mark key="[" line="82" column="11" />
+        <mark key="]" line="82" column="88" />
+        <mark key="." line="82" column="88" />
+        <mark key="^" line="82" column="88" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/core/format.py" timestamp="1535556293674">
         <mark key="[" line="22" column="8" />
@@ -420,13 +421,6 @@
         <mark key="." line="2" column="27" />
         <mark key="^" line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" timestamp="1536115297146">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="2" column="36" />
-        <mark key="." line="2" column="36" />
-        <mark key="^" line="2" column="36" />
-      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/data/feature_models.py" timestamp="1532098825466">
         <mark key="[" line="3" column="8" />
         <mark key="]" line="3" column="7" />
@@ -531,20 +525,17 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535071283915">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.json" timestamp="1534792985770">
         <mark key="[" line="0" column="598" />
         <mark key="]" line="0" column="597" />
         <mark key="^" line="0" column="597" />
         <mark key="." line="0" column="597" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1536115220428">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="164" column="14" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1536115675729">
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="254" column="0" />
+        <mark key="^" line="13" column="76" />
+        <mark key="." line="254" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.jql" timestamp="1531150138707">
         <mark key="[" line="10" column="114" />
@@ -695,52 +686,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>86400000</text>
+        <text>value</text>
       </register>
       <register name="-" type="4">
-        <text>86400000</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
-        <text>numpy</text>
+        <text>orders</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBDYXN0IGEgdmFsdWUgdG8gYSBzdHJpbmcKICAgICAgICAiIiIKICAgICAgICBpZiB2YWx1ZSBpcyBOb25lOgogICAgICAgICAgICByZXR1cm4gTm9uZQogICAgICAgIHJldHVybiBzdHIodmFsdWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE9ORV9EQVlfSU5fTUlMTElTRUNPTkRTID0gODY0MDAwMDAKICAgIE5JTkVUWV9EQVlTX0lOX01JTExJU0VDT05EUyA9IDkwICogT05FX0RBWV9JTl9NSUxMSVNFQ09ORFMKICAgIE9ORV9ZRUFSX0lOX01JTExJU0VDT05EUyA9IDM2NSAqIE9ORV9EQVlfSU5fTUlMTElTRUNPTkRTCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE9ORV9EQVlfSU5fTUlMTElTRUNPTkRTID0gODY0MDAwMDAKICAgIE5JTkVUWV9EQVlTX0lOX01JTExJU0VDT05EUyA9IDkwICogT05FX0RBWV9JTl9NSUxMSVNFQ09ORFMKICAgIE9ORV9ZRUFSX0lOX01JTExJU0VDT05EUyA9IDM2NSAqIE9ORV9EQVlfSU5fTUlMTElTRUNPTkRTCgo=</text>
+        <text encoding="base64">ICAgIE9ORV9EQVlfSU5fTUlMTElTRUNPTkRTID0gODY0MDAwMDAKICAgIE5JTkVUWV9EQVlTX0lOX01JTExJU0VDT05EUyA9IDkwICogT05FX0RBWV9JTl9NSUxMSVNFQ09ORFMKICAgIE9ORV9ZRUFSX0lOX01JTExJU0VDT05EUyA9IDM2NSAqIE9ORV9EQVlfSU5fTUlMTElTRUNPTkRTCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5saWZldGltZV9yZXZlbnVlKGN1c3RvbWVyX2hpc3RvcnkpIC8gCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcl90b3RhbHMgPSBnZXRfdmFsdWVzX2F0X2tleShLZXkuT1JERVJfVE9UQUwsIGN1c3RvbWVyX2hpc3Rvcnkub3JkZXJfaGlzdG9yeSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIE9ORV9EQVlfSU5fTUlMTElTRUNPTkRTID0gODY0MDAwMDAKICAgIE5JTkVUWV9EQVlTX0lOX01JTExJU0VDT05EUyA9IDkwICogT05FX0RBWV9JTl9NSUxMSVNFQ09ORFMKICAgIE9ORV9ZRUFSX0lOX01JTExJU0VDT05EUyA9IDM2NSAqIE9ORV9EQVlfSU5fTUlMTElTRUNPTkRTCgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5saWZldGltZV9yZXZlbnVlKGN1c3RvbWVyX2hpc3RvcnkpIC8gCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBvcmRlcl90b3RhbHMgPSBnZXRfdmFsdWVzX2F0X2tleShLZXkuT1JERVJfVE9UQUwsIGN1c3RvbWVyX2hpc3Rvcnkub3JkZXJfaGlzdG9yeSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIHN0cmluZyhjbHMsIHZhbHVlKToKICAgICAgICAiIiIKICAgICAgICBDYXN0IGEgdmFsdWUgdG8gYSBzdHJpbmcKICAgICAgICAiIiIKICAgICAgICBpZiB2YWx1ZSBpcyBOb25lOgogICAgICAgICAgICByZXR1cm4gTm9uZQogICAgICAgIHJldHVybiBzdHIodmFsdWUpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>numpy</last-search>
+      <last-search>orders</last-search>
       <last-offset />
-      <last-pattern>numpy</last-pattern>
+      <last-pattern>orders</last-pattern>
       <last-replace>WEB</last-replace>
       <last-substitute>APP</last-substitute>
       <last-dir>1</last-dir>
@@ -748,7 +739,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nine</entry>
         <entry>id</entry>
         <entry>'sk</entry>
         <entry>'spend'</entry>
@@ -768,6 +758,7 @@
         <entry>is</entry>
         <entry>VIEW</entry>
         <entry>numpy</entry>
+        <entry>orders</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wgXD0vXDovaWc=</entry>
