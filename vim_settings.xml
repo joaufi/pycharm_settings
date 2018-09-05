@@ -91,11 +91,12 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1536115751241">
-        <mark key="[" line="759" column="90" />
-        <mark key="]" line="759" column="96" />
-        <mark key="." line="759" column="96" />
-        <mark key="^" line="759" column="96" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1536117948279">
+        <mark key="'" line="760" column="7" />
+        <mark key="[" line="767" column="8" />
+        <mark key="]" line="767" column="51" />
+        <mark key="." line="767" column="51" />
+        <mark key="^" line="767" column="51" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1535728539439">
         <mark key="[" line="159" column="26" />
@@ -133,13 +134,13 @@
         <mark key="." line="31" column="92" />
         <mark key="^" line="31" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utility/transformation_functions.py" timestamp="1536116112231">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utility/transformation_functions.py" timestamp="1536117357927">
         <mark key="'" line="31" column="23" />
         <mark key="k" line="36" column="6" />
-        <mark key="[" line="82" column="11" />
-        <mark key="]" line="82" column="88" />
-        <mark key="." line="82" column="88" />
-        <mark key="^" line="82" column="88" />
+        <mark key="[" line="86" column="81" />
+        <mark key="]" line="86" column="81" />
+        <mark key="." line="86" column="81" />
+        <mark key="^" line="86" column="81" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/core/format.py" timestamp="1535556293674">
         <mark key="[" line="22" column="8" />
@@ -531,11 +532,11 @@
         <mark key="^" line="0" column="597" />
         <mark key="." line="0" column="597" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1536115675729">
-        <mark key="[" line="254" column="0" />
-        <mark key="]" line="254" column="0" />
-        <mark key="^" line="13" column="76" />
-        <mark key="." line="254" column="0" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1536117578471">
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="200" column="103" />
+        <mark key="^" line="184" column="65" />
+        <mark key="." line="184" column="65" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.jql" timestamp="1531150138707">
         <mark key="[" line="10" column="114" />
@@ -583,7 +584,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="20" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" />
       <jump line="129" column="20" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" />
       <jump line="130" column="20" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" />
       <jump line="137" column="25" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" />
@@ -683,46 +683,47 @@
       <jump line="72" column="5" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="273" column="14" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="13" column="14" filename="$USER_HOME$/repositories/scoring-library/requirements.txt" />
+      <jump line="760" column="7" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>value</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gY3VzdG9tZXJfaGlzdG9yeTogCiAgICAgICAgOnJldHVybjogCg==</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
         <text>orders</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBDYXN0IGEgdmFsdWUgdG8gYSBzdHJpbmcKICAgICAgICAiIiIKICAgICAgICBpZiB2YWx1ZSBpcyBOb25lOgogICAgICAgICAgICByZXR1cm4gTm9uZQogICAgICAgIHJldHVybiBzdHIodmFsdWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBvbmVfeWVhcl9hZ29faW5fbWlsbGlzZWNvbmRzID0gc2VsZi5jcmVhdGlvbl90aW1lc3RhbXAgLSBUaW1lQ29uc3RhbnRzLk9ORV9ZRUFSX0lOX01JTExJU0VDT05EUwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gY3VzdG9tZXJfaGlzdG9yeTogCiAgICAgICAgOnJldHVybjogCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIKCiAgICAgICAgIiIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE9ORV9EQVlfSU5fTUlMTElTRUNPTkRTID0gODY0MDAwMDAKICAgIE5JTkVUWV9EQVlTX0lOX01JTExJU0VDT05EUyA9IDkwICogT05FX0RBWV9JTl9NSUxMSVNFQ09ORFMKICAgIE9ORV9ZRUFSX0lOX01JTExJU0VDT05EUyA9IDM2NSAqIE9ORV9EQVlfSU5fTUlMTElTRUNPTkRTCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gWwogICAgICAgICAgICBpdGVtW2l0ZW1fa2V5XQogICAgICAgICAgICBmb3IgaXRlbSBpbiBpdGVtcwogICAgICAgICAgICBpZiBpdGVtLmdldChpdGVtX2tleSkgYW5kIGl0ZW1bdGltZXN0YW1wX2tleV0gPj0gc2luY2VfdGltZXN0YW1wCiAgICAgICAgXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0X2l0ZW1zX2FmdGVyX3RpbWVzdGFtcCgKICAgICAgICAgICAgc2VsZi52aWV3ZWRfY2F0ZWdvcnlfY2xhc3NlcywgJ2NhdGVnb3J5X2lkJywgc2VsZi5sYXN0X3Zpc2l0X3RpbWVzdGFtcCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE9ORV9EQVlfSU5fTUlMTElTRUNPTkRTID0gODY0MDAwMDAKICAgIE5JTkVUWV9EQVlTX0lOX01JTExJU0VDT05EUyA9IDkwICogT05FX0RBWV9JTl9NSUxMSVNFQ09ORFMKICAgIE9ORV9ZRUFSX0lOX01JTExJU0VDT05EUyA9IDM2NSAqIE9ORV9EQVlfSU5fTUlMTElTRUNPTkRTCgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0X2l0ZW1zX2FmdGVyX3RpbWVzdGFtcCgKICAgICAgICAgICAgc2VsZi5wdXJjaGFzZWRfc2t1cywgS2V5LlNLVSwgc2VsZi5sYXN0X3Zpc2l0X3RpbWVzdGFtcCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5saWZldGltZV9yZXZlbnVlKGN1c3RvbWVyX2hpc3RvcnkpIC8gCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0X2l0ZW1zX2FmdGVyX3RpbWVzdGFtcCgKICAgICAgICAgICAgc2VsZi52aWV3ZWRfc2t1cywgS2V5LlNLVSwgc2VsZi5sYXN0X3Zpc2l0X3RpbWVzdGFtcCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcl90b3RhbHMgPSBnZXRfdmFsdWVzX2F0X2tleShLZXkuT1JERVJfVE9UQUwsIGN1c3RvbWVyX2hpc3Rvcnkub3JkZXJfaGlzdG9yeSkK</text>
+        <text encoding="base64">ZGVmIGdldF8oCiAgICAgICAgaXRlbXMsCiAgICAgICAgaXRlbV9rZXksCiAgICAgICAgc2luY2VfdGltZXN0YW1wLAogICAgICAgIHRpbWVzdGFtcF9rZXk9S2V5LlRJTUVTVEFNUF9NSUxMSVNFQ09ORFMKICAgICk6CiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgaXRlbVtpdGVtX2tleV0KICAgICAgICAgICAgZm9yIGl0ZW0gaW4gaXRlbXMKICAgICAgICAgICAgaWYgaXRlbS5nZXQoaXRlbV9rZXkpIGFuZAogICAgICAgIF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -777,9 +778,9 @@
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>split</entry>
         <entry>qa</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
