@@ -553,6 +553,9 @@
         <mark key="." line="36" column="15" />
         <mark key="^" line="36" column="15" />
       </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" timestamp="1536246582823">
+        <mark key="'" line="241" column="51" />
+      </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/details/routes.py" timestamp="1533243922817">
         <mark key="'" line="122" column="29" />
         <mark key="[" line="113" column="58" />
@@ -574,8 +577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="21" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
-      <jump line="260" column="12" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="264" column="18" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="265" column="18" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="286" column="9" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
@@ -674,6 +675,8 @@
       <jump line="88" column="50" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utility/transformation_functions.py" />
       <jump line="110" column="8" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/helper/transformation_functions_helper.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/helper/transformation_functions_helper.py" />
+      <jump line="213" column="57" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" />
+      <jump line="241" column="51" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -683,7 +686,7 @@
         <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>default</text>
+        <text>load</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdGFydF9kYXlfb2Zmc2V0IChpbnQpOiBOdW1iZXIgb2YgZGF5cyBhZ28gdG8gdXNlIGFzIHRoZSBzdGFydGluZyBkYXkgcmFuZ2UuCiAgICAgICAgZW5kX2RheV9vZmZzZXQgKGludCk6IE51bWJlciBvZiBkYXlzIGFnbyB0byB1c2UgYXMgdGhlIGVuZGluZyBkYXkgcmFuZ2UuCg==</text>
@@ -716,13 +719,13 @@
         <text encoding="base64">ICAgICAgICBSZXR1cm5zOgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>default</last-search>
+      <last-search>load</last-search>
       <last-offset />
-      <last-pattern>default</last-pattern>
+      <last-pattern>load</last-pattern>
       <last-replace>WEB</last-replace>
       <last-substitute>APP</last-substitute>
       <last-dir>1</last-dir>
@@ -730,7 +733,6 @@
     </search>
     <history>
       <history-search>
-        <entry>'sk</entry>
         <entry>'spend'</entry>
         <entry>self.custin</entry>
         <entry>year</entry>
@@ -750,6 +752,7 @@
         <entry>orders</entry>
         <entry>def</entry>
         <entry>default</entry>
+        <entry>load</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wgPS9cOi8=</entry>
@@ -765,13 +768,13 @@
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>q</entry>
-        <entry>qa</entry>
         <entry>wq</entry>
         <entry>split</entry>
         <entry>Lw</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
