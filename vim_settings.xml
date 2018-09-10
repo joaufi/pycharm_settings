@@ -13,11 +13,12 @@
         <mark key="^" line="16" column="41" />
         <mark key="." line="16" column="41" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/create_dim_vector_style.sql" timestamp="1536589417626">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="5" />
-        <mark key="." line="3" column="5" />
-        <mark key="^" line="2" column="12" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/create_dim_vector_style.sql" timestamp="1536607436610">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="22" column="13" />
+        <mark key="." line="22" column="13" />
+        <mark key="^" line="22" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/utility/hive_query_config_template.py" timestamp="1531170239178">
         <mark key="[" line="19" column="0" />
@@ -462,6 +463,11 @@
         <mark key="." line="57" column="20" />
         <mark key="^" line="57" column="20" />
       </file>
+      <file name="$USER_HOME$/repositories/customer-information-library/tests/test_details_controller.py" timestamp="1536606715892">
+        <mark key="[" line="1076" column="14" />
+        <mark key="]" line="423" column="30" />
+        <mark key="." line="423" column="30" />
+      </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/details/__init__.py" timestamp="1533224275467">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="23" />
@@ -480,7 +486,7 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536169681203">
+      <file name="/Dummy.txt" timestamp="1536607277899">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.json" timestamp="1534792985770">
@@ -521,7 +527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="384" column="41" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="39" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="345" column="28" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="181" column="12" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
@@ -621,63 +626,88 @@
       <jump line="32" column="5" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.txt" />
       <jump line="128" column="7" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utility/transformation_functions.py" />
       <jump line="120" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utility/transformation_functions.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/create_dim_vector_style.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">J3dmc3R5bGVfY29udGVtcG9yYXJ5JyA=</text>
       </register>
       <register name="-" type="4">
-        <text>utc_datetime</text>
+        <text encoding="base64">J3dmc3R5bGVfY29udGVtcG9yYXJ5JyA=</text>
       </register>
       <register name="/" type="4">
-        <text>ut</text>
+        <text>INS</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBMSU1JVCAxMDAwMDAwMDAwCg==</text>
+      <register name="0" type="8">
+        <text>1 UNION
+2 UNION
+3 UNION
+4 UNION
+5 UNION
+6 UNION
+7 UNION</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="8">
+        <text>e_shabby' UNION
+e_glam' UNION
+e_boho' UNION
+e_nautical' UNION
+e_modern' UNION
+e_urban' UNION
+e_traditional' UNION</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBMSU1JVCAxMAo=</text>
+      <register name="2" type="8">
+        <text>'jmstyl
+'jmstyl
+'jmstyl
+'jmstyl
+'jmstyl
+'jmstyl
+'jmstyl</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBJTk5FUiBKT0lOIGNzbl9zaGFyZGxvb2t1cC50YmxDdXN0b21lckxvb2t1cCBBUyBsb29rdXAKICAgIE9OIHN0eWxlLkN1SUQgPSBsb29rdXAuQ2xDdUlECg==</text>
+      <register name="3" type="8">
+        <text>-- Shabby
+-- Glam
+-- Boho
+-- Nautic
+-- Modern
+-- Urban
+-- Tradit
+-- Rustic</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIExPV0VSKGxvb2t1cC5DbFVzV2ViQ29va2llKSBBUyBjdXN0b21lcmd1aWQsCg==</text>
+      <register name="4" type="8">
+        <text encoding="base64">MSB0aGVuIAoyIHRoZW4gCjMgdGhlbiAKNCB0aGVuIAo1IHRoZW4gCjYgdGhlbiAKNyB0aGVuIAo4IHRoZW4g</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEN1SUQsCg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">ICAgICAgICB3aGVuIAogICAgICAgIHdoZW4gCiAgICAgICAgd2hlbiAKICAgICAgICB3aGVuIAogICAgICAgIHdoZW4gCiAgICAgICAgd2hlbiAKICAgICAgICB3aGVuIAogICAgICAgIHdoZW4g</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBHUk9VUCBCWSBzdHlsZS5DdUlELCBzdHlsZS5WZUlELCBzdHlsZS5OdW1WYWx1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICBMSU1JVCAxMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUIDE5OSwgJ3dmc3R5bGVfY29udGVtcG9yYXJ5JyBVTklPTgpTRUxFQ1QgMjAwLCAnd2ZzdHlsZV9tb2Rlcm4nIFVOSU9OClNFTEVDVCAyMDEsICd3ZnN0eWxlX3RyYWRpdGlvbmFsJyBVTklPTgpTRUxFQ1QgMjAyLCAnd2ZzdHlsZV9lY2xlY3RpYycgVU5JT04KU0VMRUNUIDIwMywgJ3dmc3R5bGVfY291bnRyeWNvdHRhZ2UnIFVOSU9OClNFTEVDVCAyMDQsICd3ZnN0eWxlX2NvYXN0YWwnIFVOSU9OClNFTEVDVCAyMDUsICd3ZnN0eWxlX3J1c3RpYycgVU5JT04KU0VMRUNUIDIwNiwgJ3dmc3R5bGVfbWlkY2VudHVyeScgVU5JT04KU0VMRUNUIDIwOCwgJ3dmc3R5bGVfaW5kdXN0cmlhbCcgVU5JT04KU0VMRUNUIDIwOSwgJ3dmc3R5bGVfZ2xhbScgVU5JT04KU0VMRUNUIDIyNCwgJ2Ftc3R5bGVfcnVzdGljbmF0dXJhbCcgVU5JT04KU0VMRUNUIDIyNSwgJ2Ftc3R5bGVfYm9sZGVjbGVjdGljJyBVTklPTgpTRUxFQ1QgMjI2LCAnYW1zdHlsZV9zbGVla2NoaWMnIFVOSU9OClNFTEVDVCAyMjcsICdhbXN0eWxlX21pZGNlbnR1cnknIFVOSU9OClNFTEVDVCAyMjgsICdhbXN0eWxlX3Bvc2hsdXh1cmlvdXMnIFVOSU9OClNFTEVDVCAyMjksICdhbXN0eWxlX2luZHVzdHJpYWx1cmJhbicgVU5JT04KU0VMRUNUIDE0NywgJ2ptc3R5bGVfc2hhYmJ5JyBVTklPTgpTRUxFQ1QgMTQ4LCAnam1zdHlsZV9nbGFtJyBVTklPTgpTRUxFQ1QgMTQ5LCAnam1zdHlsZV9ib2hvJyBVTklPTgpTRUxFQ1QgMTUwLCAnam1zdHlsZV9uYXV0aWNhbCcgVU5JT04KU0VMRUNUIDE1MSwgJ2ptc3R5bGVfbW9kZXJuJyBVTklPTgpTRUxFQ1QgMTUyLCAnam1zdHlsZV91cmJhbicgVU5JT04KU0VMRUNUIDE1MywgJ2ptc3R5bGVfdHJhZGl0aW9uYWwnIFVOSU9OClNFTEVDVCAyNzUsICdqbXN0eWxlX3J1c3RpYycgVU5JT04KCg==</text>
+        <text encoding="base64">ICBJTk5FUiBKT0lOIGNzbl9zaGFyZGxvb2t1cC50YmxDdXN0b21lckxvb2t1cCBBUyBsb29rdXAKICAgIE9OIHN0eWxlLkN1SUQgPSBsb29rdXAuQ2xDdUlECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZCBTRUxFQ1QK</text>
+        <text encoding="base64">ICAgIExPV0VSKGxvb2t1cC5DbFVzV2ViQ29va2llKSBBUyBjdXN0b21lcmd1aWQsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ut</last-search>
+      <last-search>INS</last-search>
       <last-offset />
-      <last-pattern>ut</last-pattern>
+      <last-pattern>INS</last-pattern>
       <last-replace>WEB</last-replace>
       <last-substitute>APP</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>year</entry>
         <entry>YEAR</entry>
         <entry>avg_price_purchased</entry>
         <entry>def time\_since</entry>
@@ -697,6 +727,7 @@
         <entry>load</entry>
         <entry>yt</entry>
         <entry>ut</entry>
+        <entry>INS</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wgPS9cOi8=</entry>
@@ -709,7 +740,6 @@
         <entry encoding="base64">JzwsJz5zb3J0IC1k</entry>
         <entry>e</entry>
         <entry>:w</entry>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>q</entry>
         <entry>wq</entry>
         <entry>Lw</entry>
@@ -718,6 +748,7 @@
         <entry>vsplit</entry>
         <entry>split</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
