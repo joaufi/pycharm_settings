@@ -88,6 +88,10 @@
         <mark key="." line="153" column="76" />
         <mark key="^" line="153" column="76" />
       </file>
+      <file name="$USER_HOME$/repositories/wf_stats/wf_stats/stats.py" timestamp="1536678095584">
+        <mark key="'" line="34" column="26" />
+        <mark key="^" line="102" column="32" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/priced_skus_by_device_guid.sql" timestamp="1530889449531">
         <mark key="[" line="32" column="6" />
         <mark key="]" line="32" column="6" />
@@ -121,7 +125,7 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1536332964873">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1536678648139">
         <mark key="[" line="575" column="0" />
         <mark key="]" line="575" column="1" />
         <mark key="." line="575" column="1" />
@@ -139,11 +143,18 @@
         <mark key="^" line="55" column="22" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/in_market_model.py" timestamp="1532101757677">
-        <mark key="[" line="19" column="36" />
-        <mark key="]" line="19" column="45" />
-        <mark key="." line="19" column="45" />
-        <mark key="^" line="19" column="45" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/custinfolib_business_model.py" timestamp="1536679524417">
+        <mark key="'" line="10" column="6" />
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="29" />
+        <mark key="." line="14" column="29" />
+        <mark key="^" line="14" column="29" />
+      </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/in_market_model.py" timestamp="1536678678854">
+        <mark key="[" line="13" column="47" />
+        <mark key="]" line="13" column="59" />
+        <mark key="." line="13" column="59" />
+        <mark key="^" line="13" column="59" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/core/constants.py" timestamp="1536334527546">
         <mark key="[" line="10" column="22" />
@@ -208,7 +219,7 @@
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/daos/redis_dao.py" timestamp="1534131128753">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/daos/redis_dao.py" timestamp="1536678419877">
         <mark key="'" line="49" column="32" />
         <mark key="[" line="20" column="13" />
         <mark key="]" line="20" column="23" />
@@ -245,11 +256,11 @@
         <mark key="^" line="9" column="87" />
         <mark key="." line="9" column="87" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/event_business_model.py" timestamp="1536608651673">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/event_business_model.py" timestamp="1536678666871">
         <mark key="'" line="100" column="0" />
-        <mark key="[" line="81" column="47" />
-        <mark key="]" line="100" column="4" />
-        <mark key="." line="100" column="4" />
+        <mark key="[" line="20" column="43" />
+        <mark key="]" line="20" column="43" />
+        <mark key="." line="20" column="43" />
         <mark key="^" line="100" column="4" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.jql" timestamp="1529949914712">
@@ -592,11 +603,11 @@
         <mark key="^" line="0" column="597" />
         <mark key="." line="0" column="597" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1536154944431">
-        <mark key="[" line="162" column="12" />
-        <mark key="]" line="195" column="40" />
-        <mark key="^" line="195" column="40" />
-        <mark key="." line="195" column="40" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1536678516038">
+        <mark key="[" line="16" column="57" />
+        <mark key="]" line="16" column="57" />
+        <mark key="^" line="16" column="57" />
+        <mark key="." line="16" column="57" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.jql" timestamp="1531150138707">
         <mark key="[" line="10" column="114" />
@@ -645,9 +656,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
-      <jump line="111" column="17" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
-      <jump line="145" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="41" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utilities.py" />
       <jump line="714" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="240" column="12" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/helper/transformation_functions_helper.py" />
@@ -745,19 +753,22 @@
       <jump line="29" column="9" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="31" column="88" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/wf_stats/stats.py" />
+      <jump line="34" column="26" filename="$USER_HOME$/repositories/wf_stats/wf_stats/stats.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/custinfolib_business_model.py" />
+      <jump line="10" column="6" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/custinfolib_business_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodGFncykK</text>
+      <register name="&quot;" type="4">
+        <text>CustInfoLibBusinessModel.__class__.__name__</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGF0aCA=</text>
+        <text>CustInfoLibBusinessModel.__class__.__name__</text>
       </register>
       <register name="/" type="4">
-        <text>'/</text>
+        <text>Cu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnPDwgbW9kZWwgcGF0aCA+PicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIllPIFVSIFRBR1MgRkFNIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodGFncykK</text>
@@ -791,17 +802,16 @@
       </register>
     </registers>
     <search>
-      <last-search>'/</last-search>
+      <last-search>Cu</last-search>
       <last-offset />
-      <last-pattern>'/</last-pattern>
+      <last-pattern>Cu</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>VIEW</entry>
         <entry>numpy</entry>
         <entry>orders</entry>
         <entry>def</entry>
@@ -821,6 +831,7 @@
         <entry>HAR</entry>
         <entry>e8</entry>
         <entry>'/</entry>
+        <entry>Cu</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wiL1wnL2ln</entry>
@@ -841,8 +852,8 @@
         <entry encoding="base64">JzwsJz5zLyQvLC8=</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
