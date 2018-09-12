@@ -85,11 +85,11 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/segmentations_config.py" timestamp="1536782456130">
-        <mark key="[" line="159" column="31" />
-        <mark key="]" line="161" column="13" />
-        <mark key="." line="161" column="13" />
-        <mark key="^" line="161" column="13" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/segmentations_config.py" timestamp="1536783578777">
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
+        <mark key="^" line="169" column="49" />
       </file>
       <file name="$USER_HOME$/repositories/wf_stats/wf_stats/stats.py" timestamp="1536678095584">
         <mark key="'" line="34" column="26" />
@@ -146,12 +146,6 @@
         <mark key="^" line="55" column="22" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" timestamp="1535135365299">
-        <mark key="'" line="85" column="4" />
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="374" column="0" />
-        <mark key="." line="374" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/custinfolib_business_model.py" timestamp="1536679524417">
         <mark key="'" line="10" column="6" />
         <mark key="[" line="14" column="22" />
@@ -207,6 +201,11 @@
         <mark key="]" line="33" column="1" />
         <mark key="." line="33" column="1" />
         <mark key="^" line="33" column="1" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/urbanicity_suburban.sql" timestamp="1536783291424">
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="10" column="1" />
+        <mark key="." line="10" column="1" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/aggregates/views.py" timestamp="1534788326140">
         <mark key="'" line="76" column="19" />
@@ -400,11 +399,12 @@
         <mark key="^" line="43" column="23" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/style.sql" timestamp="1536782349574">
-        <mark key="'" line="17" column="18" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/style.sql" timestamp="1536783652115">
+        <mark key="'" line="8" column="1" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="56" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/prod.py" timestamp="1532452960432">
         <mark key="[" line="94" column="29" />
@@ -450,12 +450,6 @@
         <mark key="]" line="12" column="54" />
         <mark key="." line="12" column="54" />
         <mark key="^" line="12" column="54" />
-      </file>
-      <file name="$USER_HOME$/repositories/scoring-library/tests/aggregation/test_controllers.py" timestamp="1534797764102">
-        <mark key="'" line="213" column="0" />
-        <mark key="[" line="283" column="0" />
-        <mark key="]" line="283" column="0" />
-        <mark key="." line="283" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/scribe_client.py" timestamp="1532979552536">
         <mark key="[" line="62" column="13" />
@@ -541,6 +535,11 @@
         <mark key="]" line="51" column="18" />
         <mark key="." line="51" column="18" />
         <mark key="^" line="51" column="18" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/urbanicity_urban.sql" timestamp="1536783289302">
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="10" column="1" />
+        <mark key="." line="10" column="1" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_tables/populate_in_market_added_to_cart_skus.sql" timestamp="1532509342555">
         <mark key="[" line="12" column="24" />
@@ -650,12 +649,6 @@
         <mark key="." line="36" column="15" />
         <mark key="^" line="36" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utilities.py" timestamp="1534960279064">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" timestamp="1536677754726">
         <mark key="'" line="242" column="32" />
         <mark key="[" line="242" column="0" />
@@ -684,7 +677,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="403" column="12" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="8" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="736" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="30" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utility/transformation_functions.py" />
@@ -784,46 +776,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/create_dim_vector_style.sql" />
       <jump line="64" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/create_dim_vector_style.sql" />
       <jump line="17" column="18" filename="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/style.sql" />
+      <jump line="8" column="1" filename="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/style.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LS0gIFdIRVJFIExPV0VSKGxvb2t1cC5DbFVzV2ViQ29va2RpZSkgPSAnY2E1YWU3NjctYjY5ZS00ODhkLWJmMGQtODVjN2ZiNmIxM2YyJwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>\ UNION</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBMSU1JVCAxMDAwMDAwMDAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBDdXN0b21lcnMgd2hvIGhhdmUgYW4gdXJiYW5pY2l0eSBvZiBzdWJ1cmJhbgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">LS0gIFdIRVJFIExPV0VSKGxvb2t1cC5DbFVzV2ViQ29va2RpZSkgPSAnY2E1YWU3NjctYjY5ZS00ODhkLWJmMGQtODVjN2ZiNmIxM2YyJwo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBMSU1JVCAxMDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VnbWVudCgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBMSU1JVCAxMDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBDdXN0b21lcnMgd2hvIGhhdmUgYW4gdXJiYW4gdXJiYW5pY2l0eQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgY3NuX3BlcnNvbmFsaXphdGlvbi5kaW1WZWN0b3JTdWJ1cmJhblVyYmFuCigKICAgIFZlY3RvcklEIGludGVnZXIgTk9UIE5VTEwsCiAgICBTdHlsZU5hbWUgdmFyY2hhcigxMjgpIE5PVCBOVUxMCik7CgpJTlNFUlQgSU5UTyBjc25fcGVyc29uYWxpemF0aW9uLmRpbVZlY3RvclN1YnVyYmFuVXJiYW4KICAgIFNFTEVDVCAxOTcsICd1cmJhbmljaXR5X3VyYmFuJyBVTklPTgogICAgU0VMRUNUIDE5OCwgJ3VyYmFuaWNpdHlfc3VidXJiYW4nOwoKU0VMRUNUIEFOQUxZWkVfU1RBVElTVElDUygnY3NuX3BlcnNvbmFsaXphdGlvbi5kaW1WZWN0b3JTdWJ1cmJhblVyYmFuJyk7Cgo=</text>
+        <text encoding="base64">ICBMSU1JVCAxMDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0gIFdIRVJFIExPV0VSKGxvb2t1cC5DbFVzV2ViQ29va2llKSA9ICdjYTVhZTc2Ny1iNjllLTQ4OGQtYmYwZC04NWM3ZmI2YjEzZjInCg==</text>
+        <text encoding="base64">LS0gIFdIRVJFIExPV0VSKGxvb2t1cC5DbFVzV2ViQ29va2RpZSkgPSAnY2E1YWU3NjctYjY5ZS00ODhkLWJmMGQtODVjN2ZiNmIxM2YyJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBXSEVSRSB2ZWN0b3IuTnVtVmFsdWVJRCA9IDEK</text>
+        <text encoding="base64">ICBMSU1JVCAxMDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE9OIHZlY3Rvci5DdUlEID0gbG9va3VwLkNsQ3VJRAo=</text>
+        <text encoding="base64">ICBMSU1JVCAxMDAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICApIEFTIHZlY3Rvcgo=</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgY3NuX3BlcnNvbmFsaXphdGlvbi5kaW1WZWN0b3JTdWJ1cmJhblVyYmFuCigKICAgIFZlY3RvcklEIGludGVnZXIgTk9UIE5VTEwsCiAgICBTdHlsZU5hbWUgdmFyY2hhcigxMjgpIE5PVCBOVUxMCik7CgpJTlNFUlQgSU5UTyBjc25fcGVyc29uYWxpemF0aW9uLmRpbVZlY3RvclN1YnVyYmFuVXJiYW4KICAgIFNFTEVDVCAxOTcsICd1cmJhbmljaXR5X3VyYmFuJyBVTklPTgogICAgU0VMRUNUIDE5OCwgJ3VyYmFuaWNpdHlfc3VidXJiYW4nOwoKU0VMRUNUIEFOQUxZWkVfU1RBVElTVElDUygnY3NuX3BlcnNvbmFsaXphdGlvbi5kaW1WZWN0b3JTdWJ1cmJhblVyYmFuJyk7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEZST00gY3NuX3BlcnNvbmFsaXphdGlvbi50YmxjdXN0b21lcnZlY3RvcgogICAgV0hFUkUgVmVJRCBJTiAoU0VMRUNUIFZlY3RvcklEIEZST00gY3NuX3BlcnNvbmFsaXphdGlvbi5kaW1WZWN0b3JTdWJ1cmJhblVyYmFuKQo=</text>
+        <text encoding="base64">LS0gIFdIRVJFIExPV0VSKGxvb2t1cC5DbFVzV2ViQ29va2llKSA9ICdjYTVhZTc2Ny1iNjllLTQ4OGQtYmYwZC04NWM3ZmI2YjEzZjInCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
