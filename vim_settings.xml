@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1536864545393">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/active_plcc.sql" timestamp="1536589250357">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="47" />
@@ -82,22 +85,14 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/segmentations_config.py" timestamp="1536854838301">
-        <mark key="'" line="162" column="31" />
-        <mark key="[" line="153" column="77" />
-        <mark key="]" line="153" column="77" />
-        <mark key="." line="153" column="77" />
-        <mark key="^" line="153" column="77" />
-      </file>
-      <file name="$USER_HOME$/repositories/wf_stats/wf_stats/stats.py" timestamp="1536678095584">
-        <mark key="'" line="34" column="26" />
-        <mark key="^" line="102" column="32" />
-      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/priced_skus_by_device_guid.sql" timestamp="1530889449531">
         <mark key="[" line="32" column="6" />
         <mark key="]" line="32" column="6" />
         <mark key="." line="32" column="6" />
         <mark key="^" line="32" column="6" />
+      </file>
+      <file name="/" timestamp="1536332321397">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/aggregate_model.py" timestamp="1534944449548">
         <mark key="[" line="222" column="0" />
@@ -135,6 +130,7 @@
         <mark key="^" line="159" column="34" />
         <mark key="." line="159" column="34" />
       </file>
+      <file name="$USER_HOME$/repositories/bidsift/.python_environment/lib/python3.6/site-packages/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" timestamp="1536250565854" />
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/strategy/bidsift_graph_bidding_strategy.py" timestamp="1532978695448">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="23" />
@@ -190,6 +186,7 @@
         <mark key="." line="33" column="1" />
         <mark key="^" line="33" column="1" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/identity_customer_segmentation.py" timestamp="1536864570251" />
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/urbanicity_suburban.sql" timestamp="1536783291424">
         <mark key="[" line="10" column="1" />
         <mark key="]" line="10" column="1" />
@@ -250,6 +247,7 @@
         <mark key="^" line="9" column="87" />
         <mark key="." line="9" column="87" />
       </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/controller.py" timestamp="1535741170779" />
       <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/event_business_model.py" timestamp="1536678666871">
         <mark key="'" line="100" column="0" />
         <mark key="[" line="20" column="43" />
@@ -395,6 +393,7 @@
         <mark key="." line="12" column="54" />
         <mark key="^" line="12" column="54" />
       </file>
+      <file name="/base_model.py" timestamp="1536250844102" />
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/scribe_client.py" timestamp="1532979552536">
         <mark key="[" line="62" column="13" />
         <mark key="]" line="52" column="39" />
@@ -460,6 +459,13 @@
         <mark key="]" line="3" column="7" />
         <mark key="^" line="3" column="7" />
         <mark key="." line="3" column="7" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/customer_segmentation.py" timestamp="1536864541997">
+        <mark key="'" line="38" column="18" />
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="20" />
+        <mark key="^" line="23" column="20" />
+        <mark key="." line="23" column="20" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/acquisitions_by_channel.sql" timestamp="1531158508734">
         <mark key="[" line="11" column="0" />
@@ -542,6 +548,9 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="33" />
       </file>
+      <file name="/Dummy.txt" timestamp="1536607277899">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.json" timestamp="1534792985770">
         <mark key="[" line="0" column="598" />
         <mark key="]" line="0" column="597" />
@@ -587,7 +596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="0" column="7" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="560" column="19" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="28" column="23" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utility/transformation_functions.py" />
@@ -687,6 +695,7 @@
       <jump line="159" column="31" filename="$USER_HOME$/repositories/airflow-dags/templates/segmentation/segmentations_config.py" />
       <jump line="23" column="12" filename="$USER_HOME$/repositories/airflow-dags/identity_customer_segmentation.py" />
       <jump line="9" column="60" filename="$USER_HOME$/repositories/airflow-dags/identity_customer_segmentation.py" />
+      <jump line="38" column="18" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/customer_segmentation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -696,7 +705,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>Vertica</text>
+        <text>Variable</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZlcnRpY2FfcGFyYW1zPXsKICAgICAgICAgICAgICAgICAgICAndGFyZ2V0X2hpdmVfY29sdW1ucyc6ICdjdXN0b21lcmd1aWQgc3RyaW5nLCBzdG9yZWlkIGJpZ2ludCwgY2hhbm5lbCBzdHJpbmcnLAogICAgICAgICAgICAgICAgICAgICdzdGFydF9kYXRlJzogJzIwMTItMDEtMDEnCiAgICAgICAgICAgICAgICB9LAo=</text>
@@ -733,9 +742,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Vertica</last-search>
+      <last-search>Variable</last-search>
       <last-offset />
-      <last-pattern>Vertica</last-pattern>
+      <last-pattern>Variable</last-pattern>
       <last-replace>, 49 UNION</last-replace>
       <last-substitute>\ UNION</last-substitute>
       <last-dir>1</last-dir>
@@ -743,8 +752,6 @@
     </search>
     <history>
       <history-search>
-        <entry>INS</entry>
-        <entry>filterd</entry>
         <entry>ULB</entry>
         <entry>PAT</entry>
         <entry>]\</entry>
@@ -763,6 +770,8 @@
         <entry>\ UNION</entry>
         <entry>verti</entry>
         <entry>Vertica</entry>
+        <entry>Vairable</entry>
+        <entry>Variable</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zb3J0IC1k</entry>
