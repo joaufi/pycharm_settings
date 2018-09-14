@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1536864545393">
+      <file name="/a.dummy" timestamp="1536948753965">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/active_plcc.sql" timestamp="1536589250357">
@@ -43,6 +43,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="9" column="10" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b_expected_revenue_model.py" timestamp="1536948787661">
+        <mark key="[" line="33" column="36" />
+        <mark key="]" line="33" column="55" />
+        <mark key="." line="33" column="55" />
+        <mark key="^" line="33" column="55" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/local.py" timestamp="1533225602302">
         <mark key="[" line="14" column="5" />
@@ -90,9 +96,6 @@
         <mark key="]" line="32" column="6" />
         <mark key="." line="32" column="6" />
         <mark key="^" line="32" column="6" />
-      </file>
-      <file name="/" timestamp="1536332321397">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/aggregate_model.py" timestamp="1534944449548">
         <mark key="[" line="222" column="0" />
@@ -424,6 +427,12 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/business_lead_scoring_expected_revenue_model.py" timestamp="1536948733337">
+        <mark key="[" line="33" column="36" />
+        <mark key="]" line="33" column="69" />
+        <mark key="." line="33" column="69" />
+        <mark key="^" line="33" column="69" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/tests/aggregation/test_business_models.py" timestamp="1534280727231">
         <mark key="[" line="101" column="34" />
         <mark key="]" line="102" column="31" />
@@ -454,11 +463,11 @@
         <mark key="^" line="116" column="7" />
         <mark key="." line="116" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/data/feature_models.py" timestamp="1532098825466">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="7" />
-        <mark key="^" line="3" column="7" />
-        <mark key="." line="3" column="7" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/data/feature_models.py" timestamp="1536948879881">
+        <mark key="[" line="24" column="42" />
+        <mark key="]" line="25" column="32" />
+        <mark key="^" line="25" column="32" />
+        <mark key="." line="25" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/customer_segmentation.py" timestamp="1536864541997">
         <mark key="'" line="38" column="18" />
@@ -554,9 +563,6 @@
         <mark key="]" line="7" column="34" />
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="33" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1536607277899">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.json" timestamp="1534792985770">
         <mark key="[" line="0" column="598" />
@@ -706,10 +712,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>BusinessLeadScoringExpectedRevenue</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>BusinessLeadScoringExpectedRevenue</text>
       </register>
       <register name="/" type="4">
         <text>Variable</text>
@@ -745,7 +751,7 @@
         <text encoding="base64">ICBMSU1JVCAxMDAK</text>
       </register>
       <register name=":" type="4">
-        <text>vsplit</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -799,8 +805,8 @@
         <entry>qw</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>w</entry>
         <entry>vsplit</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
