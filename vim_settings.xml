@@ -16,10 +16,6 @@
         <mark key="^" line="16" column="41" />
         <mark key="." line="16" column="41" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/create_dim_vector_style.sql" timestamp="1536776367231">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="63" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/utility/hive_query_config_template.py" timestamp="1531170239178">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="18" />
@@ -165,6 +161,12 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="3" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" timestamp="1536957761881">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="5" />
+        <mark key="^" line="0" column="99" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/dao/product_redis_dao.py" timestamp="1534373593348">
         <mark key="[" line="67" column="42" />
         <mark key="]" line="67" column="42" />
@@ -220,9 +222,9 @@
         <mark key="." line="20" column="23" />
         <mark key="^" line="20" column="23" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/utilities.py" timestamp="1531422675181">
-        <mark key="[" line="16" column="29" />
-        <mark key="]" line="17" column="53" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/utilities.py" timestamp="1536957760315">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="98" column="16" />
         <mark key="^" line="17" column="53" />
         <mark key="." line="17" column="53" />
       </file>
@@ -711,8 +713,8 @@
       <jump line="38" column="18" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/customer_segmentation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>BusinessLeadScoringExpectedRevenue</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi53Zl9zdGF0czoKICAgICAgICAgICAgICAgIHNlbGYud2Zfc3RhdHMudGltZWRfbWV0cmljKAogICAgICAgICAgICAgICAgICAgICdyZXF1ZXN0JywKICAgICAgICAgICAgICAgICAgICB0b3RhbF90aW1lLAogICAgICAgICAgICAgICAgICAgIHRhZ3M9eydtZXRob2QnOiAnYmlkc2lmdC57fScuZm9ybWF0KHN0YXQpfSwKICAgICAgICAgICAgICAgICAgICBmb3JjZT1UcnVlCiAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="-" type="4">
         <text>BusinessLeadScoringExpectedRevenue</text>
@@ -721,7 +723,7 @@
         <text>Variable</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZlcnRpY2FfcGFyYW1zPXsKICAgICAgICAgICAgICAgICAgICAndGFyZ2V0X2hpdmVfY29sdW1ucyc6ICdjdXN0b21lcmd1aWQgc3RyaW5nLCBzdG9yZWlkIGJpZ2ludCwgY2hhbm5lbCBzdHJpbmcnLAogICAgICAgICAgICAgICAgICAgICdzdGFydF9kYXRlJzogJzIwMTItMDEtMDEnCiAgICAgICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi53Zl9zdGF0czoKICAgICAgICAgICAgICAgIHNlbGYud2Zfc3RhdHMudGltZWRfbWV0cmljKAogICAgICAgICAgICAgICAgICAgICdyZXF1ZXN0JywKICAgICAgICAgICAgICAgICAgICB0b3RhbF90aW1lLAogICAgICAgICAgICAgICAgICAgIHRhZ3M9eydtZXRob2QnOiAnYmlkc2lmdC57fScuZm9ybWF0KHN0YXQpfSwKICAgICAgICAgICAgICAgICAgICBmb3JjZT1UcnVlCiAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc3RhcnRfZGF0ZSc6ICcyMDEyLTAxLTAxJwo=</text>
@@ -751,7 +753,7 @@
         <text encoding="base64">ICBMSU1JVCAxMDAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -787,19 +789,16 @@
         <entry>Variable</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zb3J0IC1k</entry>
         <entry>e</entry>
         <entry>wq</entry>
         <entry>Lw</entry>
         <entry>split</entry>
-        <entry>qa</entry>
         <entry encoding="base64">JzwsJz5zLyQvLC8=</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz5zLyQvLA==</entry>
         <entry encoding="base64">JzwsJz5zLyQvXCJcLA==</entry>
         <entry encoding="base64">JzwsJz5zLyQvXCIgVU5JT04=</entry>
         <entry encoding="base64">JzwsJz5zL1wiL1wn</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL1wgVU5JT04vLCA0OSBVTklPTg==</entry>
         <entry>W</entry>
         <entry>qw</entry>
@@ -807,6 +806,9 @@
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>vsplit</entry>
         <entry>w</entry>
+        <entry>qa</entry>
+        <entry encoding="base64">JzwsJz5x</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
