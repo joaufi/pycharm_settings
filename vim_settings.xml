@@ -518,6 +518,13 @@
         <mark key="^" line="16" column="19" />
         <mark key="." line="16" column="19" />
       </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" timestamp="1536947922740">
+        <mark key="'" line="103" column="0" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
+        <mark key="^" line="142" column="27" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.json" timestamp="1531948768958">
         <mark key="[" line="15" column="15" />
         <mark key="]" line="7" column="29" />
@@ -557,11 +564,11 @@
         <mark key="^" line="0" column="597" />
         <mark key="." line="0" column="597" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1536678516038">
-        <mark key="[" line="16" column="57" />
-        <mark key="]" line="16" column="57" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1536948142978">
+        <mark key="[" line="354" column="11" />
+        <mark key="]" line="354" column="11" />
         <mark key="^" line="16" column="57" />
-        <mark key="." line="16" column="57" />
+        <mark key="." line="354" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.jql" timestamp="1531150138707">
         <mark key="[" line="10" column="114" />
@@ -699,10 +706,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Variable</text>
@@ -738,7 +745,7 @@
         <text encoding="base64">ICBMSU1JVCAxMDAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsplit</text>
       </register>
     </registers>
     <search>
@@ -778,7 +785,6 @@
         <entry>e</entry>
         <entry>wq</entry>
         <entry>Lw</entry>
-        <entry>vsplit</entry>
         <entry>split</entry>
         <entry>qa</entry>
         <entry encoding="base64">JzwsJz5zLyQvLC8=</entry>
@@ -794,6 +800,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>w</entry>
+        <entry>vsplit</entry>
       </history-cmd>
       <history-expr />
       <history-input />
