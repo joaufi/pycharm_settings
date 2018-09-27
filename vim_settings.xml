@@ -239,6 +239,13 @@
         <mark key="]" line="8" column="46" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/bidsift/requirements.lock" timestamp="1538063508224">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="45" column="14" />
+        <mark key="]" line="45" column="14" />
+        <mark key="." line="45" column="14" />
+        <mark key="^" line="45" column="14" />
+      </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/webapp.py" timestamp="1533225575233">
         <mark key="[" line="3" column="52" />
         <mark key="]" line="3" column="57" />
@@ -639,8 +646,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/create_dim_vector_style.sql" />
-      <jump line="17" column="18" filename="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/style.sql" />
       <jump line="8" column="1" filename="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/style.sql" />
       <jump line="159" column="31" filename="$USER_HOME$/repositories/airflow-dags/templates/segmentation/segmentations_config.py" />
       <jump line="23" column="12" filename="$USER_HOME$/repositories/airflow-dags/identity_customer_segmentation.py" />
@@ -739,19 +744,21 @@
       <jump line="25" column="44" filename="$USER_HOME$/repositories/scoring-library/tests/aggregation/test_controllers.py" />
       <jump line="32" column="34" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b_expected_revenue_model.py" />
       <jump line="45" column="55" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b_expected_revenue_model.py" />
+      <jump line="12" column="13" filename="$USER_HOME$/repositories/bidsift/requirements.lock" />
+      <jump line="45" column="0" filename="$USER_HOME$/repositories/bidsift/requirements.lock" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>]</text>
+        <text>rc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuX2xvYWRfbW9kZWxfaW50b19tZW1vcnkoCiAgICAgICAgICAgICAgICAgICAgbW9kZWwubmFtZSwKICAgICAgICAgICAgICAgICAgICBtb2RlbC52ZXJzaW9uLAogICAgICAgICAgICAgICAgICAgIGZlYXR1cmVfb3JkZXIsCiAgICAgICAgICAgICAgICAgICAgaG90X3N0b3JhZ2VfcGF0aAogICAgICAgICAgICAgICAgKQo=</text>
@@ -788,9 +795,9 @@
       </register>
     </registers>
     <search>
-      <last-search>]</last-search>
+      <last-search>rc</last-search>
       <last-offset />
-      <last-pattern>]</last-pattern>
+      <last-pattern>rc</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute encoding="base64">LFwg</last-substitute>
       <last-dir>1</last-dir>
@@ -798,8 +805,6 @@
     </search>
     <history>
       <history-search>
-        <entry>,</entry>
-        <entry>''</entry>
         <entry>\',</entry>
         <entry>(,</entry>
         <entry>\',\'</entry>
@@ -818,6 +823,8 @@
         <entry encoding="base64">LFwg</entry>
         <entry>test_agg</entry>
         <entry>]</entry>
+        <entry>sco</entry>
+        <entry>rc</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvLFxyLw==</entry>
