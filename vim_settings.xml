@@ -157,11 +157,12 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" timestamp="1538073723797">
-        <mark key="'" line="89" column="26" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" timestamp="1538148625376">
+        <mark key="'" line="94" column="26" />
+        <mark key="[" line="108" column="13" />
+        <mark key="]" line="109" column="11" />
+        <mark key="^" line="109" column="11" />
+        <mark key="." line="109" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/dao/product_redis_dao.py" timestamp="1534373593348">
         <mark key="[" line="67" column="42" />
@@ -478,12 +479,12 @@
         <mark key="." line="2" column="27" />
         <mark key="^" line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" timestamp="1538145184507">
-        <mark key="'" line="191" column="0" />
-        <mark key="[" line="166" column="5" />
-        <mark key="]" line="167" column="3" />
-        <mark key="." line="167" column="3" />
-        <mark key="^" line="167" column="3" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" timestamp="1538147755972">
+        <mark key="'" line="166" column="8" />
+        <mark key="[" line="166" column="79" />
+        <mark key="]" line="166" column="95" />
+        <mark key="." line="166" column="95" />
+        <mark key="^" line="166" column="95" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/customer_segmentation.py" timestamp="1536864541997">
         <mark key="'" line="38" column="18" />
@@ -647,7 +648,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="12" filename="$USER_HOME$/repositories/airflow-dags/identity_customer_segmentation.py" />
       <jump line="9" column="60" filename="$USER_HOME$/repositories/airflow-dags/identity_customer_segmentation.py" />
       <jump line="38" column="18" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/customer_segmentation.py" />
       <jump line="30" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" />
@@ -747,46 +747,47 @@
       <jump line="45" column="0" filename="$USER_HOME$/repositories/bidsift/requirements.lock" />
       <jump line="88" column="16" filename="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" />
       <jump line="89" column="26" filename="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" />
+      <jump line="166" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>b2b_expected_revenue_v2.1.pkl</text>
       </register>
       <register name="/" type="4">
-        <text>rc</text>
+        <text>b2b</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuX2xvYWRfbW9kZWxfaW50b19tZW1vcnkoCiAgICAgICAgICAgICAgICAgICAgbW9kZWwubmFtZSwKICAgICAgICAgICAgICAgICAgICBtb2RlbC52ZXJzaW9uLAogICAgICAgICAgICAgICAgICAgIGZlYXR1cmVfb3JkZXIsCiAgICAgICAgICAgICAgICAgICAgaG90X3N0b3JhZ2VfcGF0aAogICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAjICcvd2F5ZmFpci9tbnQvY3J1bmNoX2J1Y2tldHMvbG9jYWwvY3VzdG9tZXJfaWRlbnRpdHkvc2VyaWFsaXplZF9tb2RlbHMvYjJiX2V4cGVjdGVkX3JldmVudWVfdjIuMS5wa2wnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAgICAgZm9yIG1vZGVsIGluIENydW5jaEJ1Y2tldHMuVkFMSURfTU9ERUxfSU5fQ1JVTkNIX0JVQ0tFVFM6CiAgICAgICAgICAgIHNlbGYuX2xvYWRfbW9kZWxfaW50b19tZW1vcnkoCiAgICAgICAgICAgICAgICBtb2RlbC5uYW1lLAogICAgICAgICAgICAgICAgbW9kZWwudmVyc2lvbiwKICAgICAgICAgICAgICAgIG1vZGVsLmZlYXR1cmVfb3JkZXIsCiAgICAgICAgICAgICAgICBtb2RlbC5ob3Rfc3RvcmFnZV9wYXRoCiAgICAgICAgICAgICkK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgVGhpcyBpcyB0ZW1wb3Jhcnkgd2hpbGUgaXNzdWVzIHdpdGggTW9kZWwgU3RvcmFnZSBhcmUgd29ya2VkIG91dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbW9kZWwgaW4gQ3J1bmNoQnVja2V0cy5WQUxJRF9NT0RFTF9JTl9NT0RFTF9TVE9SQUdFOgogICAgICAgICAgICBzZWxmLl9sb2FkX21vZGVsX2ludG9fbWVtb3J5KG1vZGVsLm5hbWUsIG1vZGVsLnZlcnNpb24sIG1vZGVsLmZlYXR1cmVfb3JkZXIsIG1vZGVsLmhvdF9zdG9yYWdlX3BhdGgpCg==</text>
+        <text encoding="base64">ICAgICMgVGhpcyBpcyB0ZW1wb3Jhcnkgd2hpbGUgaXNzdWVzIHdpdGggTW9kZWwgU3RvcmFnZSBhcmUgd29ya2VkIG91dAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -796,9 +797,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rc</last-search>
+      <last-search>b2b</last-search>
       <last-offset />
-      <last-pattern>rc</last-pattern>
+      <last-pattern>b2b</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute encoding="base64">LFwg</last-substitute>
       <last-dir>1</last-dir>
@@ -806,7 +807,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\',</entry>
         <entry>(,</entry>
         <entry>\',\'</entry>
         <entry>Fe</entry>
@@ -826,6 +826,7 @@
         <entry>]</entry>
         <entry>sco</entry>
         <entry>rc</entry>
+        <entry>b2b</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvLFxyLw==</entry>
