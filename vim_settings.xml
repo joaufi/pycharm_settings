@@ -220,6 +220,7 @@
         <mark key="." line="36" column="41" />
         <mark key="^" line="36" column="41" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/configured_hive_operator.py" timestamp="1538163237896" />
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/context.py" timestamp="1532023109120">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -515,12 +516,12 @@
         <mark key="^" line="44" column="41" />
         <mark key="." line="44" column="41" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/customer_segmentation.py" timestamp="1536864541997">
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/customer_segmentation.py" timestamp="1538163349065">
         <mark key="'" line="38" column="18" />
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="23" column="20" />
-        <mark key="^" line="23" column="20" />
-        <mark key="." line="23" column="20" />
+        <mark key="[" line="119" column="4" />
+        <mark key="]" line="119" column="4" />
+        <mark key="." line="119" column="4" />
+        <mark key="^" line="119" column="5" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/acquisitions_by_channel.sql" timestamp="1531158508734">
         <mark key="[" line="11" column="0" />
@@ -571,6 +572,7 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/viewed_skus_by_device_guid.sql" timestamp="1538071340412" />
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_temporary_tables/populate_temp_device_map.sql" timestamp="1536680281547">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="16" column="19" />
@@ -777,13 +779,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_contractor</text>
+        <text>e</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>_contractor</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>channel</text>
@@ -792,31 +794,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gYWxsKChhZ2dyZWdhdGUudmFsaWRhdGUocXVpZXQ9RmFsc2UpIGZvciBhZ2dyZWdhdGUgaW4gdmFsdWUpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdF9tZXRhZGF0YT1yZXF1ZXN0X21ldGFkYXRhCg==</text>
+        <text encoding="base64">ICAgIGVsaWYgc2VnbWVudAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0X21ldGFkYXRhID0gcmVxdWVzdF9qc29uLmdldCgncmVxdWVzdF9tZXRhZGF0YScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdF9tZXRhZGF0YT1yZXF1ZXN0X21ldGFkYXRhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSJyZXF1ZXN0X21ldGFkYXRhIjogewoJCSJiMmJfc2NvcmUiOiBudWxsLAoJCSJjaGFubmVsX25hbWUiOiBudWxsLAoJCSJzY3JpYmVfZXZlbnRfbmFtZSI6ICJPcmRlclBsYWNlZEV2ZW50IiwKCQkib3JkZXJfaWQiOiAxNDM1OTQ2ODgzLAoJCSJ2ZXJ0aWNhbCI6IG51bGwKCX0K</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0X21ldGFkYXRhID0gcmVxdWVzdF9qc29uLmdldCgncmVxdWVzdF9tZXRhZGF0YScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYWxsKAogICAgICAgICAgICAoCiAgICAgICAgICAgICAgICBhZ2dyZWdhdGUudmFsaWRhdGUocXVpZXQ9RmFsc2UpIGlmIHZhbHVlIGVsc2UgRmFsc2UKICAgICAgICAgICAgICAgIGZvciBhZ2dyZWdhdGUgaW4gdmFsdWUKICAgICAgICAgICAgKQogICAgICAgICkK</text>
+        <text encoding="base64">CSJyZXF1ZXN0X21ldGFkYXRhIjogewoJCSJiMmJfc2NvcmUiOiBudWxsLAoJCSJjaGFubmVsX25hbWUiOiBudWxsLAoJCSJzY3JpYmVfZXZlbnRfbmFtZSI6ICJPcmRlclBsYWNlZEV2ZW50IiwKCQkib3JkZXJfaWQiOiAxNDM1OTQ2ODgzLAoJCSJ2ZXJ0aWNhbCI6IG51bGwKCX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0PWRpY3QK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYWxsKAogICAgICAgICAgICAoCiAgICAgICAgICAgICAgICBhZ2dyZWdhdGUudmFsaWRhdGUocXVpZXQ9RmFsc2UpIGlmIHZhbHVlIGVsc2UgRmFsc2UKICAgICAgICAgICAgICAgIGZvciBhZ2dyZWdhdGUgaW4gdmFsdWUKICAgICAgICAgICAgKQogICAgICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0PWRpY3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdyYXBwaW5nIGNsYXNzX2lkIGluIGEgbGlzdCBmb3IgZnV0dXJlIGJhdGNoIGZlYXR1cmU7IGl0IHdpbGwgYmUgcGFzc2VkIGluIGFzIGEgbGlzdCB0aGVuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9jbGFzc19pZHMgPSBbY2xhc3NfaWRdCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHdyYXBwaW5nIGNsYXNzX2lkIGluIGEgbGlzdCBmb3IgZnV0dXJlIGJhdGNoIGZlYXR1cmU7IGl0IHdpbGwgYmUgcGFzc2VkIGluIGFzIGEgbGlzdCB0aGVuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc19pZCA9IHBhcmFtZXRlcnMuZ2V0KCdjbGFzc19pZCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9jbGFzc19pZHMgPSBbY2xhc3NfaWRdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
