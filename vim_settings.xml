@@ -576,12 +576,12 @@
         <mark key="^" line="16" column="19" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" timestamp="1538421692289">
-        <mark key="'" line="102" column="0" />
-        <mark key="[" line="166" column="90" />
-        <mark key="]" line="166" column="89" />
-        <mark key="." line="166" column="89" />
-        <mark key="^" line="166" column="89" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" timestamp="1538493045968">
+        <mark key="'" line="105" column="84" />
+        <mark key="[" line="106" column="25" />
+        <mark key="]" line="106" column="47" />
+        <mark key="." line="106" column="47" />
+        <mark key="^" line="106" column="47" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.json" timestamp="1531948768958">
         <mark key="[" line="15" column="15" />
@@ -677,7 +677,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="255" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="256" column="28" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="263" column="15" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="113" column="35" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
@@ -777,22 +776,23 @@
       <jump line="126" column="49" filename="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/modelvalidation/models.py" />
       <jump line="127" column="108" filename="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/modelvalidation/models.py" />
       <jump line="1" column="21" filename="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/modelvalidation/models.py" />
+      <jump line="105" column="84" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBBZ2dyZWdhdGlvbk5hbWUuSVNfVkVSVElDQUwsCg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>BaseModel</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>type</text>
+        <text>ev</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSBGaWVsZHMuTkFNRV9GSUVMRAo=</text>
+        <text encoding="base64">ICAgICAgICBpc19ldmVudF9iYXNlZCA9IGFueShtYXAobGFtYmRhIGFnZzogaXNpbnN0YW5jZShhZ2csIEV2ZW50QWdncmVnYXRlTW9kZWwpLCBpbnB1dF9tb2RlbC5hZ2dyZWdhdGlvbnMpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBBZ2dyZWdhdGlvbk5hbWUuSVNfVkVSVElDQUwsCg==</text>
@@ -836,18 +836,16 @@ ness',</text>
       </register>
     </registers>
     <search>
-      <last-search>type</last-search>
+      <last-search>ev</last-search>
       <last-offset />
-      <last-pattern>type</last-pattern>
+      <last-pattern>ev</last-pattern>
       <last-replace>),</last-replace>
       <last-substitute>)),</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sco</entry>
-        <entry>rc</entry>
         <entry>b2b</entry>
         <entry>EVEN</entry>
         <entry>def orders</entry>
@@ -866,6 +864,8 @@ ness',</text>
         <entry>_'</entry>
         <entry>CuC</entry>
         <entry>type</entry>
+        <entry>Event</entry>
+        <entry>ev</entry>
       </history-search>
       <history-cmd>
         <entry>%s/,/\',/</entry>
