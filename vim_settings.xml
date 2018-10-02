@@ -33,12 +33,11 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b_expected_revenue_model.py" timestamp="1538409005405">
-        <mark key="'" line="48" column="55" />
-        <mark key="[" line="42" column="82" />
-        <mark key="]" line="43" column="11" />
-        <mark key="." line="43" column="11" />
-        <mark key="^" line="43" column="11" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b_expected_revenue_model.py" timestamp="1538494650001">
+        <mark key="[" line="38" column="38" />
+        <mark key="]" line="38" column="58" />
+        <mark key="." line="38" column="58" />
+        <mark key="^" line="38" column="58" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/local.py" timestamp="1533225602302">
         <mark key="[" line="14" column="5" />
@@ -503,12 +502,12 @@
         <mark key="." line="2" column="27" />
         <mark key="^" line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" timestamp="1538491624567">
-        <mark key="'" line="157" column="63" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
-        <mark key="^" line="133" column="79" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" timestamp="1538494157610">
+        <mark key="'" line="158" column="8" />
+        <mark key="[" line="163" column="66" />
+        <mark key="]" line="163" column="67" />
+        <mark key="." line="163" column="67" />
+        <mark key="^" line="163" column="67" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/data/feature_models.py" timestamp="1538402697869">
         <mark key="'" line="13" column="7" />
@@ -683,10 +682,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="256" column="28" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
-      <jump line="263" column="15" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
-      <jump line="113" column="35" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
-      <jump line="141" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="214" column="32" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/event_business_model.py" />
       <jump line="28" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/data/feature_models.py" />
       <jump line="11" column="7" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/data/feature_models.py" />
@@ -783,74 +778,69 @@
       <jump line="127" column="108" filename="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/modelvalidation/models.py" />
       <jump line="1" column="21" filename="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/modelvalidation/models.py" />
       <jump line="105" column="84" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" />
+      <jump line="143" column="45" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
+      <jump line="145" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
+      <jump line="158" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
+      <jump line="39" column="15" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b_expected_revenue_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, {}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICApOgo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, {}</text>
+        <text>feature_spec</text>
       </register>
       <register name="/" type="4">
-        <text>ev</text>
+        <text>Agg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpc19ldmVudF9iYXNlZCA9IGFueShtYXAobGFtYmRhIGFnZzogaXNpbnN0YW5jZShhZ2csIEV2ZW50QWdncmVnYXRlTW9kZWwpLCBpbnB1dF9tb2RlbC5hZ2dyZWdhdGlvbnMpKQo=</text>
+        <text encoding="base64">ICAgICAgICAoQWdncmVnYXRpb25OYW1lLklTX1ZFUlRJQ0FMLCBSZWZlcmVuY2VEYXRhLkNPTVBBTllfVFlQRVNbXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICApOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBZ2dyZWdhdGlvbk5hbWUuSVNfVkVSVElDQUwsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgpjbGFzcyBDb21wYXJpc29uQWdncmVnYXRlTW9kZWwoRXZlbnRBZ2dyZWdhdGVNb2RlbCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ3J1bmNoQnVja2V0cy5CMkJfRVhQRUNURURfUkVWRU5VRV9GRUFUVVJFX09SREVSLAogICAgICAgICAgICBDcnVuY2hCdWNrZXRzLkIyQl9FWFBFQ1RFRF9SRVZFTlVFX0FHR1JFR0FUSU9OX09SREVSCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBhcmlzb25fYXJndW1lbnQgPSBGaWVsZHMuQ09NUEFSSVNPTl9BUkdVTUVOVF9GSUVMRAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmVhdHVyZV9zcGVjID0gRmVhdHVyZU1vZGVsKGZlYXR1cmUsIGFnZ3JlZ2F0ZV9zcGVjKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnL3dheWZhaXIvbW50L2NydW5jaF9idWNrZXRzL2xvY2FsL2N1c3RvbWVyX2lkZW50aXR5L3NlcmlhbGl6ZWRfbW9kZWxzL21vY2tfbW9kZWxfdjEuamJsJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">IFJlZmVyZW5jZURhdGEuQ09NUEFOWV9UWVBFU1syXSksCiBSZWZlcmVuY2VEYXRhLkNPTVBBTllfVFlQRVNbNV0pLAogUmVmZXJlbmNlRGF0YS5DT01QQU5ZX1RZUEVTWzZdKSwKIFJlZmVyZW5jZURhdGEuQ09NUEFOWV9UWVBFU1szXSksCiBSZWZlcmVuY2VEYXRhLkNPTVBBTllfVFlQRVNbNF0pLAogUmVmZXJlbmNlRGF0YS5DT01QQU5ZX1RZUEVTWzEwXSks</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShhZ2dyZWdhdGUsIHR1cGxlKToKICAgICAgICAgICAgICAgIGZlYXR1cmVfc3BlYyA9IEZlYXR1cmVNb2RlbCgKICAgICAgICAgICAgICAgICAgICBmZWF0dXJlLAogICAgICAgICAgICAgICAgICAgIEFnZ3JlZ2F0ZVBheWxvYWRNb2RlbChhZ2dyZWdhdGVbMF0sIGNvbXBhcmlzb25fYXJndW1lbnQ9YWdncmVnYXRlWzFdKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICBlbHNlOgo=</text>
       </register>
-      <register name="7" type="8">
-        <text>,
-,</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAoQWdncmVnYXRpb25OYW1lLklTX1ZFUlRJQ0FMLAogICAgICAgIChBZ2dyZWdhdGlvbk5hbWUuSVNfVkVSVElDQUwsCiAgICAgICAgKEFnZ3JlZ2F0aW9uTmFtZS5JU19WRVJUSUNBTCwKICAgICAgICAoQWdncmVnYXRpb25OYW1lLklTX1ZFUlRJQ0FMLAogICAgICAgIChBZ2dyZWdhdGlvbk5hbWUuSVNfVkVSVElDQUwsCg==</text>
       </register>
-      <register name="8" type="8">
-        <text>,
-,
-',
-signer
-ness',</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAoQWdncmVnYXRpb25OYW1lLklTX1ZFUlRJQ0FMLAogICAgICAgIChBZ2dyZWdhdGlvbk5hbWUuSVNfVkVSVElDQUwsCiAgICAgICAgKEFnZ3JlZ2F0aW9uTmFtZS5JU19WRVJUSUNBTCwKICAgICAgICAoQWdncmVnYXRpb25OYW1lLklTX1ZFUlRJQ0FMLAogICAgICAgIChBZ2dyZWdhdGlvbk5hbWUuSVNfVkVSVElDQUwsCg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">IFJlZmVyZW5jZURhdGEuQ09NUEFOWV9UWVBFU1syXSksCiBSZWZlcmVuY2VEYXRhLkNPTVBBTllfVFlQRVNbNV0pLAogUmVmZXJlbmNlRGF0YS5DT01QQU5ZX1RZUEVTWzZdKSwKIFJlZmVyZW5jZURhdGEuQ09NUEFOWV9UWVBFU1szXSksCiBSZWZlcmVuY2VEYXRhLkNPTVBBTllfVFlQRVNbNF0pLAogUmVmZXJlbmNlRGF0YS5DT01QQU5ZX1RZUEVTWzEwXSks</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAoQWdncmVnYXRpb25OYW1lLklTX1ZFUlRJQ0FMLAogICAgICAgIChBZ2dyZWdhdGlvbk5hbWUuSVNfVkVSVElDQUwsCiAgICAgICAgKEFnZ3JlZ2F0aW9uTmFtZS5JU19WRVJUSUNBTCwKICAgICAgICAoQWdncmVnYXRpb25OYW1lLklTX1ZFUlRJQ0FMLAogICAgICAgIChBZ2dyZWdhdGlvbk5hbWUuSVNfVkVSVElDQUwsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ev</last-search>
+      <last-search>Agg</last-search>
       <last-offset />
-      <last-pattern>ev</last-pattern>
+      <last-pattern>Agg</last-pattern>
       <last-replace>),</last-replace>
       <last-substitute>)),</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>b2b</entry>
-        <entry>EVEN</entry>
-        <entry>def orders</entry>
-        <entry>order_history</entry>
         <entry>channel</entry>
         <entry>m</entry>
         <entry>)),</entry>
@@ -867,6 +857,10 @@ ness',</text>
         <entry>type</entry>
         <entry>Event</entry>
         <entry>ev</entry>
+        <entry>])</entry>
+        <entry>)</entry>
+        <entry>[]</entry>
+        <entry>Agg</entry>
       </history-search>
       <history-cmd>
         <entry>%s/,/\',/</entry>
