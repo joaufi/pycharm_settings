@@ -127,10 +127,10 @@
         <mark key="." line="575" column="1" />
         <mark key="^" line="575" column="1" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1538151020147">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="." line="163" column="0" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1538493560213">
+        <mark key="[" line="98" column="52" />
+        <mark key="]" line="98" column="55" />
+        <mark key="." line="98" column="55" />
         <mark key="^" line="98" column="55" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/strategy/bidsift_graph_bidding_strategy.py" timestamp="1532978695448">
@@ -165,7 +165,7 @@
         <mark key="^" line="25" column="29" />
         <mark key="." line="25" column="31" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" timestamp="1538157816587">
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" timestamp="1538493407827">
         <mark key="'" line="129" column="47" />
         <mark key="[" line="88" column="33" />
         <mark key="]" line="88" column="46" />
@@ -201,6 +201,12 @@
         <mark key="]" line="33" column="1" />
         <mark key="." line="33" column="1" />
         <mark key="^" line="33" column="1" />
+      </file>
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/aggregates/views.py" timestamp="1538493566174">
+        <mark key="[" line="82" column="56" />
+        <mark key="]" line="82" column="59" />
+        <mark key="." line="82" column="59" />
+        <mark key="^" line="82" column="59" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/data/fact_payload_model.py" timestamp="1534259172714">
         <mark key="[" line="3" column="21" />
@@ -780,13 +786,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>, {}</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>, {}</text>
       </register>
       <register name="/" type="4">
         <text>ev</text>
@@ -795,41 +801,36 @@
         <text encoding="base64">ICAgICAgICBpc19ldmVudF9iYXNlZCA9IGFueShtYXAobGFtYmRhIGFnZzogaXNpbnN0YW5jZShhZ2csIEV2ZW50QWdncmVnYXRlTW9kZWwpLCBpbnB1dF9tb2RlbC5hZ2dyZWdhdGlvbnMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBZ2dyZWdhdGlvbk5hbWUuSVNfVkVSVElDQUwsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgpjbGFzcyBDb21wYXJpc29uQWdncmVnYXRlTW9kZWwoRXZlbnRBZ2dyZWdhdGVNb2RlbCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBBZ2dyZWdhdGlvbk5hbWUuSVNfVkVSVElDQUwsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBhcmlzb25fYXJndW1lbnQgPSBGaWVsZHMuQ09NUEFSSVNPTl9BUkdVTUVOVF9GSUVMRAo=</text>
+        <text encoding="base64">CgpjbGFzcyBDb21wYXJpc29uQWdncmVnYXRlTW9kZWwoRXZlbnRBZ2dyZWdhdGVNb2RlbCk6Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbXBhcmlzb25fYXJndW1lbnQgPSBGaWVsZHMuQ09NUEFSSVNPTl9BUkdVTUVOVF9GSUVMRAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAnL3dheWZhaXIvbW50L2NydW5jaF9idWNrZXRzL2xvY2FsL2N1c3RvbWVyX2lkZW50aXR5L3NlcmlhbGl6ZWRfbW9kZWxzL21vY2tfbW9kZWxfdjEuamJsJywK</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text encoding="base64">IFJlZmVyZW5jZURhdGEuQ09NUEFOWV9UWVBFU1syXSksCiBSZWZlcmVuY2VEYXRhLkNPTVBBTllfVFlQRVNbNV0pLAogUmVmZXJlbmNlRGF0YS5DT01QQU5ZX1RZUEVTWzZdKSwKIFJlZmVyZW5jZURhdGEuQ09NUEFOWV9UWVBFU1szXSksCiBSZWZlcmVuY2VEYXRhLkNPTVBBTllfVFlQRVNbNF0pLAogUmVmZXJlbmNlRGF0YS5DT01QQU5ZX1RZUEVTWzEwXSks</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>,
 ,</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text>,
 ,
 ',
 signer
 ness',</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">IFJlZmVyZW5jZURhdGEuQ09NUEFOWV9UWVBFU1syXSksCiBSZWZlcmVuY2VEYXRhLkNPTVBBTllfVFlQRVNbNV0pLAogUmVmZXJlbmNlRGF0YS5DT01QQU5ZX1RZUEVTWzZdKSwKIFJlZmVyZW5jZURhdGEuQ09NUEFOWV9UWVBFU1szXSksCiBSZWZlcmVuY2VEYXRhLkNPTVBBTllfVFlQRVNbNF0pLAogUmVmZXJlbmNlRGF0YS5DT01QQU5ZX1RZUEVTWzEwXSks</text>
-      </register>
       <register name="9" type="8">
-        <text>(
-(
-(
-(
-(
-(</text>
+        <text encoding="base64">IFJlZmVyZW5jZURhdGEuQ09NUEFOWV9UWVBFU1syXSksCiBSZWZlcmVuY2VEYXRhLkNPTVBBTllfVFlQRVNbNV0pLAogUmVmZXJlbmNlRGF0YS5DT01QQU5ZX1RZUEVTWzZdKSwKIFJlZmVyZW5jZURhdGEuQ09NUEFOWV9UWVBFU1szXSksCiBSZWZlcmVuY2VEYXRhLkNPTVBBTllfVFlQRVNbNF0pLAogUmVmZXJlbmNlRGF0YS5DT01QQU5ZX1RZUEVTWzEwXSks</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -880,13 +881,13 @@ ness',</text>
         <entry encoding="base64">JzwsJz5zLzgxLzQxMQ==</entry>
         <entry encoding="base64">JzwsJz5zLyxcIC8sXHIv</entry>
         <entry>Lw</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5zLykpLC8pLC8=</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>vsplit</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>qa</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
