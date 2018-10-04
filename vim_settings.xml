@@ -674,6 +674,13 @@
         <mark key="^" line="0" column="597" />
         <mark key="." line="0" column="597" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.json" timestamp="1538675056798">
+        <mark key="'" line="31" column="20" />
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="25" />
+        <mark key="^" line="8" column="25" />
+        <mark key="." line="8" column="25" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1538582257325">
         <mark key="'" line="112" column="35" />
         <mark key="[" line="98" column="53" />
@@ -720,7 +727,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="44" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/in_market_model.py" />
       <jump line="117" column="48" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/in_market_model.py" />
       <jump line="119" column="44" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/in_market_model.py" />
       <jump line="127" column="41" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/in_market_model.py" />
@@ -820,22 +826,23 @@
       <jump line="54" column="45" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/event_business_model.py" />
       <jump line="134" column="10" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="222" column="47" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
+      <jump line="31" column="20" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>none</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>none</text>
       </register>
       <register name="/" type="4">
-        <text>}</text>
+        <text>enro</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuX2xvYWRfbW9kZWxfaW50b19tZW1vcnkoCiAgICAgICAgICAgICAgICAgICAgbW9kZWwubmFtZSwKICAgICAgICAgICAgICAgICAgICBtb2RlbC52ZXJzaW9uLAogICAgICAgICAgICAgICAgICAgIGZlYXR1cmVfb3JkZXIsCiAgICAgICAgICAgICAgICAgICAgaG90X3N0b3JhZ2VfcGF0aAogICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgImJlZm9yZU5vdyI6IHRydWUsCiAgICAgICJlcXVhbE5vdyI6IEZhbHNlLAo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICdkZXZpY2VtYXBfZmlsdGVyJzogc2VsZi5ERVZJQ0VNQVBfRklMVEVSLA==</text>
@@ -869,9 +876,9 @@
       </register>
     </registers>
     <search>
-      <last-search>}</last-search>
+      <last-search>enro</last-search>
       <last-offset />
-      <last-pattern>}</last-pattern>
+      <last-pattern>enro</last-pattern>
       <last-replace>\&quot;</last-replace>
       <last-substitute>\'</last-substitute>
       <last-dir>1</last-dir>
@@ -879,7 +886,6 @@
     </search>
     <history>
       <history-search>
-        <entry>[]</entry>
         <entry>Agg</entry>
         <entry>Comparison</entry>
         <entry>)</entry>
@@ -899,6 +905,7 @@
         <entry>\'</entry>
         <entry>customer_history.orders</entry>
         <entry>}</entry>
+        <entry>enro</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvLFwgQWdncmVnYXRlUGF5bG9hZE1vZGVsKCkv</entry>
