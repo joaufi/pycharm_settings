@@ -18,6 +18,9 @@
         <mark key="^" line="74" column="14" />
         <mark key="." line="74" column="14" />
       </file>
+      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/devicemap/routes.py" timestamp="1538965217641">
+        <mark key="'" line="427" column="4" />
+      </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/local.default.py" timestamp="1538506238142">
         <mark key="'" line="29" column="16" />
         <mark key="[" line="26" column="0" />
@@ -717,12 +720,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="48" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/in_market_model.py" />
-      <jump line="119" column="44" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/in_market_model.py" />
-      <jump line="127" column="41" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/in_market_model.py" />
-      <jump line="129" column="65" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/in_market_model.py" />
-      <jump line="135" column="37" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/in_market_model.py" />
-      <jump line="137" column="51" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/in_market_model.py" />
       <jump line="143" column="37" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/in_market_model.py" />
       <jump line="145" column="52" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/in_market_model.py" />
       <jump line="151" column="38" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/in_market_model.py" />
@@ -817,6 +814,12 @@
       <jump line="134" column="10" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="222" column="47" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="31" column="20" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.json" />
+      <jump line="155" column="21" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/devicemap/routes.py" />
+      <jump line="431" column="7" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/devicemap/routes.py" />
+      <jump line="437" column="9" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/devicemap/routes.py" />
+      <jump line="440" column="9" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/devicemap/routes.py" />
+      <jump line="445" column="13" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/devicemap/routes.py" />
+      <jump line="427" column="4" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/devicemap/routes.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -829,7 +832,7 @@
         <text>none</text>
       </register>
       <register name="/" type="4">
-        <text>enro</text>
+        <text>device_id</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgImJlZm9yZU5vdyI6IHRydWUsCiAgICAgICJlcXVhbE5vdyI6IEZhbHNlLAo=</text>
@@ -866,9 +869,9 @@
       </register>
     </registers>
     <search>
-      <last-search>enro</last-search>
+      <last-search>device_id</last-search>
       <last-offset />
-      <last-pattern>enro</last-pattern>
+      <last-pattern>device_id</last-pattern>
       <last-replace>\&quot;</last-replace>
       <last-substitute>\'</last-substitute>
       <last-dir>1</last-dir>
@@ -876,7 +879,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Agg</entry>
         <entry>Comparison</entry>
         <entry>)</entry>
         <entry>B2B</entry>
@@ -896,6 +898,7 @@
         <entry>customer_history.orders</entry>
         <entry>}</entry>
         <entry>enro</entry>
+        <entry>device_id</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvLFwgQWdncmVnYXRlUGF5bG9hZE1vZGVsKCkv</entry>
