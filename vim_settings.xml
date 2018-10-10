@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1538151349183">
+      <file name="/a.dummy" timestamp="1539197846039">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/utility/hive_query_config_template.py" timestamp="1531170239178">
@@ -33,6 +33,17 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="9" column="10" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/client/constants.py" timestamp="1539198274225">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/bidsift/.python_environment/lib/python3.6/site-packages/scoring/evaluation/context.py" timestamp="1539199592425">
+        <mark key="[" line="34" column="19" />
+        <mark key="]" line="34" column="59" />
+        <mark key="^" line="34" column="59" />
+        <mark key="." line="34" column="59" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/local.py" timestamp="1533225602302">
         <mark key="[" line="14" column="5" />
@@ -75,6 +86,12 @@
         <mark key="]" line="4" column="34" />
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
+      </file>
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/app.py" timestamp="1539199504887">
+        <mark key="[" line="135" column="33" />
+        <mark key="]" line="135" column="83" />
+        <mark key="." line="135" column="83" />
+        <mark key="^" line="135" column="83" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/priced_skus_by_device_guid.sql" timestamp="1530889449531">
         <mark key="[" line="32" column="6" />
@@ -145,6 +162,13 @@
         <mark key="^" line="55" column="22" />
         <mark key="." line="67" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/client/tracking_service_client.py" timestamp="1539199298647">
+        <mark key="'" line="9" column="42" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="15" />
+        <mark key="^" line="29" column="63" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/custinfolib_business_model.py" timestamp="1536679524417">
         <mark key="'" line="10" column="6" />
         <mark key="[" line="14" column="22" />
@@ -171,12 +195,12 @@
         <mark key="^" line="25" column="29" />
         <mark key="." line="25" column="31" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" timestamp="1538573913380">
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" timestamp="1539198812577">
         <mark key="'" line="115" column="15" />
-        <mark key="[" line="110" column="16" />
-        <mark key="]" line="110" column="21" />
-        <mark key="." line="110" column="21" />
-        <mark key="^" line="110" column="21" />
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="15" />
+        <mark key="." line="16" column="15" />
+        <mark key="^" line="16" column="15" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/dao/product_redis_dao.py" timestamp="1534373593348">
         <mark key="[" line="67" column="42" />
@@ -285,6 +309,9 @@
         <mark key="." line="16" column="49" />
         <mark key="^" line="16" column="49" />
       </file>
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/tracking_service_client.py" timestamp="1539197658180">
+        <mark key="[" line="46" column="47" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_temporary_tables/populate_temp_page_views.sql" timestamp="1532628148995">
         <mark key="[" line="9" column="87" />
         <mark key="]" line="9" column="87" />
@@ -322,11 +349,11 @@
         <mark key="]" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/local.default.py" timestamp="1538506674393">
-        <mark key="[" line="60" column="33" />
-        <mark key="]" line="61" column="3" />
-        <mark key="." line="61" column="3" />
-        <mark key="^" line="61" column="3" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/local.default.py" timestamp="1539198476925">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="67" />
+        <mark key="." line="122" column="3" />
+        <mark key="^" line="122" column="3" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" timestamp="1538510767413">
         <mark key="'" line="635" column="29" />
@@ -424,12 +451,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/prod.py" timestamp="1538506633025">
-        <mark key="'" line="65" column="25" />
-        <mark key="[" line="50" column="33" />
-        <mark key="]" line="51" column="3" />
-        <mark key="^" line="51" column="3" />
-        <mark key="." line="51" column="3" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/prod.py" timestamp="1539198453893">
+        <mark key="'" line="101" column="21" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="67" />
+        <mark key="^" line="114" column="21" />
+        <mark key="." line="114" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/top_style_by_store.sql" timestamp="1536854328024">
         <mark key="[" line="8" column="0" />
@@ -467,11 +494,12 @@
         <mark key="]" line="222" column="0" />
         <mark key="." line="222" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" timestamp="1538506661057">
-        <mark key="[" line="57" column="78" />
-        <mark key="]" line="58" column="3" />
-        <mark key="." line="58" column="3" />
-        <mark key="^" line="58" column="3" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" timestamp="1539198493307">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+        <mark key="^" line="121" column="3" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_tables/populate_in_market_num_filters.sql" timestamp="1532509436988">
         <mark key="[" line="12" column="24" />
@@ -487,11 +515,11 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/scribe_client.py" timestamp="1532979552536">
-        <mark key="[" line="62" column="13" />
-        <mark key="]" line="52" column="39" />
-        <mark key="^" line="52" column="39" />
-        <mark key="." line="52" column="39" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/scribe_client.py" timestamp="1539199557086">
+        <mark key="[" line="48" column="12" />
+        <mark key="]" line="48" column="23" />
+        <mark key="^" line="48" column="23" />
+        <mark key="." line="48" column="23" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/create_temp_tables/scribe_page_views_temp_table.sql" timestamp="1530736596551">
         <mark key="[" line="11" column="0" />
@@ -572,11 +600,11 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py" timestamp="1536677493298">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="54" />
-        <mark key="^" line="80" column="17" />
-        <mark key="." line="80" column="17" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/local.py" timestamp="1539198615590">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="79" column="3" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/constants.py" timestamp="1538672801461">
         <mark key="[" line="93" column="35" />
@@ -725,9 +753,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="37" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/in_market_model.py" />
-      <jump line="145" column="52" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/in_market_model.py" />
-      <jump line="151" column="38" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/in_market_model.py" />
       <jump line="153" column="49" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/in_market_model.py" />
       <jump line="159" column="39" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/in_market_model.py" />
       <jump line="161" column="47" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/in_market_model.py" />
@@ -825,67 +850,68 @@
       <jump line="440" column="9" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/devicemap/routes.py" />
       <jump line="445" column="13" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/devicemap/routes.py" />
       <jump line="427" column="4" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/devicemap/routes.py" />
+      <jump line="101" column="21" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/prod.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" />
+      <jump line="11" column="42" filename="$USER_HOME$/repositories/bidsift/bidsift/client/tracking_service_client.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAoJ0FubnVhbFB1cmNoYXNlQ291bnRfNi0xMCcsIChBZ2dyZWdhdGlvbk5hbWUuQU5OVUFMX1BVUkNIQVNFX0NPVU5ULCBBTk5VQUxfQ09VTlRbMl0pKSwK</text>
+        <text encoding="base64">ICAgICAgICB0cmFja2luZ19jbGllbnQgPSBTY3JpYmVUcmFja2luZ0NsaWVudChzZWxmLnBhcmVudF9hcHApCg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>none</text>
+        <text>, timeout=0.1</text>
       </register>
       <register name="/" type="4">
-        <text>device_id</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgImJlZm9yZU5vdyI6IHRydWUsCiAgICAgICJlcXVhbE5vdyI6IEZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgICAnaG9zdF9hbmRfcG9ydCc6IHNldHRpbmdzLmdldF9zdGF0aWNfdmFsdWUoJ1dGX0tBRktBUFJPWFknKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAoJ0FubnVhbFB1cmNoYXNlQ291bnRfNi0xMCcsIChBZ2dyZWdhdGlvbk5hbWUuQU5OVUFMX1BVUkNIQVNFX0NPVU5ULCBBTk5VQUxfQ09VTlRbMl0pKSwK</text>
+        <text encoding="base64">ICAgICAgICB0cmFja2luZ19jbGllbnQgPSBTY3JpYmVUcmFja2luZ0NsaWVudChzZWxmLnBhcmVudF9hcHApCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICdkZXZpY2VtYXBfZmlsdGVyJzogc2VsZi5ERVZJQ0VNQVBfRklMVEVSLA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0b3JlX2lkJzogc2VsZi5zdG9yZV9pZCwK</text>
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB3aGlsZSB3ZSB3YWl0IG9uIEFrcml0ZWUgdG8gc2VyaWFsaXplIGhlciBtb2RlbCBpbiBQeXRob24gMyB1c2UgTW9ja01vZGVsCiAgICAgICAgICAgIHNlbGYubW9kZWxfb2JqZWN0c1sobW9kZWwubmFtZSwgbW9kZWwudmVyc2lvbildID0gewogICAgICAgICAgICAgICAgTW9kZWxTdG9yYWdlS2V5LkZFQVRVUkVfT1JERVI6IG1vZGVsLmZlYXR1cmVfb3JkZXIsCiAgICAgICAgICAgICAgICBNb2RlbFN0b3JhZ2VLZXkuSE9UX1NUT1JBR0VfUEFUSDogbW9kZWwuaG90X3N0b3JhZ2VfcGF0aCwKICAgICAgICAgICAgICAgIE1vZGVsU3RvcmFnZUtleS5NT0RFTF9PQkpFQ1Q6IE1vY2tNb2RlbCgpLAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ZnJvbSBiaWRzaWZ0LmxvZ2dlciBpbXBvcnQgTG9nZ2VyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0ZpbmlzaGVkIExvYWRpbmcnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBJZiBpdCdzIG5vdCBkZWZpbmVkIHRoZW4gd2UgZG9uJ3Qgd2FudCB0byBsb2cgdG8gS2Fma2EK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0xvYWRpbmc6ICcgKyBzdHIobW9kZWwubmFtZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIExvZ2dlci5sb2coc3RyKGUpLCBMb2dnZXIuTE9HX1dBUk4pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0xvYWRpbmc6ICcgKyBzdHIobW9kZWwubmFtZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1JldHJ5ICAnICsgc3RyKHJldHJ5KSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmxvZyhzdHIoZSksIExvZ2dlci5MT0dfV0FSTikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXlsb2FkID0gewogICAgICAgICAgICAndG9waWMnOiB0b3BpYywKICAgICAgICAgICAgJ21lc3NhZ2UnOiBqc29uLmR1bXBzKGRhdGEpCiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>device_id</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>device_id</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-replace>\&quot;</last-replace>
       <last-substitute>\'</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Comparison</entry>
-        <entry>)</entry>
         <entry>B2B</entry>
         <entry>===</entry>
         <entry>user_level_bidding</entry>
@@ -904,26 +930,28 @@
         <entry>}</entry>
         <entry>enro</entry>
         <entry>device_id</entry>
+        <entry>kafka</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLywvLFwgQWdncmVnYXRlUGF5bG9hZE1vZGVsKCkv</entry>
         <entry encoding="base64">JzwsJz5zLywvLFwgQWdncmVnYXRlUGF5bG9hZE1vZGVsKCkpLw==</entry>
         <entry encoding="base64">JzwsJz5zLywvLFwgQWdncmVnYXRlUGF5bG9hZE1vZGVsKCkpLC8=</entry>
         <entry encoding="base64">JzwsJz5zL1wnLC9cJ1wpLC8=</entry>
         <entry encoding="base64">JzwsJz5zL1wnLFwnL1wnLFwgXCcv</entry>
-        <entry>split</entry>
         <entry encoding="base64">JzwsJz5zLzgxLzQxMQ==</entry>
         <entry encoding="base64">JzwsJz5zLyxcIC8sXHIv</entry>
         <entry>Lw</entry>
         <entry encoding="base64">JzwsJz5zLykpLC8pLC8=</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>vsplit</entry>
-        <entry>qa</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2d1aWQvaWQ=</entry>
         <entry encoding="base64">JzwsJz5zL2d1aWRzL2lkcw==</entry>
         <entry encoding="base64">JzwsJz4lcy9cJy9cIi8=</entry>
+        <entry>qa</entry>
+        <entry>split</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>e</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
