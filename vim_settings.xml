@@ -735,6 +735,12 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="25" />
       </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1539359979400">
+        <mark key="[" line="270" column="8" />
+        <mark key="]" line="270" column="8" />
+        <mark key="^" line="270" column="8" />
+        <mark key="." line="270" column="8" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.jql" timestamp="1531150138707">
         <mark key="[" line="10" column="114" />
         <mark key="]" line="9" column="50" />
@@ -778,8 +784,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
-      <jump line="158" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="39" column="15" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b_expected_revenue_model.py" />
       <jump line="8" column="82" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/input_model.py" />
       <jump line="137" column="33" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
@@ -878,58 +882,60 @@
       <jump line="327" column="42" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="330" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="124" column="4" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" />
+      <jump line="279" column="65" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
+      <jump line="283" column="65" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIGFwcC5jb25maWcK</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, 'devbo1', 'local'</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>POST</text>
+        <text>]</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aWYgbW9kZWxfbmFtZSA9PSBDcnVuY2hCdWNrZXRzLkIyQl9QT1NUX0VOUk9MTE1FTlQubmFtZToKICAgIHRyYWNraW5nX2V2ZW50X3N1Ym1pdHRlci50cmFja19zY29yaW5nX2JpZHNpZnRfcmVxdWVzdF9ldmVudCgKICAgICAgICByZXF1ZXN0X2pzb24sCiAgICAgICAgcmVzcG9uc2UsCiAgICAgICAgc2NvcmluZy5kZWJ1Z19jb250ZXh0CiAgICApCg==</text>
+      <register name="0" type="4">
+        <text>return self.current_event.get(self.LEAD_SCORING_QUESTIONS, {})\</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIGFwcC5jb25maWcK</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGxlYWRfc2NvcmluZ19xdWVzdGlvbnMoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuY3VycmVudF9ldmVudC5nZXQoc2VsZi5MRUFEX1NDT1JJTkdfUVVFU1RJT05TLCB7fSkKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBlbnYgaW4gKCdkZXYnLCAnbG9jYWwnLCAnZGV2Ym8xJyk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmN1cnJlbnRfZXZlbnQuZ2V0KHNlbGYuTEVBRF9TQ09SSU5HX1FVRVNUSU9OUywge30pXAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jdXJyZW50X2V2ZW50LmdldChzZWxmLkxFQURfU0NPUklOR19RVUVTVElPTlMsIHt9KVwK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jdXJyZW50X2V2ZW50LmdldChzZWxmLkxFQURfU0NPUklOR19RVUVTVElPTlMsIHt9KVwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBiaWRzaWZ0LmxvZ2dlciBpbXBvcnQgTG9nZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jdXJyZW50X2V2ZW50LmdldChzZWxmLkxFQURfU0NPUklOR19RVUVTVElPTlMsIHt9KVwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBiaWRzaWZ0LnNjcmliZV9jbGllbnQgaW1wb3J0IFNjcmliZUNsaWVudAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jdXJyZW50X2V2ZW50LmdldChzZWxmLkxFQURfU0NPUklOR19RVUVTVElPTlMsIHt9KVwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGFwcC5jb25maWcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBzY29yaW5nLmV2YWx1YXRpb24uY29uc3RhbnRzIGltcG9ydCBDcnVuY2hCdWNrZXRzCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBlbnYgaW4gKCdkZXYnLCAnbG9jYWwnLCAnZGV2Ym8xJyk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>POST</last-search>
+      <last-search>]</last-search>
       <last-offset />
-      <last-pattern>POST</last-pattern>
+      <last-pattern>]</last-pattern>
       <last-replace>\&quot;</last-replace>
       <last-substitute>\'</last-substitute>
       <last-dir>1</last-dir>
@@ -937,7 +943,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test_current</entry>
         <entry>current_time_use</entry>
         <entry>mo</entry>
         <entry>1_payloads</entry>
@@ -957,6 +962,7 @@
         <entry>Fal</entry>
         <entry>Tr</entry>
         <entry>POST</entry>
+        <entry>]</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvLFwgQWdncmVnYXRlUGF5bG9hZE1vZGVsKCkpLw==</entry>
@@ -975,9 +981,9 @@
         <entry>qa</entry>
         <entry>split</entry>
         <entry>vsplit</entry>
-        <entry>e</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>W</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
