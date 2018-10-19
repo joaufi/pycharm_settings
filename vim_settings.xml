@@ -49,6 +49,12 @@
         <mark key="." line="14" column="24" />
         <mark key="^" line="14" column="24" />
       </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/exceptions.py" timestamp="1539898303277">
+        <mark key="[" line="21" column="40" />
+        <mark key="]" line="21" column="66" />
+        <mark key="." line="21" column="66" />
+        <mark key="^" line="21" column="66" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_scribe_page_views.sql" timestamp="1530745017434">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="29" />
@@ -552,11 +558,10 @@
         <mark key="^" line="262" column="18" />
         <mark key="." line="262" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/exceptions.py" timestamp="1532376644605">
-        <mark key="[" line="22" column="11" />
-        <mark key="]" line="22" column="19" />
-        <mark key="." line="22" column="19" />
-        <mark key="^" line="22" column="19" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/exceptions.py" timestamp="1539898309272">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/atcie-python-commons/atciecommons/modelvalidation/exceptions.py" timestamp="1531942133127">
         <mark key="[" line="2" column="14" />
@@ -704,11 +709,11 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1539891684512">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="^" line="5" column="60" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1539898329601">
+        <mark key="[" line="109" column="91" />
+        <mark key="]" line="109" column="94" />
+        <mark key="^" line="109" column="94" />
+        <mark key="." line="109" column="94" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.jql" timestamp="1531150138707">
         <mark key="[" line="10" column="114" />
@@ -855,14 +860,14 @@
       <jump line="25" column="6" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/customer_segmentation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>evaluation</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>LIFETIME_PURCHASED_SKUS</text>
+        <text>evaluation</text>
       </register>
       <register name="/" type="4">
         <text>Variable</text>
@@ -874,28 +879,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0ZWRfdHlwZXMgPSBzZWxmLkZBQ1RfVFlQRV9MSVNULmNvcHkoKQo=</text>
+        <text encoding="base64">CmNsYXNzIEN1c3RvbWVyRGV0YWlsc1JldHJpZXZhbEV4Y2VwdGlvbihBZ2dyZWdhdGlvbkV4Y2VwdGlvbik6CiAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjdXN0b21lcl9ndWlkOgogICAgICAgICAgICByZXF1ZXN0ZWRfdHlwZXMuYXBwZW5kKEZhY3RUeXBlLkNVU1RPTUVSX1ZJU0lUUykKICAgICAgICBpZiBjdXN0b21lcl9pZDoKICAgICAgICAgICAgcmVxdWVzdGVkX3R5cGVzLmFwcGVuZChGYWN0VHlwZS5MSUZFVElNRV9QVVJDSEFTRURfU0tVUykKICAgICAgICAgICAgcmVxdWVzdGVkX3R5cGVzLmFwcGVuZChGYWN0VHlwZS5PUkRFUl9ERVRBSUxTKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBGYWN0VHlwZS5PUkRFUl9ERVRBSUxTLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0ZWRfdHlwZXMgPSBzZWxmLkZBQ1RfVFlQRV9MSVNULmNvcHkoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBGYWN0VHlwZS5MSUZFVElNRV9QVVJDSEFTRURfU0tVUywK</text>
+        <text encoding="base64">ICAgICAgICBpZiBjdXN0b21lcl9ndWlkOgogICAgICAgICAgICByZXF1ZXN0ZWRfdHlwZXMuYXBwZW5kKEZhY3RUeXBlLkNVU1RPTUVSX1ZJU0lUUykKICAgICAgICBpZiBjdXN0b21lcl9pZDoKICAgICAgICAgICAgcmVxdWVzdGVkX3R5cGVzLmFwcGVuZChGYWN0VHlwZS5MSUZFVElNRV9QVVJDSEFTRURfU0tVUykKICAgICAgICAgICAgcmVxdWVzdGVkX3R5cGVzLmFwcGVuZChGYWN0VHlwZS5PUkRFUl9ERVRBSUxTKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdGVkX3R5cGVzLmFwcGVuZChGYWN0VHlwZS5DVVNUT01FUl9WSVNJVFMpCg==</text>
+        <text encoding="base64">ICAgICAgICBGYWN0VHlwZS5PUkRFUl9ERVRBSUxTLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5GQUNUX1RZUEVfTElTVC5hcHBlbmQoRmFjdFR5cGUuQ1VTVE9NRVJfVklTSVRTKQo=</text>
+        <text encoding="base64">ICAgICAgICBGYWN0VHlwZS5MSUZFVElNRV9QVVJDSEFTRURfU0tVUywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0ZWRfdHlwZXMgPSBzZWxmLkZBQ1RfVFlQRV9MSVNUCiAgICAgICAgaWYgY3VzdG9tZXJfZ3VpZDoKICAgICAgICAgICAgcmVxdWVzdGVkX3R5cGVzLmFwcGVuZChGYWN0VHlwZS5DVVNUT01FUl9WSVNJVFMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdGVkX3R5cGVzLmFwcGVuZChGYWN0VHlwZS5DVVNUT01FUl9WSVNJVFMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBGYWN0VHlwZS5DVVNUT01FUl9WSVNJVFMsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5GQUNUX1RZUEVfTElTVC5hcHBlbmQoRmFjdFR5cGUuQ1VTVE9NRVJfVklTSVRTKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
