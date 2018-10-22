@@ -594,12 +594,12 @@
         <mark key="." line="119" column="4" />
         <mark key="^" line="119" column="5" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" timestamp="1540221428930">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" timestamp="1540222858181">
         <mark key="'" line="107" column="8" />
-        <mark key="[" line="107" column="5" />
-        <mark key="]" line="109" column="18" />
-        <mark key="." line="109" column="18" />
-        <mark key="^" line="109" column="18" />
+        <mark key="[" line="106" column="14" />
+        <mark key="]" line="106" column="14" />
+        <mark key="." line="106" column="14" />
+        <mark key="^" line="106" column="14" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/acquisitions_by_channel.sql" timestamp="1531158508734">
         <mark key="[" line="11" column="0" />
@@ -865,49 +865,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>'NewReturning'</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>'NewReturning'</text>
       </register>
       <register name="/" type="4">
         <text>NEW</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBWaXNpdG9yVHlwZS5ORVdfUkVUVVJOSU5HLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcmVfaWQ9NDksCiAgICAgICAgICAgIHZpc2l0b3JfdHlwZT0nTmV3UmV0dXJuaW5nJywKICAgICAgICAgICAgcGxhdGZvcm09J0Rlc2t0b3AnLAogICAgICAgICAgICB2ZW5kb3I9J0FwcE5leHVzJwogICAgICAgICksCiAgICAgICAgJ3YxJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAoVmlzaXRvclR5cGUuQUNRVUlSRUQsIFZpc2l0b3JUeXBlLkFDVElWQVRFRCk6IFZpc2l0b3JUeXBlLkFDUVVJUkVEX0FDVElWQVRFRCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFVMQl9FTkFCTEVEX1ZJU0lUT1JfVFlQRVMgPSB7CiAgICAgICAgKFZpc2l0b3JUeXBlLkFDUVVJUkVELCBWaXNpdG9yVHlwZS5BQ1RJVkFURUQpOiBWaXNpdG9yVHlwZS5BQ1FVSVJFRF9BQ1RJVkFURUQsCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBWaXNpdG9yVHlwZS5ORVc6IFZpc2l0b3JUeXBlIAogICAgICAgIFZpc2l0b3JUeXBlLlJFVFVSTklORzogVmlzaXRvclR5cGUuTkVXX1JFVFVSTklORywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vZGVsX3N0b3JhZ2UoCiAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBWaXNpdG9yVHlwZS5ORVc6ICdOZXdSZXR1cm5pbmcnLAogICAgICAgICdBY3F1aXJlZEFjdGl2YXRlZCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfVUxCX01PREVMX0xJTlJFR19URU1QTEFURS5mb3JtYXQoCgogICAgICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAoVmlzaXRvclR5cGUuQUNRVUlSRUQsIFZpc2l0b3JUeXBlLkFDVElWQVRFRCk6IFZpc2l0b3JUeXBlLkFDUVVJUkVEX0FDVElWQVRFRCwK</text>
       </register>
-      <register name="6" type="8">
-        <text>WFCA - 
-WFUK - 
-WFDE - 
-Joss - 
-AllMode
-Birch -
-Perigol</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIFVMQl9FTkFCTEVEX1ZJU0lUT1JfVFlQRVMgPSB7CiAgICAgICAgKFZpc2l0b3JUeXBlLkFDUVVJUkVELCBWaXNpdG9yVHlwZS5BQ1RJVkFURUQpOiBWaXNpdG9yVHlwZS5BQ1FVSVJFRF9BQ1RJVkFURUQsCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBWaXNpdG9yVHlwZS5ORVc6IFZpc2l0b3JUeXBlIAogICAgICAgIFZpc2l0b3JUeXBlLlJFVFVSTklORzogVmlzaXRvclR5cGUuTkVXX1JFVFVSTklORywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmNsYXNzIEN1c3RvbWVyRGV0YWlsc1JldHJpZXZhbEV4Y2VwdGlvbihBZ2dyZWdhdGlvbkV4Y2VwdGlvbik6CiAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBWaXNpdG9yVHlwZS5ORVc6ICdOZXdSZXR1cm5pbmcnLAogICAgICAgICdBY3F1aXJlZEFjdGl2YXRlZCcsCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -959,7 +953,6 @@ Perigol</text>
         <entry encoding="base64">JzwsJz5zL2d1aWRzL2lkcw==</entry>
         <entry encoding="base64">JzwsJz4lcy9cJy9cIi8=</entry>
         <entry>split</entry>
-        <entry>vsplit</entry>
         <entry>e</entry>
         <entry>:w</entry>
         <entry>q</entry>
@@ -968,6 +961,7 @@ Perigol</text>
         <entry encoding="base64">JzwsJz5zL1xyLywv</entry>
         <entry encoding="base64">JzwsJz5zL1xuXHIvLC8=</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>vsplit</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
