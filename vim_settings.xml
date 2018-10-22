@@ -382,6 +382,12 @@
         <mark key="." line="52" column="39" />
         <mark key="^" line="52" column="39" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.txt" timestamp="1540232018077">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="27" column="37" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="27" column="37" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.json" timestamp="1535729489018">
         <mark key="[" line="8" column="36" />
         <mark key="]" line="8" column="338" />
@@ -871,13 +877,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ulb_linreg_model</text>
+        <text>p</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>ulb_linreg_model</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>NEW</text>
@@ -913,7 +919,7 @@
         <text encoding="base64">ICAgICMgWEdCb29zdCBNb2RlbHMKICAgIFVMQl9BUFBORVhVU19XRlVTX05FV1JFVFVSTklOR19ERVNLVE9QID0gbW9kZWxfc3RvcmFnZSgKICAgICAgICBfVUxCX01PREVMX1RFTVBMQVRFLmZvcm1hdCgKICAgICAgICAgICAgc3RvcmVfaWQ9NDksCiAgICAgICAgICAgIHZpc2l0b3JfdHlwZT0nTmV3UmV0dXJuaW5nJywKICAgICAgICAgICAgcGxhdGZvcm09J0Rlc2t0b3AnLAogICAgICAgICAgICB2ZW5kb3I9J0FwcE5leHVzJwogICAgICAgICksCiAgICAgICAgJ3YxJwogICAgKQogICAgVUxCX0FQUE5FWFVTX1dGVVNfQUNRVUlSRURBQ1RJVkFURURfREVTS1RPUCA9IG1vZGVsX3N0b3JhZ2UoCiAgICAgICAgX1VMQl9NT0RFTF9URU1QTEFURS5mb3JtYXQoCiAgICAgICAgICAgIHN0b3JlX2lkPTQ5LAogICAgICAgICAgICB2aXNpdG9yX3R5cGU9J0FjcXVpcmVkQWN0aXZhdGVkJywKICAgICAgICAgICAgcGxhdGZvcm09J0Rlc2t0b3AnLAogICAgICAgICAgICB2ZW5kb3I9J0FwcE5leHVzJwogICAgICAgICksCiAgICAgICAgJ3YyJwogICAgKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
     </registers>
     <search>
@@ -967,8 +973,8 @@
         <entry encoding="base64">JzwsJz5zL1xuXHIvLC8=</entry>
         <entry>vsplit</entry>
         <entry encoding="base64">JzwsJz5zb3J0cg==</entry>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
