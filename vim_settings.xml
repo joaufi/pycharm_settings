@@ -12,12 +12,11 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/utilities.py" timestamp="1540488458942">
-        <mark key="'" line="72" column="25" />
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="5" column="76" />
-        <mark key="." line="5" column="76" />
-        <mark key="^" line="5" column="76" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/utilities.py" timestamp="1540495194794">
+        <mark key="'" line="69" column="25" />
+        <mark key="]" line="38" column="11" />
+        <mark key="." line="38" column="11" />
+        <mark key="^" line="38" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/local.default.py" timestamp="1538506238142">
         <mark key="'" line="29" column="16" />
@@ -104,6 +103,13 @@
         <mark key="." line="53" column="35" />
         <mark key="^" line="53" column="35" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/configured_hive_operator.py" timestamp="1540495670538">
+        <mark key="'" line="69" column="58" />
+        <mark key="[" line="134" column="19" />
+        <mark key="]" line="135" column="7" />
+        <mark key="^" line="135" column="7" />
+        <mark key="." line="135" column="7" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/daos/redis_dao.py" timestamp="1536678419877">
         <mark key="'" line="49" column="32" />
         <mark key="[" line="20" column="13" />
@@ -157,12 +163,12 @@
         <mark key="^" line="303" column="19" />
         <mark key="." line="303" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" timestamp="1540492560677">
-        <mark key="'" line="80" column="4" />
-        <mark key="[" line="51" column="14" />
-        <mark key="]" line="51" column="14" />
-        <mark key="." line="51" column="14" />
-        <mark key="^" line="51" column="14" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" timestamp="1540495992460">
+        <mark key="'" line="134" column="21" />
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="201" column="0" />
+        <mark key="." line="201" column="0" />
+        <mark key="^" line="84" column="24" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/dev.py" timestamp="1540493422744">
         <mark key="'" line="43" column="27" />
@@ -274,10 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="12" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/event_business_model.py" />
-      <jump line="108" column="12" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/event_business_model.py" />
-      <jump line="54" column="45" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/event_business_model.py" />
-      <jump line="134" column="10" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="222" column="47" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="31" column="20" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.json" />
       <jump line="155" column="21" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/devicemap/routes.py" />
@@ -333,10 +335,7 @@
       <jump line="124" column="4" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
       <jump line="93" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
       <jump line="136" column="4" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
-      <jump line="101" column="4" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
       <jump line="122" column="4" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
-      <jump line="134" column="4" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
-      <jump line="80" column="4" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
       <jump line="163" column="19" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="101" column="32" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="118" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
@@ -374,58 +373,65 @@
       <jump line="32" column="21" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/dev.py" />
       <jump line="47" column="24" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/dev.py" />
       <jump line="43" column="27" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/dev.py" />
+      <jump line="69" column="58" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/configured_hive_operator.py" />
+      <jump line="137" column="20" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
+      <jump line="80" column="21" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
+      <jump line="100" column="4" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
+      <jump line="101" column="21" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
+      <jump line="121" column="4" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
+      <jump line="134" column="21" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZpbmlzaF90ZW1wb3JhcnlfdGFibGVzX3BvcHVsYXRpb25fdGFzayA+PgogICAgcG9wdWxhdGVfZmFjdHNfdGFibGVzX3Rhc2tzID4+CiAgICBmaW5pc2hfZmFjdHNfdGFibGVzX3BvcHVsYXRpb25fdGFzayA+Pgo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>bosql24</text>
+        <text>HIVE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YWxlbWJpYz09MC44LjEwCmFtcXA9PTIuMi4yCmFueWpzb249PTAuMy4zCmFwYWNoZS1haXJmbG93PT0xLjkuMC4wLjMKYXBwZGlycz09MS40LjMKYXNuMWNyeXB0bz09MC4yNC4wCkJhYmVsPT0yLjUuMwpiYWNrcG9ydHMtYWJjPT0wLjUKYmFja3BvcnRzLnNzbC1tYXRjaC1ob3N0bmFtZT09My41LjAuMQpiY3J5cHQ9PTMuMS40CmJpbGxpYXJkPT0zLjUuMC4zCmJpdGFycmF5PT0wLjguMQpibGVhY2g9PTIuMS4yCmNlbGVyeT09NC4xLjAKY2VydGlmaT09MjAxOC40LjE2CmNoYXJkZXQ9PTMuMC40CmNmZmk9PTEuMTEuNApjaGFydGtpY2s9PTAuNC4yCmNsaWNrPT02LjcKY29uZmlncGFyc2VyPT0zLjUuMApjcm9uaXRlcj09MC4zLjIwCmNyeXB0b2dyYXBoeT09Mi4xLjQKZGlsbD09MC4yLjcuMQpkb2N1dGlscz09MC4xNAplbnVtMzQ9PTEuMS42CmV2ZW50bGV0PT0wLjIyLjAKZmFjZWJvb2thZHM9PTIuMTEuNApmYWNlYm9vay1zZGs9PTAuNC4wCkZsYXNrPT0wLjExLjEKRmxhc2stQWRtaW49PTEuNC4xCkZsYXNrLUJjcnlwdD09MC43LjEKRmxhc2stQ2FjaGU9PTAuMTMuMQpGbGFzay1Mb2dpbj09MC4yLjExCmZsYXNrLXN3YWdnZXI9PTAuMi4xMwpGbGFzay1XVEY9PTAuMTQKZmxvd2VyPT0wLjkuMgpmdW5jc2lncz09MS4wLjAKZnV0dXJlPT0wLjE2LjAKZnV0dXJlcz09My4yLjAKZnV6enl3dXp6eT09MC4xNS4wCmdldmVudD09MS4yLjIKZ2l0ZGIyPT0yLjAuMwpHaXRQeXRob249PTIuMS44Cmdvb2dsZWFkcz09NS42LjAKZ3JheXB5PT0wLjIuMTIKZ3JlZW5sZXQ9PTAuNC4xMgpndW5pY29ybj09MTkuNy4xCmhpdmUtdGhyaWZ0LXB5PT0wLjAuMQpodG1sNWxpYj09MS4wLjEKaHR0cGxpYjI9PTAuMTAuMwppZG5hPT0yLjYKaW5mbHV4ZGI9PTUuMC4wCmltcHlsYT09MC4xNC4wCmlwYWRkcmVzcz09MS4wLjE5Cml0c2Rhbmdlcm91cz09MC4yNApKYXlEZUJlQXBpPT0wLjIuMApKaW5qYTI9PTIuOC4xCkpQeXBlMT09MC42LjEKa29tYnU9PTQuMS4wCmxkYT09MS4wLjQKbGRhcDM9PTIuNC4xCmxpYnJhYmJpdG1xPT0xLjYuMQpsaWZlbGluZXM9PTAuMTEuMgpMaWZldGltZXM9PTAuOC4xLjAuMgpsb2NrZmlsZT09MC4xMi4yCmx4bWw9PTMuOC4wCm1haWxlcj09MC43Ck1ha289PTEuMC43Cm1hcmlzYS10cmllPT0wLjcuMgpNYXJrZG93bj09Mi42LjExCk1hcmt1cFNhZmU9PTEuMApteXNxbGNsaWVudD09MS4zLjcKTXlTUUwtcHl0aG9uPT0xLjIuNQpubHRrPT0zLjEKbnVtcHk9PTEuMTQuMApvYXV0aDJjbGllbnQ9PTQuMS4xCm9yZGVyZWRkaWN0PT0xLjEKcGFja2FnaW5nPT0xNi44CnBhbmRhcz09MC4yMi4wCnBhcmFtaWtvPT0yLjEuMgpwYnI9PTEuMTAuMApwaXBkZXB0cmVlPT0wLjEwLjEKcHJvdG9idWY9PTMuNS4xCnBzdXRpbD09NC40LjIKcHlhZXM9PTEuNi4wCnB5YXJyb3c9PTAuOC4wCnB5YXNuMT09MC40LjIKcHlhc24xLW1vZHVsZXM9PTAuMC45CnB5Y3BhcnNlcj09Mi4xOApweWNyeXB0bz09Mi42LjEKUHlnbWVudHM9PTIuMi4wClB5SGl2ZT09MC4yLjAKcHltc3NxbD09Mi4xLjIKUHlNeVNRTD09MC43LjQKcHlvZGJjPT0zLjAuMTAKcHlwYXJzaW5nPT0yLjEuMTAKcHlzZnRwPT0wLjIuOQpQeVNvY2tzPT0xLjYuNwpweXRob24tZGFlbW9uPT0yLjEuMgpweXRob24tZGF0ZXV0aWw9PTIuNy4yCnB5dGhvbi1lZGl0b3I9PTEuMC4zCnB5dGhvbi1MZXZlbnNodGVpbj09MC4xMi4wCnB5dGhvbi1udmQzPT0wLjE0LjIKcHl0aG9uLXNsdWdpZnk9PTEuMS40CnB5dHo9PTIwMTcuMwpQeVlBTUw9PTMuMTIKcXVhbG5hbWU9PTAuMS4wCnF1ZXJ5LWdlbmVyYXRvcj09OS4wLjIKcmVkaXM9PTIuMTAuNQpyZXF1ZXN0cz09Mi4xOC40CnJzYT09My40LjIKc2FzbD09MC4yLjEKc2Npa2l0LWxlYXJuPT0wLjE2LjEKc2NpcHk9PTAuMTcuMApzZXRwcm9jdGl0bGU9PTEuMS4xMApzaW5nbGVkaXNwYXRjaD09My40LjAuMwpzaXg9PTEuMTEuMApzbGFja2NsaWVudD09MS4wLjAKc21tYXAyPT0yLjAuMwpzbmFrZWJpdGU9PTIuMTEuMApzb2xycHk9PTAuOS43ClNRTEFsY2hlbXk9PTEuMi4yCnN0YXRzZD09My4yLjEKc3Vkcy1qdXJrbz09MC42CnRhYnVsYXRlPT0wLjcuNwp0aHJpZnQ9PTAuOS4zCnRocmlmdC1zYXNsPT0wLjIuMQp0bGRleHRyYWN0PT0xLjEuMwp0b3JuYWRvPT00LjUuMwp0d2VtcHJveHlweT09MC40LjAKdW5pY29kZWNzdj09MC4xNC4xClVuaWRlY29kZT09MS4wLjIyCnVybGxpYjM9PTEuMjIKdmVydGljYS1weXRob249PTAuNi4zCnZpbmU9PTEuMS40CndheWZhaXJ1dGlsPT0wLjUuMTgKd2ViZW5jb2RpbmdzPT0wLjUuMQp3ZWJzb2NrZXQtY2xpZW50PT0wLjM3LjAKd2YtY29uZmlnPT0wLjMuMQp3Zi1zZWNyZXRzPT0wLjIuMgp3Zi1zdGF0cz09MC4yLjEKV2Vya3pldWc9PTAuMTQuMQpXVEZvcm1zPT0yLjEKeG1sdG9kaWN0PT0wLjExLjAKem9wZS5kZXByZWNhdGlvbj09NC4zLjAK</text>
+        <text encoding="base64">ICAgIHVzZV9kYXNfY2x1c3Rlcj1UcnVlLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpbmlzaF90ZW1wb3JhcnlfdGFibGVzX3BvcHVsYXRpb25fdGFzayA+PgogICAgcG9wdWxhdGVfZmFjdHNfdGFibGVzX3Rhc2tzID4+CiAgICBmaW5pc2hfZmFjdHNfdGFibGVzX3BvcHVsYXRpb25fdGFzayA+Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpbmlzaF90ZW1wb3JhcnlfdGFibGVzX3BvcHVsYXRpb25fdGFzayA+PgogICAgcG9wdWxhdGVfZmFjdHNfdGFibGVzX3Rhc2tzID4+CiAgICBmaW5pc2hfZmFjdHNfdGFibGVzX3BvcHVsYXRpb25fdGFzayA+PgogICAgaW5mb19hbmRfYWxlcnRpbmdfdGFza3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGluX21hcmtldF9iYXRjaF9zY29yaW5nX3Rhc2sgPj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWxlbWJpYz09MC44LjEwCmFtcXA9PTIuMi4yCmFueWpzb249PTAuMy4zCmFwYWNoZS1haXJmbG93PT0xLjkuMC4wLjIKYXBwZGlycz09MS40LjMKYXNuMWNyeXB0bz09MC4yNC4wCkJhYmVsPT0yLjUuMwpiYWNrcG9ydHMtYWJjPT0wLjUKYmFja3BvcnRzLnNzbC1tYXRjaC1ob3N0bmFtZT09My41LjAuMQpiY3J5cHQ9PTMuMS40CmJpbGxpYXJkPT0zLjUuMC4zCmJpdGFycmF5PT0wLjguMQpibGVhY2g9PTIuMS4yCmNlbGVyeT09NC4xLjAKY2VydGlmaT09MjAxOC4xLjE4CmNoYXJkZXQ9PTMuMC40CmNmZmk9PTEuMTEuNApjaGFydGtpY2s9PTAuNC4yCmNsaWNrPT02LjcKY29uZmlncGFyc2VyPT0zLjUuMApjcm9uaXRlcj09MC4zLjIwCmNyeXB0b2dyYXBoeT09Mi4xLjQKZGlsbD09MC4yLjcuMQpkb2N1dGlscz09MC4xNAplbnVtMzQ9PTEuMS42CmV2ZW50bGV0PT0wLjIyLjAKZmFjZWJvb2thZHM9PTIuMTAuMQpmYWNlYm9vay1zZGs9PTAuNC4wCkZsYXNrPT0wLjExLjEKRmxhc2stQWRtaW49PTEuNC4xCkZsYXNrLUJjcnlwdD09MC43LjEKRmxhc2stQ2FjaGU9PTAuMTMuMQpGbGFzay1Mb2dpbj09MC4yLjExCmZsYXNrLXN3YWdnZXI9PTAuMi4xMwpGbGFzay1XVEY9PTAuMTQKZmxvd2VyPT0wLjkuMgpmdW5jc2lncz09MS4wLjAKZnV0dXJlPT0wLjE2LjAKZnV0dXJlcz09My4yLjAKZnV6enl3dXp6eT09MC4xNS4wCmdldmVudD09MS4yLjIKZ2l0ZGIyPT0yLjAuMwpHaXRQeXRob249PTIuMS44Cmdvb2dsZWFkcz09NS42LjAKZ3JheXB5PT0wLjIuMTIKZ3JlZW5sZXQ9PTAuNC4xMgpndW5pY29ybj09MTkuNy4xCmhpdmUtdGhyaWZ0LXB5PT0wLjAuMQpodG1sNWxpYj09MS4wLjEKaHR0cGxpYjI9PTAuMTAuMwppZG5hPT0yLjYKaW1weWxhPT0wLjE0LjAKaXBhZGRyZXNzPT0xLjAuMTkKaXRzZGFuZ2Vyb3VzPT0wLjI0CkpheURlQmVBcGk9PTAuMi4wCkppbmphMj09Mi44LjEKSlB5cGUxPT0wLjYuMQprb21idT09NC4xLjAKbGRhPT0xLjAuNApsZGFwMz09Mi40LjEKbGlicmFiYml0bXE9PTEuNi4xCmxpZmVsaW5lcz09MC4xMS4yCkxpZmV0aW1lcz09MC44LjEuMC4yCmxvY2tmaWxlPT0wLjEyLjIKbHhtbD09My44LjAKbWFpbGVyPT0wLjcKTWFrbz09MS4wLjcKbWFyaXNhLXRyaWU9PTAuNy4yCk1hcmtkb3duPT0yLjYuMTEKTWFya3VwU2FmZT09MS4wCm15c3FsY2xpZW50PT0xLjMuNwpNeVNRTC1weXRob249PTEuMi41Cm5sdGs9PTMuMQpudW1weT09MS4xNC4wCm9hdXRoMmNsaWVudD09NC4xLjEKb3JkZXJlZGRpY3Q9PTEuMQpwYWNrYWdpbmc9PTE2LjgKcGFuZGFzPT0wLjIyLjAKcGFyYW1pa289PTIuMS4yCnBicj09MS4xMC4wCnBpcGRlcHRyZWU9PTAuMTAuMQpwcm90b2J1Zj09My41LjEKcHN1dGlsPT00LjQuMgpweWFlcz09MS42LjAKcHlhcnJvdz09MC44LjAKcHlhc24xPT0wLjQuMgpweWFzbjEtbW9kdWxlcz09MC4wLjkKcHljcGFyc2VyPT0yLjE4CnB5Y3J5cHRvPT0yLjYuMQpQeWdtZW50cz09Mi4yLjAKUHlIaXZlPT0wLjUuMApweW1zc3FsPT0yLjEuMy4wLjAuMQpQeU15U1FMPT0wLjcuNApweW9kYmM9PTMuMC4xMApweXBhcnNpbmc9PTIuMS4xMApweXNmdHA9PTAuMi45ClB5U29ja3M9PTEuNi43CnB5dGhvbi1kYWVtb249PTIuMS4yCnB5dGhvbi1kYXRldXRpbD09Mi42LjEKcHl0aG9uLWVkaXRvcj09MS4wLjMKcHl0aG9uLUxldmVuc2h0ZWluPT0wLjEyLjAKcHl0aG9uLW52ZDM9PTAuMTQuMgpweXRob24tc2x1Z2lmeT09MS4xLjQKcHl0ej09MjAxNy4zClB5WUFNTD09My4xMgpxdWVyeS1nZW5lcmF0b3I9PTkuMC4yCnJlZGlzPT0yLjEwLjUKcmVxdWVzdHM9PTIuMTguNApyc2E9PTMuNC4yCnNhc2w9PTAuMi4xCnNjaWtpdC1sZWFybj09MC4xNi4xCnNjaXB5PT0wLjE3LjAKc2V0cHJvY3RpdGxlPT0xLjEuMTAKc2luZ2xlZGlzcGF0Y2g9PTMuNC4wLjMKc2l4PT0xLjEwLjAKc2xhY2tjbGllbnQ9PTEuMC4wCnNtbWFwMj09Mi4wLjMKc25ha2ViaXRlPT0yLjExLjAKc29scnB5PT0wLjkuNwpTUUxBbGNoZW15PT0xLjIuMgpzdGF0c2Q9PTMuMi4xCnN1ZHMtanVya289PTAuNgp0YWJ1bGF0ZT09MC43LjcKdGhyaWZ0PT0wLjkuMwp0aHJpZnQtc2FzbD09MC4yLjEKdGxkZXh0cmFjdD09MS4xLjMKdG9ybmFkbz09NC41LjMKdHdlbXByb3h5cHk9PTAuNC4wCnVuaWNvZGVjc3Y9PTAuMTQuMQpVbmlkZWNvZGU9PTEuMC4yMgp1cmxsaWIzPT0xLjIyCnZlcnRpY2EtcHl0aG9uPT0wLjYuMwp2aW5lPT0xLjEuNAp3YXlmYWlydXRpbD09MC41LjE4CndlYmVuY29kaW5ncz09MC41LjEKd2Vic29ja2V0LWNsaWVudD09MC4zNy4wCndmLWNvbmZpZz09MC4xLjAKd2Ytc2VjcmV0cz09MC4yLjIKV2Vya3pldWc9PTAuMTQuMQpXVEZvcm1zPT0yLjEKeG1sdG9kaWN0PT0wLjExLjAKem9wZS5kZXByZWNhdGlvbj09NC4zLjAK</text>
+        <text encoding="base64">ICAgIHBvcHVsYXRlX2luX21hcmtldF9mZWF0dXJlc190YWJsZV90YXNrID4+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWxlbWJpYz09MC44LjEwCmFtcXA9PTIuMi4yCmFueWpzb249PTAuMy4zCmFwYWNoZS1haXJmbG93PT0xLjkuMC4wLjIKYXBwZGlycz09MS40LjMKYXNuMWNyeXB0bz09MC4yNC4wCkJhYmVsPT0yLjUuMwpiYWNrcG9ydHMtYWJjPT0wLjUKYmFja3BvcnRzLnNzbC1tYXRjaC1ob3N0bmFtZT09My41LjAuMQpiY3J5cHQ9PTMuMS40CmJpbGxpYXJkPT0zLjUuMC4zCmJpdGFycmF5PT0wLjguMQpibGVhY2g9PTIuMS4yCmNlbGVyeT09NC4xLjAKY2VydGlmaT09MjAxOC4xLjE4CmNoYXJkZXQ9PTMuMC40CmNmZmk9PTEuMTEuNApjaGFydGtpY2s9PTAuNC4yCmNsaWNrPT02LjcKY29uZmlncGFyc2VyPT0zLjUuMApjcm9uaXRlcj09MC4zLjIwCmNyeXB0b2dyYXBoeT09Mi4xLjQKZGlsbD09MC4yLjcuMQpkb2N1dGlscz09MC4xNAplbnVtMzQ9PTEuMS42CmV2ZW50bGV0PT0wLjIyLjAKZmFjZWJvb2thZHM9PTIuMTAuMQpmYWNlYm9vay1zZGs9PTAuNC4wCkZsYXNrPT0wLjExLjEKRmxhc2stQWRtaW49PTEuNC4xCkZsYXNrLUJjcnlwdD09MC43LjEKRmxhc2stQ2FjaGU9PTAuMTMuMQpGbGFzay1Mb2dpbj09MC4yLjExCmZsYXNrLXN3YWdnZXI9PTAuMi4xMwpGbGFzay1XVEY9PTAuMTQKZmxvd2VyPT0wLjkuMgpmdW5jc2lncz09MS4wLjAKZnV0dXJlPT0wLjE2LjAKZnV0dXJlcz09My4yLjAKZnV6enl3dXp6eT09MC4xNS4wCmdldmVudD09MS4yLjIKZ2l0ZGIyPT0yLjAuMwpHaXRQeXRob249PTIuMS44Cmdvb2dsZWFkcz09NS42LjAKZ3JheXB5PT0wLjIuMTIKZ3JlZW5sZXQ9PTAuNC4xMgpndW5pY29ybj09MTkuNy4xCmhpdmUtdGhyaWZ0LXB5PT0wLjAuMQpodG1sNWxpYj09MS4wLjEKaHR0cGxpYjI9PTAuMTAuMwppZG5hPT0yLjYKaW1weWxhPT0wLjE0LjAKaXBhZGRyZXNzPT0xLjAuMTkKaXRzZGFuZ2Vyb3VzPT0wLjI0CkpheURlQmVBcGk9PTAuMi4wCkppbmphMj09Mi44LjEKSlB5cGUxPT0wLjYuMQprb21idT09NC4xLjAKbGRhPT0xLjAuNApsZGFwMz09Mi40LjEKbGlicmFiYml0bXE9PTEuNi4xCmxpZmVsaW5lcz09MC4xMS4yCkxpZmV0aW1lcz09MC44LjEuMC4yCmxvY2tmaWxlPT0wLjEyLjIKbHhtbD09My44LjAKbWFpbGVyPT0wLjcKTWFrbz09MS4wLjcKbWFyaXNhLXRyaWU9PTAuNy4yCk1hcmtkb3duPT0yLjYuMTEKTWFya3VwU2FmZT09MS4wCm15c3FsY2xpZW50PT0xLjMuNwpNeVNRTC1weXRob249PTEuMi41Cm5sdGs9PTMuMQpudW1weT09MS4xNC4wCm9hdXRoMmNsaWVudD09NC4xLjEKb3JkZXJlZGRpY3Q9PTEuMQpwYWNrYWdpbmc9PTE2LjgKcGFuZGFzPT0wLjIyLjAKcGFyYW1pa289PTIuMS4yCnBicj09MS4xMC4wCnBpcGRlcHRyZWU9PTAuMTAuMQpwcm90b2J1Zj09My41LjEKcHN1dGlsPT00LjQuMgpweWFlcz09MS42LjAKcHlhcnJvdz09MC44LjAKcHlhc24xPT0wLjQuMgpweWFzbjEtbW9kdWxlcz09MC4wLjkKcHljcGFyc2VyPT0yLjE4CnB5Y3J5cHRvPT0yLjYuMQpQeWdtZW50cz09Mi4yLjAKUHlIaXZlPT0wLjUuMApweW1zc3FsPT0yLjEuMy4wLjAuMQpQeU15U1FMPT0wLjcuNApweW9kYmM9PTMuMC4xMApweXBhcnNpbmc9PTIuMS4xMApweXNmdHA9PTAuMi45ClB5U29ja3M9PTEuNi43CnB5dGhvbi1kYWVtb249PTIuMS4yCnB5dGhvbi1kYXRldXRpbD09Mi42LjEKcHl0aG9uLWVkaXRvcj09MS4wLjMKcHl0aG9uLUxldmVuc2h0ZWluPT0wLjEyLjAKcHl0aG9uLW52ZDM9PTAuMTQuMgpweXRob24tc2x1Z2lmeT09MS4xLjQKcHl0ej09MjAxNy4zClB5WUFNTD09My4xMgpxdWVyeS1nZW5lcmF0b3I9PTkuMC4yCnJlZGlzPT0yLjEwLjUKcmVxdWVzdHM9PTIuMTguNApyc2E9PTMuNC4yCnNhc2w9PTAuMi4xCnNjaWtpdC1sZWFybj09MC4xNi4xCnNjaXB5PT0wLjE3LjAKc2V0cHJvY3RpdGxlPT0xLjEuMTAKc2luZ2xlZGlzcGF0Y2g9PTMuNC4wLjMKc2l4PT0xLjEwLjAKc2xhY2tjbGllbnQ9PTEuMC4wCnNtbWFwMj09Mi4wLjMKc25ha2ViaXRlPT0yLjExLjAKc29scnB5PT0wLjkuNwpTUUxBbGNoZW15PT0xLjIuMgpzdGF0c2Q9PTMuMi4xCnN1ZHMtanVya289PTAuNgp0YWJ1bGF0ZT09MC43LjcKdGhyaWZ0PT0wLjkuMwp0aHJpZnQtc2FzbD09MC4yLjEKdGxkZXh0cmFjdD09MS4xLjMKdG9ybmFkbz09NC41LjMKdHdlbXByb3h5cHk9PTAuNC4wCnVuaWNvZGVjc3Y9PTAuMTQuMQpVbmlkZWNvZGU9PTEuMC4yMgp1cmxsaWIzPT0xLjIyCnZlcnRpY2EtcHl0aG9uPT0wLjYuMwp2aW5lPT0xLjEuNAp3YXlmYWlydXRpbD09MC41LjE4CndlYmVuY29kaW5ncz09MC41LjEKd2Vic29ja2V0LWNsaWVudD09MC4zNy4wCndmLWNvbmZpZz09MC4xLjAKd2Ytc2VjcmV0cz09MC4yLjIKV2Vya3pldWc9PTAuMTQuMQpXVEZvcm1zPT0yLjEKeG1sdG9kaWN0PT0wLjExLjAKem9wZS5kZXByZWNhdGlvbj09NC4zLjAK</text>
+        <text encoding="base64">ICAgIHBvcHVsYXRlX2luX21hcmtldF90YWJsZXNfdGFza3MgPj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBvcHVsYXRlX3RlbXBvcmFyeV90YWJsZXNfdGFza3MgPj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhY3R1YWwpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEhJVkVfUVVFUllfT1dORVIsCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMjAuMCwgMTAuMCwgMy41LCAzLjAsIDkuNSwgNS4wLCA1LjUsIDAuMCwgICMgMzAgZGF5CiAgICAgICAgICAgIDAuMCwgNjEuMCwgMS4wLCAgIyB2aXNpdG9yIHR5cGUK</text>
+        <text encoding="base64">ICAgIEhJVkVfUVVFUllfT1dORVIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>bosql24</last-search>
+      <last-search>HIVE</last-search>
       <last-offset />
-      <last-pattern>bosql24</last-pattern>
+      <last-pattern>HIVE</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -433,9 +439,6 @@
     </search>
     <history>
       <history-search>
-        <entry>NEW</entry>
-        <entry>memory</entry>
-        <entry>use_spark_exec</entry>
         <entry>ModelSto</entry>
         <entry>nbew</entry>
         <entry>new</entry>
@@ -453,6 +456,9 @@
         <entry>user_level</entry>
         <entry>bosqlc4</entry>
         <entry>bosql24</entry>
+        <entry>ovr</entry>
+        <entry>over</entry>
+        <entry>HIVE</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
@@ -464,7 +470,6 @@
         <entry>qa</entry>
         <entry encoding="base64">JzwsJz5zL1xyLywv</entry>
         <entry encoding="base64">JzwsJz5zL1xuXHIvLC8=</entry>
-        <entry>vsplit</entry>
         <entry encoding="base64">JzwsJz5zb3J0cg==</entry>
         <entry>split</entry>
         <entry encoding="base64">JzwsJz5hb2Vy</entry>
@@ -473,6 +478,7 @@
         <entry>we</entry>
         <entry>W</entry>
         <entry>q</entry>
+        <entry>vsplit</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>w</entry>
       </history-cmd>
