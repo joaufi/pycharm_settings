@@ -164,6 +164,9 @@
         <mark key="." line="51" column="14" />
         <mark key="^" line="51" column="14" />
       </file>
+      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/dev.py" timestamp="1540493422744">
+        <mark key="'" line="43" column="27" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/style.sql" timestamp="1536783652115">
         <mark key="'" line="8" column="1" />
         <mark key="[" line="4" column="0" />
@@ -253,7 +256,6 @@
         <mark key="." line="10" column="34" />
         <mark key="^" line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/viewed_skus_by_device_guid.sql" timestamp="1540228762542" />
       <file name="/Dummy.txt" timestamp="1540485488102">
         <mark key="[" line="0" column="0" />
       </file>
@@ -272,9 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="66" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/event_business_model.py" />
-      <jump line="111" column="44" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/event_business_model.py" />
-      <jump line="70" column="41" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/event_business_model.py" />
       <jump line="86" column="12" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/event_business_model.py" />
       <jump line="108" column="12" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/event_business_model.py" />
       <jump line="54" column="45" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/event_business_model.py" />
@@ -372,6 +371,9 @@
       <jump line="0" column="14" filename="$USER_HOME$/repositories/puppet/modules/airflow/files/requirements.lock" />
       <jump line="75" column="15" filename="$USER_HOME$/repositories/airflow-dags/requirements-airflow.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/airflow-dags/requirements-airflow.txt" />
+      <jump line="32" column="21" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/dev.py" />
+      <jump line="47" column="24" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/dev.py" />
+      <jump line="43" column="27" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/dev.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -384,7 +386,7 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>user_level</text>
+        <text>bosql24</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YWxlbWJpYz09MC44LjEwCmFtcXA9PTIuMi4yCmFueWpzb249PTAuMy4zCmFwYWNoZS1haXJmbG93PT0xLjkuMC4wLjMKYXBwZGlycz09MS40LjMKYXNuMWNyeXB0bz09MC4yNC4wCkJhYmVsPT0yLjUuMwpiYWNrcG9ydHMtYWJjPT0wLjUKYmFja3BvcnRzLnNzbC1tYXRjaC1ob3N0bmFtZT09My41LjAuMQpiY3J5cHQ9PTMuMS40CmJpbGxpYXJkPT0zLjUuMC4zCmJpdGFycmF5PT0wLjguMQpibGVhY2g9PTIuMS4yCmNlbGVyeT09NC4xLjAKY2VydGlmaT09MjAxOC40LjE2CmNoYXJkZXQ9PTMuMC40CmNmZmk9PTEuMTEuNApjaGFydGtpY2s9PTAuNC4yCmNsaWNrPT02LjcKY29uZmlncGFyc2VyPT0zLjUuMApjcm9uaXRlcj09MC4zLjIwCmNyeXB0b2dyYXBoeT09Mi4xLjQKZGlsbD09MC4yLjcuMQpkb2N1dGlscz09MC4xNAplbnVtMzQ9PTEuMS42CmV2ZW50bGV0PT0wLjIyLjAKZmFjZWJvb2thZHM9PTIuMTEuNApmYWNlYm9vay1zZGs9PTAuNC4wCkZsYXNrPT0wLjExLjEKRmxhc2stQWRtaW49PTEuNC4xCkZsYXNrLUJjcnlwdD09MC43LjEKRmxhc2stQ2FjaGU9PTAuMTMuMQpGbGFzay1Mb2dpbj09MC4yLjExCmZsYXNrLXN3YWdnZXI9PTAuMi4xMwpGbGFzay1XVEY9PTAuMTQKZmxvd2VyPT0wLjkuMgpmdW5jc2lncz09MS4wLjAKZnV0dXJlPT0wLjE2LjAKZnV0dXJlcz09My4yLjAKZnV6enl3dXp6eT09MC4xNS4wCmdldmVudD09MS4yLjIKZ2l0ZGIyPT0yLjAuMwpHaXRQeXRob249PTIuMS44Cmdvb2dsZWFkcz09NS42LjAKZ3JheXB5PT0wLjIuMTIKZ3JlZW5sZXQ9PTAuNC4xMgpndW5pY29ybj09MTkuNy4xCmhpdmUtdGhyaWZ0LXB5PT0wLjAuMQpodG1sNWxpYj09MS4wLjEKaHR0cGxpYjI9PTAuMTAuMwppZG5hPT0yLjYKaW5mbHV4ZGI9PTUuMC4wCmltcHlsYT09MC4xNC4wCmlwYWRkcmVzcz09MS4wLjE5Cml0c2Rhbmdlcm91cz09MC4yNApKYXlEZUJlQXBpPT0wLjIuMApKaW5qYTI9PTIuOC4xCkpQeXBlMT09MC42LjEKa29tYnU9PTQuMS4wCmxkYT09MS4wLjQKbGRhcDM9PTIuNC4xCmxpYnJhYmJpdG1xPT0xLjYuMQpsaWZlbGluZXM9PTAuMTEuMgpMaWZldGltZXM9PTAuOC4xLjAuMgpsb2NrZmlsZT09MC4xMi4yCmx4bWw9PTMuOC4wCm1haWxlcj09MC43Ck1ha289PTEuMC43Cm1hcmlzYS10cmllPT0wLjcuMgpNYXJrZG93bj09Mi42LjExCk1hcmt1cFNhZmU9PTEuMApteXNxbGNsaWVudD09MS4zLjcKTXlTUUwtcHl0aG9uPT0xLjIuNQpubHRrPT0zLjEKbnVtcHk9PTEuMTQuMApvYXV0aDJjbGllbnQ9PTQuMS4xCm9yZGVyZWRkaWN0PT0xLjEKcGFja2FnaW5nPT0xNi44CnBhbmRhcz09MC4yMi4wCnBhcmFtaWtvPT0yLjEuMgpwYnI9PTEuMTAuMApwaXBkZXB0cmVlPT0wLjEwLjEKcHJvdG9idWY9PTMuNS4xCnBzdXRpbD09NC40LjIKcHlhZXM9PTEuNi4wCnB5YXJyb3c9PTAuOC4wCnB5YXNuMT09MC40LjIKcHlhc24xLW1vZHVsZXM9PTAuMC45CnB5Y3BhcnNlcj09Mi4xOApweWNyeXB0bz09Mi42LjEKUHlnbWVudHM9PTIuMi4wClB5SGl2ZT09MC4yLjAKcHltc3NxbD09Mi4xLjIKUHlNeVNRTD09MC43LjQKcHlvZGJjPT0zLjAuMTAKcHlwYXJzaW5nPT0yLjEuMTAKcHlzZnRwPT0wLjIuOQpQeVNvY2tzPT0xLjYuNwpweXRob24tZGFlbW9uPT0yLjEuMgpweXRob24tZGF0ZXV0aWw9PTIuNy4yCnB5dGhvbi1lZGl0b3I9PTEuMC4zCnB5dGhvbi1MZXZlbnNodGVpbj09MC4xMi4wCnB5dGhvbi1udmQzPT0wLjE0LjIKcHl0aG9uLXNsdWdpZnk9PTEuMS40CnB5dHo9PTIwMTcuMwpQeVlBTUw9PTMuMTIKcXVhbG5hbWU9PTAuMS4wCnF1ZXJ5LWdlbmVyYXRvcj09OS4wLjIKcmVkaXM9PTIuMTAuNQpyZXF1ZXN0cz09Mi4xOC40CnJzYT09My40LjIKc2FzbD09MC4yLjEKc2Npa2l0LWxlYXJuPT0wLjE2LjEKc2NpcHk9PTAuMTcuMApzZXRwcm9jdGl0bGU9PTEuMS4xMApzaW5nbGVkaXNwYXRjaD09My40LjAuMwpzaXg9PTEuMTEuMApzbGFja2NsaWVudD09MS4wLjAKc21tYXAyPT0yLjAuMwpzbmFrZWJpdGU9PTIuMTEuMApzb2xycHk9PTAuOS43ClNRTEFsY2hlbXk9PTEuMi4yCnN0YXRzZD09My4yLjEKc3Vkcy1qdXJrbz09MC42CnRhYnVsYXRlPT0wLjcuNwp0aHJpZnQ9PTAuOS4zCnRocmlmdC1zYXNsPT0wLjIuMQp0bGRleHRyYWN0PT0xLjEuMwp0b3JuYWRvPT00LjUuMwp0d2VtcHJveHlweT09MC40LjAKdW5pY29kZWNzdj09MC4xNC4xClVuaWRlY29kZT09MS4wLjIyCnVybGxpYjM9PTEuMjIKdmVydGljYS1weXRob249PTAuNi4zCnZpbmU9PTEuMS40CndheWZhaXJ1dGlsPT0wLjUuMTgKd2ViZW5jb2RpbmdzPT0wLjUuMQp3ZWJzb2NrZXQtY2xpZW50PT0wLjM3LjAKd2YtY29uZmlnPT0wLjMuMQp3Zi1zZWNyZXRzPT0wLjIuMgp3Zi1zdGF0cz09MC4yLjEKV2Vya3pldWc9PTAuMTQuMQpXVEZvcm1zPT0yLjEKeG1sdG9kaWN0PT0wLjExLjAKem9wZS5kZXByZWNhdGlvbj09NC4zLjAK</text>
@@ -421,9 +423,9 @@
       </register>
     </registers>
     <search>
-      <last-search>user_level</last-search>
+      <last-search>bosql24</last-search>
       <last-offset />
-      <last-pattern>user_level</last-pattern>
+      <last-pattern>bosql24</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -431,8 +433,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\r</entry>
-        <entry>\n\r</entry>
         <entry>NEW</entry>
         <entry>memory</entry>
         <entry>use_spark_exec</entry>
@@ -451,6 +451,8 @@
         <entry>intercept</entry>
         <entry>abernathy</entry>
         <entry>user_level</entry>
+        <entry>bosqlc4</entry>
+        <entry>bosql24</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
