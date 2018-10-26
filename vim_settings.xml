@@ -226,12 +226,12 @@
         <mark key="." line="36" column="41" />
         <mark key="^" line="36" column="41" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/configured_hive_operator.py" timestamp="1540497625360">
+      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/configured_hive_operator.py" timestamp="1540502677898">
         <mark key="'" line="69" column="58" />
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="28" column="33" />
-        <mark key="^" line="28" column="33" />
-        <mark key="." line="28" column="33" />
+        <mark key="[" line="114" column="37" />
+        <mark key="]" line="114" column="37" />
+        <mark key="^" line="114" column="37" />
+        <mark key="." line="114" column="37" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/context.py" timestamp="1539202520168">
         <mark key="[" line="44" column="28" />
@@ -275,11 +275,11 @@
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/tracking_service_client.py" timestamp="1539197658180">
         <mark key="[" line="46" column="47" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_temporary_tables/populate_temp_page_views.sql" timestamp="1532628148995">
-        <mark key="[" line="9" column="87" />
-        <mark key="]" line="9" column="87" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_temporary_tables/populate_temp_page_views.sql" timestamp="1540502509059">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="30" />
         <mark key="^" line="9" column="87" />
-        <mark key="." line="9" column="87" />
+        <mark key="." line="10" column="30" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.jql" timestamp="1529949914712">
         <mark key="[" line="5" column="7" />
@@ -748,14 +748,14 @@
       <jump line="13" column="34" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVzZV9zcGFya19leGVjdXRpb25fZW5naW5lPVRydWUsCg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$(git ls-remote $repository | grep refs/heads/$branch | cut -f 1)</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>hive</text>
