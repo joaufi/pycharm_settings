@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1540496914294">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.txt" timestamp="1540228771158">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="12" column="37" />
@@ -93,9 +90,6 @@
         <mark key="." line="32" column="6" />
         <mark key="^" line="32" column="6" />
       </file>
-      <file name="/" timestamp="1536332321397">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/aggregate_model.py" timestamp="1534944449548">
         <mark key="[" line="222" column="0" />
         <mark key="]" line="222" column="0" />
@@ -135,10 +129,10 @@
       <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1540845674580">
         <mark key="'" line="431" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1539878008786">
-        <mark key="[" line="181" column="26" />
-        <mark key="]" line="182" column="34" />
-        <mark key="." line="182" column="34" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1540915088004">
+        <mark key="[" line="103" column="52" />
+        <mark key="]" line="103" column="52" />
+        <mark key="." line="103" column="52" />
         <mark key="^" line="182" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/strategy/bidsift_graph_bidding_strategy.py" timestamp="1532978695448">
@@ -219,6 +213,11 @@
         <mark key="." line="33" column="1" />
         <mark key="^" line="33" column="1" />
       </file>
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/aggregates/views.py" timestamp="1540915080988">
+        <mark key="[" line="82" column="56" />
+        <mark key="]" line="82" column="56" />
+        <mark key="." line="82" column="56" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/data/fact_payload_model.py" timestamp="1534259172714">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="3" column="21" />
@@ -262,9 +261,6 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="34" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" timestamp="1539722722692">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/webapp.py" timestamp="1533225575233">
         <mark key="[" line="3" column="52" />
         <mark key="]" line="3" column="57" />
@@ -276,9 +272,6 @@
         <mark key="]" line="16" column="49" />
         <mark key="." line="16" column="49" />
         <mark key="^" line="16" column="49" />
-      </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/tracking_service_client.py" timestamp="1539197658180">
-        <mark key="[" line="46" column="47" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_temporary_tables/populate_temp_page_views.sql" timestamp="1540565581536">
         <mark key="[" line="10" column="32" />
@@ -595,20 +588,17 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540485488102">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.json" timestamp="1534792985770">
         <mark key="[" line="0" column="598" />
         <mark key="]" line="0" column="597" />
         <mark key="^" line="0" column="597" />
         <mark key="." line="0" column="597" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1540914149035">
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="^" line="137" column="34" />
-        <mark key="." line="149" column="0" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1540915041062">
+        <mark key="[" line="148" column="71" />
+        <mark key="]" line="149" column="7" />
+        <mark key="^" line="149" column="7" />
+        <mark key="." line="149" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.jql" timestamp="1531150138707">
         <mark key="[" line="10" column="114" />
@@ -750,14 +740,14 @@
       <jump line="94" column="60" filename="$USER_HOME$/repositories/scoring-library/tests/aggregation/test_controllers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhhc19idXNpbmVzc19hcHBsaWNhdGlvbiA9IHNlbGYuY3VycmVudF9ldmVudC5nZXQoJ2hhc0J1c2luZXNzQXBwbGljYXRpb24nKSBvciBGYWxzZQo=</text>
+      <register name="&quot;" type="4">
+        <text>, {}</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG9yIEZhbHNl</text>
+        <text>, {}</text>
       </register>
       <register name="/" type="4">
         <text>is_vertical</text>
