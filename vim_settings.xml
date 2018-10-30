@@ -490,11 +490,11 @@
         <mark key="." line="2" column="27" />
         <mark key="^" line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" timestamp="1540847202147">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" timestamp="1540921058147">
         <mark key="'" line="120" column="0" />
         <mark key="[" line="245" column="75" />
-        <mark key="]" line="245" column="80" />
-        <mark key="." line="245" column="80" />
+        <mark key="]" line="245" column="75" />
+        <mark key="." line="245" column="75" />
         <mark key="^" line="245" column="80" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/acquisitions_by_channel.sql" timestamp="1531158508734">
@@ -741,13 +741,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, {}</text>
+        <text>, True</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, {}</text>
+        <text>, True</text>
       </register>
       <register name="/" type="4">
         <text>is_vertical</text>
@@ -826,7 +826,6 @@
         <entry encoding="base64">JzwsJz5hb2Vy</entry>
         <entry encoding="base64">JzwsJz5zL3ZlcnNpb249Ly8=</entry>
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
-        <entry>q</entry>
         <entry>qa</entry>
         <entry>vspit</entry>
         <entry>vsplit</entry>
@@ -838,6 +837,7 @@
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry encoding="base64">JzwsJz5zL0lTXF9DSEFOTkVML0lTXF9SRVRSSUVWRURcX0NIQU5ORUxcX05BTUUvaWc=</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
