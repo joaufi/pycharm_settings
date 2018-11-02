@@ -18,10 +18,6 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/common/reference_data.py" timestamp="1540586411828">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="38" column="4" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch._1.cmdline" timestamp="1539722768664">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -150,10 +146,6 @@
       </file>
       <file name="/Python Console" timestamp="1541014466851">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" timestamp="1540579641487">
-        <mark key="[" line="424" column="0" />
-        <mark key="]" line="430" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/urban.sql" timestamp="1536781705654">
         <mark key="[" line="7" column="41" />
@@ -315,12 +307,13 @@
         <mark key="." line="122" column="3" />
         <mark key="^" line="122" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" timestamp="1541165535088">
-        <mark key="'" line="576" column="13" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="110" column="75" />
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/common/daos.py" timestamp="1541179884069" />
+      <file name="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" timestamp="1541180981323">
+        <mark key="'" line="578" column="13" />
+        <mark key="[" line="27" column="21" />
+        <mark key="]" line="27" column="22" />
+        <mark key="." line="27" column="22" />
+        <mark key="^" line="27" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica_segment_operator.py" timestamp="1531158499249">
         <mark key="[" line="51" column="52" />
@@ -439,12 +432,12 @@
         <mark key="." line="92" column="49" />
         <mark key="^" line="92" column="49" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/tests/aggregation/test_controllers.py" timestamp="1541012092297">
+      <file name="$USER_HOME$/repositories/scoring-library/tests/aggregation/test_controllers.py" timestamp="1541180953501">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="64" column="3" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="30" />
+        <mark key="^" line="124" column="20" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/create_temp_tables/scribe_page_views_temp_table.sql" timestamp="1530736596551">
         <mark key="[" line="11" column="0" />
@@ -558,11 +551,11 @@
         <mark key="^" line="16" column="19" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" timestamp="1538496182851">
-        <mark key="[" line="8" column="80" />
-        <mark key="]" line="8" column="80" />
-        <mark key="." line="8" column="80" />
-        <mark key="^" line="160" column="7" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" timestamp="1541180115168">
+        <mark key="[" line="84" column="24" />
+        <mark key="]" line="84" column="24" />
+        <mark key="." line="84" column="24" />
+        <mark key="^" line="84" column="24" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.json" timestamp="1531948768958">
         <mark key="[" line="15" column="15" />
@@ -609,11 +602,11 @@
         <mark key="^" line="0" column="597" />
         <mark key="." line="0" column="597" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1541177494755">
-        <mark key="[" line="122" column="60" />
-        <mark key="]" line="122" column="68" />
-        <mark key="." line="122" column="68" />
-        <mark key="^" line="122" column="68" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1541180556178">
+        <mark key="[" line="91" column="25" />
+        <mark key="]" line="92" column="88" />
+        <mark key="." line="92" column="88" />
+        <mark key="^" line="92" column="88" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.jql" timestamp="1531150138707">
         <mark key="[" line="10" column="114" />
@@ -761,20 +754,20 @@
       <jump line="269" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBGYWN0VHlwZS5QVVJDSEFTRURfU0tVUywK</text>
+      <register name="&quot;" type="4">
+        <text>store_id</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>store_id</text>
       </register>
       <register name="/" type="4">
         <text>quantity</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIE9ORV9EQVlfSU5fTUlMTElTRUNPTkRTID0gODY0MDAwMDAKICAgIE5JTkVUWV9EQVlTX0lOX01JTExJU0VDT05EUyA9IDkwICogT05FX0RBWV9JTl9NSUxMSVNFQ09ORFMKICAgIE9ORV9ZRUFSX0lOX01JTExJU0VDT05EUyA9IDM2NSAqIE9ORV9EQVlfSU5fTUlMTElTRUNPTkRTCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcmVfaWQ9c3RvcmVfaWQsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBGYWN0VHlwZS5QVVJDSEFTRURfU0tVUywK</text>
