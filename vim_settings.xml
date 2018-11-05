@@ -129,9 +129,6 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1540845674580">
-        <mark key="'" line="431" column="12" />
-      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1540915088004">
         <mark key="[" line="103" column="52" />
         <mark key="]" line="103" column="52" />
@@ -301,13 +298,16 @@
         <mark key="^" line="19" column="61" />
         <mark key="." line="19" column="61" />
       </file>
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1541444122742" />
       <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/local.default.py" timestamp="1539198476925">
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="67" />
         <mark key="." line="122" column="3" />
         <mark key="^" line="122" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/common/daos.py" timestamp="1541179884069" />
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/common/daos.py" timestamp="1541444102171">
+        <mark key="'" line="185" column="8" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" timestamp="1541180981323">
         <mark key="'" line="578" column="13" />
         <mark key="[" line="27" column="21" />
@@ -374,9 +374,6 @@
         <mark key="]" line="26" column="19" />
         <mark key="^" line="26" column="19" />
         <mark key="." line="26" column="19" />
-      </file>
-      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/dev.py" timestamp="1540493422744">
-        <mark key="'" line="43" column="27" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/model_service_script.py" timestamp="1529958302165">
         <mark key="[" line="72" column="0" />
@@ -652,7 +649,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="4" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="323" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="324" column="34" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="326" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
@@ -752,6 +748,7 @@
       <jump line="28" column="25" filename="$USER_HOME$/repositories/scoring-library/tests/aggregation/mocks/mock_customer_history_model.py" />
       <jump line="52" column="7" filename="$USER_HOME$/repositories/scoring-library/tests/aggregation/test_business_models.py" />
       <jump line="269" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
+      <jump line="185" column="8" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/daos.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -764,7 +761,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>quantity</text>
+        <text>dateti</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RvcmVfaWQ9c3RvcmVfaWQsCg==</text>
@@ -801,9 +798,9 @@
       </register>
     </registers>
     <search>
-      <last-search>quantity</last-search>
+      <last-search>dateti</last-search>
       <last-offset />
-      <last-pattern>quantity</last-pattern>
+      <last-pattern>dateti</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>IS\_CHANNEL</last-substitute>
       <last-dir>1</last-dir>
@@ -811,7 +808,6 @@
     </search>
     <history>
       <history-search>
-        <entry>intercept</entry>
         <entry>abernathy</entry>
         <entry>user_level</entry>
         <entry>bosqlc4</entry>
@@ -831,6 +827,7 @@
         <entry>IS\_CHANNEL</entry>
         <entry>is_vertical</entry>
         <entry>quantity</entry>
+        <entry>dateti</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xuXHIvLC8=</entry>
