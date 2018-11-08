@@ -84,6 +84,9 @@
         <mark key="." line="32" column="6" />
         <mark key="^" line="32" column="6" />
       </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_facebook_model.py" timestamp="1541676708532">
+        <mark key="'" line="111" column="8" />
+      </file>
       <file name="/" timestamp="1536332321397">
         <mark key="[" line="0" column="0" />
       </file>
@@ -375,11 +378,12 @@
         <mark key="^" line="5" column="71691" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" timestamp="1541449429780">
-        <mark key="[" line="324" column="0" />
-        <mark key="]" line="331" column="14" />
-        <mark key="^" line="314" column="15" />
-        <mark key="." line="324" column="0" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" timestamp="1541677274998">
+        <mark key="'" line="335" column="76" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="343" column="81" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/product_model.py" timestamp="1534124243925">
         <mark key="[" line="27" column="0" />
@@ -503,12 +507,12 @@
         <mark key="." line="2" column="27" />
         <mark key="^" line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" timestamp="1541524657548">
-        <mark key="'" line="269" column="0" />
-        <mark key="[" line="276" column="0" />
-        <mark key="]" line="276" column="3" />
-        <mark key="." line="276" column="3" />
-        <mark key="^" line="276" column="3" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" timestamp="1541676611073">
+        <mark key="'" line="274" column="0" />
+        <mark key="[" line="134" column="54" />
+        <mark key="]" line="134" column="54" />
+        <mark key="." line="134" column="54" />
+        <mark key="^" line="134" column="54" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/acquisitions_by_channel.sql" timestamp="1531158508734">
         <mark key="[" line="11" column="0" />
@@ -660,10 +664,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="324" column="34" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
-      <jump line="326" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
-      <jump line="327" column="42" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
-      <jump line="330" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="124" column="4" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" />
       <jump line="279" column="65" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="283" column="65" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
@@ -760,58 +760,62 @@
       <jump line="269" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="185" column="8" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/common/daos.py" />
       <jump line="21" column="19" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
+      <jump line="19" column="12" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_facebook_model.py" />
+      <jump line="111" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_facebook_model.py" />
+      <jump line="332" column="44" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
+      <jump line="335" column="76" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBzY29yaW5nLmV2YWx1YXRpb24uY29uc3RhbnRzIGltcG9ydCBDcnVuY2hCdWNrZXRzCg==</text>
+        <text encoding="base64">ICAgIHJvdW5kX3RvLAo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>CrunchBuckets.B2B_POST_ENROLLMENT.name</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>dateti</text>
+        <text>pre</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEtleS5GRUFUVVJFUzogZmVhdHVyZXMsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW9kZWxWZXJzaW9ucy5VTEJfQVBQTkVYVVNfSE9MSURBWV9MSU5FQVJfUkVHUkVTU0lPTl9WMTogewogICAgICAgICAgICAgICAgU3BlY2lmaWNhdGlvbktleS5BTEdPUklUSE06IEFsZ29yaXRobXMuTElORUFSX1JFR1JFU1NJT05fU0VSSUFMSVpFRCwKICAgICAgICAgICAgICAgIFNwZWNpZmljYXRpb25LZXkuTU9ERUw6CiAgICAgICAgICAgICAgICAgICAgJ3VzZXJfbGV2ZWxfYmlkZGluZ180OV9OZXdSZXR1cm5pbmdfRGVza3RvcF9BcHBOZXh1c19wcmVIb2xpZGF5X0xpblJlZycsCiAgICAgICAgICAgICAgICBTcGVjaWZpY2F0aW9uS2V5LkNMRUFOSU5HOiBjbGVhbmluZywKICAgICAgICAgICAgICAgIFNwZWNpZmljYXRpb25LZXkuRkVBVFVSRVM6IGZlYXR1cmVzWzFdLAogICAgICAgICAgICAgICAgU3BlY2lmaWNhdGlvbktleS5WRVJTSU9OOiAndjEnLAogICAgICAgICAgICB9LAogICAgICAgICAgICBNb2RlbFZlcnNpb25zLlVMQl9BUFBORVhVU19IT0xJREFZX0xJTkVBUl9SRUdSRVNTSU9OX1YyOiB7CiAgICAgICAgICAgICAgICBTcGVjaWZpY2F0aW9uS2V5LkFMR09SSVRITTogQWxnb3JpdGhtcy5MSU5FQVJfUkVHUkVTU0lPTl9TRVJJQUxJWkVELAogICAgICAgICAgICAgICAgU3BlY2lmaWNhdGlvbktleS5NT0RFTDoKICAgICAgICAgICAgICAgICAgICAndXNlcl9sZXZlbF9iaWRkaW5nXzQ5X0FjcXVpcmVkQWN0aXZhdGVkX0Rlc2t0b3BfQXBwTmV4dXNfcHJlSG9saWRheV9MaW5SZWcnLAogICAgICAgICAgICAgICAgU3BlY2lmaWNhdGlvbktleS5DTEVBTklORzogY2xlYW5pbmcsCiAgICAgICAgICAgICAgICBTcGVjaWZpY2F0aW9uS2V5LkZFQVRVUkVTOiBmZWF0dXJlc1syXSwKICAgICAgICAgICAgICAgIFNwZWNpZmljYXRpb25LZXkuVkVSU0lPTjogJ3YyJywKICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBzY29yaW5nLmV2YWx1YXRpb24uY29uc3RhbnRzIGltcG9ydCBDcnVuY2hCdWNrZXRzCg==</text>
+        <text encoding="base64">ICAgIHJvdW5kX3RvLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEtleS5GRUFUVVJFUzogWwogICAgICAgICAgICAgICAgICAgIEZlYXR1cmVNb2RlbChmZWF0dXJlLCBzZWxmLnRvX2FnZ3JlZ2F0ZV9tb2RlbChhZ2dyZWdhdGUpKQogICAgICAgICAgICAgICAgICAgIGZvciBmZWF0dXJlLCBhZ2dyZWdhdGUgaW4gQ3J1bmNoQnVja2V0cy5QT1NUX0VOUk9MTE1FTlRfUkVEVUNFRF9GRUFUVVJFU19UT19BR0dSRUdBVElPTlMKICAgICAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">ZnJvbSBzY29yaW5nLmV2YWx1YXRpb24uY29uc3RhbnRzIGltcG9ydCBDcnVuY2hCdWNrZXRzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEtleS5GRUFUVVJFUzogWwogICAgICAgICAgICAgICAgICAgIEZlYXR1cmVNb2RlbChmZWF0dXJlLCBzZWxmLnRvX2FnZ3JlZ2F0ZV9tb2RlbChhZ2dyZWdhdGUpKQogICAgICAgICAgICAgICAgICAgIGZvciBmZWF0dXJlLCBhZ2dyZWdhdGUgaW4gQ3J1bmNoQnVja2V0cy5QT1NUX0VOUk9MTE1FTlRfUkVEVUNFRF9GRUFUVVJFU19UT19BR0dSRUdBVElPTlMKICAgICAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEtleS5GRUFUVVJFUzogWwogICAgICAgICAgICAgICAgICAgIEZlYXR1cmVNb2RlbChmZWF0dXJlLCBzZWxmLnRvX2FnZ3JlZ2F0ZV9tb2RlbChhZ2dyZWdhdGUpKQogICAgICAgICAgICAgICAgICAgIGZvciBmZWF0dXJlLCBhZ2dyZWdhdGUgaW4gQ3J1bmNoQnVja2V0cy5QT1NUX0VOUk9MTE1FTlRfUkVEVUNFRF9GRUFUVVJFU19UT19BR0dSRUdBVElPTlMKICAgICAgICAgICAgICAgIF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEtleS5NT0RFTDogJ2IyYl9wb3N0X2Vucm9sbG1lbnQnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEtleS5GRUFUVVJFUzogWwogICAgICAgICAgICAgICAgICAgIEZlYXR1cmVNb2RlbChmZWF0dXJlLCBzZWxmLnRvX2FnZ3JlZ2F0ZV9tb2RlbChhZ2dyZWdhdGUpKQogICAgICAgICAgICAgICAgICAgIGZvciBmZWF0dXJlLCBhZ2dyZWdhdGUgaW4gQ3J1bmNoQnVja2V0cy5QT1NUX0VOUk9MTE1FTlRfUkVEVUNFRF9GRUFUVVJFU19UT19BR0dSRUdBVElPTlMKICAgICAgICAgICAgICAgIF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBCMkJfUE9TVF9FTlJPTExNRU5ULAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cG9zdF9ob2xpZGF5X2xpbmVhcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEtleS5NT0RFTDogJ2IyYl9wb3N0X2Vucm9sbG1lbnQnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udmVydF9vcmRlcl90aW1lc3RhbXAgPSBjb252ZXJ0X3RvX3RpbWV6b25lKG1heF9vcmRlcl90aW1lc3RhbXAK</text>
+        <text encoding="base64">ICAgICAgICBCMkJfUE9TVF9FTlJPTExNRU5ULAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dateti</last-search>
+      <last-search>pre</last-search>
       <last-offset />
-      <last-pattern>dateti</last-pattern>
+      <last-pattern>pre</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>IS\_CHANNEL</last-substitute>
       <last-dir>1</last-dir>
@@ -819,8 +823,6 @@
     </search>
     <history>
       <history-search>
-        <entry>abernathy</entry>
-        <entry>user_level</entry>
         <entry>bosqlc4</entry>
         <entry>bosql24</entry>
         <entry>ovr</entry>
@@ -839,6 +841,8 @@
         <entry>is_vertical</entry>
         <entry>quantity</entry>
         <entry>dateti</entry>
+        <entry>HOLI</entry>
+        <entry>pre</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xuXHIvLC8=</entry>
