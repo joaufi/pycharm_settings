@@ -177,12 +177,13 @@
         <mark key="^" line="66" column="19" />
         <mark key="." line="66" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" timestamp="1541791294188">
-        <mark key="'" line="3" column="7" />
-        <mark key="[" line="138" column="34" />
-        <mark key="]" line="139" column="57" />
-        <mark key="." line="139" column="57" />
-        <mark key="^" line="139" column="57" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" timestamp="1541791362213">
+        <mark key="'" line="136" column="41" />
+        <mark key="[" line="137" column="86" />
+        <mark key="]" line="137" column="87" />
+        <mark key="." line="137" column="87" />
+        <mark key="^" line="139" column="92" />
+        <mark key="n" line="136" column="41" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/dao/product_redis_dao.py" timestamp="1534373593348">
         <mark key="[" line="67" column="42" />
@@ -660,8 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="4" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
-      <jump line="124" column="4" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
       <jump line="93" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
       <jump line="136" column="4" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
       <jump line="163" column="19" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
@@ -760,19 +759,21 @@
       <jump line="84" column="44" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="133" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
+      <jump line="135" column="31" filename="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" />
+      <jump line="136" column="41" filename="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIGUK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;We got exceptions bucko&quot;</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, 'local'</text>
+        <text>&quot;We got exceptions bucko&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>VALID</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAoJ05ld1JldHVybmluZycsICd2MScpLAogICAgICAgICgnQWNxdWlyZWRBY3RpdmF0ZWQnLCAndjInKSwK</text>
@@ -809,11 +810,11 @@
       </register>
     </registers>
     <search>
-      <last-search>VALID</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>VALID</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-replace>'</last-replace>
-      <last-substitute>IS\_CHANNEL</last-substitute>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -825,7 +826,6 @@
         <entry>hive</entry>
         <entry>is\_vertical</entry>
         <entry>vertical</entry>
-        <entry>&quot;</entry>
         <entry>l</entry>
         <entry>is_channel</entry>
         <entry>CHANNEL</entry>
@@ -839,6 +839,7 @@
         <entry>def\ join</entry>
         <entry>join</entry>
         <entry>VALID</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xuXHIvLC8=</entry>
@@ -848,18 +849,18 @@
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
         <entry>vspit</entry>
         <entry>split</entry>
-        <entry encoding="base64">JzwsJz5zLyIvJw==</entry>
         <entry>%s/&quot;/'/ig</entry>
         <entry>we</entry>
         <entry encoding="base64">JzwsJz5zL0lTXF9DSEFOTkVML0lTXF9SRVRSSUVWRURcX0NIQU5ORUxcX05BTUUvaWc=</entry>
         <entry>q</entry>
-        <entry>e</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>ew</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>qa</entry>
         <entry>vsplit</entry>
+        <entry encoding="base64">JzwsJz5zLyIvJw==</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
