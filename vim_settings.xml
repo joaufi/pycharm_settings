@@ -177,12 +177,12 @@
         <mark key="^" line="66" column="19" />
         <mark key="." line="66" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" timestamp="1542222487284">
-        <mark key="'" line="136" column="41" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="39" column="30" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" timestamp="1542225026418">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="132" column="28" />
+        <mark key="]" line="132" column="32" />
+        <mark key="." line="132" column="32" />
+        <mark key="^" line="132" column="32" />
         <mark key="n" line="136" column="41" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/dao/product_redis_dao.py" timestamp="1534373593348">
@@ -661,7 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
       <jump line="136" column="4" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
       <jump line="163" column="19" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="101" column="32" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
@@ -761,16 +760,17 @@
       <jump line="133" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
       <jump line="135" column="31" filename="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" />
       <jump line="136" column="41" filename="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>warn</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>ContextMixin</text>
+        <text>warn</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -779,31 +779,31 @@
         <text encoding="base64">ICAgICAgICAoJ05ld1JldHVybmluZycsICd2MScpLAogICAgICAgICgnQWNxdWlyZWRBY3RpdmF0ZWQnLCAndjInKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzY29yaW5nLmV2YWx1YXRpb24uZXhjZXB0aW9ucyBpbXBvcnQgTW9kZWxSZXRyaWV2ZXJFeGNlcHRpb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihNb2RlbFN0b3JhZ2VDbGllbnQsIHNlbGYpLl9faW5pdF9fKGNvbnRleHQpCg==</text>
+        <text encoding="base64">ZnJvbSBjdXN0aW5mb2xpYiBpbXBvcnQgQ29udGV4dE1peGluCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwLm1hcmtldGluZ19tZW1fcmVkaXNfY2xpZW50LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ3VyZV9tb2RlbF9zdG9yYWdlKGFwcCwgZW52KQo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihNb2RlbFN0b3JhZ2VDbGllbnQsIHNlbGYpLl9faW5pdF9fKGNvbnRleHQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ3VyZV9tb2RlbF9zdG9yYWdlKGFwcCwgZW52KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwLm1hcmtldGluZ19tZW1fcmVkaXNfY2xpZW50LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIGUK</text>
+        <text encoding="base64">ICAgIGNvbmZpZ3VyZV9tb2RlbF9zdG9yYWdlKGFwcCwgZW52KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBpZiBtb2RlbF9zdG9yYWdlX2NsaWVudCBpcyBub3QgTm9uZSBhbmQgZGF0YWNlbnRlciBpbiBbJ2JvMSddOgo=</text>
+        <text encoding="base64">ICAgIGNvbmZpZ3VyZV9tb2RlbF9zdG9yYWdlKGFwcCwgZW52KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbF9zdG9yYWdlX2NsaWVudC5wcmVsb2FkX21vZGVsX3N0b3JhZ2VfbW9kZWxzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBpZiBtb2RlbF9zdG9yYWdlX2NsaWVudCBpcyBub3QgTm9uZSBhbmQgZGF0YWNlbnRlciBpbiBbJ2JvMSddOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
