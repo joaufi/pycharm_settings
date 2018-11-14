@@ -75,11 +75,12 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/app.py" timestamp="1541790459951">
-        <mark key="'" line="135" column="0" />
-        <mark key="]" line="126" column="7" />
-        <mark key="." line="126" column="7" />
-        <mark key="^" line="126" column="7" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/app.py" timestamp="1542222475130">
+        <mark key="'" line="134" column="0" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
+        <mark key="^" line="129" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/priced_skus_by_device_guid.sql" timestamp="1530889449531">
         <mark key="[" line="32" column="6" />
@@ -176,12 +177,12 @@
         <mark key="^" line="66" column="19" />
         <mark key="." line="66" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" timestamp="1541791362213">
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" timestamp="1542222487284">
         <mark key="'" line="136" column="41" />
-        <mark key="[" line="137" column="86" />
-        <mark key="]" line="137" column="87" />
-        <mark key="." line="137" column="87" />
-        <mark key="^" line="139" column="92" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="39" column="30" />
         <mark key="n" line="136" column="41" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/dao/product_redis_dao.py" timestamp="1534373593348">
@@ -762,14 +763,14 @@
       <jump line="136" column="41" filename="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;We got exceptions bucko&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;We got exceptions bucko&quot;</text>
+        <text>ContextMixin</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -778,31 +779,31 @@
         <text encoding="base64">ICAgICAgICAoJ05ld1JldHVybmluZycsICd2MScpLAogICAgICAgICgnQWNxdWlyZWRBY3RpdmF0ZWQnLCAndjInKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBpZiBtb2RlbF9zdG9yYWdlX2NsaWVudCBpcyBub3QgTm9uZSBhbmQgZGF0YWNlbnRlciBpbiBbJ2JvMSddOgo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihNb2RlbFN0b3JhZ2VDbGllbnQsIHNlbGYpLl9faW5pdF9fKGNvbnRleHQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbF9zdG9yYWdlX2NsaWVudC5wcmVsb2FkX21vZGVsX3N0b3JhZ2VfbW9kZWxzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwLm1hcmtldGluZ19tZW1fcmVkaXNfY2xpZW50LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbmZpZ3VyZV9tb2RlbF9zdG9yYWdlKGFwcCwgZW52KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IAo=</text>
+        <text encoding="base64">ICAgIGNvbmZpZ3VyZV9tb2RlbF9zdG9yYWdlKGFwcCwgZW52KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIG1vZGVsX3N0b3JhZ2VfY2xpZW50IGlzIG5vdCBOb25lIGFuZCBkYXRhY2VudGVyIGluIFsnYm8xJywgJ2RldmJvMSddOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIG1vZGVsX3N0b3JhZ2VfY2xpZW50IGlzIG5vdCBOb25lIGFuZCBkYXRhY2VudGVyIGluIFsnYm8xJywgJ2RldmJvMSddOgogICAgICAgIG1vZGVsX3N0b3JhZ2VfY2xpZW50LnByZWxvYWRfbW9kZWxfc3RvcmFnZV9tb2RlbHMoKQo=</text>
+        <text encoding="base64">CiAgICBpZiBtb2RlbF9zdG9yYWdlX2NsaWVudCBpcyBub3QgTm9uZSBhbmQgZGF0YWNlbnRlciBpbiBbJ2JvMSddOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbF9zdG9yYWdlX2NsaWVudC5wcmVsb2FkX21vZGVsX3N0b3JhZ2VfbW9kZWxzKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAncHJlSG9saWRheScsCiAgICAgICAgJ3Bvc3RIb2xpZGF5JywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
