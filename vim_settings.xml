@@ -288,12 +288,11 @@
         <mark key="^" line="9" column="87" />
         <mark key="." line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/event_business_model.py" timestamp="1541453483189">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/event_business_model.py" timestamp="1542307672310">
         <mark key="'" line="187" column="39" />
-        <mark key="[" line="117" column="25" />
-        <mark key="]" line="150" column="21" />
-        <mark key="." line="150" column="21" />
-        <mark key="^" line="150" column="21" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/controller.py" timestamp="1542302266846">
         <mark key="[" line="35" column="0" />
@@ -568,11 +567,11 @@
         <mark key="^" line="16" column="19" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" timestamp="1542301939370">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/controller.py" timestamp="1542307966216">
         <mark key="[" line="114" column="0" />
-        <mark key="]" line="98" column="87" />
-        <mark key="." line="98" column="87" />
-        <mark key="^" line="98" column="87" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
+        <mark key="^" line="113" column="12" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.json" timestamp="1531948768958">
         <mark key="[" line="15" column="15" />
@@ -646,11 +645,10 @@
         <mark key="." line="36" column="15" />
         <mark key="^" line="36" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" timestamp="1540318812634">
-        <mark key="[" line="270" column="0" />
-        <mark key="]" line="270" column="0" />
-        <mark key="." line="270" column="0" />
-        <mark key="^" line="271" column="38" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" timestamp="1542307924591">
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="." line="164" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_tables/populate_in_market_num_favorite_skus.sql" timestamp="1532509429083">
         <mark key="[" line="12" column="24" />
@@ -768,14 +766,14 @@
       <jump line="54" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'b2b_post_enrollment'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>'b2b_post_enrollment'</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -784,31 +782,31 @@
         <text encoding="base64">ICAgIHJldHVybiB3ZWIuUmVzcG9uc2UodGV4dD0nJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEIyQl9QT1NUX0VOUk9MTE1FTlRfTU9ERUxfTkFNRSA9ICdiMmJfcG9zdF9lbnJvbGxtZW50Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX2xldmVsX2JpZGRpbmdfYXBwbmV4dXNfbW9kZWwgPSBVc2VyTGV2ZWxCaWRkaW5nQXBwbmV4dXNNb2RlbChzZWxmLmNvbnRleHQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJfbGV2ZWxfYmlkZGluZyc6IHVzZXJfbGV2ZWxfYmlkZGluZ19hcHBuZXh1c19tb2RlbCwgICMgRGVwcmVjYXRlZAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIG1vZGVsIGluIE1vZGVsU3RvcmFnZS5WQUxJRF9NT0RFTF9JTl9NT0RFTF9TVE9SQUdFOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kZWJ1Z19jb250ZXh0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICdyZXF1ZXN0X2pzb24nOiByZXF1ZXN0X2pzb259Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kZWJ1Z19jb250ZXh0Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbW9kZWwgaW4gTW9kZWxTdG9yYWdlLlZBTElEX01PREVMX0lOX01PREVMX1NUT1JBR0U6CiAgICAgICAgICAgIG1vZGVsX2RhdGEgPSBzZWxmLmdldF90cmFpbmVkX21vZGVsX2RhdGEoCiAgICAgICAgICAgICAgICBtb2RlbC5uYW1lLAogICAgICAgICAgICAgICAgbW9kZWwudmVyc2lvbiwKICAgICAgICAgICAgICAgIGxvYWQ9J2hvdCcKICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGRlYnVnX2NvbnRleHQoc2VsZik6CiAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgIEIyQl9QT1NUX0VOUk9MTE1FTlRfTU9ERUxfTkFNRSA9ICdiMmJfcG9zdF9lbnJvbGxtZW50Jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyX2xldmVsX2JpZGRpbmdfYXBwbmV4dXNfbW9kZWwgPSBVc2VyTGV2ZWxCaWRkaW5nQXBwbmV4dXNNb2RlbChzZWxmLmNvbnRleHQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
