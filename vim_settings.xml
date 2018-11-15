@@ -75,12 +75,12 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/app.py" timestamp="1542222475130">
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/app.py" timestamp="1542311424432">
         <mark key="'" line="134" column="0" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
-        <mark key="^" line="129" column="21" />
+        <mark key="[" line="133" column="28" />
+        <mark key="]" line="133" column="28" />
+        <mark key="." line="133" column="28" />
+        <mark key="^" line="133" column="28" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/priced_skus_by_device_guid.sql" timestamp="1530889449531">
         <mark key="[" line="32" column="6" />
@@ -767,14 +767,14 @@
       <jump line="172" column="19" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1xuXG5MT0FESU5HOiAnICsgbW9kZWwubmFtZSArICdcblZFUlNJT046ICcgKyBtb2RlbC52ZXJzaW9uKQo=</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">AA==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>\n</text>
@@ -783,12 +783,15 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1xuXG5MT0FESU5HOiAnICsgbW9kZWwubmFtZSArICdcblZFUlNJT046ICcgKyBtb2RlbC52ZXJzaW9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAnZGV2aWNlX3Zpc2l0c193aXRoX3BsYXRmb3JtJzogc2VsZi5kZXZpY2VfdmlzaXRzX3dpdGhfcGxhdGZvcm0sCiAgICAgICAgIyAna2V5d29yZF9zZWFyY2hlcyc6ICwACiAgICAgICAgIyAnb3JkZXJfZGV0YWlscyc6ICwKICAgICAgICAjICdvcmRlcl9wcm9kdWN0X2RldGFpbHMnOiAsAAogICAgICAgICMgJ2xpZmV0aW1lX3B1cmNoYXNlZF9za3VzJzogLAogICAgICAgICMgJ3ZpZXdlZF9jYXRlZ29yeV9jbGFzc2VzJzogLAAKICAgICAgICAjICd2aWV3ZWRfc2t1cyc6ICwK</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbF9zdG9yYWdlX2NsaWVudC5wcmVsb2FkX21vZGVsX3N0b3JhZ2VfbW9kZWxzKCkK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAjICAgICAnZGV2aWNlX3Zpc2l0c193aXRoX3BsYXRmb3JtJzogc2VsZi5kZXZpY2VfdmlzaXRzX3dpdGhfcGxhdGZvcm0sCiAgICAgICAgIyAna2V5d29yZF9zZWFyY2hlcyc6ICwACiAgICAgICAgIyAnb3JkZXJfZGV0YWlscyc6ICwKICAgICAgICAjICdvcmRlcl9wcm9kdWN0X2RldGFpbHMnOiAsAAogICAgICAgICMgJ2xpZmV0aW1lX3B1cmNoYXNlZF9za3VzJzogLAogICAgICAgICMgJ3ZpZXdlZF9jYXRlZ29yeV9jbGFzc2VzJzogLAAKICAgICAgICAjICd2aWV3ZWRfc2t1cyc6ICwK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2N1c3RvbWVyX3Zpc2l0cyc6Cg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>self.
 self.
 self.
@@ -798,20 +801,17 @@ self.
 self.
 self.</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY3VzdG9tZXJfaGlzdG9yeS5nZXQoRmFjdFR5cGUuREVWSUNFX1ZJU0lUU19XSVRIX1BMQVRGT1JNKSBvciB7fQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgICBpZiAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kZWJ1Z19jb250ZXh0Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kZWJ1Z19jb250ZXh0Cg==</text>
