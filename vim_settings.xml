@@ -320,6 +320,9 @@
         <mark key="^" line="1517" column="23" />
         <mark key="." line="1517" column="23" />
       </file>
+      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/app.py" timestamp="1543518412586">
+        <mark key="'" line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/local.default.py" timestamp="1539198476925">
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="67" />
@@ -666,8 +669,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="32" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
-      <jump line="118" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="111" column="89" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="148" column="27" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="99" column="40" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
@@ -766,6 +767,8 @@
       <jump line="54" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" />
       <jump line="172" column="19" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="46" column="10" filename="$USER_HOME$/repositories/bidsift/requirements.lock" />
+      <jump line="24" column="22" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/app.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -778,7 +781,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>custin</text>
+        <text>@</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Q1JFQVRFIFRBQkxFIGBzY3JpYmUudGJsZGV2aWNlaXBhZGRyZXNzbWFwX3N0YWdpbmdgKAogICAgYGRldmljZWd1aWRgIHN0cmluZyBDT01NRU5UICdVbmlxdWUgZGV2aWNlIGlkZW50aWZpZXIuJywKICAgIGBpcGFkZHJlc3NgIHN0cmluZyBDT01NRU5UICdJUCBhZGRyZXNzIGFzc29jaWF0ZWQgd2l0aCB0aGlzIGRldmljZS4nLAogICAgYGFzc29jaWF0aW9uX2NvdW50YCBpbnQgQ09NTUVOVCAnSG93IG1hbnkgdGltZXMgdGhlIGRldmljZSBoYXMgYmVlbiBhc3NvY2lhdGVkIHdpdGggdGhpcyBJUCBhZGRyZXNzIG9uIHRoZSBnaXZlbiBldmVudGRhdGUuJwopIFBBUlRJVElPTkVEIEJZICgKICAgIGBldmVudGRhdGVgIHN0cmluZyBDT01NRU5UICdEYXRlIHRoZSBldmVudCBvY2N1cnJlZCBpbiBZWVlZLU1NLURELicKKQpTVE9SRUQgQVMgUEFSUVVFVDsK</text>
@@ -821,9 +824,9 @@ WHERE eventdate = '2018-11-25';</text>
       </register>
     </registers>
     <search>
-      <last-search>custin</last-search>
+      <last-search>@</last-search>
       <last-offset />
-      <last-pattern>custin</last-pattern>
+      <last-pattern>@</last-pattern>
       <last-replace>':\ ,\n</last-replace>
       <last-substitute>\n</last-substitute>
       <last-dir>1</last-dir>
@@ -831,8 +834,6 @@ WHERE eventdate = '2018-11-25';</text>
     </search>
     <history>
       <history-search>
-        <entry>use_das</entry>
-        <entry>hive</entry>
         <entry>is\_vertical</entry>
         <entry>vertical</entry>
         <entry>l</entry>
@@ -851,6 +852,8 @@ WHERE eventdate = '2018-11-25';</text>
         <entry>&quot;</entry>
         <entry>\n</entry>
         <entry>custin</entry>
+        <entry>A</entry>
+        <entry>@</entry>
       </history-search>
       <history-cmd>
         <entry>vspit</entry>
