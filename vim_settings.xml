@@ -67,6 +67,11 @@
         <mark key="." line="21" column="66" />
         <mark key="^" line="21" column="66" />
       </file>
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/redis_dao.py" timestamp="1544047908619">
+        <mark key="[" line="583" column="0" />
+        <mark key="]" line="583" column="0" />
+        <mark key="." line="583" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_scribe_page_views.sql" timestamp="1530745017434">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="29" />
@@ -153,7 +158,6 @@
         <mark key="^" line="55" column="22" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/models.py" timestamp="1543593511476" />
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/urban.sql" timestamp="1536781705654">
         <mark key="[" line="7" column="41" />
         <mark key="]" line="7" column="45" />
@@ -245,7 +249,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/tests/aggregation/mocks/mock_details.py" timestamp="1543517302698" />
       <file name="$USER_HOME$/repositories/bidsift/bidsift/utilities.py" timestamp="1539203659123">
         <mark key="[" line="16" column="54" />
         <mark key="]" line="17" column="57" />
@@ -758,7 +761,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text encoding="base64">CiAgICBA</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -772,32 +775,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1c2VybmFtZSA9IGFwcC5jb25maWdbJ0FFUk9TUElLRV9VU0VSJ10KICAgICAgICBwYXNzd29yZCA9IHdmX3NlY3JldHMuZ2V0KHVzZXJuYW1lKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhZXJvc3Bpa2VfY2xpZW50LmNvbm5lY3QoKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBA</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFlcm9zcGlrZV9jbGllbnQgPSBhZXJvc3Bpa2UuY2xpZW50KGNvbmZpZykK</text>
+        <text encoding="base64">ICAgICAgICBhZXJvc3Bpa2VfY2xpZW50LmNvbm5lY3QoKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIGFlcm9zcGlrZV9jbGllbnQgPSBhZXJvc3Bpa2UuY2xpZW50KGNvbmZpZykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhZXJvc3Bpa2VfY2xpZW50LmlzX2Nvbm5lY3RlZCgpKQo=</text>
+        <text encoding="base64">ICAgIGFlcm9zcGlrZV9jbGllbnQgPSBhZXJvc3Bpa2UuY2xpZW50KGNvbmZpZykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhZXJvc3Bpa2VfY2xpZW50LmlzX2Nvbm5lY3RlZCgpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFlcm9zcGlrZV9jbGllbnQgPSBOb25lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFlcm9zcGlrZV9jbGllbnQgPSBOb25lCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhZXJvc3Bpa2VfY2xpZW50ID0gYWVyb3NwaWtlLmNsaWVudChjb25maWcpLmNvbm5lY3QoCiAgICAgICAgICAgIHVzZXJuYW1lLAogICAgICAgICAgICBwYXNzd29yZAogICAgICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
