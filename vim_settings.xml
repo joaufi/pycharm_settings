@@ -515,8 +515,8 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" timestamp="1543594214562">
-        <mark key="'" line="530" column="48" />
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" timestamp="1544628214897">
+        <mark key="'" line="482" column="62" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_tables/populate_in_market_added_to_cart_skus.sql" timestamp="1532509342555">
         <mark key="[" line="12" column="24" />
@@ -660,7 +660,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="7" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
       <jump line="57" column="70" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/mocks/mock_context.py" />
       <jump line="229" column="0" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
       <jump line="349" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
@@ -760,6 +759,7 @@
       <jump line="523" column="49" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" />
       <jump line="525" column="44" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" />
       <jump line="530" column="48" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" />
+      <jump line="482" column="62" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -772,7 +772,7 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>caller</text>
+        <text>stats</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1c2VybmFtZSA9IGFwcC5jb25maWdbJ0FFUk9TUElLRV9VU0VSJ10KICAgICAgICBwYXNzd29yZCA9IHdmX3NlY3JldHMuZ2V0KHVzZXJuYW1lKQo=</text>
@@ -809,9 +809,9 @@
       </register>
     </registers>
     <search>
-      <last-search>caller</last-search>
+      <last-search>stats</last-search>
       <last-offset />
-      <last-pattern>caller</last-pattern>
+      <last-pattern>stats</last-pattern>
       <last-replace>':\ ,\n</last-replace>
       <last-substitute>\n</last-substitute>
       <last-dir>1</last-dir>
@@ -819,7 +819,6 @@
     </search>
     <history>
       <history-search>
-        <entry>IS\_CHANNEL</entry>
         <entry>is_vertical</entry>
         <entry>quantity</entry>
         <entry>dateti</entry>
@@ -839,6 +838,7 @@
         <entry>me</entry>
         <entry>cas</entry>
         <entry>caller</entry>
+        <entry>stats</entry>
       </history-search>
       <history-cmd>
         <entry>split</entry>
