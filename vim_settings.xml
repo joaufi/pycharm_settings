@@ -209,12 +209,12 @@
         <mark key="^" line="1" column="44" />
         <mark key="." line="1" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utility/transformation_functions.py" timestamp="1544632204399">
-        <mark key="'" line="26" column="28" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="26" column="27" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utility/transformation_functions.py" timestamp="1544636723473">
+        <mark key="'" line="0" column="28" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="10" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/core/format.py" timestamp="1535556293674">
         <mark key="[" line="22" column="8" />
@@ -283,11 +283,8 @@
         <mark key="." line="3" column="57" />
         <mark key="^" line="3" column="57" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/tests/aggregation/mocks/mock_customer_history_model.py" timestamp="1544634349536">
-        <mark key="[" line="6" column="43" />
-        <mark key="]" line="7" column="49" />
-        <mark key="^" line="7" column="49" />
-        <mark key="." line="7" column="49" />
+      <file name="$USER_HOME$/repositories/scoring-library/tests/aggregation/mocks/mock_customer_history_model.py" timestamp="1544636624497">
+        <mark key="^" line="4" column="49" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/dao/bidsift_graph_dao.py" timestamp="1532981405395">
         <mark key="[" line="28" column="0" />
@@ -493,12 +490,12 @@
         <mark key="." line="33" column="69" />
         <mark key="^" line="33" column="69" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/tests/aggregation/test_business_models.py" timestamp="1544634375540">
+      <file name="$USER_HOME$/repositories/scoring-library/tests/aggregation/test_business_models.py" timestamp="1544637593024">
         <mark key="'" line="63" column="22" />
-        <mark key="[" line="24" column="41" />
-        <mark key="]" line="24" column="41" />
-        <mark key="." line="24" column="41" />
-        <mark key="^" line="24" column="41" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/attribute_transformation_model.py" timestamp="1531756801846">
         <mark key="[" line="262" column="19" />
@@ -777,14 +774,14 @@
       <jump line="26" column="28" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utility/transformation_functions.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>time()</text>
@@ -793,31 +790,31 @@
         <text encoding="base64">ICAgIEBwYXRjaCgnY3VzdGluZm9saWIuY29tbW9uLnV0aWxpdGllcy50aW1lLnRpbWUnLCBsYW1iZGE6IDEzMzcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRpbWUudGltZSgpKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCB0aW1lCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0X3RpbWVzdGFtcCA9ICh0aW1lKCkgKiAxMDAwKSAtIHRpbWVzdGFtcF9taWxsaXNlY29uZHMK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRpbWUudGltZSgpKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBA</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIE5PVkVNQkVSXzEyVEhfMjAxOCA9IDE1NDIwMDgzODAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIE5PVkVNQkVSXzEyVEhfMjAxOCA9IDE1NDIwMDgzODAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCB0aW1lCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBub3dfaW5fbXMgPSBpbnQodGltZSgpICogMTAwMCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCh0aW1lLnRpbWUoKXMK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50KHRpbWUudGltZSgpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhZXJvc3Bpa2VfY2xpZW50LmNvbm5lY3QoKQo=</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFlcm9zcGlrZV9jbGllbnQgPSBhZXJvc3Bpa2UuY2xpZW50KGNvbmZpZykK</text>
+        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCB0aW1lCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
