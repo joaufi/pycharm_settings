@@ -405,6 +405,7 @@
         <mark key="^" line="26" column="19" />
         <mark key="." line="26" column="19" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" timestamp="1545254859811" />
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/dev.py" timestamp="1543521929633">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
@@ -788,7 +789,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>SCRIBE</text>
+        <text>tbl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBwYXRjaCgnY3VzdGluZm9saWIuY29tbW9uLnV0aWxpdGllcy50aW1lLnRpbWUnLCBsYW1iZGE6IDEzMzcpCg==</text>
@@ -825,9 +826,9 @@
       </register>
     </registers>
     <search>
-      <last-search>SCRIBE</last-search>
+      <last-search>tbl</last-search>
       <last-offset />
-      <last-pattern>SCRIBE</last-pattern>
+      <last-pattern>tbl</last-pattern>
       <last-replace>':\ ,\n</last-replace>
       <last-substitute>\n</last-substitute>
       <last-dir>1</last-dir>
@@ -835,7 +836,6 @@
     </search>
     <history>
       <history-search>
-        <entry>def join</entry>
         <entry>def\ join</entry>
         <entry>join</entry>
         <entry>VALID</entry>
@@ -855,6 +855,7 @@
         <entry>time()</entry>
         <entry>long</entry>
         <entry>SCRIBE</entry>
+        <entry>tbl</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/ig</entry>
