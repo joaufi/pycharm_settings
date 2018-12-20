@@ -314,11 +314,12 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/controller.py" timestamp="1545067790357">
-        <mark key="[" line="114" column="13" />
-        <mark key="]" line="114" column="13" />
-        <mark key="." line="114" column="13" />
-        <mark key="^" line="114" column="13" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/controller.py" timestamp="1545267691769">
+        <mark key="'" line="166" column="0" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
+        <mark key="^" line="111" column="9" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.jql" timestamp="1529949914712">
         <mark key="[" line="5" column="7" />
@@ -677,7 +678,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="522" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
       <jump line="531" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
       <jump line="576" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
       <jump line="69" column="25" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/utilities.py" />
@@ -777,16 +777,17 @@
       <jump line="23" column="15" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/prod.py" />
       <jump line="48" column="6" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/prod.py" />
       <jump line="108" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" />
+      <jump line="175" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/controller.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>scoring_payload)</text>
       </register>
       <register name="/" type="4">
         <text>tbl</text>
@@ -795,31 +796,31 @@
         <text encoding="base64">ICAgIEBwYXRjaCgnY3VzdGluZm9saWIuY29tbW9uLnV0aWxpdGllcy50aW1lLnRpbWUnLCBsYW1iZGE6IDEzMzcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fc2NvcmUoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnOiBtb2RlbF9uYW1lLAogICAgICAgICAgICAndmVyc2lvbic6IG1vZGVsX3ZlcnNpb24sCiAgICAgICAgICAgICdwYXJhbWV0ZXJzJzogbW9kZWxfcGFyYW1ldGVycywKICAgICAgICAgICAgJ2N1c3RvbWVyX2lkcyc6IGN1c3RvbWVyX2lkcywKICAgICAgICAgICAgJ2N1c3RvbWVyX2d1aWRzJzogY3VzdG9tZXJfZ3VpZHMsCiAgICAgICAgICAgICdkZXZpY2VfZ3VpZHMnOiBkZXZpY2VfZ3VpZHMsCiAgICAgICAgICAgICd0cmFuc2FjdGlvbl9pZCc6IHRyYW5zYWN0aW9uX2lkLAogICAgICAgICAgICAnc3RvcmVfaWQnOiBzdG9yZV9pZCwKICAgICAgICAgICAgJ2N1cnJlbnRfdGltZSc6IGN1cnJlbnRfdGltZSwKICAgICAgICAgICAgJ2N1cnJlbnRfZXZlbnQnOiBjdXJyZW50X2V2ZW50LAo=</text>
+        <text encoding="base64">ICAgICAgICBzY29yaW5nX3BheWxvYWQgPSB7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZlbnRfZGF0YSA9IHNlbGYuX2J1aWxkX2V2ZW50KG1vZGVsX25hbWUsIG1vZGVsX3ZlcnNpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBwdWJsaXNoX2V2ZW50OgogICAgICAgICAgICBldmVudF9kYXRhID0gc2VsZi5fZ2V0X2V2ZW50X2RhdGEoc2NvcmluZ19wYXlsb2FkKQogICAgICAgICAgICBzZWxmLnNjcmliZV90cmFja2luZ19jbGllbnQuc3VibWl0KCdzY3JpYmVFdmVudEpzb24nLCApCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBsb2dfdGltZSgpCiAgICBkZWYgc2NvcmVfdG9fZXZlbnQoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaXNoX2V2ZW50PUZhbHNlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgojIFRPRE86IFJlbW92ZSB0aGlzIGFuZCB1cGRhdGUgcmVmZXJlbmNlcyBiZWxvdyBvbmNlIHdlJ3JlIGN1dC1vdmVyIHRvIFB5dGhvbiAzCmlmIHNpeC5QWTM6CiAgICBsb25nID0gaW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfZ2V0X2V2ZW50X2RhdGEoc2VsZiwgbW9kZWxfbmFtZSwgbW9kZWxfdmVyc2lvbik6CiAgICAgICAgCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
