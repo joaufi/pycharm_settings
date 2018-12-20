@@ -159,6 +159,12 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/event_publisher.py" timestamp="1545269624621">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/strategy/bidsift_graph_bidding_strategy.py" timestamp="1532978695448">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="23" />
@@ -823,7 +829,7 @@
         <text encoding="base64">ICAgIGRlZiBfZ2V0X2V2ZW50X2RhdGEoc2VsZiwgbW9kZWxfbmFtZSwgbW9kZWxfdmVyc2lvbik6CiAgICAgICAgCgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>split</text>
       </register>
     </registers>
     <search>
@@ -876,9 +882,9 @@
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>W</entry>
         <entry>vsplit</entry>
-        <entry>split</entry>
         <entry>qa</entry>
         <entry>w</entry>
+        <entry>split</entry>
       </history-cmd>
       <history-expr />
       <history-input />
