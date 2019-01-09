@@ -105,6 +105,7 @@
         <mark key="." line="35" column="19" />
         <mark key="^" line="45" column="38" />
       </file>
+      <file name="$USER_HOME$/repositories/bidsift/.python_environment/lib/python3.6/site-packages/custinfolib/common/identifier_mapper.py" timestamp="1547062910527" />
       <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/aggregate_model.py" timestamp="1534944449548">
         <mark key="[" line="222" column="0" />
         <mark key="]" line="222" column="0" />
@@ -154,12 +155,12 @@
         <mark key="." line="12" column="73" />
         <mark key="^" line="12" column="73" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1547055048950">
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1547063247261">
         <mark key="'" line="100" column="0" />
-        <mark key="[" line="205" column="44" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="84" column="0" />
+        <mark key="[" line="314" column="61" />
+        <mark key="]" line="315" column="0" />
+        <mark key="." line="315" column="0" />
+        <mark key="^" line="286" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/strategy/bidsift_graph_bidding_strategy.py" timestamp="1532978695448">
         <mark key="[" line="67" column="0" />
@@ -761,7 +762,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U0NSSUJFX0VWRU5UIA==</text>
+        <text>not device_guids or not customer_guids</text>
       </register>
       <register name="/" type="4">
         <text>'user_level_bidding'</text>
@@ -773,33 +774,33 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBtb2RlbF9uYW1lID09ICdiMmJfcG9zdF9lbnJvbGxtZW50JzoKICAgICAgICAgICAgY3VycmVudF9zdHJhdGVneSA9ICd7fV97fScuZm9ybWF0KG1vZGVsX25hbWUsIG1vZGVsX3ZlcnNpb24pCiAgICAgICAgICAgIHNjcmliZV9jbGllbnQudHJhY2tfcG9zdF9lbnJvbGxtZW50X3VzaW5nX2JpZHNpZnRfcmVxdWVzdCgKICAgICAgICAgICAgICAgIHJlcXVlc3RfanNvbiwKICAgICAgICAgICAgICAgIHJlc3BvbnNlLAogICAgICAgICAgICAgICAgY3VycmVudF9zdHJhdGVneSwKICAgICAgICAgICAgICAgIHNjb3JpbmcuZGVidWdfY29udGV4dAogICAgICAgICAgICApCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBjdXN0b21lcl9pZCBhbmQgOgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CgoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ZnJvbSBzY29yaW5nLmV2YWx1YXRpb24uY29uc3RhbnRzIGltcG9ydCAK</text>
       </register>
-      <register name="4" type="8">
+      <register name="9" type="8">
         <text>self.
 self.
 self.
 self.
 self.
 self.</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJTZW5kIHRoZSBldmVudCBkYXRhIHRvIHRyYWNraW5nIGNsaWVudCIiIgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudF9kYXRhID0gZXZlbnRfZGF0YSBpZiBldmVudF9kYXRhIGVsc2Ugc2VsZi5ldmVudF9kYXRhCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBBZGQgZ2VuZXJhbCB0cmFja2luZyBkYXRhCiAgICAgICAgZXZlbnRfZGF0YVtDQ0tleS5UUkFDS0lOR19FVkVOVF9JRF0gPSBzdHIodXVpZC51dWlkNCgpKQogICAgICAgIGV2ZW50X2RhdGFbQ0NLZXkuTE9HX1ZFUlNJT05dID0gU0NSSUJFX1ZFUlNJT04KCiAgICAgICAgIyBTZXQgYSB1bmlxdWUgaWQgZm9yIHRoaXMgdHJhY2tpbmcgbG9nIGVudHJ5CiAgICAgICAgZXZlbnRfZGF0YVtDQ0tleS5TQ1JJQkVfTE9HX0lEXSA9IHN0cih1dWlkLnV1aWQ0KCkpCiAgICAgICAgZXZlbnRfZGF0YVtDQ0tleS5FVkVOVF9USU1FU1RBTVBdID0gaW50KHRpbWUudGltZSgpICogU0VDT05EU19UT19NSUxMSVMpCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAgICBkZWYgX2NyZWF0ZV9nZW5lcmFsX2V2ZW50KHNlbGYpOgogICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICdldmVudFRpbWVzdGFtcCc6IGxvbmcodGltZS50aW1lKCkgKiBTRUNPTkRTX1RPX01JTExJUyksCiAgICAgICAgICAgICdsb2dWZXJzaW9uJzogU0NSSUJFX1ZFUlNJT04sCiAgICAgICAgICAgICdzY3JpYmVMb2dJZCc6IHN0cih1dWlkLnV1aWQ0KCkpLAogICAgICAgICAgICAndHJhY2tpbmdFdmVudElkJzogc3RyKHV1aWQudXVpZDQoKSksCiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -851,12 +852,12 @@ self.</text>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>W</entry>
         <entry>split</entry>
-        <entry>qa</entry>
         <entry>Lw</entry>
-        <entry>q</entry>
-        <entry>vsplit</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>qa</entry>
+        <entry>vsplit</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
