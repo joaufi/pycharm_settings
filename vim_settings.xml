@@ -48,6 +48,9 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" timestamp="1547046366521">
+        <mark key="'" line="195" column="32" />
+      </file>
       <file name="$USER_HOME$/repositories/bidsift/.python_environment/lib/python3.6/site-packages/scoring/evaluation/context.py" timestamp="1539199592425">
         <mark key="[" line="34" column="19" />
         <mark key="]" line="34" column="59" />
@@ -632,7 +635,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="531" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
       <jump line="576" column="13" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
       <jump line="69" column="25" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/utilities.py" />
       <jump line="0" column="14" filename="$USER_HOME$/repositories/puppet/modules/airflow/files/requirements.lock" />
@@ -732,6 +734,7 @@
       <jump line="48" column="6" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/prod.py" />
       <jump line="108" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" />
       <jump line="175" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/controller.py" />
+      <jump line="195" column="32" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -744,7 +747,7 @@
         <text>current_event=None</text>
       </register>
       <register name="/" type="4">
-        <text>tbl</text>
+        <text>APP</text>
       </register>
       <register name="0" type="4">
         <text>str(uuid.uuid4()),</text>
@@ -781,9 +784,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tbl</last-search>
+      <last-search>APP</last-search>
       <last-offset />
-      <last-pattern>tbl</last-pattern>
+      <last-pattern>APP</last-pattern>
       <last-replace>':\ ,\n</last-replace>
       <last-substitute>\n</last-substitute>
       <last-dir>1</last-dir>
@@ -791,7 +794,6 @@
     </search>
     <history>
       <history-search>
-        <entry>def\ join</entry>
         <entry>join</entry>
         <entry>VALID</entry>
         <entry>&quot;</entry>
@@ -811,6 +813,7 @@
         <entry>long</entry>
         <entry>SCRIBE</entry>
         <entry>tbl</entry>
+        <entry>APP</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/ig</entry>
