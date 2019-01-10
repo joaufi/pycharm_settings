@@ -154,11 +154,12 @@
         <mark key="." line="12" column="73" />
         <mark key="^" line="12" column="73" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1547131797567">
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1547133774104">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
+        <mark key="[" line="244" column="16" />
+        <mark key="]" line="244" column="41" />
+        <mark key="." line="244" column="41" />
+        <mark key="^" line="244" column="41" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/strategy/bidsift_graph_bidding_strategy.py" timestamp="1532978695448">
         <mark key="[" line="67" column="0" />
@@ -767,14 +768,14 @@
       <jump line="120" column="4" filename="$USER_HOME$/repositories/bidsift/bidsift/utilities.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbG9nX3Byb2JhYmlsaXR5JzogMC4wMSwK</text>
+      <register name="&quot;" type="4">
+        <text>model_version</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>converted_result</text>
+        <text>model_version</text>
       </register>
       <register name="/" type="4">
         <text>long</text>
@@ -783,34 +784,34 @@
         <text encoding="base64">ICAgIEBsb2dfdGltZSgpCiAgICBkZWYgX2Zvcm1hdF9oYXNoKHNlbGYsIHJlc3VsdCwgcmVzdWx0X2Zvcm1hdCk6CiAgICAgICAgIiIiZm9ybWF0dGluZyBtZXRob2QgZm9yIGEgUmVkaXMgaGFzaAoKICAgICAgICBBcmdzOgogICAgICAgICAgICByZXN1bHRfZm9ybWF0IChkaWN0KToga2V5ID0+IHJlc3BvbnNlIHN0cmluZywgdmFsdWUgPT4gKHJlZGlzIHZhbHVlLAogICAgICAgICAgICAgICAgdmFsdWVfdHlwZSkKCiAgICAgICAgUmV0dXJuczoKICAgICAgICAgICAgZGljdDogdGhlIGZvcm1hdHRlZCBvdXRwdXQgZm9yIHRoZSByZXF1ZXN0ZWQgdHlwZQogICAgICAgICIiIgogICAgICAgIGlmIG5vdCByZXN1bHQ6CiAgICAgICAgICAgIHJldHVybiBOb25lCgogICAgICAgIGNvbnZlcnRlZF9yZXN1bHQgPSB7fQogICAgICAgIGZvciBrZXksIHZhbHVlX3R5cGUgaW4gcmVzdWx0X2Zvcm1hdC5pdGVtcygpOgogICAgICAgICAgICB2YWx1ZSA9IE5vbmUKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgdmFsdWUgPSB2YWx1ZV90eXBlKHJlc3VsdFtrZXldKSBpZiByZXN1bHQuZ2V0KGtleSkgbm90IGluIFtOb25lLCAnJ10gZWxzZSBOb25lCiAgICAgICAgICAgIGV4Y2VwdCBWYWx1ZUVycm9yOgogICAgICAgICAgICAgICAgc2VsZi5sb2dnZXIuaW5mbygKICAgICAgICAgICAgICAgICAgICAnRm9ybWF0dGluZyBvZiBoYXNoIGZhaWxlZCcsCiAgICAgICAgICAgICAgICAgICAgZXh0cmE9ewogICAgICAgICAgICAgICAgICAgICAgICAncmVzdWx0JzogcmVzdWx0LAogICAgICAgICAgICAgICAgICAgICAgICAna2V5Jzoga2V5LAogICAgICAgICAgICAgICAgICAgICAgICAndmFsdWVfdHlwZSc6IHZhbHVlX3R5cGUsCiAgICAgICAgICAgICAgICAgICAgICAgICd0cmFjZWJhY2snOiB0cmFjZWJhY2suZm9ybWF0X2V4YygpLAogICAgICAgICAgICAgICAgICAgICAgICAnbG9nX3Byb2JhYmlsaXR5JzogMC4wMSwKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgIGNvbnZlcnRlZF9yZXN1bHRba2V5XSA9IHZhbHVlCgogICAgICAgIHJldHVybiBjb252ZXJ0ZWRfcmVzdWx0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbG9nX3Byb2JhYmlsaXR5JzogMC4wMSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRfZm9ybWF0IChkaWN0KToga2V5ID0+IHJlc3BvbnNlIHN0cmluZywgdmFsdWUgPT4gKHJlZGlzIHZhbHVlLAogICAgICAgICAgICB2YWx1ZV90eXBlKQo=</text>
+        <text encoding="base64">ICAgICMgU3RvcmUgdGhlIG1vZGVsIG5hbWUgYW5kIHZlcnNpb24gaW4gdGhlIHJlcXVlc3Qgc28gdGhhdCB3ZSBjYW4gaGF2ZQogICAgIyBzZXBhcmF0ZSB0aW1lcnMgZm9yIGVhY2ggdmVyc2lvbmVkIG1vZGVsIChzZWUgdGVhcmRvd25fcmVxdWVzdCgpKQogICAgbW9kZWxfbmFtZSA9IHBheWxvYWQuZ2V0KCdtb2RlbF9uYW1lJykKICAgIG1vZGVsX3ZlcnNpb24gPSBwYXlsb2FkLmdldCgnbW9kZWxfdmVyc2lvbicpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzY3JpYmVfY2xpZW50ID0gU2NyaWJlQ2xpZW50KGNvbnRleHQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QGxvZ190aW1lKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbG9nX3Byb2JhYmlsaXR5JzogMC4wMSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRfZm9ybWF0IChkaWN0KToga2V5ID0+IHJlc3BvbnNlIHN0cmluZywgdmFsdWUgPT4gKHJlZGlzIHZhbHVlLAogICAgICAgICAgICB2YWx1ZV90eXBlKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGxvZ190aW1lKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRhc2tfY29udGV4dC5zZXQoJ21vZGVsX25hbWUnLCBtb2RlbF9uYW1lKQogICAgdGFza19jb250ZXh0LnNldCgnbW9kZWxfdmVyc2lvbicsIG1vZGVsX3ZlcnNpb24pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgU3RvcmUgdGhlIG1vZGVsIG5hbWUgYW5kIHZlcnNpb24gaW4gdGhlIHJlcXVlc3Qgc28gdGhhdCB3ZSBjYW4gaGF2ZQogICAgIyBzZXBhcmF0ZSB0aW1lcnMgZm9yIGVhY2ggdmVyc2lvbmVkIG1vZGVsIChzZWUgdGVhcmRvd25fcmVxdWVzdCgpKQogICAgbW9kZWxfbmFtZSA9IHBheWxvYWQuZ2V0KCdtb2RlbF9uYW1lJykKICAgIG1vZGVsX3ZlcnNpb24gPSBwYXlsb2FkLmdldCgnbW9kZWxfdmVyc2lvbicpCiAgICB0YXNrX2NvbnRleHQuc2V0KCdtb2RlbF9uYW1lJywgbW9kZWxfbmFtZSkKICAgIHRhc2tfY29udGV4dC5zZXQoJ21vZGVsX3ZlcnNpb24nLCBtb2RlbF92ZXJzaW9uKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -864,8 +865,8 @@
         <entry>vsplit score/views.py</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
