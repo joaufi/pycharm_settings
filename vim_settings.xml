@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_inmarket_v2.py" timestamp="1547234341549">
+        <mark key="'" line="1" column="8" />
+        <mark key="[" line="33" column="1" />
+        <mark key="]" line="33" column="1" />
+        <mark key="." line="33" column="1" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.json" timestamp="1541013551985">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="30" column="2" />
@@ -14,9 +20,6 @@
         <mark key="]" line="12" column="37" />
         <mark key="^" line="13" column="39" />
         <mark key="." line="12" column="37" />
-      </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/.gitlab-ci.yml" timestamp="1544714103061">
-        <mark key="[" line="34" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch._1.cmdline" timestamp="1539722768664">
         <mark key="[" line="0" column="0" />
@@ -196,9 +199,6 @@
         <mark key="]" line="66" column="19" />
         <mark key="^" line="66" column="19" />
         <mark key="." line="66" column="19" />
-      </file>
-      <file name="$USER_HOME$/repositories/customer-information-service/.python_environment/lib/python3.6/site-packages/wf_secrets/secrets.py" timestamp="1544464338721">
-        <mark key="[" line="17" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" timestamp="1545059696729">
         <mark key="'" line="108" column="0" />
@@ -666,7 +666,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="62" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
       <jump line="80" column="4" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
       <jump line="101" column="4" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
       <jump line="122" column="4" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
@@ -766,19 +765,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
       <jump line="120" column="4" filename="$USER_HOME$/repositories/bidsift/bidsift/utilities.py" />
       <jump line="151" column="60" filename="$USER_HOME$/repositories/bidsift/bidsift/utilities.py" />
+      <jump line="1" column="8" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_inmarket_v2.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>long</text>
+        <text>os</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ0NLZXkuRVZFTlRfVElNRVNUQU1QOiBpbnQodGltZS50aW1lKCkgKiBTRUNPTkRTX1RPX01JTExJUyksCiAgICAgICAgICAgIENDS2V5LkxPR19WRVJTSU9OOiBTQ1JJQkVfVkVSU0lPTiwKICAgICAgICAgICAgQ0NLZXkuU0NSSUJFX0xPR19JRDogc3RyKHV1aWQudXVpZDQoKSksCiAgICAgICAgICAgIENDS2V5LlRSQUNLSU5HX0VWRU5UX0lEOiBzdHIodXVpZC51dWlkNCgpKSwK</text>
@@ -815,9 +815,9 @@
       </register>
     </registers>
     <search>
-      <last-search>long</last-search>
+      <last-search>os</last-search>
       <last-offset />
-      <last-pattern>long</last-pattern>
+      <last-pattern>os</last-pattern>
       <last-replace>':\ ,\n</last-replace>
       <last-substitute>\n</last-substitute>
       <last-dir>1</last-dir>
@@ -825,7 +825,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stats</entry>
         <entry>months</entry>
         <entry>time</entry>
         <entry>time()</entry>
@@ -845,6 +844,7 @@
         <entry>I</entry>
         <entry>mobile</entry>
         <entry>long</entry>
+        <entry>os</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJw==</entry>
