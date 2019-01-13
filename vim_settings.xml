@@ -138,12 +138,12 @@
         <mark key="^" line="94" column="57" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/scribe_client.py" timestamp="1547241743170">
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/scribe_client.py" timestamp="1547242194631">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="79" column="13" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="161" column="54" />
-        <mark key="." line="71" column="0" />
+        <mark key="[" line="58" column="20" />
+        <mark key="]" line="58" column="19" />
+        <mark key="^" line="58" column="19" />
+        <mark key="." line="58" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/common/constants.py" timestamp="1532371919035">
         <mark key="[" line="4" column="10" />
@@ -229,7 +229,7 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/constants.py" timestamp="1547131624397">
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/constants.py" timestamp="1547242374527">
         <mark key="'" line="20" column="24" />
         <mark key="[" line="12" column="28" />
         <mark key="]" line="12" column="29" />
@@ -332,7 +332,8 @@
         <mark key="^" line="19" column="61" />
         <mark key="." line="19" column="61" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1547131973243">
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1547242976910">
+        <mark key="'" line="826" column="54" />
         <mark key="[" line="1638" column="0" />
         <mark key="]" line="1670" column="30" />
         <mark key="^" line="1547" column="23" />
@@ -665,9 +666,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="4" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
-      <jump line="134" column="4" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
-      <jump line="144" column="37" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
       <jump line="13" column="34" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
       <jump line="187" column="39" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/event_business_model.py" />
       <jump line="182" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/constants.py" />
@@ -765,19 +763,22 @@
       <jump line="1" column="8" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_inmarket_v2.py" />
       <jump line="18" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/scribe_client.py" />
       <jump line="151" column="22" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
+      <jump line="1653" column="52" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="388" column="14" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="826" column="54" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHJlCg==</text>
+      <register name="&quot;" type="4">
+        <text>SCKey</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>SCKey</text>
       </register>
       <register name="/" type="4">
-        <text>:</text>
+        <text>def viewed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIE5vbmUgaXMgb2theSBhcyBhIHZhbHVlCg==</text>
@@ -814,9 +815,9 @@
       </register>
     </registers>
     <search>
-      <last-search>:</last-search>
+      <last-search>def viewed</last-search>
       <last-offset />
-      <last-pattern>:</last-pattern>
+      <last-pattern>def viewed</last-pattern>
       <last-replace>\':</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
@@ -824,9 +825,6 @@
     </search>
     <history>
       <history-search>
-        <entry>time()</entry>
-        <entry>SCRIBE</entry>
-        <entry>tbl</entry>
         <entry>APP</entry>
         <entry>bi</entry>
         <entry>cus</entry>
@@ -844,6 +842,9 @@
         <entry>os</entry>
         <entry>USER_</entry>
         <entry>:</entry>
+        <entry>device_guids</entry>
+        <entry>viewed_skus</entry>
+        <entry>def viewed</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xuLydcbi8=</entry>
