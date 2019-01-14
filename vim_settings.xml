@@ -454,10 +454,11 @@
         <mark key="." line="12" column="54" />
         <mark key="^" line="12" column="54" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/requirements-airflow.txt" timestamp="1540486379426">
-        <mark key="[" line="92" column="16" />
-        <mark key="]" line="92" column="49" />
-        <mark key="." line="92" column="49" />
+      <file name="$USER_HOME$/repositories/airflow-dags/requirements-airflow.txt" timestamp="1547490559440">
+        <mark key="'" line="96" column="10" />
+        <mark key="[" line="92" column="14" />
+        <mark key="]" line="92" column="14" />
+        <mark key="." line="92" column="14" />
         <mark key="^" line="92" column="49" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/create_temp_tables/scribe_page_views_temp_table.sql" timestamp="1530736596551">
@@ -663,8 +664,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/bidsift/.python_environment/lib/python3.6/os.py" />
-      <jump line="20" column="17" filename="$USER_HOME$/repositories/bidsift/.python_environment/lib/python3.6/os.py" />
       <jump line="289" column="24" filename="$USER_HOME$/repositories/bidsift/.python_environment/lib/python3.6/os.py" />
       <jump line="325" column="24" filename="$USER_HOME$/repositories/bidsift/.python_environment/lib/python3.6/os.py" />
       <jump line="328" column="27" filename="$USER_HOME$/repositories/bidsift/.python_environment/lib/python3.6/os.py" />
@@ -763,19 +762,21 @@
       <jump line="224" column="51" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
       <jump line="106" column="46" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
       <jump line="151" column="26" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
+      <jump line="92" column="49" filename="$USER_HOME$/repositories/airflow-dags/requirements-airflow.txt" />
+      <jump line="96" column="10" filename="$USER_HOME$/repositories/airflow-dags/requirements-airflow.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>payload</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>pay</text>
+        <text>req</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBzY29yZXNfYXBwLmxvZ2dlci5lcnJvcigKICAgICAgICAgICAgJ0Vycm9yIHdoaWxlIHNjb3JpbmcgY3VzdG9tZXInLAogICAgICAgICAgICBleHRyYT17J3N0YWNrX3RyYWNlJzogdHJhY2ViYWNrLmZvcm1hdF9leGMoKSwKICAgICAgICAgICAgICAgICAgICdwYXlsb2FkJzogcGF5bG9hZH0KICAgICAgICApCiAgICAgICAgcmV0dXJuIHNlcnZlcl9lcnJvcl9yZXNwb25zZShzdHIoZSkpCg==</text>
@@ -812,9 +813,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pay</last-search>
+      <last-search>req</last-search>
       <last-offset />
-      <last-pattern>pay</last-pattern>
+      <last-pattern>req</last-pattern>
       <last-replace />
       <last-substitute>]</last-substitute>
       <last-dir>1</last-dir>
@@ -822,8 +823,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mobile</entry>
-        <entry>long</entry>
         <entry>os</entry>
         <entry>USER_</entry>
         <entry>device_guids</entry>
@@ -842,6 +841,8 @@
         <entry>scoring</entry>
         <entry>current_event</entry>
         <entry>pay</entry>
+        <entry>2.9</entry>
+        <entry>req</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5x</entry>
