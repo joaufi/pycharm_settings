@@ -333,12 +333,12 @@
       <file name="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" timestamp="1547658521579">
         <mark key="'" line="2053" column="10" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" timestamp="1547658458354">
-        <mark key="'" line="203" column="0" />
-        <mark key="[" line="143" column="11" />
-        <mark key="]" line="143" column="21" />
+      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" timestamp="1547659598864">
+        <mark key="'" line="170" column="0" />
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="0" />
         <mark key="^" line="143" column="21" />
-        <mark key="." line="143" column="21" />
+        <mark key="." line="188" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_temporary_tables/populate_temp_page_views.sql" timestamp="1540565581536">
         <mark key="[" line="10" column="32" />
@@ -718,16 +718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="530" column="48" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" />
-      <jump line="482" column="62" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" />
-      <jump line="59" column="22" filename="$USER_HOME$/repositories/scoring-library/tests/aggregation/test_business_models.py" />
-      <jump line="28" column="14" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utility/transformation_functions.py" />
-      <jump line="26" column="28" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utility/transformation_functions.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/scribe_client.py" />
-      <jump line="120" column="65" filename="$USER_HOME$/repositories/bidsift/bidsift/scribe_client.py" />
-      <jump line="23" column="15" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/prod.py" />
-      <jump line="48" column="6" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/prod.py" />
-      <jump line="108" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" />
       <jump line="175" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/controller.py" />
       <jump line="195" column="32" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
       <jump line="63" column="9" filename="$USER_HOME$/repositories/bidsift/bidsift/scribe_client.py" />
@@ -818,10 +808,20 @@
       <jump line="2051" column="32" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="2052" column="40" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="2053" column="10" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="177" column="30" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
+      <jump line="180" column="47" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
+      <jump line="186" column="21" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
+      <jump line="206" column="20" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
+      <jump line="207" column="33" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
+      <jump line="212" column="38" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
+      <jump line="217" column="47" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
+      <jump line="222" column="47" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
+      <jump line="171" column="34" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
+      <jump line="170" column="0" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>airflow_bigdatatop</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -830,7 +830,7 @@
         <text>airflow_bigdatatop</text>
       </register>
       <register name="/" type="4">
-        <text>bigdata</text>
+        <text>v1</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNjb3JlX2NvbnRyb2xsZXIgPSBTY29yZUNvbnRyb2xsZXIoZ2V0X2NvbnRleHQoc2NvcmVzX2FwcCkpCg==</text>
@@ -839,13 +839,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5tYXJrZXRfcmVkaXNfbG9hZF92MSA9IFRyaWdnZXJEYWdSdW5PcGVyYXRvcigKICAgIHRhc2tfaWQ9J2lubWFya2V0X3JlZGlzX2xvYWRfdjEnLAogICAgdHJpZ2dlcl9kYWdfaWQ9J3JlZGlzX2xvYWRlcicsCiAgICBweXRob25fY2FsbGFibGU9aW5zdGFudGlhdGVfcmVkaXNfbG9hZCwKICAgIHBhcmFtcz17CiAgICAgICAgJ2RhdGFfY2VudGVycyc6IFsnYm9zdG9uJywgJ3NlYXR0bGUnLCAnaXJlbGFuZCddIGlmIEVOViA9PSAncHJvZCcgZWxzZSBbJ2RldiddLAogICAgICAgICdrZXlfdGVtcGxhdGUnOiAnZHNzOmlubWFya2V0OnYxOnt9X3t9JywKICAgICAgICAncnVuX2lkJzogJ2lubWFya2V0X3YyX29sZF97fScuZm9ybWF0KGRhdGV0aW1lLm5vdygpKSwKICAgICAgICAnZmlsZV9wYXRoJzogb3MucGF0aC5qb2luKAogICAgICAgICAgICBDUlVOQ0hfQlVDS0VUUywKICAgICAgICAgICAgJ2NlbnRyYWwnIGlmIEVOViA9PSAncHJvZCcgZWxzZSAnbG9jYWwnLAogICAgICAgICAgICAnZGF0YV9zY2llbmNlL2lubWFya2V0X3YxL2lubWFya2V0X3YxX3JlZGlzX3VwbG9hZC5jc3YnCiAgICAgICAgKQogICAgfSwKICAgIGRhZz1kYWcKKQppbm1hcmtldF9yZWRpc19sb2FkX3YxIDw8IHJlZGlzX3VwbG9hZF9wcmVwYXJlX3YxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNjb3JlX2NvbnRyb2xsZXIgPSBTY29yZUNvbnRyb2xsZXIoZ2V0X2NvbnRleHQoc2NvcmVzX2FwcCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNjb3JlX2NvbnRyb2xsZXIgPSBTY29yZUNvbnRyb2xsZXIoZ2V0X2NvbnRleHQoc2NvcmVzX2FwcCkpCg==</text>
+        <text encoding="base64">cmVkaXNfdXBsb2FkX3ByZXBhcmVfdjEgPSBQeXRob25PcGVyYXRvcigKICAgIHRhc2tfaWQ9J3JlZGlzX3VwbG9hZF9wcmVwYXJlX3YxJywKICAgIHB5dGhvbl9jYWxsYWJsZT1pbm1hcmtldF92Ml91dGlsaXR5LnJlZGlzX3ByZXByb2Nlc3MsCiAgICBvcF9rd2FyZ3M9ewogICAgICAgICdkYXRhX3BhdGgnOiAnL3dheWZhaXIvbW50L3NxbF9zdGFnaW5nL2V4cG9ydHMvaW5tYXJrZXRfc2NvcmVfdjEvaW5tYXJrZXRfc2NvcmluZ192MS5wYXJxdWV0JyBpZgogICAgICAgICAgICBFTlYgPT0gJ3Byb2QnIGVsc2UgJy93YXlmYWlyL21udC9zcWxfc3RhZ2luZy9leHBvcnRzL2lubWFya2V0X3Njb3JlX3YxL2lubWFya2V0X3Njb3JpbmdfdjFfZGV2LnBhcnF1ZXQnLAogICAgICAgICdjbGlkJzogUkVESVNfQ0xJRF9MSVNULAogICAgICAgICdvdXRwdXQnOiBvcy5wYXRoLmpvaW4oCiAgICAgICAgICAgIENSVU5DSF9CVUNLRVRTLAogICAgICAgICAgICAnY2VudHJhbCcgaWYgRU5WID09ICdwcm9kJyBlbHNlICdsb2NhbCcsCiAgICAgICAgICAgICdkYXRhX3NjaWVuY2UvaW5tYXJrZXRfdjEvaW5tYXJrZXRfdjFfcmVkaXNfdXBsb2FkLmNzdicKICAgICAgICApLAogICAgICAgICdzdG9yZV9pZCc6IFdGVVNfU09JRAogICAgfSwKICAgIGRhZz1kYWcKKQpyZWRpc191cGxvYWRfcHJlcGFyZV92MSA8PCBsb2dfc2NvcmUK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -854,22 +854,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNjb3JlX2NvbnRyb2xsZXIgPSBTY29yZUNvbnRyb2xsZXIoZ2V0X2NvbnRleHQoc2NvcmVzX2FwcCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KFNjb3JlQ29udHJvbGxlcihnZXRfY29udGV4dChzY29yZXNfYXBwKSkucHVibGlzaF9zY29yZV9ldmVudCkK</text>
+        <text encoding="base64">ICAgIHNjb3JlX2NvbnRyb2xsZXIgPSBTY29yZUNvbnRyb2xsZXIoZ2V0X2NvbnRleHQoc2NvcmVzX2FwcCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbmlmeShyZXNwb25zZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>bigdata</last-search>
+      <last-search>v1</last-search>
       <last-offset />
-      <last-pattern>bigdata</last-pattern>
+      <last-pattern>v1</last-pattern>
       <last-replace>payload</last-replace>
       <last-substitute>request_json</last-substitute>
       <last-dir>1</last-dir>
@@ -888,7 +888,6 @@
         <entry>req</entry>
         <entry>,</entry>
         <entry>pickle</entry>
-        <entry>v1</entry>
         <entry>strip</entry>
         <entry>contex</entry>
         <entry>request\_json</entry>
@@ -897,6 +896,7 @@
         <entry>qu</entry>
         <entry>queue</entry>
         <entry>bigdata</entry>
+        <entry>v1</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
