@@ -67,6 +67,9 @@
         <mark key="^" line="14" column="24" />
         <mark key="." line="69" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/virtual_environment_operator.py" timestamp="1547658495292">
+        <mark key="'" line="52" column="44" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/exceptions.py" timestamp="1539898303277">
         <mark key="[" line="21" column="40" />
         <mark key="]" line="21" column="66" />
@@ -327,12 +330,15 @@
         <mark key="." line="16" column="49" />
         <mark key="^" line="16" column="49" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" timestamp="1547503338350">
-        <mark key="'" line="133" column="0" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="^" line="150" column="52" />
-        <mark key="." line="145" column="0" />
+      <file name="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" timestamp="1547658521579">
+        <mark key="'" line="2053" column="10" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" timestamp="1547658458354">
+        <mark key="'" line="203" column="0" />
+        <mark key="[" line="143" column="11" />
+        <mark key="]" line="143" column="21" />
+        <mark key="^" line="143" column="21" />
+        <mark key="." line="143" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_temporary_tables/populate_temp_page_views.sql" timestamp="1540565581536">
         <mark key="[" line="10" column="32" />
@@ -712,17 +718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="0" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/app.py" />
-      <jump line="254" column="24" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" />
-      <jump line="62" column="31" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" />
-      <jump line="485" column="17" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" />
-      <jump line="486" column="32" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" />
-      <jump line="514" column="44" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" />
-      <jump line="517" column="52" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" />
-      <jump line="519" column="36" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" />
-      <jump line="523" column="49" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" />
-      <jump line="525" column="44" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" />
       <jump line="530" column="48" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" />
       <jump line="482" column="62" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/business_model.py" />
       <jump line="59" column="22" filename="$USER_HOME$/repositories/scoring-library/tests/aggregation/test_business_models.py" />
@@ -812,19 +807,30 @@
       <jump line="162" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
       <jump line="103" column="23" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
       <jump line="155" column="12" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
+      <jump line="203" column="0" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
+      <jump line="23" column="8" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/virtual_environment_operator.py" />
+      <jump line="26" column="19" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/virtual_environment_operator.py" />
+      <jump line="36" column="35" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/virtual_environment_operator.py" />
+      <jump line="48" column="83" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/virtual_environment_operator.py" />
+      <jump line="52" column="44" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/virtual_environment_operator.py" />
+      <jump line="1985" column="6" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="2050" column="24" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="2051" column="32" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="2052" column="40" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="2053" column="10" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>airflow_bigdatatop</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>airflow_bigdatatop</text>
       </register>
       <register name="/" type="4">
-        <text>request_json</text>
+        <text>bigdata</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNjb3JlX2NvbnRyb2xsZXIgPSBTY29yZUNvbnRyb2xsZXIoZ2V0X2NvbnRleHQoc2NvcmVzX2FwcCkpCg==</text>
@@ -861,9 +867,9 @@
       </register>
     </registers>
     <search>
-      <last-search>request_json</last-search>
+      <last-search>bigdata</last-search>
       <last-offset />
-      <last-pattern>request_json</last-pattern>
+      <last-pattern>bigdata</last-pattern>
       <last-replace>payload</last-replace>
       <last-substitute>request_json</last-substitute>
       <last-dir>1</last-dir>
@@ -871,10 +877,6 @@
     </search>
     <history>
       <history-search>
-        <entry>:</entry>
-        <entry>]</entry>
-        <entry>PLAT</entry>
-        <entry>TRIG</entry>
         <entry>MODEL</entry>
         <entry>scribe_client</entry>
         <entry>context</entry>
@@ -891,6 +893,10 @@
         <entry>contex</entry>
         <entry>request\_json</entry>
         <entry>request_json</entry>
+        <entry>big</entry>
+        <entry>qu</entry>
+        <entry>queue</entry>
+        <entry>bigdata</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -909,9 +915,9 @@
         <entry>qq</entry>
         <entry>qa</entry>
         <entry>vsplit</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5zL3JlcXVlc3RcX2pzb24vcGF5bG9hZC8=</entry>
         <entry encoding="base64">JzwsJz5zL3JlcXVlc3RfanNvbi9wYXlsb2Fk</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
