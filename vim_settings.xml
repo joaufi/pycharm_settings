@@ -130,8 +130,8 @@
         <mark key="." line="222" column="0" />
         <mark key="^" line="220" column="34" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/2_Merge_Feature_v2.hql" timestamp="1547669405209">
-        <mark key="[" line="340" column="40" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/2_Merge_Feature_v2.hql" timestamp="1547702005142">
+        <mark key="[" line="341" column="9" />
         <mark key="]" line="341" column="9" />
         <mark key="^" line="341" column="9" />
         <mark key="." line="341" column="9" />
@@ -334,7 +334,7 @@
       <file name="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" timestamp="1547658521579">
         <mark key="'" line="2053" column="10" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" timestamp="1547666648863">
+      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" timestamp="1547701777710">
         <mark key="'" line="146" column="28" />
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -821,14 +821,14 @@
       <jump line="166" column="28" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyB1dGlsaXR5IGZ1bmN0aW9uCmRlZiBpbnN0YW50aWF0ZV9yZWRpc19sb2FkKGNvbnRleHQsIGRhZ19ydW5fb2JqKToKICAgIGRhZ19ydW5fb2JqLnJ1bl9pZCA9IGNvbnRleHRbJ3BhcmFtcyddWydydW5faWQnXQogICAgZGFnX3J1bl9vYmoucGF5bG9hZCA9IHsKICAgICAgICAnZGF0YV9jZW50ZXJzJzogY29udGV4dFsncGFyYW1zJ11bJ2RhdGFfY2VudGVycyddLAogICAgICAgICdpc19oYXNoJzogRmFsc2UsCiAgICAgICAgJ2lzX3BlcnNpc3RlbnQnOiBUcnVlLAogICAgICAgICdrZXlfdGVtcGxhdGUnOiBjb250ZXh0WydwYXJhbXMnXVsna2V5X3RlbXBsYXRlJ10sCiAgICAgICAgJ3NlcGFyYXRvcic6ICd8JywKICAgICAgICAnbm90aWZpY2F0aW9uX3N0YXR1cyc6IDEsCiAgICAgICAgJ3R0bCc6IDg2NDAwLAogICAgICAgICd1cmwnOiBjb250ZXh0WydwYXJhbXMnXVsnZmlsZV9wYXRoJ10sCiAgICAgICAgJ3ZhbGlkYXRpb25faW50ZXJ2YWwnOiAxMDAwMDAsCiAgICB9CiAgICByZXR1cm4gZGFnX3J1bl9vYmoKCgo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>airflow_bigdatatop</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>v1</text>
@@ -864,7 +864,7 @@
         <text encoding="base64">cmVkaXNfdXBsb2FkX3ByZXBhcmVfdjEgPSBQeXRob25PcGVyYXRvcigKICAgIHRhc2tfaWQ9J3JlZGlzX3VwbG9hZF9wcmVwYXJlX3YxJywKICAgIHB5dGhvbl9jYWxsYWJsZT1pbm1hcmtldF92Ml91dGlsaXR5LnJlZGlzX3ByZXByb2Nlc3MsCiAgICBvcF9rd2FyZ3M9ewogICAgICAgICdkYXRhX3BhdGgnOiAnL3dheWZhaXIvbW50L3NxbF9zdGFnaW5nL2V4cG9ydHMvaW5tYXJrZXRfc2NvcmVfdjEvaW5tYXJrZXRfc2NvcmluZ192MS5wYXJxdWV0JyBpZgogICAgICAgICAgICBFTlYgPT0gJ3Byb2QnIGVsc2UgJy93YXlmYWlyL21udC9zcWxfc3RhZ2luZy9leHBvcnRzL2lubWFya2V0X3Njb3JlX3YxL2lubWFya2V0X3Njb3JpbmdfdjFfZGV2LnBhcnF1ZXQnLAogICAgICAgICdjbGlkJzogUkVESVNfQ0xJRF9MSVNULAogICAgICAgICdvdXRwdXQnOiBvcy5wYXRoLmpvaW4oCiAgICAgICAgICAgIENSVU5DSF9CVUNLRVRTLAogICAgICAgICAgICAnY2VudHJhbCcgaWYgRU5WID09ICdwcm9kJyBlbHNlICdsb2NhbCcsCiAgICAgICAgICAgICdkYXRhX3NjaWVuY2UvaW5tYXJrZXRfdjEvaW5tYXJrZXRfdjFfcmVkaXNfdXBsb2FkLmNzdicKICAgICAgICApLAogICAgICAgICdzdG9yZV9pZCc6IFdGVVNfU09JRAogICAgfSwKICAgIGRhZz1kYWcKKQpyZWRpc191cGxvYWRfcHJlcGFyZV92MSA8PCBsb2dfc2NvcmUK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -913,13 +913,13 @@
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>qq</entry>
-        <entry>qa</entry>
         <entry encoding="base64">JzwsJz5zL3JlcXVlc3RcX2pzb24vcGF5bG9hZC8=</entry>
         <entry encoding="base64">JzwsJz5zL3JlcXVlc3RfanNvbi9wYXlsb2Fk</entry>
-        <entry>W</entry>
         <entry>vsplit</entry>
         <entry>w</entry>
         <entry>q</entry>
+        <entry>qa</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
