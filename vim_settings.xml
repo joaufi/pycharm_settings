@@ -3,18 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_inmarket_v2.py" timestamp="1547742304079">
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_inmarket_v2.py" timestamp="1547746162805">
         <mark key="'" line="3" column="11" />
-        <mark key="[" line="49" column="29" />
-        <mark key="]" line="49" column="29" />
-        <mark key="." line="49" column="29" />
-        <mark key="^" line="49" column="29" />
+        <mark key="[" line="68" column="38" />
+        <mark key="]" line="71" column="66" />
+        <mark key="." line="71" column="66" />
+        <mark key="^" line="71" column="66" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.json" timestamp="1541013551985">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="30" column="2" />
         <mark key="^" line="30" column="2" />
         <mark key="." line="30" column="2" />
+      </file>
+      <file name="/a.dummy" timestamp="1547742863889">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.txt" timestamp="1540228771158">
         <mark key="[" line="3" column="0" />
@@ -165,6 +168,13 @@
         <mark key="]" line="68" column="53" />
         <mark key="." line="68" column="53" />
         <mark key="^" line="68" column="53" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/pyspark_score_in_market_v2.py" timestamp="1547743900806">
+        <mark key="'" line="75" column="3" />
+        <mark key="[" line="72" column="14" />
+        <mark key="]" line="72" column="14" />
+        <mark key="." line="72" column="14" />
+        <mark key="^" line="73" column="4" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/common/constants.py" timestamp="1532371919035">
         <mark key="[" line="4" column="10" />
@@ -719,7 +729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="32" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" />
       <jump line="63" column="9" filename="$USER_HOME$/repositories/bidsift/bidsift/scribe_client.py" />
       <jump line="64" column="8" filename="$USER_HOME$/repositories/bidsift/bidsift/scribe_client.py" />
       <jump line="66" column="8" filename="$USER_HOME$/repositories/bidsift/bidsift/scribe_client.py" />
@@ -819,22 +828,23 @@
       <jump line="171" column="34" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
       <jump line="170" column="0" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
       <jump line="166" column="28" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
+      <jump line="75" column="3" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/pyspark_score_in_market_v2.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jafisher</text>
+        <text>s</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>jafisher</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>v1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNjb3JlX2NvbnRyb2xsZXIgPSBTY29yZUNvbnRyb2xsZXIoZ2V0X2NvbnRleHQoc2NvcmVzX2FwcCkpCg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJ3NlZ21lbnRfbmFtZScsCiAgICAgICAgdHlwZT1zdHIsCiAgICAgICAgaGVscD0nbmFtZSBvZiBzZWdtZW50JwogICAgKQo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CklOU0VSVCBPVkVSV1JJVEUgVEFCTEUgaW5tYXJrZXRfc2NvcmluZ19tb2RlbF92Ml9m</text>
@@ -915,10 +925,10 @@
         <entry encoding="base64">JzwsJz5zL3JlcXVlc3RcX2pzb24vcGF5bG9hZC8=</entry>
         <entry encoding="base64">JzwsJz5zL3JlcXVlc3RfanNvbi9wYXlsb2Fk</entry>
         <entry>vsplit</entry>
-        <entry>q</entry>
         <entry>qa</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
