@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_inmarket_v2.py" timestamp="1548040968778">
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_inmarket_v2.py" timestamp="1548100785456">
         <mark key="'" line="3" column="11" />
-        <mark key="[" line="138" column="24" />
-        <mark key="]" line="138" column="24" />
-        <mark key="." line="138" column="24" />
-        <mark key="^" line="138" column="24" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="74" />
+        <mark key="." line="156" column="47" />
+        <mark key="^" line="156" column="47" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.json" timestamp="1541013551985">
         <mark key="[" line="0" column="0" />
@@ -268,12 +268,12 @@
         <mark key="^" line="1" column="44" />
         <mark key="." line="1" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/s_i_m_v_2.py" timestamp="1548042754138">
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/s_i_m_v_2.py" timestamp="1548100838853">
         <mark key="'" line="96" column="39" />
-        <mark key="[" line="100" column="48" />
-        <mark key="]" line="101" column="0" />
-        <mark key="^" line="101" column="0" />
-        <mark key="." line="101" column="0" />
+        <mark key="[" line="101" column="46" />
+        <mark key="]" line="101" column="72" />
+        <mark key="^" line="101" column="72" />
+        <mark key="." line="101" column="72" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utility/transformation_functions.py" timestamp="1544636723473">
         <mark key="'" line="0" column="28" />
@@ -874,19 +874,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>load(model.hot_storage_path)</text>
+        <text>predictor</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>load(model.hot_storage_path)</text>
+        <text>predictor</text>
       </register>
       <register name="/" type="4">
         <text>def transform</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vZGVsLm5hbWUsCiAgICAgICAgICAgICAgICBtb2RlbC52ZXJzaW9uLAogICAgICAgICAgICAgICAgbW9kZWwuZmVhdHVyZV9vcmRlciwKICAgICAgICAgICAgICAgIG1vZGVsLmhvdF9zdG9yYWdlX3BhdGgsCiAgICAgICAgICAgICAgICBsb2FkKG1vZGVsLmhvdF9zdG9yYWdlX3BhdGgpLAo=</text>
+        <text encoding="base64">ZGF0YV9vdXRbInNjb3JlIl0gPSB4Z2JfbW9kZWwucHJlZGljdCh4Z2IuRE1hdHJpeChkYXRhX3Njb3JlMltwcmVkaWN0b3JdKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1vZGUK</text>
@@ -962,15 +962,15 @@
         <entry>qq</entry>
         <entry encoding="base64">JzwsJz5zL3JlcXVlc3RcX2pzb24vcGF5bG9hZC8=</entry>
         <entry encoding="base64">JzwsJz5zL3JlcXVlc3RfanNvbi9wYXlsb2Fk</entry>
-        <entry>qa</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zL2ludC9JTlQ=</entry>
-        <entry>vsplit</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL3BsYXRmb3JtL3Zpc2l0b3J0eXBlX21heF9tYXhzL2ln</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>W</entry>
         <entry>e</entry>
+        <entry>q</entry>
+        <entry>qa</entry>
+        <entry>vsplit</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
