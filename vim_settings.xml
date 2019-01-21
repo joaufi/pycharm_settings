@@ -543,12 +543,12 @@
         <mark key="." line="92" column="14" />
         <mark key="^" line="92" column="49" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/1_Create_Picklists.hql" timestamp="1548035210546">
-        <mark key="'" line="4" column="9" />
-        <mark key="[" line="10" column="47" />
-        <mark key="]" line="10" column="45" />
-        <mark key="." line="10" column="45" />
-        <mark key="^" line="10" column="45" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/1_Create_Picklists.hql" timestamp="1548106159263">
+        <mark key="'" line="35" column="42" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="28" column="44" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/create_temp_tables/scribe_page_views_temp_table.sql" timestamp="1530736596551">
         <mark key="[" line="11" column="0" />
@@ -772,7 +772,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="826" column="54" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="65" column="23" filename="$USER_HOME$/repositories/bidsift/bidsift/scribe_client.py" />
       <jump line="14" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/scribe_client.py" />
       <jump line="53" column="52" filename="$USER_HOME$/repositories/bidsift/bidsift/scribe_client.py" />
@@ -872,16 +871,17 @@
       <jump line="116" column="14" filename="$USER_HOME$/repositories/airflow-dags/templates/algorithms/egm/egm/models/xgb.py" />
       <jump line="117" column="34" filename="$USER_HOME$/repositories/airflow-dags/templates/algorithms/egm/egm/models/xgb.py" />
       <jump line="82" column="24" filename="$USER_HOME$/repositories/airflow-dags/templates/algorithms/egm/egm/models/xgb.py" />
+      <jump line="35" column="42" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/1_Create_Picklists.hql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>predictor</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CkNSRUFURSBFWFRFUk5BTCBUQUJMRSBgZGVmYXVsdC50YmxEZXZpY2VUb01vc3RBc3NvY2lhdGVkVGltZXpvbmVgKAogIGBkZXZpY2VndWlkYCBzdHJpbmcgQ09NTUVOVCAncHV0IGNvbW1lbnRzJywKICBgbG9uZ2l0dWRlYmFzZWR1dGNvZmZzZXRgIGRvdWJsZSwKICBgemlwY29kZWJhc2VkdXRjb2Zmc2V0YCBmbG9hdCwKICBgemlwY29kZWJhc2VkZHN0YCBzdHJpbmcKKQpDT01NRU5UICdQdXQgY29tbWVudHMnClNUT1JFRCBBUyBQQVJRVUVUCkxPQ0FUSU9OICcvaG9tZS9pZGVudGl0eS9kZXZpY2VfdG9fdGltZXpvbmUnOwo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>predictor</text>
+        <text>hdfs://hdfs.isilonc01.bo1.csnzoo.com/user/hive/warehouse/tbldevicetomostassociatedtimezone</text>
       </register>
       <register name="/" type="4">
         <text>def transform</text>
@@ -890,31 +890,31 @@
         <text encoding="base64">ZGF0YV9vdXRbInNjb3JlIl0gPSB4Z2JfbW9kZWwucHJlZGljdCh4Z2IuRE1hdHJpeChkYXRhX3Njb3JlMltwcmVkaWN0b3JdKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vZGUK</text>
+        <text encoding="base64">CkNSRUFURSBFWFRFUk5BTCBUQUJMRSBgZGVmYXVsdC50YmxEZXZpY2VUb01vc3RBc3NvY2lhdGVkVGltZXpvbmVgKAogIGBkZXZpY2VndWlkYCBzdHJpbmcgQ09NTUVOVCAncHV0IGNvbW1lbnRzJywKICBgbG9uZ2l0dWRlYmFzZWR1dGNvZmZzZXRgIGRvdWJsZSwKICBgemlwY29kZWJhc2VkdXRjb2Zmc2V0YCBmbG9hdCwKICBgemlwY29kZWJhc2VkZHN0YCBzdHJpbmcKKQpDT01NRU5UICdQdXQgY29tbWVudHMnClNUT1JFRCBBUyBQQVJRVUVUCkxPQ0FUSU9OICcvaG9tZS9pZGVudGl0eS9kZXZpY2VfdG9fdGltZXpvbmUnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxfZGF0YV9rZXkgPSAobmFtZSwgdmVyc2lvbikKCiAgICAgICAgICAgIHNlbGYubW9kZWxfb2JqZWN0c1ttb2RlbF9kYXRhX2tleV0gPSB7CiAgICAgICAgICAgICAgICBNb2RlbFN0b3JhZ2VLZXkuRkVBVFVSRV9PUkRFUjogbW9kZWwuZmVhdHVyZV9vcmRlciwKICAgICAgICAgICAgICAgIE1vZGVsU3RvcmFnZUtleS5IT1RfU1RPUkFHRV9QQVRIOiBtb2RlbC5ob3Rfc3RvcmFnZV9wYXRoLAogICAgICAgICAgICAgICAgTW9kZWxTdG9yYWdlS2V5Lk1PREVMX09CSkVDVDogTW9ja01vZGVsKCkKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">TE9DQVRJT04gJy91c2VyL2hpdmUvd2FyZWhvdXNlL3RibGRldmljZXRvbW9zdGFzc29jaWF0ZWR0aW1lem9uZSc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBob3Rfc3RvcmFnZV9wYXRoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vZGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBtb2RlbF9uYW1lKToKICAgICAgICBzZWxmLm5hbWUgPSBuYWsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxfZGF0YV9rZXkgPSAobmFtZSwgdmVyc2lvbikKCiAgICAgICAgICAgIHNlbGYubW9kZWxfb2JqZWN0c1ttb2RlbF9kYXRhX2tleV0gPSB7CiAgICAgICAgICAgICAgICBNb2RlbFN0b3JhZ2VLZXkuRkVBVFVSRV9PUkRFUjogbW9kZWwuZmVhdHVyZV9vcmRlciwKICAgICAgICAgICAgICAgIE1vZGVsU3RvcmFnZUtleS5IT1RfU1RPUkFHRV9QQVRIOiBtb2RlbC5ob3Rfc3RvcmFnZV9wYXRoLAogICAgICAgICAgICAgICAgTW9kZWxTdG9yYWdlS2V5Lk1PREVMX09CSkVDVDogTW9ja01vZGVsKCkKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgoKCgoKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBob3Rfc3RvcmFnZV9wYXRoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBtb2RlbF9uYW1lKToKICAgICAgICBzZWxmLm5hbWUgPSBuYWsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGdldF9kdW1taWVzKGRmLCBkdW1taWVzKToK</text>
+        <text encoding="base64">CgoKCgoKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyB0eXBlc19leHByID0gW0Yud2hlbihGLmNvbCgiVFlQRSIpID09IHR5LCAxKS5vdGhlcndpc2UoMCkuYWxpYXMoImVfVFlQRV8iICsgdHkpIGZvciB0eSBpbiB0eXBlc10KIyBjb2Rlc19leHByID0gW0Yud2hlbihGLmNvbCgiQ09ERSIpID09IGNvZGUsIDEpLm90aGVyd2lzZSgwKS5hbGlhcygiZV9DT0RFXyIgKyBjb2RlKSBmb3IgY29kZSBpbiBjb2Rlc10KIyBkZiA9IGRmLnNlbGVjdCgiSUQiLCAiVFlQRSIsICJDT0RFIiwgKnR5cGVzX2V4cHIrY29kZXNfZXhwcikKIyBkZi5zaG93KCkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">L3dheWZhaXIvbW50L2NydW5jaF9idWNrZXRzL2xvY2FsL2N1c3RvbWVyX2lkZW50aXR5L2luX21hcmtldF9iYXRjaF9zY29yaW5nL3hnYl9pbl9tYXJrZXRfdjIucGlja2xlCg==</text>
+        <text encoding="base64">ZGVmIGdldF9kdW1taWVzKGRmLCBkdW1taWVzKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -953,7 +953,6 @@
         <entry>def transform</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyQvLC8=</entry>
         <entry encoding="base64">JzwsJz5zLzovLw==</entry>
         <entry encoding="base64">JzwsJz5zL10vLw==</entry>
         <entry>split</entry>
@@ -973,6 +972,7 @@
         <entry>qa</entry>
         <entry>vsplit</entry>
         <entry>w</entry>
+        <entry>ws</entry>
       </history-cmd>
       <history-expr />
       <history-input />
