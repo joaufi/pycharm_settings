@@ -58,6 +58,7 @@
       <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/constants.py" timestamp="1547046366521">
         <mark key="'" line="195" column="32" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" timestamp="1548043631694" />
       <file name="$USER_HOME$/repositories/bidsift/.python_environment/lib/python3.6/site-packages/scoring/evaluation/context.py" timestamp="1539199592425">
         <mark key="[" line="34" column="19" />
         <mark key="]" line="34" column="59" />
@@ -204,6 +205,9 @@
       <file name="/Python Console" timestamp="1547569313298">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/requirements.txt" timestamp="1548043488818">
+        <mark key="[" line="43" column="14" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/urban.sql" timestamp="1536781705654">
         <mark key="[" line="7" column="41" />
         <mark key="]" line="7" column="45" />
@@ -254,12 +258,12 @@
         <mark key="^" line="1" column="44" />
         <mark key="." line="1" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/s_i_m_v_2.py" timestamp="1548041524740">
-        <mark key="'" line="95" column="39" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="^" line="95" column="85" />
-        <mark key="." line="98" column="0" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/s_i_m_v_2.py" timestamp="1548042754138">
+        <mark key="'" line="96" column="39" />
+        <mark key="[" line="100" column="48" />
+        <mark key="]" line="101" column="0" />
+        <mark key="^" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utility/transformation_functions.py" timestamp="1544636723473">
         <mark key="'" line="0" column="28" />
@@ -456,6 +460,9 @@
         <mark key="]" line="26" column="19" />
         <mark key="^" line="26" column="19" />
         <mark key="." line="26" column="19" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/algorithms/egm/egm/models/xgb.py" timestamp="1548043462678">
+        <mark key="'" line="82" column="24" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/model_service_script.py" timestamp="1529958302165">
         <mark key="[" line="72" column="0" />
@@ -753,10 +760,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="8" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_inmarket_v2.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/scribe_client.py" />
-      <jump line="1653" column="52" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
-      <jump line="388" column="14" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="826" column="54" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="65" column="23" filename="$USER_HOME$/repositories/bidsift/bidsift/scribe_client.py" />
       <jump line="14" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/scribe_client.py" />
@@ -853,19 +856,23 @@
       <jump line="2" column="17" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.py" />
       <jump line="85" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/s_i_m_v_2.py" />
       <jump line="92" column="39" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/s_i_m_v_2.py" />
+      <jump line="102" column="8" filename="$USER_HOME$/repositories/airflow-dags/templates/algorithms/egm/egm/models/xgb.py" />
+      <jump line="116" column="14" filename="$USER_HOME$/repositories/airflow-dags/templates/algorithms/egm/egm/models/xgb.py" />
+      <jump line="117" column="34" filename="$USER_HOME$/repositories/airflow-dags/templates/algorithms/egm/egm/models/xgb.py" />
+      <jump line="82" column="24" filename="$USER_HOME$/repositories/airflow-dags/templates/algorithms/egm/egm/models/xgb.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CgoKCgoKCg==</text>
+      <register name="&quot;" type="4">
+        <text>.withColumn(&quot;score&quot;, ))</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>.withColumn(&quot;score&quot;, ))</text>
       </register>
       <register name="/" type="4">
-        <text>platform</text>
+        <text>def transform</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cGxhdGZvcm1zID0gc2NvcmVfZGF0YV8yLnNlbGVjdCgicGxhdGZvcm0iKS5kaXN0aW5jdCgpLnJkZC5mbGF0TWFwKGxhbWJkYSB4OiB4KS5jb2xsZWN0KCkK</text>
@@ -905,9 +912,9 @@
       </register>
     </registers>
     <search>
-      <last-search>platform</last-search>
+      <last-search>def transform</last-search>
       <last-offset />
-      <last-pattern>platform</last-pattern>
+      <last-pattern>def transform</last-pattern>
       <last-replace>visitortype_max_maxs</last-replace>
       <last-substitute>platform</last-substitute>
       <last-dir>1</last-dir>
@@ -915,8 +922,6 @@
     </search>
     <history>
       <history-search>
-        <entry>payload</entry>
-        <entry>scoring</entry>
         <entry>current_event</entry>
         <entry>pay</entry>
         <entry>2.9</entry>
@@ -935,6 +940,8 @@
         <entry>int</entry>
         <entry>col</entry>
         <entry>platform</entry>
+        <entry>transform</entry>
+        <entry>def transform</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wgPS86Lw==</entry>
