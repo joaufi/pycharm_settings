@@ -111,6 +111,12 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
       </file>
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/app.py" timestamp="1548084552520">
+        <mark key="[" line="136" column="7" />
+        <mark key="]" line="137" column="49" />
+        <mark key="^" line="137" column="49" />
+        <mark key="." line="137" column="49" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/priced_skus_by_device_guid.sql" timestamp="1530889449531">
         <mark key="[" line="32" column="6" />
         <mark key="]" line="32" column="6" />
@@ -237,8 +243,11 @@
         <mark key="^" line="66" column="19" />
         <mark key="." line="66" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" timestamp="1545059696729">
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/client/model_storage_client.py" timestamp="1548084449162">
         <mark key="'" line="108" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/dao/product_redis_dao.py" timestamp="1534373593348">
         <mark key="[" line="67" column="42" />
@@ -413,6 +422,7 @@
         <mark key="." line="52" column="39" />
         <mark key="^" line="52" column="39" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/retargeting_ULB.py" timestamp="1548083979291" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.txt" timestamp="1540232018077">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="27" column="37" />
@@ -863,13 +873,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.withColumn(&quot;score&quot;, ))</text>
+        <text>env</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.withColumn(&quot;score&quot;, ))</text>
+        <text>env</text>
       </register>
       <register name="/" type="4">
         <text>def transform</text>
@@ -878,34 +888,34 @@
         <text encoding="base64">cGxhdGZvcm1zID0gc2NvcmVfZGF0YV8yLnNlbGVjdCgicGxhdGZvcm0iKS5kaXN0aW5jdCgpLnJkZC5mbGF0TWFwKGxhbWJkYSB4OiB4KS5jb2xsZWN0KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgoKCgoKCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBtb2RlbF9uYW1lKToKICAgICAgICBzZWxmLm5hbWUgPSBuYWsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoKCgoKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGdldF9kdW1taWVzKGRmLCBkdW1taWVzKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyB0eXBlc19leHByID0gW0Yud2hlbihGLmNvbCgiVFlQRSIpID09IHR5LCAxKS5vdGhlcndpc2UoMCkuYWxpYXMoImVfVFlQRV8iICsgdHkpIGZvciB0eSBpbiB0eXBlc10KIyBjb2Rlc19leHByID0gW0Yud2hlbihGLmNvbCgiQ09ERSIpID09IGNvZGUsIDEpLm90aGVyd2lzZSgwKS5hbGlhcygiZV9DT0RFXyIgKyBjb2RlKSBmb3IgY29kZSBpbiBjb2Rlc10KIyBkZiA9IGRmLnNlbGVjdCgiSUQiLCAiVFlQRSIsICJDT0RFIiwgKnR5cGVzX2V4cHIrY29kZXNfZXhwcikKIyBkZi5zaG93KCkKCg==</text>
+        <text encoding="base64">ZGVmIGdldF9kdW1taWVzKGRmLCBkdW1taWVzKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">L3dheWZhaXIvbW50L2NydW5jaF9idWNrZXRzL2xvY2FsL2N1c3RvbWVyX2lkZW50aXR5L2luX21hcmtldF9iYXRjaF9zY29yaW5nL3hnYl9pbl9tYXJrZXRfdjIucGlja2xlCg==</text>
+        <text encoding="base64">IyB0eXBlc19leHByID0gW0Yud2hlbihGLmNvbCgiVFlQRSIpID09IHR5LCAxKS5vdGhlcndpc2UoMCkuYWxpYXMoImVfVFlQRV8iICsgdHkpIGZvciB0eSBpbiB0eXBlc10KIyBjb2Rlc19leHByID0gW0Yud2hlbihGLmNvbCgiQ09ERSIpID09IGNvZGUsIDEpLm90aGVyd2lzZSgwKS5hbGlhcygiZV9DT0RFXyIgKyBjb2RlKSBmb3IgY29kZSBpbiBjb2Rlc10KIyBkZiA9IGRmLnNlbGVjdCgiSUQiLCAiVFlQRSIsICJDT0RFIiwgKnR5cGVzX2V4cHIrY29kZXNfZXhwcikKIyBkZi5zaG93KCkKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">L3dheWZhaXIvbW50L2NydW5jaF9idWNrZXRzL2xvY2FsL2N1c3RvbWVyX2lkZW50aXR5L2luX21hcmtldF9iYXRjaF9zY29yaW5nL3hnYl9pbl9tYXJrZXRfdjIucGlja2xlCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">cGxhdGZvcm1zID0gZmVhdHVyZXMuc2VsZWN0KCJwbGF0Zm9ybSIpLmRpc3RpbmN0KCkucmRkLmZsYXRNYXAobGFtYmRhIHg6IHgpLmNvbGxlY3QoKQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>spark = SparkSession.builder\
     .appName(&quot;score_in_market_v2&quot;)\
     .enableHiveSupport()\
     .getOrCreate()</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">cGxhZm9ybXMgPSBzY29yZV9kYXRhXzIuc2VsZWN0KCJwbGF0Zm9ybSIpLmRpc3RpbmN0KCkucmRkLmZsYXRNYXAobGFtYmRhIHg6IHgpLmNvbGxlY3QoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -944,7 +954,6 @@
         <entry>def transform</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1wgPS86Lw==</entry>
         <entry encoding="base64">JzwsJz5zLyQvLC8=</entry>
         <entry encoding="base64">JzwsJz5zLzovLw==</entry>
         <entry encoding="base64">JzwsJz5zL10vLw==</entry>
@@ -963,6 +972,7 @@
         <entry encoding="base64">JzwsJz5zL3BsYXRmb3JtL3Zpc2l0b3J0eXBlX21heF9tYXhzL2ln</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>W</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
