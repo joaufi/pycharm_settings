@@ -55,6 +55,7 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="9" column="7" />
       </file>
+      <file name="$USER_HOME$/repositories/puppet/modules/pyhadoop/manifests/init.pp" timestamp="1548199286708" />
       <file name="/Python Console" timestamp="1547569313298">
         <mark key="[" line="0" column="0" />
       </file>
@@ -123,8 +124,10 @@
         <mark key="." line="153" column="43" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/retargeting_ULB.py" timestamp="1548083979291" />
-      <file name="$USER_HOME$/repositories/puppet/modules/pyhadoop/files/requirements36_001.lock" timestamp="1548198872119">
-        <mark key="[" line="20" column="9" />
+      <file name="$USER_HOME$/repositories/puppet/modules/pyhadoop/files/requirements36_001.lock" timestamp="1548199051990">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" timestamp="1548174691670" />
       <file name="$USER_HOME$/repositories/jenkins-jobs/lib/build/build/python.yml" timestamp="1548193212776">
@@ -166,7 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="25" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
       <jump line="66" column="9" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
       <jump line="72" column="4" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
       <jump line="16" column="39" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
@@ -266,10 +268,11 @@
       <jump line="112" column="6" filename="$USER_HOME$/repositories/jenkins-jobs/lib/build/build/python.yml" />
       <jump line="109" column="4" filename="$USER_HOME$/repositories/jenkins-jobs/lib/build/build/python.yml" />
       <jump line="59" column="4" filename="$USER_HOME$/repositories/jenkins-jobs/lib/build/build/python.yml" />
+      <jump line="21" column="12" filename="$USER_HOME$/repositories/puppet/modules/pyhadoop/files/requirements36_001.lock" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSB3b3Jrc3BhY2UtY2xlYW51cAo=</text>
+        <text encoding="base64">bnVtcHk9PTEuMTEuMgo=</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -278,13 +281,13 @@
         <text>spark.sql(&quot;SELECT * FROM prs_dev.inmarket_scoring_model_v2_final LIMIT 100&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>numpy</text>
+        <text>sci</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLSB3b3Jrc3BhY2UtY2xlYW51cAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bnVtcHk9PTEuMTEuMgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -293,31 +296,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">SU5TRVJUIE9WRVJXUklURSBUQUJMRSBpbm1hcmtldF9zY29yaW5nX21vZGVsX3YyX2ZpbmFsClNFTEVDVAogICAgZGV2aWNlZ3VpZAogICAgLHNvaWQKICAgICxjbGlkCiAgICAsdmlld19jbGFzc18xdy8odmlld19jbGFzc18xdyt2aWV3X2NsYXNzXzF3X290aGVyKSBhcyBmaXJzdF83X2RheV9ydAogICAgLHZpZXdfY2xhc3MvKHZpZXdfY2xhc3MrIHZpZXdfY2xhc3Nfb3RoZXIpIGFzIGZpcnN0XzI4X2RheV9ydAogICAgLHZpZXdfY2xhc3NfM2QvKHZpZXdfY2xhc3NfM2Qrdmlld19jbGFzc18zZF9vdGhlcikgYXMgZmlyc3RfM19kYXlfcnQKICAgICx2aWV3X2NsYXNzMC8odmlld19jbGFzczArdmlld19jbGFzczBfb3RoZXIpIGFzIGZpcnN0XzFfZGF5X3J0CiAgICAsYXRjX2NsYXNzLyhhdGNfY2xhc3MrYXRjX2NsYXNzX290aGVyKSBhcyBhdGNfcnQKICAgICxmYXZfY250LyhmYXZfY250K2Zhdl9jbnRfb3RoZXIpIGFzIGZhdl9ydAogICAgLGRpc3RfdG9fbGFzdF92aXNpdC0gZGlzdF90b19sYXN0X3Zpc2l0X290aGVyIGFzIGxhc3RfY2xpY2tfaW5kCiAgICAsZGlzdF90b19sYXN0X2F0Yy0gZGlzdF90b19sYXN0X2F0Y19vdGhlciBhcyBsYXN0X2F0Y19pbmQKICAgICxkaXN0X3RvX2xhc3Rfb3JkZXIKICAgICxkaXN0X3RvX2xhc3RfdmlzaXQKICAgICxkaXN0X3RvX2xhc3RfYXRjCiAgICAsY2xhc3NfY250CiAgICAsZGlzdF90b19sYXN0X2NsaWNrX2N1CiAgICAsaG90X3ZpZXdfY2xhc3MvKGhvdF92aWV3X2NsYXNzK2hvdF92aWV3X2NsYXNzX290aGVyKSBhcyBob3RfZGVhbF9ydAogICAgLGF0Y19jbGFzcy0gcmZjX2NsYXNzIGFzIGluX2NhcnQKICAgICx2aWV3X2NsYXNzMAogICAgLHZpZXdfY2xhc3MwX290aGVyCiAgICAscGxhdGZvcm0KICAgICx2aXNpdG9ydHlwZV9tYXhfbWF4CiAgICAsdmlzaXRvcnR5cGVfbWluX21pbgogICAgLHZpZXdfY2xhc3MKRlJPTSBpbm1hcmtldF9zY29yaW5nX21vZGVsX3YyX2ZpbmFsX3ByZQo7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSB4Z2Jvb3N0IGltcG9ydCBETWF0cml4Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMgc2NvcmUgdXNpbmcgZnVsbCBjb2x1bW4gbGlzdCBpbmNsdWRpbmcgZHVtbXkgdHJhbnNmb3JtIGNvbHVtbiBuYW1lcwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">SU5TRVJUIE9WRVJXUklURSBUQUJMRSBpbm1hcmtldF9zY29yaW5nX21vZGVsX3YyX2ZpbmFsClNFTEVDVAogICAgZGV2aWNlZ3VpZAogICAgLHNvaWQKICAgICxjbGlkCiAgICAsdmlld19jbGFzc18xdy8odmlld19jbGFzc18xdyt2aWV3X2NsYXNzXzF3X290aGVyKSBhcyBmaXJzdF83X2RheV9ydAogICAgLHZpZXdfY2xhc3MvKHZpZXdfY2xhc3MrIHZpZXdfY2xhc3Nfb3RoZXIpIGFzIGZpcnN0XzI4X2RheV9ydAogICAgLHZpZXdfY2xhc3NfM2QvKHZpZXdfY2xhc3NfM2Qrdmlld19jbGFzc18zZF9vdGhlcikgYXMgZmlyc3RfM19kYXlfcnQKICAgICx2aWV3X2NsYXNzMC8odmlld19jbGFzczArdmlld19jbGFzczBfb3RoZXIpIGFzIGZpcnN0XzFfZGF5X3J0CiAgICAsYXRjX2NsYXNzLyhhdGNfY2xhc3MrYXRjX2NsYXNzX290aGVyKSBhcyBhdGNfcnQKICAgICxmYXZfY250LyhmYXZfY250K2Zhdl9jbnRfb3RoZXIpIGFzIGZhdl9ydAogICAgLGRpc3RfdG9fbGFzdF92aXNpdC0gZGlzdF90b19sYXN0X3Zpc2l0X290aGVyIGFzIGxhc3RfY2xpY2tfaW5kCiAgICAsZGlzdF90b19sYXN0X2F0Yy0gZGlzdF90b19sYXN0X2F0Y19vdGhlciBhcyBsYXN0X2F0Y19pbmQKICAgICxkaXN0X3RvX2xhc3Rfb3JkZXIKICAgICxkaXN0X3RvX2xhc3RfdmlzaXQKICAgICxkaXN0X3RvX2xhc3RfYXRjCiAgICAsY2xhc3NfY250CiAgICAsZGlzdF90b19sYXN0X2NsaWNrX2N1CiAgICAsaG90X3ZpZXdfY2xhc3MvKGhvdF92aWV3X2NsYXNzK2hvdF92aWV3X2NsYXNzX290aGVyKSBhcyBob3RfZGVhbF9ydAogICAgLGF0Y19jbGFzcy0gcmZjX2NsYXNzIGFzIGluX2NhcnQKICAgICx2aWV3X2NsYXNzMAogICAgLHZpZXdfY2xhc3MwX290aGVyCiAgICAscGxhdGZvcm0KICAgICx2aXNpdG9ydHlwZV9tYXhfbWF4CiAgICAsdmlzaXRvcnR5cGVfbWluX21pbgogICAgLHZpZXdfY2xhc3MKRlJPTSBpbm1hcmtldF9zY29yaW5nX21vZGVsX3YyX2ZpbmFsX3ByZQo7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSB4Z2Jvb3N0IGltcG9ydCBETWF0cml4Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICMgc2NvcmUgdXNpbmcgZnVsbCBjb2x1bW4gbGlzdCBpbmNsdWRpbmcgZHVtbXkgdHJhbnNmb3JtIGNvbHVtbiBuYW1lcwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJvd19wZCA9IHJvdy5zZWxlY3QoRkVBVFVSRVNfRklOQUwpLnRvUGFuZGFzKCkKICAgIHNjb3JlID0geGdiX21vZGVsLnByZWRpY3Qocm93X3BkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByZWRpY3Rpb25fZGF0YV9wZCA9IHJvdy50b1BhbmRhcygpCg==</text>
+        <text encoding="base64">ICAgIHJvd19wZCA9IHJvdy5zZWxlY3QoRkVBVFVSRVNfRklOQUwpLnRvUGFuZGFzKCkKICAgIHNjb3JlID0geGdiX21vZGVsLnByZWRpY3Qocm93X3BkKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>numpy</last-search>
+      <last-search>sci</last-search>
       <last-offset />
-      <last-pattern>numpy</last-pattern>
+      <last-pattern>sci</last-pattern>
       <last-replace>visitortype_max_maxs</last-replace>
       <last-substitute>platform</last-substitute>
       <last-dir>1</last-dir>
@@ -325,8 +328,6 @@
     </search>
     <history>
       <history-search>
-        <entry>strip</entry>
-        <entry>contex</entry>
         <entry>request\_json</entry>
         <entry>request_json</entry>
         <entry>big</entry>
@@ -345,6 +346,8 @@
         <entry>wrappers</entry>
         <entry>numoy</entry>
         <entry>numpy</entry>
+        <entry>scipy</entry>
+        <entry>sci</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL10vLw==</entry>
