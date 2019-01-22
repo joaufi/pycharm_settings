@@ -85,6 +85,7 @@
         <mark key="^" line="9" column="33" />
         <mark key="." line="9" column="33" />
       </file>
+      <file name="$USER_HOME$/repositories/jenkins-jobs/lib/bigdata/batch_uploaders.yaml" timestamp="1548193115135" />
       <file name="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" timestamp="1547582277883">
         <mark key="'" line="163" column="12" />
         <mark key="[" line="113" column="37" />
@@ -123,6 +124,13 @@
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/retargeting_ULB.py" timestamp="1548083979291" />
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" timestamp="1548174691670" />
+      <file name="$USER_HOME$/repositories/jenkins-jobs/lib/build/build/python.yml" timestamp="1548193212776">
+        <mark key="'" line="59" column="4" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="25" />
+        <mark key="." line="112" column="0" />
+        <mark key="^" line="62" column="24" />
+      </file>
       <file name="$USER_HOME$/repositories/pyspark_quickstart/README.md" timestamp="1548103687633" />
       <file name="$USER_HOME$/repositories/airflow-dags/requirements-airflow.txt" timestamp="1547490559440">
         <mark key="'" line="96" column="10" />
@@ -155,11 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="31" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
-      <jump line="31" column="47" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
-      <jump line="38" column="9" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
-      <jump line="43" column="17" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
-      <jump line="44" column="22" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
       <jump line="45" column="25" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
       <jump line="66" column="9" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
       <jump line="72" column="4" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
@@ -255,10 +258,15 @@
       <jump line="82" column="5" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/2_Merge_Feature_v2.hql" />
       <jump line="93" column="9" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/2_Merge_Feature_v2.hql" />
       <jump line="19" column="3" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_inmarket_v2.py" />
+      <jump line="12" column="11" filename="$USER_HOME$/repositories/jenkins-jobs/lib/build/build/python.yml" />
+      <jump line="62" column="24" filename="$USER_HOME$/repositories/jenkins-jobs/lib/build/build/python.yml" />
+      <jump line="112" column="6" filename="$USER_HOME$/repositories/jenkins-jobs/lib/build/build/python.yml" />
+      <jump line="109" column="4" filename="$USER_HOME$/repositories/jenkins-jobs/lib/build/build/python.yml" />
+      <jump line="59" column="4" filename="$USER_HOME$/repositories/jenkins-jobs/lib/build/build/python.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSB3b3Jrc3BhY2UtY2xlYW51cAo=</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -267,10 +275,10 @@
         <text>spark.sql(&quot;SELECT * FROM prs_dev.inmarket_scoring_model_v2_final LIMIT 100&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>inmark</text>
+        <text>wrappers</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGF0YV9vdXRfcGRbInNjb3JlIl0gPSB4Z2JfbW9kZWwucHJlZGljdChETWF0cml4KHByZWRpY3Rpb25fZGF0YV9wZCkpCg==</text>
+        <text encoding="base64">ICAgICAgLSB3b3Jrc3BhY2UtY2xlYW51cAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -304,9 +312,9 @@
       </register>
     </registers>
     <search>
-      <last-search>inmark</last-search>
+      <last-search>wrappers</last-search>
       <last-offset />
-      <last-pattern>inmark</last-pattern>
+      <last-pattern>wrappers</last-pattern>
       <last-replace>visitortype_max_maxs</last-replace>
       <last-substitute>platform</last-substitute>
       <last-dir>1</last-dir>
@@ -314,8 +322,6 @@
     </search>
     <history>
       <history-search>
-        <entry>2.9</entry>
-        <entry>req</entry>
         <entry>,</entry>
         <entry>pickle</entry>
         <entry>strip</entry>
@@ -334,6 +340,8 @@
         <entry>bigdata</entry>
         <entry>score_model_v2</entry>
         <entry>inmark</entry>
+        <entry>wrap</entry>
+        <entry>wrappers</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL10vLw==</entry>
