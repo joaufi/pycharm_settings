@@ -14,7 +14,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" timestamp="1548043631694" />
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/WIP_score_in_market_v2_pyspark.py" timestamp="1548191641611">
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/WIP_score_in_market_v2_pyspark.py" timestamp="1548198830913">
         <mark key="[" line="121" column="0" />
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
@@ -123,6 +123,9 @@
         <mark key="." line="153" column="43" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/retargeting_ULB.py" timestamp="1548083979291" />
+      <file name="$USER_HOME$/repositories/puppet/modules/pyhadoop/files/requirements36_001.lock" timestamp="1548198872119">
+        <mark key="[" line="20" column="9" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" timestamp="1548174691670" />
       <file name="$USER_HOME$/repositories/jenkins-jobs/lib/build/build/python.yml" timestamp="1548193212776">
         <mark key="'" line="59" column="4" />
@@ -275,7 +278,7 @@
         <text>spark.sql(&quot;SELECT * FROM prs_dev.inmarket_scoring_model_v2_final LIMIT 100&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>wrappers</text>
+        <text>numpy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLSB3b3Jrc3BhY2UtY2xlYW51cAo=</text>
@@ -312,9 +315,9 @@
       </register>
     </registers>
     <search>
-      <last-search>wrappers</last-search>
+      <last-search>numpy</last-search>
       <last-offset />
-      <last-pattern>wrappers</last-pattern>
+      <last-pattern>numpy</last-pattern>
       <last-replace>visitortype_max_maxs</last-replace>
       <last-substitute>platform</last-substitute>
       <last-dir>1</last-dir>
@@ -322,8 +325,6 @@
     </search>
     <history>
       <history-search>
-        <entry>,</entry>
-        <entry>pickle</entry>
         <entry>strip</entry>
         <entry>contex</entry>
         <entry>request\_json</entry>
@@ -342,6 +343,8 @@
         <entry>inmark</entry>
         <entry>wrap</entry>
         <entry>wrappers</entry>
+        <entry>numoy</entry>
+        <entry>numpy</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL10vLw==</entry>
