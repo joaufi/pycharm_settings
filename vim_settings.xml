@@ -68,6 +68,12 @@
         <mark key="^" line="14" column="24" />
         <mark key="." line="69" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/WIP_score_in_market_v2_pyspark.py" timestamp="1548181256275">
+        <mark key="[" line="103" column="18" />
+        <mark key="]" line="103" column="17" />
+        <mark key="^" line="103" column="17" />
+        <mark key="." line="103" column="17" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/exceptions.py" timestamp="1539898303277">
         <mark key="[" line="21" column="40" />
         <mark key="]" line="21" column="66" />
@@ -99,7 +105,7 @@
         <mark key="." line="17" column="88" />
         <mark key="^" line="17" column="88" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/utility/spark_submit_bash_script_template.py" timestamp="1548175908288">
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/utility/spark_submit_bash_script_template.py" timestamp="1548180924789">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="7" column="25" />
         <mark key="]" line="7" column="25" />
@@ -837,14 +843,14 @@
       <jump line="139" column="2" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBTdGVwNTogbG9nIHNjb3JlcyBpbiBISVZFCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZmluYWxfc2NvcmVfY29sdW1ucyA=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>SparkBashSubmitOperator</text>
+        <text encoding="base64">ZmluYWxfc2NvcmVfY29sdW1ucyA=</text>
       </register>
       <register name="/" type="4">
         <text>score_model_v2</text>
