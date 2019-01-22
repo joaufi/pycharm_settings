@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_inmarket_v2.py" timestamp="1548183158444">
-        <mark key="'" line="19" column="24" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_inmarket_v2.py" timestamp="1548189085073">
+        <mark key="'" line="19" column="3" />
         <mark key="[" line="146" column="0" />
         <mark key="]" line="172" column="57" />
         <mark key="." line="156" column="47" />
@@ -14,11 +14,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket/v1/score_customers_hive_spark.py" timestamp="1548043631694" />
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/WIP_score_in_market_v2_pyspark.py" timestamp="1548186114431">
-        <mark key="[" line="106" column="130" />
-        <mark key="]" line="106" column="130" />
-        <mark key="." line="106" column="130" />
-        <mark key="^" line="106" column="130" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/WIP_score_in_market_v2_pyspark.py" timestamp="1548191641611">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="77" column="87" />
       </file>
       <file name="$USER_HOME$/repositories/wf_secrets/wf_secrets/encryption_interfaces/aes_interface.py" timestamp="1547568940918">
         <mark key="'" line="62" column="48" />
@@ -34,16 +34,15 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="7" column="25" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/1_Get_Fav.hql" timestamp="1548188915334" />
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/segmentations_config.py" timestamp="1548174937114" />
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/app.py" timestamp="1548084552520">
-        <mark key="[" line="136" column="7" />
-      </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/model_storage_client.py" timestamp="1548111295697" />
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/2_Merge_Feature_v2.hql" timestamp="1548186279111">
-        <mark key="[" line="341" column="9" />
-        <mark key="]" line="341" column="9" />
-        <mark key="^" line="314" column="56" />
-        <mark key="." line="341" column="9" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/2_Merge_Feature_v2.hql" timestamp="1548189560374">
+        <mark key="'" line="93" column="9" />
+        <mark key="[" line="311" column="85" />
+        <mark key="]" line="311" column="90" />
+        <mark key="^" line="311" column="90" />
+        <mark key="." line="311" column="90" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/pyspark_score_in_market_v2.py" timestamp="1548032780885">
         <mark key="'" line="99" column="18" />
@@ -58,9 +57,6 @@
       </file>
       <file name="/Python Console" timestamp="1547569313298">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/requirements.txt" timestamp="1548104055611">
-        <mark key="[" line="43" column="14" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_in_market_v2_test.py" timestamp="1548174487578">
         <mark key="[" line="78" column="70" />
@@ -157,12 +153,8 @@
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/1_Get_PDP.hql" timestamp="1548187360193" />
     </filemarks>
     <jumps>
-      <jump line="60" column="27" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
-      <jump line="32" column="26" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
-      <jump line="13" column="41" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
       <jump line="15" column="31" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
       <jump line="31" column="47" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
       <jump line="38" column="9" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
@@ -252,7 +244,6 @@
       <jump line="82" column="24" filename="$USER_HOME$/repositories/airflow-dags/templates/algorithms/egm/egm/models/xgb.py" />
       <jump line="35" column="42" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/1_Create_Picklists.hql" />
       <jump line="213" column="13" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" />
-      <jump line="19" column="24" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_inmarket_v2.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/utility/spark_submit_bash_script_template.py" />
       <jump line="142" column="37" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
       <jump line="150" column="16" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
@@ -260,58 +251,62 @@
       <jump line="123" column="2" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
       <jump line="125" column="15" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
       <jump line="139" column="2" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
+      <jump line="76" column="79" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/2_Merge_Feature_v2.hql" />
+      <jump line="82" column="5" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/2_Merge_Feature_v2.hql" />
+      <jump line="93" column="9" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/2_Merge_Feature_v2.hql" />
+      <jump line="19" column="3" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_inmarket_v2.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>spark.sql(&quot;SELECT * FROM prs_dev.inmarket_scoring_model_v2_final LIMIT 100&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>score_model_v2</text>
+        <text>inmark</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGF0YV9vdXRfcGRbInNjb3JlIl0gPSB4Z2JfbW9kZWwucHJlZGljdChETWF0cml4KHByZWRpY3Rpb25fZGF0YV9wZCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB4Z2Jvb3N0IGltcG9ydCBETWF0cml4Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgc2NvcmUgdXNpbmcgZnVsbCBjb2x1bW4gbGlzdCBpbmNsdWRpbmcgZHVtbXkgdHJhbnNmb3JtIGNvbHVtbiBuYW1lcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJvd19wZCA9IHJvdy5zZWxlY3QoRkVBVFVSRVNfRklOQUwpLnRvUGFuZGFzKCkKICAgIHNjb3JlID0geGdiX21vZGVsLnByZWRpY3Qocm93X3BkKQo=</text>
+        <text encoding="base64">SU5TRVJUIE9WRVJXUklURSBUQUJMRSBpbm1hcmtldF9zY29yaW5nX21vZGVsX3YyX2ZpbmFsClNFTEVDVAogICAgZGV2aWNlZ3VpZAogICAgLHNvaWQKICAgICxjbGlkCiAgICAsdmlld19jbGFzc18xdy8odmlld19jbGFzc18xdyt2aWV3X2NsYXNzXzF3X290aGVyKSBhcyBmaXJzdF83X2RheV9ydAogICAgLHZpZXdfY2xhc3MvKHZpZXdfY2xhc3MrIHZpZXdfY2xhc3Nfb3RoZXIpIGFzIGZpcnN0XzI4X2RheV9ydAogICAgLHZpZXdfY2xhc3NfM2QvKHZpZXdfY2xhc3NfM2Qrdmlld19jbGFzc18zZF9vdGhlcikgYXMgZmlyc3RfM19kYXlfcnQKICAgICx2aWV3X2NsYXNzMC8odmlld19jbGFzczArdmlld19jbGFzczBfb3RoZXIpIGFzIGZpcnN0XzFfZGF5X3J0CiAgICAsYXRjX2NsYXNzLyhhdGNfY2xhc3MrYXRjX2NsYXNzX290aGVyKSBhcyBhdGNfcnQKICAgICxmYXZfY250LyhmYXZfY250K2Zhdl9jbnRfb3RoZXIpIGFzIGZhdl9ydAogICAgLGRpc3RfdG9fbGFzdF92aXNpdC0gZGlzdF90b19sYXN0X3Zpc2l0X290aGVyIGFzIGxhc3RfY2xpY2tfaW5kCiAgICAsZGlzdF90b19sYXN0X2F0Yy0gZGlzdF90b19sYXN0X2F0Y19vdGhlciBhcyBsYXN0X2F0Y19pbmQKICAgICxkaXN0X3RvX2xhc3Rfb3JkZXIKICAgICxkaXN0X3RvX2xhc3RfdmlzaXQKICAgICxkaXN0X3RvX2xhc3RfYXRjCiAgICAsY2xhc3NfY250CiAgICAsZGlzdF90b19sYXN0X2NsaWNrX2N1CiAgICAsaG90X3ZpZXdfY2xhc3MvKGhvdF92aWV3X2NsYXNzK2hvdF92aWV3X2NsYXNzX290aGVyKSBhcyBob3RfZGVhbF9ydAogICAgLGF0Y19jbGFzcy0gcmZjX2NsYXNzIGFzIGluX2NhcnQKICAgICx2aWV3X2NsYXNzMAogICAgLHZpZXdfY2xhc3MwX290aGVyCiAgICAscGxhdGZvcm0KICAgICx2aXNpdG9ydHlwZV9tYXhfbWF4CiAgICAsdmlzaXRvcnR5cGVfbWluX21pbgogICAgLHZpZXdfY2xhc3MKRlJPTSBpbm1hcmtldF9zY29yaW5nX21vZGVsX3YyX2ZpbmFsX3ByZQo7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByZWRpY3Rpb25fZGF0YV9wZCA9IHJvdy50b1BhbmRhcygpCg==</text>
+        <text encoding="base64">ZnJvbSB4Z2Jvb3N0IGltcG9ydCBETWF0cml4Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgc2NvcmUgdXNpbmcgZnVsbCBjb2x1bW4gbGlzdCBpbmNsdWRpbmcgZHVtbXkgdHJhbnNmb3JtIGNvbHVtbiBuYW1lcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRhdGFfb3V0X3BkWyJzY29yZSJdID0geGdiX21vZGVsLnByZWRpY3QoRE1hdHJpeChwcmVkaWN0aW9uX2RhdGFfcGQpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRhdGFfb3V0X3BkWyJjbGlkIl0gPSBkYXRhX291dF9wZFsiY2xpZCJdLmFzdHlwZSgiaW50IikK</text>
+        <text encoding="base64">ICAgIHJvd19wZCA9IHJvdy5zZWxlY3QoRkVBVFVSRVNfRklOQUwpLnRvUGFuZGFzKCkKICAgIHNjb3JlID0geGdiX21vZGVsLnByZWRpY3Qocm93X3BkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByZWRpY3Rpb25fZGF0YV9wZCA9IHJvdy50b1BhbmRhcygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>score_model_v2</last-search>
+      <last-search>inmark</last-search>
       <last-offset />
-      <last-pattern>score_model_v2</last-pattern>
+      <last-pattern>inmark</last-pattern>
       <last-replace>visitortype_max_maxs</last-replace>
       <last-substitute>platform</last-substitute>
       <last-dir>1</last-dir>
@@ -319,7 +314,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pay</entry>
         <entry>2.9</entry>
         <entry>req</entry>
         <entry>,</entry>
@@ -339,6 +333,7 @@
         <entry>def transform</entry>
         <entry>bigdata</entry>
         <entry>score_model_v2</entry>
+        <entry>inmark</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL10vLw==</entry>
