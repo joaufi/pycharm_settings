@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_inmarket_v2.py" timestamp="1548189085073">
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_inmarket_v2.py" timestamp="1548278576783">
         <mark key="'" line="19" column="3" />
         <mark key="[" line="146" column="0" />
         <mark key="]" line="172" column="57" />
@@ -71,11 +71,11 @@
         <mark key="^" line="14" column="24" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/WIP_score_in_market_v2_pyspark.py" timestamp="1548198830913">
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-        <mark key="^" line="77" column="87" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/WIP_score_in_market_v2_pyspark.py" timestamp="1548279137887">
+        <mark key="[" line="118" column="4" />
+        <mark key="]" line="118" column="66" />
+        <mark key="." line="118" column="66" />
+        <mark key="^" line="118" column="66" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/exceptions.py" timestamp="1539898303277">
         <mark key="[" line="21" column="40" />
@@ -877,14 +877,14 @@
       <jump line="0" column="10" filename="$USER_HOME$/repositories/puppet/modules/pyhadoop/files/requirements36_in_market_v2.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bnVtcHk9PTEuMTQuMApwYW5kYXM9PTAuMjIuMApweWFycm93PT0wLjguMApyZXF1ZXN0cz09Mi45LjEKc2Npa2l0LWxlYXJuPT0wLjE5LjAKc2NpcHk9PTAuMTkuMAp4Z2Jvb3N0PT0wLjRhMzAK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>spark.sql(&quot;SELECT * FROM prs_dev.inmarket_scoring_model_v2_final LIMIT 100&quot;)</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>sci</text>
