@@ -71,12 +71,8 @@
         <mark key="^" line="14" column="24" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/WIP_score_in_market_v2_pyspark.py" timestamp="1548343863068">
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/WIP_score_in_market_v2_pyspark.py" timestamp="1548345902213">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="88" column="37" />
-        <mark key="]" line="88" column="37" />
-        <mark key="." line="88" column="37" />
-        <mark key="^" line="88" column="37" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/exceptions.py" timestamp="1539898303277">
         <mark key="[" line="21" column="40" />
@@ -551,12 +547,12 @@
         <mark key="." line="92" column="14" />
         <mark key="^" line="92" column="49" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/1_Create_Picklists.hql" timestamp="1548106159263">
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/1_Create_Picklists.hql" timestamp="1548345831765">
         <mark key="'" line="35" column="42" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="28" column="44" />
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="20" />
+        <mark key="." line="17" column="20" />
+        <mark key="^" line="17" column="20" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.py" timestamp="1548270255669">
         <mark key="[" line="0" column="0" />
@@ -879,16 +875,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">c3RhbmRhcmRfcGRwX2NvbnNpZGVyIA==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">c3RhbmRhcmRfcGRwX2NvbnNpZGVyIA==</text>
       </register>
       <register name="/" type="4">
-        <text>sci</text>
+        <text>standard</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIHByZWRpY3RfcGFydGl0aW9uKHBhcnRpdGlvbik6CiAgICB4Z2JfbW9kZWwgPSBsb2FkKG9wZW4oIi93YXlmYWlyL21udC9jcnVuY2hfYnVja2V0cy9sb2NhbC9jdXN0b21lcl9pZGVudGl0eS9pbl9tYXJrZXRfYmF0Y2hfc2NvcmluZy94Z2JfaW5fbWFya2V0X3YyLnBpY2tsZSIsICJyYiIpKQogICAgIyBjb252ZXJ0IHBhcnRpdGlvbiB0byBhIGxpc3QgYW5kIHJlbW92ZSBjb2x1bW4gdXNlZCBmb3IgcGFydGl0aW9uaW5nCiAgICByb3dzID0gbGlzdChwYXJ0aXRpb24pCiAgICBpZiBub3Qgcm93czoKICAgICAgICByZXR1cm4gW10KCiAgICBwYW5kYXNfZGYgPSBwZC5EYXRhRnJhbWUocm93cykKICAgIHByZWRpY3Rpb25zID0geGdiX21vZGVsLnByZWRpY3QoRE1hdHJpeChwYW5kYXNfZGYpKQoKICAgIHJldHVybiBbcHJlZGljdGlvbnNdCg==</text>
@@ -925,9 +921,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sci</last-search>
+      <last-search>standard</last-search>
       <last-offset />
-      <last-pattern>sci</last-pattern>
+      <last-pattern>standard</last-pattern>
       <last-replace>visitortype_max_maxs</last-replace>
       <last-substitute>platform</last-substitute>
       <last-dir>1</last-dir>
@@ -935,7 +931,6 @@
     </search>
     <history>
       <history-search>
-        <entry>request\_json</entry>
         <entry>request_json</entry>
         <entry>big</entry>
         <entry>qu</entry>
@@ -955,6 +950,7 @@
         <entry>numpy</entry>
         <entry>scipy</entry>
         <entry>sci</entry>
+        <entry>standard</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL10vLw==</entry>
