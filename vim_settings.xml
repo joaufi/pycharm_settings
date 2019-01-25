@@ -149,7 +149,7 @@
         <mark key="." line="222" column="0" />
         <mark key="^" line="220" column="34" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/2_Merge_Feature_v2.hql" timestamp="1548436305197">
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/2_Merge_Feature_v2.hql" timestamp="1548439008971">
         <mark key="'" line="93" column="9" />
         <mark key="[" line="314" column="48" />
         <mark key="]" line="314" column="53" />
@@ -375,11 +375,11 @@
         <mark key="." line="16" column="49" />
         <mark key="^" line="16" column="49" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" timestamp="1548436961694">
-        <mark key="[" line="53" column="11" />
-        <mark key="]" line="53" column="26" />
-        <mark key="^" line="53" column="26" />
-        <mark key="." line="53" column="26" />
+      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" timestamp="1548438512697">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="7" column="56" />
+        <mark key="." line="7" column="56" />
+        <mark key="^" line="40" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_temporary_tables/populate_temp_page_views.sql" timestamp="1540565581536">
         <mark key="[" line="10" column="32" />
@@ -779,6 +779,12 @@
         <mark key="^" line="22" column="59" />
         <mark key="." line="22" column="59" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/4_Log_Scores.hql" timestamp="1548437811501">
+        <mark key="[" line="53" column="43" />
+        <mark key="]" line="53" column="42" />
+        <mark key="." line="53" column="42" />
+        <mark key="^" line="53" column="42" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="90" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
@@ -883,14 +889,14 @@
       <jump line="157" column="49" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/WIP_score_in_market_v2_pyspark.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Get_PDP</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBhaXJmbG93LmNvbmZpZ3VyYXRpb24gaW1wb3J0IGNvbmYgYXMgYWlyZmxvd19jb25mCg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Get_PDP</text>
+        <text>, 'dags_folder')</text>
       </register>
       <register name="/" type="4">
         <text>data_out</text>
@@ -899,31 +905,31 @@
         <text encoding="base64">ICAgIHRhc2tfaWQ9J2dldF9wZHAnLAogICAgaHFsPScxX0dldF9QRFAuaHFsJywKICAgIHBhcmFtcz1wYXJhbXMsCiAgICBoaXZlX2NsaV9jb25uX2lkPSdiZWVsaW5lX2RhcycsCiAgICBkYWc9ZGFnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBhaXJmbG93LmNvbmZpZ3VyYXRpb24gaW1wb3J0IGNvbmYgYXMgYWlyZmxvd19jb25mCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBTdGVwMjogZ2V0IGRpZmZlcmVudCBmZWF0dXJlcwo=</text>
+        <text encoding="base64">REFHUwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UkVESVNfQ0xJRF9MSVNUID0gWzMyLCAxOCwgNjI2MCwgMzA2LCAxMzIsIDE1MSwgMTY3LCAxMiwgMTMxOCwgMTIyMSwgNiwgNTQsIDMwNSwgNjQ0MywgNzQ5XQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy5iYXNoX29wZXJhdG9yIGltcG9ydCBCYXNoT3BlcmF0b3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bG9nX3Njb3JlIDw8IFtzY29yZV9tb2RlbF92Ml9weXNwYXJrXQo=</text>
+        <text encoding="base64">RFJPUCBUQUJMRSBJRiBFWElTVFMgaW5tYXJqampqampqampqagpDUkVBVEUgRVhURVJOQUwgVEFCTEUgaW5tYXJrZXRfc2NvcmVfdjEgKApkZXZpY2VndWlkIHN0cmluZywKY2xpZCBiaWdpbnQsCnNjb3JlIGRvdWJsZSwKc2NvcmluZ19kYXRlIHN0cmluZwopClNUT1JFRCBBUyBQQVJRVUVUCkxPQ0FUSU9OICdoZGZzOi8vaGRmcy5pc2lsb25jMDEuYm8xLmNzbnpvby5jb20vdmVydGljYS9leHBvcnRzL2lubWFya2V0X3Njb3JlX3YxJzsKCklOU0VSVCBPVkVSV1JJVEUgVEFCTEUgaW5tYXJrZXRfc2NvcmVfdjFfbG9nIFBBUlRJVElPTiAoc2NvcmluZ19kYXRlKQpTRUxFQ1QKICAgIGEuZGV2aWNlZ3VpZAogICAgLDQ5IGFzIHNvaWQKICAgICxhLmNsaWQKICAgICxhLnNjb3JlCiAgICAsYS5yYW5rCiAgICAsYS5zY29yaW5nX2RhdGUKRlJPTSAoc2VsZWN0IGRldmljZWd1aWQKICAgICxjbGlkCiAgICAsc2NvcmUKICAgICxzY29yaW5nX2RhdGUKICAgICxyb3dfbnVtYmVyKCkgb3ZlcihwYXJ0aXRpb24gYnkgZGV2aWNlZ3VpZCBvcmRlciBieSBzY29yZSBkZXNjKSBhcyByYW5rCiAgICBmcm9tIGlubWFya2V0X3Njb3JlX3YxCiAgICApIEFTIGEKOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2NvcmVfbW9kZWxfdjIuc2V0X3Vwc3RyZWFtKG1lcmdlX2ZlYXR1cmVfdjJfbW9kZWwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBTdGVwNDogU2NvcmUgZGF0YQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBTdGVwMzogbWVyZ2UgZmVhdHVyZXMgdG9nZXRoZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xlYW5fZGlyZWN0b3JpZXMgPSBCYXNoT3BlcmF0b3IoCiAgICB0YXNrX2lkPSdjbGVhbl9kaXJlY3RvcmllcycsCiAgICBiYXNoX2NvbW1hbmQ9IiIiCiAgICAgICAgaGRmcyBkZnMgLXJtIC1yIC1mICdoZGZzOi8vaGRmcy5pc2lsb25jMDEuYm8xLmNzbnpvby5jb20vdmVydGljYS9leHBvcnRzL2lubWFya2V0X3Njb3JlX3YyJwogICAgICAgIGhhZG9vcCBmcyAtbWtkaXIgJ2hkZnM6Ly9oZGZzLmlzaWxvbmMwMS5ibzEuY3Nuem9vLmNvbS92ZXJ0aWNhL2V4cG9ydHMvaW5tYXJrZXRfc2NvcmVfdjInCiAgICAiIiIsCiAgICBkYWc9ZGFnCikK</text>
+        <text encoding="base64">IyBSdW5zIGV2ZXJ5ZGF5IDMgQU0gRVNUCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -975,12 +981,12 @@
         <entry>ws</entry>
         <entry>qw</entry>
         <entry>qa</entry>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>vsplit</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGFfb3V0L2RhdGFfb3V0X3BkL2ln</entry>
         <entry>we</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
