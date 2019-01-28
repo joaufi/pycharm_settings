@@ -553,12 +553,12 @@
         <mark key="^" line="12" column="54" />
       </file>
       <file name="$USER_HOME$/repositories/pyspark_quickstart/README.md" timestamp="1548103687633" />
-      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" timestamp="1548687290637">
+      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" timestamp="1548688191632">
         <mark key="'" line="23" column="21" />
-        <mark key="[" line="41" column="39" />
-        <mark key="]" line="41" column="52" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
         <mark key="^" line="41" column="52" />
-        <mark key="." line="41" column="52" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/requirements-airflow.txt" timestamp="1547490559440">
         <mark key="'" line="96" column="10" />
@@ -749,11 +749,11 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_in_market_v2_pyspark.py" timestamp="1548686524491">
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_in_market_v2_pyspark.py" timestamp="1548688183339">
         <mark key="'" line="97" column="99" />
-        <mark key="[" line="113" column="103" />
-        <mark key="]" line="113" column="102" />
-        <mark key="." line="113" column="102" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
         <mark key="^" line="113" column="102" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.jql" timestamp="1531150138707">
@@ -908,8 +908,8 @@
       <jump line="97" column="99" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_in_market_v2_pyspark.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>self.PYSPARK_PYTHON_PATH if pyspark_python is None else pyspark_python</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -924,31 +924,31 @@
         <text encoding="base64">ICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKCkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ3N0b3JlX2lkcycsIG1ldGF2YXI9J04nLCB0eXBlPWludCwgbmFyZ3M9JysnKQogICAgYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFBZU1BBUktfUFlUSE9OX1BBVEggPSAnL3dheWZhaXIvYXBwL3B5aGFkb29wXzAwMC9weWhhZG9vcF8wMDB2ZW52L2Jpbi9weXRob24nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IEFkZCBlbnZfdmFycyB0byBiYXNoIGNvbW1hbmQK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ClRFTVBMQVRFX1BBVEggPSBqb2luKAogICAgY29uZi5nZXQoJ2NvcmUnLCAnZGFnc19mb2xkZXInKSwKICAgICd0ZW1wbGF0ZXMnLAogICAgJ2RhdGFfc2NpZW5jZScsCiAgICAnaW5tYXJrZXRfdjInLAopCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CkRST1AgVEFCTEUgSUYgRVhJU1RTIHRibGlubWFya2V0c2NvcmVzOwpDUkVBVEUgVEFCTEUgdGJsaW5tYXJrZXRzY29yZXMKKAogICAgZGV2aWNlZ3VpZCBTVFJJTkcsCiAgICBjbGlkIElOVCwKICAgIHNjb3JlIEJJR0lOVAogICAgZXZlbnRkYXRlIFNUUklORwopClNUT1JFRCBBUyBQQVJRVUVUCkxPQ0FUSU9OICcvaG9tZS9zY29yaW5nL2luX21hcmtldC92Mi9zY29yZXMnCjsK</text>
+        <text encoding="base64">ICAgIFBZU1BBUktfUFlUSE9OX1BBVEggPSAnL3dheWZhaXIvYXBwL3B5aGFkb29wXzAwMC9weWhhZG9vcF8wMDB2ZW52L2Jpbi9weXRob24nCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2NvcmVkX2RmLndyaXRlLm1vZGUoImFwcGVuZCIpLnNhdmVBc1RhYmxlKCIiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiMgcHlzcGFyayB0byB0YWJsZQo=</text>
+        <text encoding="base64">ClRFTVBMQVRFX1BBVEggPSBqb2luKAogICAgY29uZi5nZXQoJ2NvcmUnLCAnZGFnc19mb2xkZXInKSwKICAgICd0ZW1wbGF0ZXMnLAogICAgJ2RhdGFfc2NpZW5jZScsCiAgICAnaW5tYXJrZXRfdjInLAopCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJmaXJzdF83X2RheV9ydCIsCiAgICAiZmlyc3RfMjhfZGF5X3J0IiwKICAgICJmaXJzdF8zX2RheV9ydCIsCiAgICAiYXRjX3J0IiwKICAgICJmYXZfcnQiLAogICAgImxhc3RfY2xpY2tfaW5kIiwKICAgICJsYXN0X2F0Y19pbmQiLAogICAgImRpc3RfdG9fbGFzdF9vcmRlciIsCiAgICAiZGlzdF90b19sYXN0X3Zpc2l0IiwKICAgICJkaXN0X3RvX2xhc3RfYXRjIiwKICAgICJjbGFzc19jbnQiLAogICAgImRpc3RfdG9fbGFzdF9jbGlja19jdSIsCiAgICAicHJpY2VfaW5kZXgiLAogICAgImhvdF9kZWFsX3J0IiwKICAgICJpbl9jYXJ0IiwKICAgICJmaXJzdF8xX2RheV9ydCIsCiAgICAiZGlzdGFuY2VfdG9fY29uc2lkZXIiLAogICAgInN0ZF9wZHBfY29uc2lkZXIiLAo=</text>
+        <text encoding="base64">CkRST1AgVEFCTEUgSUYgRVhJU1RTIHRibGlubWFya2V0c2NvcmVzOwpDUkVBVEUgVEFCTEUgdGJsaW5tYXJrZXRzY29yZXMKKAogICAgZGV2aWNlZ3VpZCBTVFJJTkcsCiAgICBjbGlkIElOVCwKICAgIHNjb3JlIEJJR0lOVAogICAgZXZlbnRkYXRlIFNUUklORwopClNUT1JFRCBBUyBQQVJRVUVUCkxPQ0FUSU9OICcvaG9tZS9zY29yaW5nL2luX21hcmtldC92Mi9zY29yZXMnCjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
