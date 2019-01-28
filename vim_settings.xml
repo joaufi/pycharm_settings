@@ -218,7 +218,7 @@
         <mark key="." line="12" column="73" />
         <mark key="^" line="12" column="73" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1548703409887">
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1548704558122">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -323,12 +323,12 @@
         <mark key="." line="33" column="1" />
         <mark key="^" line="33" column="1" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" timestamp="1548703434252">
-        <mark key="'" line="69" column="37" />
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="18" />
-        <mark key="." line="5" column="18" />
-        <mark key="^" line="167" column="30" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" timestamp="1548705118150">
+        <mark key="'" line="164" column="0" />
+        <mark key="[" line="122" column="36" />
+        <mark key="]" line="123" column="7" />
+        <mark key="." line="123" column="7" />
+        <mark key="^" line="123" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/aggregates/views.py" timestamp="1547477276685">
         <mark key="[" line="8" column="0" />
@@ -814,7 +814,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="30" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
       <jump line="74" column="0" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
       <jump line="122" column="0" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
       <jump line="133" column="0" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
@@ -914,16 +913,17 @@
       <jump line="148" column="26" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
       <jump line="1" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
       <jump line="69" column="37" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
+      <jump line="160" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>.&quot;&quot;&quot;</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>.&quot;&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>ScribeClient</text>
@@ -932,31 +932,31 @@
         <text encoding="base64">REVWSUNFTUFQX0ZJTFRFUiA9IHsKICAgICdlZGdlX2xpbWl0JzogMTAsCiAgICAnZWRnZV90eXBlcyc6IHsKICAgICAgICAnZGV0ZXJtaW5pc3RpYyc6IHt9CiAgICB9Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBjdXN0aW5mb2xpYiBpbXBvcnQgKAogICAgRGV0YWlscywKICAgIERldmljZW1hcCwKICAgIElkZW50aWZpZXJNYXBwZXIsCikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi4K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBiaWRzaWZ0LmNvbnN0YW50cyBpbXBvcnQgQ2FtZWxDYXNlS2V5IGFzIENDS2V5LCBTbmFrZUNhc2VLZXkgYXMgU0NLeQo=</text>
+        <text encoding="base64">ZnJvbSBzY29yaW5nIGltcG9ydCBTY29yaW5nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzY29yaW5nIGltcG9ydCBTY29yaW5nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBiaWRzaWZ0LnNjcmliZV9jbGllbnQgaW1wb3J0IFNjcmliZUNsaWVudAo=</text>
+        <text encoding="base64">ZnJvbSBjdXN0aW5mb2xpYiBpbXBvcnQgKAogICAgRGV0YWlscywKICAgIERldmljZW1hcCwKICAgIElkZW50aWZpZXJNYXBwZXIsCikK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB3YXJuaW5ncyBpbXBvcnQgZmlsdGVyd2FybmluZ3MK</text>
+        <text encoding="base64">ZnJvbSBiaWRzaWZ0LmNvbnN0YW50cyBpbXBvcnQgQ2FtZWxDYXNlS2V5IGFzIENDS2V5LCBTbmFrZUNhc2VLZXkgYXMgU0NLeQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">REVWSUNFTUFQX0ZJTFRFUiA9IHsKICAgICdlZGdlX2xpbWl0JzogMTAsCiAgICAnZWRnZV90eXBlcyc6IHsKICAgICAgICAnZGV0ZXJtaW5pc3RpYyc6IHt9CiAgICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBiaWRzaWZ0LnNjcmliZV9jbGllbnQgaW1wb3J0IFNjcmliZUNsaWVudAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
