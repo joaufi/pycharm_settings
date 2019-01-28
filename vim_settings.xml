@@ -366,8 +366,8 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/redis_loader_dag.py" timestamp="1548708137726">
-        <mark key="'" line="493" column="4" />
+      <file name="$USER_HOME$/repositories/airflow-dags/redis_loader_dag.py" timestamp="1548710425767">
+        <mark key="'" line="515" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/webapp.py" timestamp="1533225575233">
         <mark key="[" line="3" column="52" />
@@ -390,11 +390,11 @@
       <file name="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" timestamp="1547658521579">
         <mark key="'" line="2053" column="10" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" timestamp="1548710029732">
-        <mark key="[" line="120" column="29" />
-        <mark key="]" line="120" column="69" />
-        <mark key="." line="120" column="69" />
-        <mark key="^" line="120" column="69" />
+      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" timestamp="1548711087436">
+        <mark key="[" line="143" column="18" />
+        <mark key="]" line="143" column="22" />
+        <mark key="." line="143" column="22" />
+        <mark key="^" line="143" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_temporary_tables/populate_temp_page_views.sql" timestamp="1540565581536">
         <mark key="[" line="10" column="32" />
@@ -770,12 +770,12 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_in_market_v2_pyspark.py" timestamp="1548709510070">
-        <mark key="'" line="98" column="99" />
-        <mark key="[" line="72" column="77" />
-        <mark key="]" line="72" column="77" />
-        <mark key="." line="72" column="77" />
-        <mark key="^" line="72" column="77" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_in_market_v2_pyspark.py" timestamp="1548712195583">
+        <mark key="'" line="97" column="99" />
+        <mark key="[" line="118" column="9" />
+        <mark key="]" line="118" column="9" />
+        <mark key="." line="118" column="9" />
+        <mark key="^" line="118" column="9" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.jql" timestamp="1531150138707">
         <mark key="[" line="10" column="114" />
@@ -833,7 +833,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="0" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
       <jump line="133" column="0" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
       <jump line="62" column="48" filename="$USER_HOME$/repositories/wf_secrets/wf_secrets/encryption_interfaces/aes_interface.py" />
       <jump line="171" column="0" filename="$USER_HOME$/repositories/wf_secrets/.python_environment-3.7/lib/python3.7/site-packages/pyaes/blockfeeder.py" />
@@ -933,16 +932,17 @@
       <jump line="69" column="37" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
       <jump line="160" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
       <jump line="493" column="4" filename="$USER_HOME$/repositories/airflow-dags/redis_loader_dag.py" />
+      <jump line="515" column="11" filename="$USER_HOME$/repositories/airflow-dags/redis_loader_dag.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRU5WID09ICdwcm9kJyBlbHNlICcvd2F5ZmFpci9tbnQvc3FsX3N0YWdpbmcvZXhwb3J0cy9pbm1hcmtldF9zY29yZV92Mi9pbm1hcmtldF9zY29yaW5nX3YyX2Rldi5wYXJxdWV0Jwo=</text>
+      <register name="&quot;" type="4">
+        <text>withColumn(&quot;eventdate&quot;, lit(args.eventdate)).</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>'/wayfair/mnt/sql_staging/exports/inmarket_score_v2/inmarket_scoring_v2.parquet' if</text>
+        <text>withColumn(&quot;eventdate&quot;, lit(args.eventdate)).</text>
       </register>
       <register name="/" type="4">
         <text>branch</text>
@@ -951,28 +951,28 @@
         <text encoding="base64">REVWSUNFTUFQX0ZJTFRFUiA9IHsKICAgICdlZGdlX2xpbWl0JzogMTAsCiAgICAnZWRnZV90eXBlcyc6IHsKICAgICAgICAnZGV0ZXJtaW5pc3RpYyc6IHt9CiAgICB9Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRU5WID09ICdwcm9kJyBlbHNlICcvd2F5ZmFpci9tbnQvc3FsX3N0YWdpbmcvZXhwb3J0cy9pbm1hcmtldF9zY29yZV92Mi9pbm1hcmtldF9zY29yaW5nX3YyX2Rldi5wYXJxdWV0Jwo=</text>
+        <text encoding="base64">IyBmZWF0dXJlcyA9IHNwYXJrLnJlYWQucGFycXVldCgiL3ZlcnRpY2EvZXhwb3J0cy9pbm1hcmtldF9zY29yZV9kYXRhX3YyIilcCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2hvb3NlX3Njb3JpbmdfZnJhbWV3b3JrID4+IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZmVhdHVyZXMgPSBmZWF0dXJlcy50YWtlKDEwMCkudG9ERigpCg==</text>
+        <text encoding="base64">ZGVmIGdldF9pbl9tYXJrZXRfc2NvcmluZ19lbmdpbmUoKToKICAgIHJldHVybiAnc2NvcmVfaW5fbWFya2V0Jwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VEVNUExBVEVfUEFUSCA9IGpvaW4oCiAgICBjb25mLmdldCgnY29yZScsICdkYWdzX2ZvbGRlcicpLAogICAgJ3RlbXBsYXRlcycsCiAgICAnZGF0YV9zY2llbmNlJywKICAgICdpbm1hcmtldF92MicsCikK</text>
+        <text encoding="base64">aW1wb3J0IG9zLnBhdGgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QURNSU5fVkFSSUFCTEVTID0gVmFyaWFibGUuZ2V0KCdpbm1hcmtldF92MicsIGRlc2VyaWFsaXplX2pzb249VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRU5WID09ICdwcm9kJyBlbHNlICcvd2F5ZmFpci9tbnQvc3FsX3N0YWdpbmcvZXhwb3J0cy9pbm1hcmtldF9zY29yZV92Mi9pbm1hcmtldF9zY29yaW5nX3YyX2Rldi5wYXJxdWV0Jwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q1JVTkNIX0JVQ0tFVFMgPSBWYXJpYWJsZS5nZXQoJ0NSVU5DSF9CVUNLRVRTJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi4K</text>
+        <text encoding="base64">ZmVhdHVyZXMgPSBmZWF0dXJlcy50YWtlKDEwMCkudG9ERigpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1029,10 +1029,10 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zb3J0cg==</entry>
         <entry>e</entry>
-        <entry>W</entry>
         <entry>qa</entry>
         <entry>vsplit</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
