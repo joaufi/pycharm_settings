@@ -390,11 +390,11 @@
       <file name="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" timestamp="1547658521579">
         <mark key="'" line="2053" column="10" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" timestamp="1548711087436">
-        <mark key="[" line="143" column="18" />
-        <mark key="]" line="143" column="22" />
-        <mark key="." line="143" column="22" />
-        <mark key="^" line="143" column="22" />
+      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" timestamp="1548714094835">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+        <mark key="^" line="139" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_temporary_tables/populate_temp_page_views.sql" timestamp="1540565581536">
         <mark key="[" line="10" column="32" />
@@ -568,12 +568,12 @@
         <mark key="^" line="12" column="54" />
       </file>
       <file name="$USER_HOME$/repositories/pyspark_quickstart/README.md" timestamp="1548103687633" />
-      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" timestamp="1548707189487">
+      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" timestamp="1548712795319">
         <mark key="'" line="23" column="21" />
-        <mark key="[" line="41" column="114" />
-        <mark key="]" line="41" column="118" />
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="17" column="22" />
         <mark key="^" line="41" column="118" />
-        <mark key="." line="41" column="118" />
+        <mark key="." line="17" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/requirements-airflow.txt" timestamp="1547490559440">
         <mark key="'" line="96" column="10" />
@@ -770,12 +770,12 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_in_market_v2_pyspark.py" timestamp="1548712195583">
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_in_market_v2_pyspark.py" timestamp="1548713991613">
         <mark key="'" line="97" column="99" />
-        <mark key="[" line="118" column="9" />
-        <mark key="]" line="118" column="9" />
-        <mark key="." line="118" column="9" />
-        <mark key="^" line="118" column="9" />
+        <mark key="[" line="71" column="36" />
+        <mark key="]" line="71" column="36" />
+        <mark key="." line="71" column="36" />
+        <mark key="^" line="71" column="77" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.jql" timestamp="1531150138707">
         <mark key="[" line="10" column="114" />
@@ -936,13 +936,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>withColumn(&quot;eventdate&quot;, lit(args.eventdate)).</text>
+        <text>.</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>withColumn(&quot;eventdate&quot;, lit(args.eventdate)).</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>branch</text>
