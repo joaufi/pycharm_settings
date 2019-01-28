@@ -183,6 +183,12 @@
         <mark key="^" line="94" column="57" />
         <mark key="." line="96" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/scribe_client.py" timestamp="1548689248680">
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="26" column="7" />
+        <mark key="." line="26" column="7" />
+        <mark key="^" line="26" column="7" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/pyspark_score_in_market_v2.py" timestamp="1548032780885">
         <mark key="'" line="99" column="18" />
         <mark key="[" line="72" column="14" />
@@ -316,11 +322,10 @@
         <mark key="." line="33" column="1" />
         <mark key="^" line="33" column="1" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" timestamp="1547582277883">
-        <mark key="'" line="163" column="12" />
-        <mark key="[" line="113" column="37" />
-        <mark key="]" line="113" column="48" />
-        <mark key="." line="113" column="48" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" timestamp="1548689093871">
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="0" />
+        <mark key="." line="163" column="0" />
         <mark key="^" line="113" column="48" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/aggregates/views.py" timestamp="1547477276685">
@@ -442,11 +447,6 @@
         <mark key="]" line="27" column="37" />
         <mark key="^" line="1" column="25" />
         <mark key="." line="27" column="37" />
-      </file>
-      <file name="$USER_HOME$/repositories/puppet/modules/pyhadoop/files/requirements36_001.lock" timestamp="1548199051990">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.json" timestamp="1535729489018">
         <mark key="[" line="8" column="36" />
@@ -749,7 +749,7 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_in_market_v2_pyspark.py" timestamp="1548688183339">
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_in_market_v2_pyspark.py" timestamp="1548688823879">
         <mark key="'" line="97" column="99" />
         <mark key="[" line="121" column="0" />
         <mark key="]" line="121" column="0" />
@@ -908,14 +908,14 @@
       <jump line="97" column="99" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_in_market_v2_pyspark.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>create_user_level_bidding_appnexus_event</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>self.PYSPARK_PYTHON_PATH if pyspark_python is None else pyspark_python</text>
+        <text>create_user_level_bidding_appnexus_event</text>
       </register>
       <register name="/" type="4">
         <text>scoring.</text>
@@ -927,28 +927,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IEFkZCBlbnZfdmFycyB0byBiYXNoIGNvbW1hbmQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NyaWJlX2NsaWVudC5wdWJsaXNoX2V2ZW50KHNjb3JlX2V2ZW50LCAnc2NyaWJlRXZlbnRKc29uJykK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IEFkZCBlbnZfdmFycyB0byBiYXNoIGNvbW1hbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFBZU1BBUktfUFlUSE9OX1BBVEggPSAnL3dheWZhaXIvYXBwL3B5aGFkb29wXzAwMC9weWhhZG9vcF8wMDB2ZW52L2Jpbi9weXRob24nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFBZU1BBUktfUFlUSE9OX1BBVEggPSAnL3dheWZhaXIvYXBwL3B5aGFkb29wXzAwMC9weWhhZG9vcF8wMDB2ZW52L2Jpbi9weXRob24nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ClRFTVBMQVRFX1BBVEggPSBqb2luKAogICAgY29uZi5nZXQoJ2NvcmUnLCAnZGFnc19mb2xkZXInKSwKICAgICd0ZW1wbGF0ZXMnLAogICAgJ2RhdGFfc2NpZW5jZScsCiAgICAnaW5tYXJrZXRfdjInLAopCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CkRST1AgVEFCTEUgSUYgRVhJU1RTIHRibGlubWFya2V0c2NvcmVzOwpDUkVBVEUgVEFCTEUgdGJsaW5tYXJrZXRzY29yZXMKKAogICAgZGV2aWNlZ3VpZCBTVFJJTkcsCiAgICBjbGlkIElOVCwKICAgIHNjb3JlIEJJR0lOVAogICAgZXZlbnRkYXRlIFNUUklORwopClNUT1JFRCBBUyBQQVJRVUVUCkxPQ0FUSU9OICcvaG9tZS9zY29yaW5nL2luX21hcmtldC92Mi9zY29yZXMnCjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -997,7 +997,6 @@
         <entry>e</entry>
         <entry>ws</entry>
         <entry>qw</entry>
-        <entry>qa</entry>
         <entry>vsplit</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGFfb3V0L2RhdGFfb3V0X3BkL2ln</entry>
@@ -1006,6 +1005,7 @@
         <entry encoding="base64">JzwsJz5zb3J0cg==</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>W</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
