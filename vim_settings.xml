@@ -397,11 +397,11 @@
       <file name="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" timestamp="1548721201374">
         <mark key="'" line="1985" column="32" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" timestamp="1548722521852">
+      <file name="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" timestamp="1548775547086">
         <mark key="'" line="114" column="18" />
         <mark key="[" line="164" column="58" />
         <mark key="]" line="164" column="58" />
-        <mark key="^" line="164" column="72" />
+        <mark key="^" line="164" column="73" />
         <mark key="." line="164" column="58" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_temporary_tables/populate_temp_page_views.sql" timestamp="1540565581536">
@@ -576,12 +576,12 @@
         <mark key="^" line="12" column="54" />
       </file>
       <file name="$USER_HOME$/repositories/pyspark_quickstart/README.md" timestamp="1548103687633" />
-      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" timestamp="1548722282906">
+      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" timestamp="1548775320908">
         <mark key="'" line="23" column="21" />
-        <mark key="[" line="24" column="29" />
-        <mark key="]" line="24" column="38" />
-        <mark key="^" line="24" column="38" />
-        <mark key="." line="24" column="38" />
+        <mark key="[" line="45" column="25" />
+        <mark key="]" line="45" column="25" />
+        <mark key="^" line="45" column="24" />
+        <mark key="." line="45" column="25" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/requirements-airflow.txt" timestamp="1547490559440">
         <mark key="'" line="96" column="10" />
@@ -778,12 +778,12 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_in_market_v2_pyspark.py" timestamp="1548717576950">
-        <mark key="'" line="97" column="99" />
-        <mark key="[" line="116" column="33" />
-        <mark key="]" line="116" column="46" />
-        <mark key="." line="116" column="46" />
-        <mark key="^" line="116" column="46" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_in_market_v2_pyspark.py" timestamp="1548775964663">
+        <mark key="'" line="62" column="75" />
+        <mark key="[" line="98" column="31" />
+        <mark key="]" line="62" column="75" />
+        <mark key="." line="62" column="75" />
+        <mark key="^" line="62" column="75" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.jql" timestamp="1531150138707">
         <mark key="[" line="10" column="114" />
@@ -841,7 +841,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="4" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
       <jump line="47" column="50" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
       <jump line="98" column="54" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
       <jump line="32" column="8" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
@@ -941,16 +940,17 @@
       <jump line="2079" column="30" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="2364" column="8" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="1985" column="32" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="62" column="75" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_in_market_v2_pyspark.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZmFtIA==</text>
+        <text>/wayfair/mnt/crunch_buckets/local/customer_identity/in_market_batch_scoring/xgb_in_market_v2.pickle</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmFtIA==</text>
+        <text>/wayfair/mnt/crunch_buckets/local/customer_identity/in_market_batch_scoring/xgb_in_market_v2.pickle</text>
       </register>
       <register name="/" type="4">
         <text>provide</text>
