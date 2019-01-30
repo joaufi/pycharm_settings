@@ -416,6 +416,13 @@
         <mark key="^" line="9" column="87" />
         <mark key="." line="10" column="32" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/marketing/attribution_v1/generate_figures.py" timestamp="1548809152129">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="88" column="82" />
+        <mark key="]" line="88" column="3" />
+        <mark key="^" line="88" column="3" />
+        <mark key="." line="88" column="3" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/controller.py" timestamp="1545271237162">
         <mark key="'" line="168" column="0" />
         <mark key="[" line="76" column="70" />
@@ -847,7 +854,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" />
       <jump line="103" column="23" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
       <jump line="155" column="12" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
       <jump line="203" column="0" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
@@ -947,6 +953,7 @@
       <jump line="9" column="9" filename="$USER_HOME$/repositories/puppet/hieradata/common.eyaml" />
       <jump line="49" column="40" filename="$USER_HOME$/repositories/airflow-dags/attribution_comparison_dag.py" />
       <jump line="96" column="98" filename="$USER_HOME$/repositories/airflow-dags/attribution_comparison_dag.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/marketing/attribution_v1/generate_figures.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -959,7 +966,7 @@
         <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>Model_Pe</text>
+        <text>output</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBleGVjdXRvcl9tZW1vcnk9JzQwMDBNJywKICAgICAgICBkcml2ZXJfbWVtb3J5PSc0MDAwTScsCg==</text>
@@ -992,13 +999,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>Model_Pe</last-search>
+      <last-search>output</last-search>
       <last-offset />
-      <last-pattern>Model_Pe</last-pattern>
+      <last-pattern>output</last-pattern>
       <last-replace>data_out_pd</last-replace>
       <last-substitute>data_out</last-substitute>
       <last-dir>1</last-dir>
@@ -1006,7 +1013,6 @@
     </search>
     <history>
       <history-search>
-        <entry>wrap</entry>
         <entry>wrappers</entry>
         <entry>numoy</entry>
         <entry>numpy</entry>
@@ -1026,6 +1032,7 @@
         <entry>provide</entry>
         <entry>themis</entry>
         <entry>Model_Pe</entry>
+        <entry>output</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -1042,12 +1049,12 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zb3J0cg==</entry>
         <entry>e</entry>
-        <entry>qa</entry>
         <entry>vsplit</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>W</entry>
         <entry>Lw</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
