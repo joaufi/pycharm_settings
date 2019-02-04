@@ -491,11 +491,11 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="8" column="338" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_v4_convert_7_day.py" timestamp="1549057703541">
-        <mark key="[" line="135" column="60" />
-        <mark key="]" line="135" column="60" />
-        <mark key="." line="135" column="60" />
-        <mark key="^" line="152" column="24" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_v4_convert_7_day.py" timestamp="1549301535573">
+        <mark key="[" line="143" column="25" />
+        <mark key="]" line="143" column="85" />
+        <mark key="." line="143" column="85" />
+        <mark key="^" line="143" column="85" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/.flake8" timestamp="1535048534763">
         <mark key="[" line="4" column="34" />
@@ -660,6 +660,12 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
+      <file name="$USER_HOME$/repositories/puppet/modules/pyhadoop/files/requirements36_in_market_v2.lock" timestamp="1549301625471">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="12" />
+        <mark key="." line="3" column="12" />
+        <mark key="^" line="3" column="12" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/business_lead_scoring_expected_revenue_model.py" timestamp="1536948733337">
         <mark key="[" line="33" column="36" />
         <mark key="]" line="33" column="69" />
@@ -709,11 +715,6 @@
         <mark key="^" line="12" column="54" />
         <mark key="." line="12" column="54" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/atcie_tradedesk_uploader.py" timestamp="1549043568100">
-        <mark key="'" line="41" column="57" />
-        <mark key="[" line="344" column="0" />
-        <mark key="]" line="347" column="55" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" timestamp="1530195833860">
         <mark key="[" line="0" column="626" />
         <mark key="]" line="0" column="0" />
@@ -726,11 +727,16 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/repositories/puppet/modules/profile/manifests/python/hadoop.pp" timestamp="1548276060069">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="41" column="2" />
+      <file name="$USER_HOME$/repositories/puppet/modules/profile/manifests/python/hadoop.pp" timestamp="1549301658199">
+        <mark key="[" line="39" column="34" />
+        <mark key="]" line="39" column="35" />
         <mark key="^" line="41" column="2" />
-        <mark key="." line="41" column="2" />
+        <mark key="." line="39" column="35" />
+      </file>
+      <file name="$USER_HOME$/repositories/puppet/services/s_big_data/manifests/init.pp" timestamp="1549301689759">
+        <mark key="[" line="68" column="34" />
+        <mark key="]" line="68" column="35" />
+        <mark key="." line="68" column="35" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_temporary_tables/populate_temp_device_map.sql" timestamp="1536680281547">
         <mark key="[" line="17" column="0" />
@@ -960,14 +966,14 @@
       <jump line="79" column="1" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pyspark/sql/functions.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEZST00gaW5fbWFya2V0X3Njb3JpbmdfZmVhdHVyZV9hdGNfZmluYWwK</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>features</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>lit(</text>
@@ -976,31 +982,31 @@
         <text encoding="base64">ICAgICMgRXZlbiB0aG91Z2ggd2Ugc3BlY2lmeSB2MiBoZXJlLCB0aGF0IGlzIERhdGFTY2llbmNlJ3Mgb2xkIHZlcnNpb25pbmcuCiAgICAjIFdlIGFyZSBjdXJyZW50bHkgYWxpZ25pbmcgdmVyc2lvbnMgc28gdjIgYmVjb21lcyB2NF9jb252ZXJ0XzdfZGF5Lgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEZST00gaW5fbWFya2V0X3Njb3JpbmdfZmVhdHVyZV9hdGNfZmluYWwK</text>
+        <text encoding="base64">ICAgIHB5c3BhcmtfcHl0aG9uX3BhdGg9Ii9jc256b28vamFmaXNoZXIvcHloYWRvb3BfdGVzdF8yL3ZlbnYvYmluL3B5dGhvbiIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEZST00gaW5fbWFya2V0X3Njb3JpbmdfZmVhdHVyZV9hdGNfZmluYWwK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFBZU1BBUktfUFlUSE9OX1BBVEggPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB4Y29tX3B1bGxfdGFza19pZHM6CiAgICAgICAgICAgIHNlbGYuU1BBUktfU1VCTUlUX0JBU0hfU0NSSVBUX1RFTVBMQVRFID0gXAogICAgICAgICAgICAgICAgc2VsZi5TUEFSS19TVUJNSVRfQkFTSF9TQ1JJUFRfVEVNUExBVEUgKyBzZWxmLlhDT01fUFVMTF9URU1QTEFURS5mb3JtYXQodGFza19pZHM9eGNvbV9wdWxsX3Rhc2tfaWRzKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGN1c3RvbV9iYXNoX3RlbXBsYXRlPVNQQVJLX1NVQk1JVF9CQVNIX1NDUklQVF9YQ09NX1RFTVBMQVRFLAo=</text>
+        <text encoding="base64">ICAgIFBZU1BBUktfUFlUSE9OX1BBVEggPQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBVc2luZyB0aGlzIGN1c3RvbSBzdWJtaXQgdGVtcGxhdGUgZHVlIHRvIHRoZSBge3sgdGFza19pbnN0YW5jZS54Y29tX3B1bGwgLiAuIC5gCiMgZHVlIHRvIHRoZSB3YXkgdGhlIFNwYXJrU3VibWl0QmFzaE9wZXJhdG9yIGlzIHdyaXR0ZW4gYW5kIEppbmphIHRlbXBsYXRpbmcgd29ya3MKU1BBUktfU1VCTUlUX0JBU0hfU0NSSVBUX1hDT01fVEVNUExBVEUgPSAiIiIKIyEvdXNyL2Jpbi9lbnYgYmFzaAojIEhhY2sgdG8gYWxsb3cgdXMgYWNjZXNzIHRvIGV4ZWN1dGlvbl9kYXRlIChhbmQgb3RoZXIgZHMpIGlmIG5lZWRlZCBpbiBCYXNoT3BlcmF0b3IgcGFyYW1zCmV4cG9ydCBEUz17eyBkcyB9fQpleHBvcnQgVE9NT1JST1dfRFM9e3sgdG9tb3Jyb3dfZHMgfX0KZXhwb3J0IFlFU1RFUkRBWV9EUz17eyB5ZXN0ZXJkYXlfZHMgfX0KCkhBRE9PUF9VU0VSX05BTUU9YWlyZmxvdyBcCnslIGlmIHBhcmFtcy5weXNwYXJrX3B5dGhvbiAlfSBcClBZU1BBUktfUFlUSE9OPXt7IHBhcmFtcy5weXNwYXJrX3B5dGhvbiB9fSBcCnslIGVuZGlmICV9IFwKc3BhcmsyLXN1Ym1pdCBcCiAgICAtLW1hc3Rlcj15YXJuIFwKICAgIC0tZGVwbG95LW1vZGU9Y2xpZW50IFwKICAgIC0tZXhlY3V0b3ItY29yZXM9e3sgcGFyYW1zLmV4ZWN1dG9yX2NvcmVzIH19IFwKICAgIHslIGlmIHBhcmFtcy5iaWdkYXRhX2VudiA9PSAiZGV2IiAlfSBcCiAgICAtLWNvbmY9c3BhcmsuYmxvY2tNYW5hZ2VyLnBvcnQ9e3sgcGFyYW1zLmJsb2NrX21hbmFnZXJfcG9ydCB9fSBcCiAgICB7JSBlbmRpZiAlfSBcCiAgICAtLWNvbmY9c3BhcmsuZHluYW1pY0FsbG9jYXRpb24ubWF4RXhlY3V0b3JzPXt7IHBhcmFtcy5tYXhfZXhlY3V0b3JzIH19IFwKICAgIC0tY29uZj1zcGFyay5leGVjdXRvci5tZW1vcnk9e3sgcGFyYW1zLmV4ZWN1dG9yX21lbW9yeSB9fSBcCiAgICAtLWNvbmY9c3BhcmsuZHJpdmVyLm1lbW9yeT17eyBwYXJhbXMuZHJpdmVyX21lbW9yeSB9fSBcCiAgICAtLWNvbmY9c3BhcmsueWFybi5leGVjdXRvci5tZW1vcnlPdmVyaGVhZD17eyBwYXJhbXMueWFybl9leGVjdXRvcl9tZW1fb3ZlcmhlYWQgfX0gXAogICAgLS1jb25mPXNwYXJrLmRyaXZlci5tYXhSZXN1bHRTaXplPXt7IHBhcmFtcy5zcGFya19kcml2ZXJfbWF4X3Jlc3VsdF9zaXplIH19IFwKICAgIHslIGlmIHBhcmFtcy5tYWluX2NsYXNzICV9IFwKICAgIC0tY2xhc3M9e3sgcGFyYW1zLm1haW5fY2xhc3MgfX0gXAogICAgeyUgZW5kaWYgJX0gXAogICAgeyUgaWYgcGFyYW1zLnB5c3BhcmtfcHl0aG9uICV9IFwKICAgIC0tY29uZj1zcGFyay55YXJuLmFwcE1hc3RlckVudi5QWVNQQVJLX1BZVEhPTj17eyBwYXJhbXMucHlzcGFya19weXRob24gfX0gXAogICAgeyUgZW5kaWYgJX0gXAogICAgeyUgaWYgcGFyYW1zLnNwYXJrX2ZpbGVzICV9IFwKICAgIC0tZmlsZXM9e3sgcGFyYW1zLnNwYXJrX2ZpbGVzIH19IFwKICAgIHslIGVuZGlmICV9IFwKICAgIHt7IHBhcmFtcy5zcGFya19qb2JfZmlsZSB9fSB7eyBwYXJhbXMuc3BhcmtfcGFyYW1zIH19IFwKICAgIHt7IHRhc2tfaW5zdGFuY2UueGNvbV9wdWxsKHRhc2tfaWRzPSJnZXRfbW9kZWxfc3RvcmFnZV9wYXRoIikgfX0KIiIiCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB4Y29tX3B1bGxfdGFza19pZHM6CiAgICAgICAgICAgIHNlbGYuU1BBUktfU1VCTUlUX0JBU0hfU0NSSVBUX1RFTVBMQVRFID0gXAogICAgICAgICAgICAgICAgc2VsZi5TUEFSS19TVUJNSVRfQkFTSF9TQ1JJUFRfVEVNUExBVEUgKyBzZWxmLlhDT01fUFVMTF9URU1QTEFURS5mb3JtYXQodGFza19pZHM9eGNvbV9wdWxsX3Rhc2tfaWRzKQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjdXN0b21fYmFzaF90ZW1wbGF0ZT1Ob25lLAo=</text>
+        <text encoding="base64">ICAgIGN1c3RvbV9iYXNoX3RlbXBsYXRlPVNQQVJLX1NVQk1JVF9CQVNIX1NDUklQVF9YQ09NX1RFTVBMQVRFLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1039,7 +1045,6 @@
         <entry>lit(</entry>
       </history-search>
       <history-cmd>
-        <entry>:w</entry>
         <entry>qq</entry>
         <entry encoding="base64">JzwsJz5zL3JlcXVlc3RcX2pzb24vcGF5bG9hZC8=</entry>
         <entry encoding="base64">JzwsJz5zL3JlcXVlc3RfanNvbi9wYXlsb2Fk</entry>
@@ -1058,6 +1063,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>q</entry>
+        <entry>2</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
