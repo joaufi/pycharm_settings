@@ -358,7 +358,7 @@
         <mark key="." line="9" column="50" />
         <mark key="^" line="9" column="50" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/pyspark_jobs/score_in_market_v4.py" timestamp="1549254476047">
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/pyspark_jobs/score_in_market_v4.py" timestamp="1549255074985">
         <mark key="[" line="123" column="16" />
         <mark key="]" line="123" column="17" />
         <mark key="." line="123" column="17" />
@@ -574,6 +574,9 @@
         <mark key="]" line="9" column="1" />
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pyspark/sql/functions.py" timestamp="1549255103942">
+        <mark key="'" line="79" column="1" />
       </file>
       <file name="$USER_HOME$/repositories/jenkins-jobs/lib/build/build/python.yml" timestamp="1548193212776">
         <mark key="'" line="59" column="4" />
@@ -855,13 +858,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2053" column="10" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
-      <jump line="177" column="30" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
-      <jump line="180" column="47" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
-      <jump line="186" column="21" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
-      <jump line="206" column="20" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
-      <jump line="207" column="33" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
-      <jump line="212" column="38" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
       <jump line="217" column="47" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
       <jump line="222" column="47" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
       <jump line="171" column="34" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
@@ -955,6 +951,13 @@
       <jump line="9" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_v2_batch_scoring.py" />
       <jump line="103" column="4" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_v2_batch_scoring.py" />
       <jump line="5" column="14" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_v2_batch_scoring.py" />
+      <jump line="364" column="13" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pyspark/sql/functions.py" />
+      <jump line="685" column="20" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pyspark/sql/functions.py" />
+      <jump line="1588" column="6" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pyspark/sql/functions.py" />
+      <jump line="1590" column="6" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pyspark/sql/functions.py" />
+      <jump line="1595" column="20" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pyspark/sql/functions.py" />
+      <jump line="1599" column="38" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pyspark/sql/functions.py" />
+      <jump line="79" column="1" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pyspark/sql/functions.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -967,7 +970,7 @@
         <text>features</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Pj4=</text>
+        <text>lit(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgRXZlbiB0aG91Z2ggd2Ugc3BlY2lmeSB2MiBoZXJlLCB0aGF0IGlzIERhdGFTY2llbmNlJ3Mgb2xkIHZlcnNpb25pbmcuCiAgICAjIFdlIGFyZSBjdXJyZW50bHkgYWxpZ25pbmcgdmVyc2lvbnMgc28gdjIgYmVjb21lcyB2NF9jb252ZXJ0XzdfZGF5Lgo=</text>
@@ -1004,9 +1007,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Pj4=</last-search>
+      <last-search>lit(</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Pj4=</last-pattern>
+      <last-pattern>lit(</last-pattern>
       <last-replace>data_out_pd</last-replace>
       <last-substitute>data_out</last-substitute>
       <last-dir>1</last-dir>
@@ -1014,10 +1017,6 @@
     </search>
     <history>
       <history-search>
-        <entry>when</entry>
-        <entry>scoring.</entry>
-        <entry>request_json</entry>
-        <entry>ScribeClient</entry>
         <entry>branch</entry>
         <entry>fr</entry>
         <entry>requests</entry>
@@ -1034,6 +1033,10 @@
         <entry>Bra</entry>
         <entry>fe</entry>
         <entry encoding="base64">Pj4=</entry>
+        <entry>def lit</entry>
+        <entry>def col</entry>
+        <entry>lit</entry>
+        <entry>lit(</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
