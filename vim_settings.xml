@@ -54,9 +54,10 @@
         <mark key="^" line="19" column="18" />
         <mark key="." line="19" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/local.default.py" timestamp="1543524803146">
-        <mark key="[" line="26" column="64" />
-        <mark key="]" line="26" column="90" />
+      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/local.default.py" timestamp="1549565403112">
+        <mark key="'" line="11" column="15" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="123" column="4" />
         <mark key="." line="26" column="90" />
         <mark key="^" line="26" column="90" />
       </file>
@@ -72,11 +73,11 @@
         <mark key="^" line="34" column="59" />
         <mark key="." line="34" column="59" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/local.py" timestamp="1543521912200">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
+      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/local.py" timestamp="1549565428367">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="125" column="5" />
         <mark key="^" line="14" column="24" />
-        <mark key="." line="69" column="0" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/WIP_score_in_market_v2_pyspark.py" timestamp="1548434842049">
         <mark key="[" line="87" column="33" />
@@ -858,7 +859,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="217" column="47" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
       <jump line="222" column="47" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
       <jump line="171" column="34" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
       <jump line="170" column="0" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
@@ -958,10 +958,11 @@
       <jump line="1595" column="20" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pyspark/sql/functions.py" />
       <jump line="1599" column="38" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pyspark/sql/functions.py" />
       <jump line="79" column="1" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pyspark/sql/functions.py" />
+      <jump line="11" column="15" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/local.default.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEFETUlOX1ZBUklBQkxFU1siaGRmc19ob3N0Il0sCg==</text>
+        <text encoding="base64">CiAgICBNT0RFTF9TVE9SQUdFX0NPTkZJRyA9IHsKICAgICAgICAnaG9zdCc6ICcxMC4yMjguMjUxLjIxMCcsCiAgICAgICAgJ3BvcnQnOiA4MCwKICAgIH0K</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -970,10 +971,10 @@
         <text>custom submit script above</text>
       </register>
       <register name="/" type="4">
-        <text>lit(</text>
+        <text>MODEL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgRXZlbiB0aG91Z2ggd2Ugc3BlY2lmeSB2MiBoZXJlLCB0aGF0IGlzIERhdGFTY2llbmNlJ3Mgb2xkIHZlcnNpb25pbmcuCiAgICAjIFdlIGFyZSBjdXJyZW50bHkgYWxpZ25pbmcgdmVyc2lvbnMgc28gdjIgYmVjb21lcyB2NF9jb252ZXJ0XzdfZGF5Lgo=</text>
+        <text encoding="base64">CiAgICBNT0RFTF9TVE9SQUdFX0NPTkZJRyA9IHsKICAgICAgICAnaG9zdCc6ICcxMC4yMjguMjUxLjIxMCcsCiAgICAgICAgJ3BvcnQnOiA4MCwKICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEFETUlOX1ZBUklBQkxFU1siaGRmc19ob3N0Il0sCg==</text>
@@ -1007,9 +1008,9 @@
       </register>
     </registers>
     <search>
-      <last-search>lit(</last-search>
+      <last-search>MODEL</last-search>
       <last-offset />
-      <last-pattern>lit(</last-pattern>
+      <last-pattern>MODEL</last-pattern>
       <last-replace>data_out_pd</last-replace>
       <last-substitute>data_out</last-substitute>
       <last-dir>1</last-dir>
@@ -1017,7 +1018,6 @@
     </search>
     <history>
       <history-search>
-        <entry>branch</entry>
         <entry>fr</entry>
         <entry>requests</entry>
         <entry>context</entry>
@@ -1037,9 +1037,9 @@
         <entry>def col</entry>
         <entry>lit</entry>
         <entry>lit(</entry>
+        <entry>MODEL</entry>
       </history-search>
       <history-cmd>
-        <entry>qq</entry>
         <entry encoding="base64">JzwsJz5zL3JlcXVlc3RcX2pzb24vcGF5bG9hZC8=</entry>
         <entry encoding="base64">JzwsJz5zL3JlcXVlc3RfanNvbi9wYXlsb2Fk</entry>
         <entry encoding="base64">JzwsJz5zL2ludC9JTlQ=</entry>
@@ -1059,6 +1059,7 @@
         <entry>2</entry>
         <entry>w</entry>
         <entry>qa</entry>
+        <entry>:w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
