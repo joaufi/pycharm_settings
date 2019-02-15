@@ -276,11 +276,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="16" column="25" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/custinfolib_business_model.py" timestamp="1550262320404">
-        <mark key="[" line="56" column="31" />
-        <mark key="]" line="56" column="49" />
-        <mark key="^" line="56" column="49" />
-        <mark key="." line="56" column="49" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/custinfolib_business_model.py" timestamp="1550263323216">
+        <mark key="[" line="56" column="32" />
+        <mark key="]" line="56" column="47" />
+        <mark key="^" line="56" column="47" />
+        <mark key="." line="56" column="47" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/urban.sql" timestamp="1536781705654">
         <mark key="[" line="7" column="41" />
@@ -299,11 +299,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/core/constants.py" timestamp="1540847164233">
-        <mark key="[" line="21" column="30" />
-        <mark key="]" line="22" column="55" />
-        <mark key="." line="22" column="55" />
-        <mark key="^" line="22" column="55" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/core/constants.py" timestamp="1550263388753">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/consolidated_bidstream.py" timestamp="1540565645405">
         <mark key="[" line="66" column="20" />
@@ -844,11 +844,12 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1550259327435">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1550263561944">
         <mark key="'" line="83" column="29" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="149" column="64" />
-        <mark key="." line="141" column="32" />
+        <mark key="[" line="90" column="19" />
+        <mark key="]" line="91" column="48" />
+        <mark key="." line="91" column="48" />
+        <mark key="^" line="91" column="48" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_in_market_v2_pyspark.py" timestamp="1549038530788">
         <mark key="'" line="88" column="9" />
@@ -1023,14 +1024,14 @@
       <jump line="44" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgbmFtZWR0dXBsZQo=</text>
+      <register name="&quot;" type="4">
+        <text>scoring-service</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>MockModel()</text>
+        <text>scoring-service</text>
       </register>
       <register name="/" type="4">
         <text>1337</text>
