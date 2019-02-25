@@ -264,6 +264,12 @@
         <mark key="." line="86" column="0" />
         <mark key="^" line="111" column="34" />
       </file>
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/common/aerospike_dao.py" timestamp="1551130250106">
+        <mark key="[" line="269" column="55" />
+        <mark key="]" line="269" column="8" />
+        <mark key="^" line="269" column="8" />
+        <mark key="." line="269" column="8" />
+      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/strategy/bidsift_graph_bidding_strategy.py" timestamp="1532978695448">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="23" />
@@ -281,6 +287,12 @@
         <mark key="]" line="58" column="0" />
         <mark key="^" line="29" column="45" />
         <mark key="." line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/common/constants.py" timestamp="1551130073865">
+        <mark key="[" line="55" column="35" />
+        <mark key="]" line="55" column="35" />
+        <mark key="." line="55" column="35" />
+        <mark key="^" line="52" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/urban.sql" timestamp="1536781705654">
         <mark key="[" line="7" column="41" />
@@ -496,9 +508,10 @@
         <mark key="^" line="19" column="61" />
         <mark key="." line="19" column="61" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1550515337324">
-        <mark key="[" line="1751" column="0" />
-        <mark key="]" line="1783" column="30" />
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1551129960727">
+        <mark key="[" line="880" column="19" />
+        <mark key="]" line="880" column="19" />
+        <mark key="." line="880" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/local.default.py" timestamp="1539198476925">
         <mark key="[" line="124" column="0" />
@@ -548,10 +561,6 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/.python_environment/lib/python3.6/site-packages/scoring/evaluation/constants.py" timestamp="1550176066138">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="7" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" timestamp="1538167171661">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="166" column="22" />
@@ -587,6 +596,12 @@
         <mark key="]" line="0" column="1907" />
         <mark key="^" line="0" column="1907" />
         <mark key="." line="0" column="1907" />
+      </file>
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/aerospike_dao.py" timestamp="1551131391257">
+        <mark key="[" line="69" column="67" />
+        <mark key="]" line="69" column="67" />
+        <mark key="." line="69" column="67" />
+        <mark key="^" line="69" column="67" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/top_style_by_store.sql" timestamp="1536854328024">
         <mark key="[" line="8" column="0" />
@@ -624,10 +639,6 @@
         <mark key="]" line="56" column="21" />
         <mark key="^" line="56" column="21" />
         <mark key="." line="56" column="21" />
-      </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" timestamp="1550176946195">
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="35" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_tables/populate_in_market_num_filters.sql" timestamp="1532509436988">
         <mark key="[" line="12" column="24" />
@@ -1036,13 +1047,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FwcGxpY2F0aW9uX25hbWUnOiAnU2NvcmluZ1NlcnZpY2UnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICB7ICdjbGFzc19pZCc6IDQ0ODUsICdpbl9tYXJrZXRfc2NvcmUnOiAwLjc2OSwgJ3N0b3JlX2lkJzogNDkgfSwKICAgICAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>, ...</text>
       </register>
       <register name="/" type="4">
         <text>1337</text>
@@ -1051,34 +1062,34 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2FwcGxpY2F0aW9uX25hbWUnOiAnU2NvcmluZ1NlcnZpY2UnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FwcGxpY2F0aW9uX25hbWUnOiAnU2NvcmluZ1NlcnZpY2UnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICB7ICdjbGFzc19pZCc6IDQ0ODUsICdpbl9tYXJrZXRfc2NvcmUnOiAwLjc2OSwgJ3N0b3JlX2lkJzogNDkgfSwKICAgICAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FwcGxpY2F0aW9uX25hbWUnOiAnU2NvcmluZ1NlcnZpY2UnLAo=</text>
+        <text encoding="base64">ICAgICAgICBwaWNrIHRoZSBtYXhpbXVtIGZyb20gYWxsIHN0b3JlcycgaW4tbWFya2V0IHNjb3Jlcy4gVGhlIHJlY29yZHMgc3RvcmVkIGluIEFlcm9zcGlrZSBsb29rCiAgICAgICAgbGlrZToKICAgICAgICAgICAgJ2lubWFya2V0c2NvcmU6e3N0b3JlX2lkfTp7Y3VzdG9tZXJfZ3VpZH0nOiB7CiAgICAgICAgICAgICAgICAnaW5tYXJrZXRzY29yZSc6IHtjbGFzc0lkIzE6IHNjb3JlIzEsIGNsYXNzSWQjMjogc2NvcmUjMiwgLi4ufQogICAgICAgICAgICB9CgogICAgICAgIEFyZ3M6CiAgICAgICAgICAgIGN1c3RvbWVyZ3VpZCAoc3RyKTogZ3VpZAogICAgICAgICAgICBzdG9yZV9pZHMgKGxpc3Qgb2YgaW50KTogbGlzdCBvZiBzdG9yZSBJRHMKCiAgICAgICAgUmV0dXJuczoKICAgICAgICAgICAgZGljdDogYSBjb2xsZWN0aXZlIGRpY3Rpb25hcnkgb2YgYWxsIHNjb3JlZCBjbGFzcyBpZHMgYW5kIHRoZWlyIHNjb3JlcyBmb3IKICAgICAgICAgICAgICAgIGdpdmVuIGN1c3RvbWVyIGFuZCBzdG9yZV9pZHMgaW4gZm9ybWF0IG9mIHtjbGFzc19pZCMxOiBzY29yZSMxLCAuLi59Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBzY29yaW5nLmNvcmUuY29uc3RhbnRzIGltcG9ydCBBUFBMSUNBVElPTl9OQU1FCg==</text>
+        <text encoding="base64">ICAgICAgICBwaWNrIHRoZSBtYXhpbXVtIGZyb20gYWxsIHN0b3JlcycgaW4tbWFya2V0IHNjb3Jlcy4gVGhlIHJlY29yZHMgc3RvcmVkIGluIEFlcm9zcGlrZSBsb29rCiAgICAgICAgbGlrZToKICAgICAgICAgICAgJ2lubWFya2V0c2NvcmU6e3N0b3JlX2lkfTp7Y3VzdG9tZXJfZ3VpZH0nOiB7CiAgICAgICAgICAgICAgICAnaW5tYXJrZXRzY29yZSc6IHtjbGFzc0lkIzE6IHNjb3JlIzEsIGNsYXNzSWQjMjogc2NvcmUjMiwgLi4ufQogICAgICAgICAgICB9CgogICAgICAgIEFyZ3M6CiAgICAgICAgICAgIGN1c3RvbWVyZ3VpZCAoc3RyKTogZ3VpZAogICAgICAgICAgICBzdG9yZV9pZHMgKGxpc3Qgb2YgaW50KTogbGlzdCBvZiBzdG9yZSBJRHMKCiAgICAgICAgUmV0dXJuczoKICAgICAgICAgICAgZGljdDogYSBjb2xsZWN0aXZlIGRpY3Rpb25hcnkgb2YgYWxsIHNjb3JlZCBjbGFzcyBpZHMgYW5kIHRoZWlyIHNjb3JlcyBmb3IKICAgICAgICAgICAgICAgIGdpdmVuIGN1c3RvbWVyIGFuZCBzdG9yZV9pZHMgaW4gZm9ybWF0IG9mIHtjbGFzc19pZCMxOiBzY29yZSMxLCAuLi59Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FwcGxpY2F0aW9uX25hbWUnOiBBUFBMSUNBVElPTl9OQU1FLAo=</text>
+        <text encoding="base64">ICAgICAgICByZWNvcmRzID0gW10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FwcGxpY2F0aW9uX25hbWUnOiBBUFBMSUNBVElPTl9OQU1FLAo=</text>
+        <text encoding="base64">ICAgICAgICByZWNvcmRzID0gc2VsZi5nZXRfc29ydGVkX3NldF9yZWNvcmQocmVjb3JkX2tleSwgQWVyb3NwaWtlRmFjdEJpbk5hbWVzLklOX01BUktFVCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UHJha2hhciBTYWhheSBbMTM6NTVdCkl0J3MgaG93IHdlIGhpdCBHQ1AgQ0lTLgoKVW50aXRsZWQgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcmVjb3JkOgogICAgICAgICAgICAgICAgcmVjb3Jkcy5hcHBlbmQocmVjb3JkW0Flcm9zcGlrZUZhY3RCaW5OYW1lcy5JTk1BUktFVFNDT1JFXSkKCiAgICAgICAgIyBtZXJnZSBjbGFzc19pZCB0byBzY29yZSBtYXAgZnJvbSBtdWx0aXBsZSBzdG9yZXMgYW5kIGlmIHRoZXJlIGFyZSBtdWx0aXBsZSBzY29yZXMgZm9yCiAgICAgICAgIyBvbmUgY2xhc3NfaWQgcGljayB0aGUgaGlnaGVzdCBvbmUKICAgICAgICByZXN1bHQgPSBkZWZhdWx0ZGljdChmbG9hdCkKICAgICAgICBmb3IgcmVjb3JkIGluIHJlY29yZHM6CiAgICAgICAgICAgIGZvciBjbGFzc19pZCBpbiByZWNvcmQ6CiAgICAgICAgICAgICAgICByZXN1bHRbY2xhc3NfaWRdID0gbWF4KHJlc3VsdFtjbGFzc19pZF0sIHJlY29yZFtjbGFzc19pZF0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcHAubWFya2V0aW5nX21lbV9yZWRpc19jbGllbnQsCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3Igc3RvcmVfaWQgaW4gc3RvcmVfaWRzOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJzaXN0ZW50X3JlZGlzX2NsaWVudD1hcHAucGVyc2lzdGVudF9yZWRpc19jbGllbnQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFlcm9zcGlrZVNldE5hbWVzLkRFVklDRV9QUk9GSUxFLAogICAgICAgICAgICAgICAgQWVyb3NwaWtlRmFjdEJpbk5hbWVzLklOX01BUktFVCwKICAgICAgICAgICAgICAgIGRldmljZWd1aWQsCiAgICAgICAgICAgICAgICBzdG9yZV9pZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcHAubWFya2V0aW5nX21lbV9yZWRpc19jbGllbnQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2FwcGxpY2F0aW9uX25hbWUnOiAnU2NvcmluZ1NlcnZpY2UnLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1132,8 +1143,8 @@
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>W</entry>
         <entry>qa</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
