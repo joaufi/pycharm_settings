@@ -229,6 +229,12 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/1_Get_Order_Details.hql" timestamp="1552307686053">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="42" column="46" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/atcie-python-commons/atciecommons/model_storage/exceptions.py" timestamp="1531944417603">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -776,6 +782,12 @@
         <mark key="]" line="473" column="0" />
         <mark key="." line="473" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/1_Get_Favorited.hql" timestamp="1552307680878">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="42" column="45" />
+        <mark key="^" line="41" column="59" />
+        <mark key="." line="41" column="59" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_temp_tables/populate_in_market_page_views.sql" timestamp="1530748557484">
         <mark key="[" line="4" column="20" />
         <mark key="]" line="4" column="20" />
@@ -1058,7 +1070,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="12" filename="$USER_HOME$/repositories/puppet/modules/pyhadoop/files/requirements36_001.lock" />
       <jump line="0" column="10" filename="$USER_HOME$/repositories/puppet/modules/pyhadoop/files/requirements36_in_market_v2.txt" />
       <jump line="14" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/WIP_score_in_market_v2_pyspark.py" />
       <jump line="157" column="49" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/WIP_score_in_market_v2_pyspark.py" />
@@ -1158,10 +1169,11 @@
       <jump line="17" column="34" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/utilities.py" />
       <jump line="15" column="7" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/utilities.py" />
       <jump line="127" column="8" filename="$USER_HOME$/repositories/airflow-dags/inmarket_model_v4.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/1_Get_Order_Details.hql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, 7, 0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LS0gZml4IGZvciAiRmFpbGVkIHRvIGNyZWF0ZSBTcGFyayBjbGllbnQgZm9yIFNwYXJrIHNlc3Npb24iCnNldCBoaXZlLnNwYXJrLmNsaWVudC5jb25uZWN0LnRpbWVvdXQ9OTAwMDBtczsK</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -1173,7 +1185,7 @@
         <text>WFUS_SOID</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInRleHQiOiBTTEFDS19NRVNTQUdFX1RFTVBMQVRFLAo=</text>
+        <text encoding="base64">LS0gZml4IGZvciAiRmFpbGVkIHRvIGNyZWF0ZSBTcGFyayBjbGllbnQgZm9yIFNwYXJrIHNlc3Npb24iCnNldCBoaXZlLnNwYXJrLmNsaWVudC5jb25uZWN0LnRpbWVvdXQ9OTAwMDBtczsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">V0ZVU19TT0lEID0gNDkK</text>
