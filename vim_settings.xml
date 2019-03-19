@@ -238,12 +238,6 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/1_Get_Order_Details.hql" timestamp="1552313644773">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="42" column="45" />
-        <mark key="." line="41" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/atcie-python-commons/atciecommons/model_storage/exceptions.py" timestamp="1531944417603">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -632,8 +626,10 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/shop_the_look_dag.py" timestamp="1553016289554">
+      <file name="$USER_HOME$/repositories/airflow-dags/shop_the_look_dag.py" timestamp="1553018337649">
         <mark key="'" line="11" column="39" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="57" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" timestamp="1530210120207">
         <mark key="[" line="2" column="0" />
@@ -651,9 +647,6 @@
         <mark key="[" line="317" column="0" />
         <mark key="]" line="317" column="0" />
         <mark key="." line="317" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" timestamp="1551824092209">
-        <mark key="'" line="38" column="24" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/model_service_script.py" timestamp="1529958302165">
         <mark key="[" line="72" column="0" />
@@ -711,6 +704,7 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/operators/sensors.py" timestamp="1553018350024" />
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/2_Merge_Feature.hql" timestamp="1552339212121" />
       <file name="$USER_HOME$/repositories/jenkins-jobs/lib/build/build/python.yml" timestamp="1548193212776">
         <mark key="'" line="59" column="4" />
@@ -878,11 +872,11 @@
         <mark key="^" line="111" column="28" />
         <mark key="." line="111" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/ira.py" timestamp="1553016231222">
-        <mark key="[" line="16" column="80" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="0" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/ira.py" timestamp="1553018292452">
+        <mark key="[" line="47" column="1" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/urbanicity_urban.sql" timestamp="1536784670617">
         <mark key="[" line="7" column="0" />
@@ -932,9 +926,6 @@
         <mark key="[" line="72" column="34" />
         <mark key="]" line="72" column="35" />
         <mark key="." line="72" column="35" />
-      </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/tests/mocks/mock_aerospike_client.py" timestamp="1551221377022">
-        <mark key="'" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_temporary_tables/populate_temp_device_map.sql" timestamp="1536680281547">
         <mark key="[" line="17" column="0" />
@@ -1212,7 +1203,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">dHJpZ2dlcl92aWV3ZWRfc2t1c19wcmVwcm9jZXNzaW5nID0gRXh0ZXJuYWxUYXNrU2Vuc29yKAogICAgZXh0ZXJuYWxfZGFnX2lkPSd2ZXJ0aWNhX2hpdmVfZWR3X2V4cG9ydF9kYWlseScsCiAgICBleHRlcm5hbF90YXNrX2lkPSd2ZXJ0aWNhYWRob2NfY3NuX3JlcG9ydGluZ190Ymxfc3RsX2JjX3ZpZXdlZF9TdWNjZXNzX3ZzcWxzX3Rhc2snLAogICAgdGFza19pZD0ndHJpZ2dlcl92aWV3ZWRfc2t1c19wcmVwcm9jZXNzaW5nJywKICAgIGRhZz1kYWcKKQo=</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -1224,7 +1215,7 @@
         <text>Trigger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUKZnJvbSBvcyBpbXBvcnQgcGF0aAoKaW1wb3J0IHJlcXVlc3RzCmZyb20gYWlyZmxvdyBpbXBvcnQgREFHCmZyb20gYWlyZmxvdy5jb25maWd1cmF0aW9uIGltcG9ydCBjb25mCmZyb20gYWlyZmxvdy5tb2RlbHMgaW1wb3J0IFZhcmlhYmxlCmZyb20gYWlyZmxvdy5vcGVyYXRvcnMuaGl2ZV9vcGVyYXRvciBpbXBvcnQgSGl2ZU9wZXJhdG9yCmZyb20gYWlyZmxvdy5vcGVyYXRvcnMucHl0aG9uX29wZXJhdG9yIGltcG9ydCBQeXRob25PcGVyYXRvcgoKZnJvbSBjdXN0b21lcl9zY29yaW5nX2RhZ3MudXRpbGl0aWVzIGltcG9ydCAoCiAgICBzbGFja19vbl9hbGxfc3VjY2VzcywKICAgIHNsYWNrX29uX2FueV9mYWlsdXJlLAopCmZyb20gdXRpbGl0eV9vcGVyYXRvcnMuYXJ0aWZhY3RfZG93bmxvYWRfb3BlcmF0b3IgaW1wb3J0IEFydGlmYWN0RG93bmxvYWRPcGVyYXRvcgpmcm9tIHV0aWxpdHlfb3BlcmF0b3JzLmJhdGNoX3VwbG9hZGVyX29wZXJhdG9yIGltcG9ydCBCYXRjaFVwbG9hZGVyT3BlcmF0b3IKZnJvbSB1dGlsaXR5X29wZXJhdG9ycy5zcGFya19zdWJtaXRfYmFzaF9vcGVyYXRvciBpbXBvcnQgU3BhcmtTdWJtaXRCYXNoT3BlcmF0b3IK</text>
+        <text encoding="base64">dHJpZ2dlcl92aWV3ZWRfc2t1c19wcmVwcm9jZXNzaW5nID0gRXh0ZXJuYWxUYXNrU2Vuc29yKAogICAgZXh0ZXJuYWxfZGFnX2lkPSd2ZXJ0aWNhX2hpdmVfZWR3X2V4cG9ydF9kYWlseScsCiAgICBleHRlcm5hbF90YXNrX2lkPSd2ZXJ0aWNhYWRob2NfY3NuX3JlcG9ydGluZ190Ymxfc3RsX2JjX3ZpZXdlZF9TdWNjZXNzX3ZzcWxzX3Rhc2snLAogICAgdGFza19pZD0ndHJpZ2dlcl92aWV3ZWRfc2t1c19wcmVwcm9jZXNzaW5nJywKICAgIGRhZz1kYWcKKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cgo=</text>
