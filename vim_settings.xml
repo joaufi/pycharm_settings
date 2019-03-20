@@ -467,12 +467,6 @@
         <mark key="]" line="473" column="0" />
         <mark key="." line="473" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/1_Get_Favorited.hql" timestamp="1552307680878">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="42" column="45" />
-        <mark key="^" line="41" column="59" />
-        <mark key="." line="41" column="59" />
-      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_in_market_temp_tables/populate_in_market_page_views.sql" timestamp="1530748557484">
         <mark key="[" line="4" column="20" />
         <mark key="]" line="4" column="20" />
@@ -498,11 +492,10 @@
         <mark key="^" line="111" column="28" />
         <mark key="." line="111" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/ira.py" timestamp="1553108131857">
-        <mark key="[" line="87" column="19" />
-        <mark key="]" line="87" column="30" />
-        <mark key="." line="87" column="30" />
-        <mark key="^" line="87" column="30" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/ira.py" timestamp="1553112458304">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/urbanicity_urban.sql" timestamp="1536784670617">
         <mark key="[" line="7" column="0" />
@@ -574,10 +567,10 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1553105141178">
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1553112352551">
         <mark key="'" line="16" column="51" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="132" column="39" />
         <mark key="." line="133" column="0" />
         <mark key="^" line="47" column="36" />
       </file>
@@ -798,12 +791,6 @@
         <mark key="." line="186" column="7" />
         <mark key="^" line="186" column="7" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_24.json" timestamp="1551990935512">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/utilities.py" timestamp="1550518032080">
         <mark key="[" line="11" column="8" />
         <mark key="]" line="11" column="8" />
@@ -870,12 +857,6 @@
         <mark key="]" line="8" column="338" />
         <mark key="^" line="26" column="0" />
         <mark key="." line="8" column="338" />
-      </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_v4_convert_7_day.py" timestamp="1551880609209">
-        <mark key="[" line="24" column="57" />
-        <mark key="]" line="24" column="67" />
-        <mark key="." line="24" column="67" />
-        <mark key="^" line="24" column="67" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/.flake8" timestamp="1535048534763">
         <mark key="[" line="4" column="34" />
@@ -956,12 +937,6 @@
         <mark key="]" line="92" column="14" />
         <mark key="." line="92" column="14" />
         <mark key="^" line="92" column="49" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_25.json" timestamp="1552917038274">
-        <mark key="[" line="0" column="989" />
-        <mark key="]" line="0" column="979" />
-        <mark key="^" line="0" column="979" />
-        <mark key="." line="0" column="979" />
       </file>
       <file name="$USER_HOME$/repositories/puppet/modules/pyhadoop/files/requirements36_in_market_v2.lock" timestamp="1549301625471">
         <mark key="[" line="3" column="9" />
@@ -1230,47 +1205,47 @@
       <jump line="13" column="47" filename="$USER_HOME$/repositories/airflow-dags/vtvt_dag.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>run_cli</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByb3ZpZGVfY29udGV4dD17CiAgICAgICAgImRzIjogInt7IGRzIH19IiwKICAgIH0sCg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>run_cli</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>2H</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGhpdmVfaG9vayA9IEhpdmVDbGlIb29rKGhpdmVfY2xpX2Nvbm5faWQ9J2hpdmVfY2xpX2RlZmF1bHQnKQo=</text>
+        <text encoding="base64">ICAgIGRhZz1kYWcsCiAgICB0YXNrX2lkPSJnZXRfbW9kZWxfc3RvcmFnZV9wYXRoIiwKICAgIHB5dGhvbl9jYWxsYWJsZT1nZXRfaW5fbWFya2V0X21vZGVsLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SU5fTUFSS0VUX1NDSEVNQSA9IEFETUlOX1ZBUklBQkxFU1siaW5fbWFya2V0X3NjaGVtYSJdCg==</text>
+        <text encoding="base64">ICAgIHByb3ZpZGVfY29udGV4dD17CiAgICAgICAgImRzIjogInt7IGRzIH19IiwKICAgIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdAogICAgbWF4KHNjb3JlKSwKICAgIG1pbihzY29yZSksCiAgICBhdmcoc2NvcmUpLAogICAgc3RkZGV2X3BvcChzY29yZSksCiAgICB2YXJfcG9wKHNjb3JlKQpmcm9tIGhpdmUuc2NvcmluZy50Ymxpbm1hcmtldHY0c2NvcmVzCg==</text>
+        <text encoding="base64">ICAgIGRhZz1kYWcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGlvbl90aW1lb3V0PVRJTUVPVVRfU0lYX0hPVVJTLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGlvbl90aW1lb3V0PVRJTUVPVVRfU0lYX0hPVVJTLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGlvbl90aW1lb3V0PVRJTUVPVVRfU0lYX0hPVVJTLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGlvbl90aW1lb3V0PVRJTUVPVVRfU0lYX0hPVVJTLAo=</text>
+        <text encoding="base64">Y3JlYXRlX2luX21hcmtldF9tZXRyaWNzID0gQ29uZmlndXJlZEhpdmVPcGVyYXRvcigKICAgICdjcmVhdGVfaW5fbWFya2V0X21ldHJpY3MnLAogICAgcGF0aC5qb2luKFRFTVBMQVRFX0RJUiwgInNlbGVjdF9pbl9tYXJrZXRfbWV0cmljcy5ocWwiKSwKICAgIGRhZywKICAgIGhpdmVfcXVlcnlfb3duZXI9J0N1c3RvbWVyIFNjb3JpbmcnLAogICAgdXNlX3NwYXJrX2V4ZWN1dGlvbl9lbmdpbmU9VHJ1ZSwKICAgIHVzZV9kYXNfY2x1c3Rlcj1UcnVlLAogICAgYWRkaXRpb25hbF9oaXZlX29wdGlvbnM9Tm9uZSwKICAgIHF1ZXJ5X3BhcmFtcz17CgogICAgfSwKCikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGlvbl90aW1lb3V0PVRJTUVPVVRfU0lYX0hPVVJTLAo=</text>
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGlvbl90aW1lb3V0PVRJTUVPVVRfU0lYX0hPVVJTLAo=</text>
+        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy5oaXZlX29wZXJhdG9yIGltcG9ydCBIaXZlT3BlcmF0b3IK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGlvbl90aW1lb3V0PVRJTUVPVVRfU0lYX0hPVVJTLAo=</text>
+        <text encoding="base64">ZnJvbSB1dGlsaXR5X29wZXJhdG9ycy5hcnRpZmFjdF9kb3dubG9hZF9vcGVyYXRvciBpbXBvcnQgQXJ0aWZhY3REb3dubG9hZE9wZXJhdG9yCmZyb20gdXRpbGl0eV9vcGVyYXRvcnMuYmF0Y2hfdXBsb2FkZXJfb3BlcmF0b3IgaW1wb3J0IEJhdGNoVXBsb2FkZXJPcGVyYXRvcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
