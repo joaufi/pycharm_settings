@@ -211,6 +211,9 @@
         <mark key="^" line="55" column="22" />
         <mark key="." line="67" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/vtvt_dag.py" timestamp="1553107626661">
+        <mark key="'" line="13" column="47" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_in_market_v2_test.py" timestamp="1548174487578">
         <mark key="[" line="78" column="70" />
         <mark key="]" line="78" column="78" />
@@ -495,11 +498,11 @@
         <mark key="^" line="111" column="28" />
         <mark key="." line="111" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/ira.py" timestamp="1553105913973">
-        <mark key="[" line="85" column="24" />
-        <mark key="]" line="85" column="24" />
-        <mark key="." line="85" column="24" />
-        <mark key="^" line="87" column="13" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/ira.py" timestamp="1553108131857">
+        <mark key="[" line="87" column="19" />
+        <mark key="]" line="87" column="30" />
+        <mark key="." line="87" column="30" />
+        <mark key="^" line="87" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/urbanicity_urban.sql" timestamp="1536784670617">
         <mark key="[" line="7" column="0" />
@@ -1125,7 +1128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="50" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
       <jump line="148" column="26" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
       <jump line="1" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
       <jump line="69" column="37" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
@@ -1225,19 +1227,20 @@
       <jump line="16" column="41" filename="$USER_HOME$/repositories/airflow-dags/vertica_to_hive_dag.py" />
       <jump line="10" column="7" filename="$USER_HOME$/repositories/airflow-dags/model_storage_dag.py" />
       <jump line="10" column="19" filename="$USER_HOME$/repositories/airflow-dags/templates/pricing/image_embeddings/image_embeddings.py" />
+      <jump line="13" column="47" filename="$USER_HOME$/repositories/airflow-dags/vtvt_dag.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{{ ds }}</text>
+        <text>run_cli</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>{{ ds }}</text>
+        <text>run_cli</text>
       </register>
       <register name="/" type="4">
-        <text>hive</text>
+        <text>2H</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGhpdmVfaG9vayA9IEhpdmVDbGlIb29rKGhpdmVfY2xpX2Nvbm5faWQ9J2hpdmVfY2xpX2RlZmF1bHQnKQo=</text>
@@ -1274,9 +1277,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hive</last-search>
+      <last-search>2H</last-search>
       <last-offset />
-      <last-pattern>hive</last-pattern>
+      <last-pattern>2H</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1284,7 +1287,6 @@
     </search>
     <history>
       <history-search>
-        <entry>artifact</entry>
         <entry>slac</entry>
         <entry>chatbot</entry>
         <entry>Chat</entry>
@@ -1304,6 +1306,7 @@
         <entry>database</entry>
         <entry>HiveC</entry>
         <entry>hive</entry>
+        <entry>2H</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RhdGFfb3V0L2RhdGFfb3V0X3BkL2ln</entry>
