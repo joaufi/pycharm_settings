@@ -21,6 +21,9 @@
         <mark key="." line="20" column="14" />
         <mark key="^" line="20" column="14" />
       </file>
+      <file name="/a.dummy" timestamp="1553174902693">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.txt" timestamp="1540228771158">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="12" column="37" />
@@ -492,12 +495,12 @@
         <mark key="^" line="111" column="28" />
         <mark key="." line="111" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/ira.py" timestamp="1553116090157">
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/ira.py" timestamp="1553174721296">
         <mark key="'" line="0" column="21" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="108" />
+        <mark key="[" line="48" column="10" />
+        <mark key="]" line="48" column="10" />
         <mark key="^" line="78" column="108" />
-        <mark key="." line="78" column="108" />
+        <mark key="." line="48" column="10" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/urbanicity_urban.sql" timestamp="1536784670617">
         <mark key="[" line="7" column="0" />
@@ -598,6 +601,12 @@
         <mark key="[" line="62" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/argus.py" timestamp="1553174944038">
+        <mark key="[" line="27" column="5" />
+        <mark key="]" line="27" column="9" />
+        <mark key="." line="27" column="9" />
+        <mark key="^" line="27" column="9" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.json" timestamp="1541013551985">
         <mark key="[" line="0" column="0" />
@@ -1213,14 +1222,14 @@
       <jump line="0" column="21" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/ira.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJzdGFydF9kYXRlIjogU1RBUlRfREFURVRJTUUsCg==</text>
+      <register name="&quot;" type="4">
+        <text>ira</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>START_DATETIME</text>
+        <text>ira</text>
       </register>
       <register name="/" type="4">
         <text>datetime</text>
