@@ -492,11 +492,12 @@
         <mark key="^" line="111" column="28" />
         <mark key="." line="111" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/ira.py" timestamp="1553113550324">
-        <mark key="[" line="69" column="7" />
-        <mark key="]" line="68" column="20" />
-        <mark key="." line="68" column="20" />
-        <mark key="^" line="68" column="21" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/ira.py" timestamp="1553116090157">
+        <mark key="'" line="0" column="21" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="108" />
+        <mark key="^" line="78" column="108" />
+        <mark key="." line="78" column="108" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/urbanicity_urban.sql" timestamp="1536784670617">
         <mark key="[" line="7" column="0" />
@@ -976,6 +977,12 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/wf_stats/stats.py" timestamp="1553115123421">
+        <mark key="[" line="31" column="106" />
+        <mark key="]" line="31" column="7" />
+        <mark key="^" line="31" column="7" />
+        <mark key="." line="31" column="7" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/__init__.py" timestamp="1538157261414">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="23" />
@@ -1104,8 +1111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="26" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
       <jump line="69" column="37" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
       <jump line="160" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
       <jump line="493" column="4" filename="$USER_HOME$/repositories/airflow-dags/redis_loader_dag.py" />
@@ -1204,58 +1209,60 @@
       <jump line="10" column="7" filename="$USER_HOME$/repositories/airflow-dags/model_storage_dag.py" />
       <jump line="10" column="19" filename="$USER_HOME$/repositories/airflow-dags/templates/pricing/image_embeddings/image_embeddings.py" />
       <jump line="13" column="47" filename="$USER_HOME$/repositories/airflow-dags/vtvt_dag.py" />
+      <jump line="16" column="17" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/ira.py" />
+      <jump line="0" column="21" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/ira.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJzdGFydF9kYXRlIjogU1RBUlRfREFURVRJTUUsCg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>START_DATETIME</text>
       </register>
       <register name="/" type="4">
-        <text>2H</text>
+        <text>datetime</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRhZz1kYWcsCiAgICB0YXNrX2lkPSJnZXRfbW9kZWxfc3RvcmFnZV9wYXRoIiwKICAgIHB5dGhvbl9jYWxsYWJsZT1nZXRfaW5fbWFya2V0X21vZGVsLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb3ZpZGVfY29udGV4dD17CiAgICAgICAgImRzIjogInt7IGRzIH19IiwKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICJzdGFydF9kYXRlIjogU1RBUlRfREFURVRJTUUsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRhZz1kYWcsCg==</text>
+        <text encoding="base64">ICAgICJzdGFydF9kYXRlIjogU1RBUlRfREFURVRJTUUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0NIRURVTEVfSU5URVJWQUwgPSAiMCA3ICogKiAqIiAgIyBSdW5zIGV2ZXJ5IGRheSAzQU0gRVNUIG9yIDRBTSBFRFQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VElNRU9VVF9UV09fSE9VUlMgPSB0aW1lZGVsdGEoaG91cnM9MikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U1RBUlRfREFURVRJTUUgPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y3JlYXRlX2luX21hcmtldF9tZXRyaWNzID0gQ29uZmlndXJlZEhpdmVPcGVyYXRvcigKICAgICdjcmVhdGVfaW5fbWFya2V0X21ldHJpY3MnLAogICAgcGF0aC5qb2luKFRFTVBMQVRFX0RJUiwgInNlbGVjdF9pbl9tYXJrZXRfbWV0cmljcy5ocWwiKSwKICAgIGRhZywKICAgIGhpdmVfcXVlcnlfb3duZXI9J0N1c3RvbWVyIFNjb3JpbmcnLAogICAgdXNlX3NwYXJrX2V4ZWN1dGlvbl9lbmdpbmU9VHJ1ZSwKICAgIHVzZV9kYXNfY2x1c3Rlcj1UcnVlLAogICAgYWRkaXRpb25hbF9oaXZlX29wdGlvbnM9Tm9uZSwKICAgIHF1ZXJ5X3BhcmFtcz17CgogICAgfSwKCikK</text>
+        <text encoding="base64">ZnJvbSBvcyBpbXBvcnQgcGF0aAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
+        <text encoding="base64">ZnJvbSBhaXJmbG93LmNvbmZpZ3VyYXRpb24gaW1wb3J0IGNvbmYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy5oaXZlX29wZXJhdG9yIGltcG9ydCBIaXZlT3BlcmF0b3IK</text>
+        <text encoding="base64">QURNSU5fVkFSSUFCTEVTID0gVmFyaWFibGUuZ2V0KCJpcmEiLCBkZXNlcmlhbGl6ZV9qc29uPVRydWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB1dGlsaXR5X29wZXJhdG9ycy5hcnRpZmFjdF9kb3dubG9hZF9vcGVyYXRvciBpbXBvcnQgQXJ0aWZhY3REb3dubG9hZE9wZXJhdG9yCmZyb20gdXRpbGl0eV9vcGVyYXRvcnMuYmF0Y2hfdXBsb2FkZXJfb3BlcmF0b3IgaW1wb3J0IEJhdGNoVXBsb2FkZXJPcGVyYXRvcgo=</text>
+        <text encoding="base64">ICAgIHRlbXBsYXRlX3NlYXJjaHBhdGg9VEVNUExBVEVfRElSLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>2H</last-search>
+      <last-search>datetime</last-search>
       <last-offset />
-      <last-pattern>2H</last-pattern>
+      <last-pattern>datetime</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1263,7 +1270,6 @@
     </search>
     <history>
       <history-search>
-        <entry>slac</entry>
         <entry>chatbot</entry>
         <entry>Chat</entry>
         <entry>get</entry>
@@ -1283,6 +1289,7 @@
         <entry>HiveC</entry>
         <entry>hive</entry>
         <entry>2H</entry>
+        <entry>datetime</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RhdGFfb3V0L2RhdGFfb3V0X3BkL2ln</entry>
@@ -1298,12 +1305,12 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>e</entry>
         <entry encoding="base64">JzwsJz5zLycvIg==</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>qa</entry>
         <entry>vsplit</entry>
         <entry>split</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
