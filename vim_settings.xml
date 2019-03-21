@@ -578,11 +578,11 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1553112352551">
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1553191608762">
         <mark key="'" line="16" column="51" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="132" column="39" />
-        <mark key="." line="133" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="18" />
+        <mark key="." line="48" column="0" />
         <mark key="^" line="47" column="36" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/viewed_sku_by_device_guid.sql" timestamp="1532508496490">
@@ -608,11 +608,12 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/argus.py" timestamp="1553174944038">
-        <mark key="[" line="27" column="5" />
-        <mark key="]" line="27" column="9" />
-        <mark key="." line="27" column="9" />
-        <mark key="^" line="27" column="9" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/argus.py" timestamp="1553191585758">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="18" />
+        <mark key="." line="34" column="17" />
+        <mark key="^" line="34" column="17" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.json" timestamp="1541013551985">
         <mark key="[" line="0" column="0" />
@@ -1125,8 +1126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="37" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
-      <jump line="160" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
       <jump line="493" column="4" filename="$USER_HOME$/repositories/airflow-dags/redis_loader_dag.py" />
       <jump line="515" column="11" filename="$USER_HOME$/repositories/airflow-dags/redis_loader_dag.py" />
       <jump line="121" column="44" filename="$USER_HOME$/repositories/airflow-dags/inmarket_v2.py" />
@@ -1225,22 +1224,24 @@
       <jump line="13" column="47" filename="$USER_HOME$/repositories/airflow-dags/vtvt_dag.py" />
       <jump line="16" column="17" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/ira.py" />
       <jump line="0" column="21" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/ira.py" />
+      <jump line="64" column="12" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/argus.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/argus.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIENydW5jaEJ1Y2tldHMsCg==</text>
+        <text encoding="base64">ICAgIGNhdGNodXA9RmFsc2UsCg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J2JvMScsIA==</text>
+        <text>&quot;argus&quot;</text>
       </register>
       <register name="/" type="4">
         <text>datetime</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbF9zdG9yYWdlX2NsaWVudCA9IE1vZGVsU3RvcmFnZUNsaWVudChjb25maWc9Y29uZmlnLCBtb2RlbF9vYmplY3RzPXt9KQo=</text>
+        <text encoding="base64">ICAgIGNhdGNodXA9RmFsc2UsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIENydW5jaEJ1Y2tldHMsCg==</text>
