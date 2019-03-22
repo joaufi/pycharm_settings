@@ -472,6 +472,7 @@
         <mark key="^" line="111" column="28" />
         <mark key="." line="111" column="28" />
       </file>
+      <file name="$USER_HOME$/repositories/bidsift/.python_environment/lib/python3.6/site-packages/model_storage_client/business_model.py" timestamp="1553275518247" />
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/ira.py" timestamp="1553174721296">
         <mark key="'" line="0" column="21" />
         <mark key="[" line="48" column="10" />
@@ -920,6 +921,9 @@
         <mark key="^" line="34" column="45" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/bidsift/.python_environment/lib/python3.6/site-packages/scoring/evaluation/model_storage_client.py" timestamp="1553275736784">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/atcie-python-commons/atciecommons/modelvalidation/exceptions.py" timestamp="1531942133127">
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="27" />
@@ -1061,7 +1065,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="9" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_in_market_v2_pyspark.py" />
       <jump line="9" column="9" filename="$USER_HOME$/repositories/puppet/hieradata/common.eyaml" />
       <jump line="49" column="40" filename="$USER_HOME$/repositories/airflow-dags/attribution_comparison_dag.py" />
       <jump line="96" column="98" filename="$USER_HOME$/repositories/airflow-dags/attribution_comparison_dag.py" />
@@ -1161,6 +1164,7 @@
       <jump line="2392" column="12" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="2403" column="17" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="39" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/operators/influx_reporter.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/bidsift/.python_environment/lib/python3.6/site-packages/scoring/evaluation/model_storage_client.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1173,7 +1177,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>get_template_context</text>
+        <text>load</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZvciBtZXRyaWMsIHZhbHVlIGluIHppcChyZXN1bHRbImhlYWRlciJdLCByZXN1bHRbImRhdGEiXVswXSk6CiAgICAgICAgaW5mbHV4ZGIubWVhc3VyZSgKICAgICAgICAgICAgbWV0cmljWzBdLAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAidmFsdWUiOiB2YWx1ZSwKICAgICAgICAgICAgICAgICMgImRhZyI6IERBR19OQU1FLAogICAgICAgICAgICAgICAgIm1vZGVsIjogImluX21hcmtldF92NF9jb252ZXJ0XzdfZGF5IiwKICAgICAgICAgICAgfQogICAgICAgICkK</text>
@@ -1210,9 +1214,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get_template_context</last-search>
+      <last-search>load</last-search>
       <last-offset />
-      <last-pattern>get_template_context</last-pattern>
+      <last-pattern>load</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1220,7 +1224,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
         <entry>'</entry>
         <entry>identity</entry>
         <entry>WFUS</entry>
@@ -1240,6 +1243,7 @@
         <entry>datetime</entry>
         <entry>execute</entry>
         <entry>get_template_context</entry>
+        <entry>load</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RhdGFfb3V0L2RhdGFfb3V0X3BkL2ln</entry>
