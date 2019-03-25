@@ -565,6 +565,7 @@
         <mark key="." line="52" column="39" />
         <mark key="^" line="52" column="39" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/batch_uploaders.py" timestamp="1553518701970" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.txt" timestamp="1540232018077">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="27" column="37" />
@@ -1001,6 +1002,11 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1553518524122">
+        <mark key="[" line="48" column="37" />
+        <mark key="]" line="48" column="37" />
+        <mark key="." line="48" column="37" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/vertica_xcom_operator.py" timestamp="1553507536868">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="51" />
@@ -1157,13 +1163,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.update({&quot;dag&quot;: kwargs.get(&quot;dag&quot;).dag_id})</text>
+        <text>TIMEOUT_SIX_HOURS</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.update({&quot;dag&quot;: kwargs.get(&quot;dag&quot;).dag_id})</text>
+        <text>TIMEOUT_SIX_HOURS</text>
       </register>
       <register name="/" type="4">
         <text>deepcopy</text>
