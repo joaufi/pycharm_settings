@@ -23,13 +23,14 @@
         <mark key="^" line="30" column="2" />
         <mark key="." line="30" column="2" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/hooks/hive_hooks.py" timestamp="1553524182783" />
       <file name="$USER_HOME$/repositories/puppet/modules/pyhadoop/files/requirements36_in_market_v2.txt" timestamp="1548277639427">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="20" column="14" />
         <mark key="." line="20" column="14" />
         <mark key="^" line="20" column="14" />
       </file>
-      <file name="/a.dummy" timestamp="1553201306277">
+      <file name="/a.dummy" timestamp="1553522356503">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.txt" timestamp="1540228771158">
@@ -413,6 +414,13 @@
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/operators/influx_reporter_operator.py" timestamp="1553526804669">
+        <mark key="'" line="10" column="11" />
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/suburban_urban.sql" timestamp="1536781318543">
         <mark key="[" line="17" column="7" />
         <mark key="]" line="33" column="1" />
@@ -450,9 +458,11 @@
         <mark key="." line="36" column="41" />
         <mark key="^" line="36" column="41" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/configured_hive_operator.py" timestamp="1553088527650">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="48" column="15" />
+      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/configured_hive_operator.py" timestamp="1553523142080">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
+        <mark key="^" line="118" column="59" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/context.py" timestamp="1539202520168">
         <mark key="[" line="44" column="28" />
@@ -503,8 +513,8 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="4" column="2" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" timestamp="1553507453102">
-        <mark key="'" line="2436" column="40" />
+      <file name="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" timestamp="1553526790734">
+        <mark key="'" line="2280" column="44" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/dao/bidsift_graph_dao.py" timestamp="1532981405395">
         <mark key="[" line="28" column="0" />
@@ -680,12 +690,12 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/operators/influx_reporter.py" timestamp="1553507996498">
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/operators/influx_reporter.py" timestamp="1553522334452">
         <mark key="'" line="39" column="0" />
-        <mark key="[" line="21" column="29" />
-        <mark key="]" line="21" column="64" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
         <mark key="^" line="21" column="64" />
-        <mark key="." line="21" column="64" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v4/2_Merge_Feature_v4_conversion_7.hql" timestamp="1551984435931">
         <mark key="[" line="314" column="54" />
@@ -1002,11 +1012,12 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1553519516706">
-        <mark key="[" line="46" column="37" />
-        <mark key="]" line="46" column="37" />
-        <mark key="." line="46" column="37" />
-        <mark key="^" line="46" column="37" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1553526931962">
+        <mark key="'" line="161" column="4" />
+        <mark key="[" line="180" column="0" />
+        <mark key="]" line="180" column="0" />
+        <mark key="." line="180" column="0" />
+        <mark key="^" line="176" column="61" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/vertica_xcom_operator.py" timestamp="1553507536868">
         <mark key="[" line="8" column="0" />
@@ -1061,25 +1072,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_v2_batch_scoring.py" />
-      <jump line="44" column="23" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_v2_batch_scoring.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_v2_batch_scoring.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_v2_batch_scoring.py" />
-      <jump line="103" column="4" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_v2_batch_scoring.py" />
-      <jump line="5" column="14" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_v2_batch_scoring.py" />
-      <jump line="364" column="13" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pyspark/sql/functions.py" />
-      <jump line="685" column="20" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pyspark/sql/functions.py" />
-      <jump line="1588" column="6" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pyspark/sql/functions.py" />
-      <jump line="1590" column="6" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pyspark/sql/functions.py" />
-      <jump line="1595" column="20" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pyspark/sql/functions.py" />
-      <jump line="1599" column="38" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pyspark/sql/functions.py" />
-      <jump line="79" column="1" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/pyspark/sql/functions.py" />
-      <jump line="11" column="15" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/local.default.py" />
-      <jump line="0" column="45" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.txt" />
-      <jump line="6" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.txt" />
-      <jump line="46" column="4" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
-      <jump line="129" column="56" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
-      <jump line="134" column="8" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
       <jump line="143" column="11" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
       <jump line="18" column="6" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="77" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
@@ -1131,7 +1123,6 @@
       <jump line="8" column="62" filename="$USER_HOME$/repositories/airflow-dags/shop_the_look_dag.py" />
       <jump line="11" column="39" filename="$USER_HOME$/repositories/airflow-dags/shop_the_look_dag.py" />
       <jump line="2037" column="73" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
-      <jump line="168" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
       <jump line="2823" column="38" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="16" column="51" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
       <jump line="16" column="41" filename="$USER_HOME$/repositories/airflow-dags/vertica_to_hive_dag.py" />
@@ -1152,67 +1143,87 @@
       <jump line="39" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/operators/influx_reporter.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/bidsift/.python_environment/lib/python3.6/site-packages/scoring/evaluation/model_storage_client.py" />
       <jump line="2405" column="14" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
-      <jump line="1985" column="6" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
-      <jump line="3503" column="10" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="3504" column="35" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="3511" column="40" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="3526" column="19" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
-      <jump line="2424" column="10" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="2427" column="21" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="2436" column="40" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="132" column="11" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
+      <jump line="2424" column="8" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="3503" column="8" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="168" column="4" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
+      <jump line="156" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
+      <jump line="161" column="4" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
+      <jump line="1985" column="6" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="1988" column="23" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="1989" column="4" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="2054" column="35" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="2055" column="10" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="2132" column="12" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="2176" column="26" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="2177" column="30" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="2210" column="12" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="2219" column="15" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="2220" column="12" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="2221" column="11" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="2222" column="23" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="2226" column="13" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="2278" column="22" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="2279" column="35" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="2280" column="44" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
+      <jump line="10" column="11" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/operators/influx_reporter_operator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>TIMEOUT_SIX_HOURS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRhZz1kYWcsCg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>TIMEOUT_SIX_HOURS</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>deepcopy</text>
+        <text>dag</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBhaXJmbG93LnV0aWxzLmRlY29yYXRvcnMgaW1wb3J0IGFwcGx5X2RlZmF1bHRzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRhc2tfaWQ9J2xvZ19tZXRyaWNzX3RvX2luZmx1eCcsCg==</text>
+        <text encoding="base64">ICAgIGRhZz1kYWcsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5PWdldF9tZXRyaWNzLAo=</text>
+        <text encoding="base64">ICAgIEBhcHBseV9kZWZhdWx0cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrX2lkLAo=</text>
+        <text encoding="base64">ICAgIHNjaGVtYT1BRE1JTl9WQVJJQUJMRVNbImRhdGFiYXNlIl0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNjaGVtYT1BRE1JTl9WQVJJQUJMRVNbImRhdGFiYXNlIl0sCiAgICBkYWc9ZGFnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFza19pZD10YXNrX2lkLCAqYXJncywgKiprd2FyZ3MpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkYWc9Tm9uZSwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRhZ3NbImRhZyJdID0gZGFnLmRhZ19pZAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHF1ZXJ5PWdldF9tZXRyaWNzLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Z2V0X21ldHJpY3MgPSAiIiIKU0VMRUNUCiAgICBNQVgoc2NvcmUpIEFTIG1heF9zY29yZSwKICAgIE1JTihzY29yZSkgQVMgbWluX3Njb3JlLAogICAgQVZHKHNjb3JlKSBBUyBhdmVyYWdlX3Njb3JlLAogICAgU1REREVWX1BPUChzY29yZSkgQVMgc3RhbmRhcmRfZGV2aWF0aW9uX3Njb3JlLAogICAgVkFSX1BPUChzY29yZSkgQVMgdmFyaWFuY2Vfc2NvcmUsCiAgICBQRVJDRU5USUxFX0FQUFJPWChzY29yZSwgMC4wKSBBUyBwZXJjZW50aWxlX2FwcHJveF8wXzAsCiAgICBQRVJDRU5USUxFX0FQUFJPWChzY29yZSwgMC4xKSBBUyBwZXJjZW50aWxlX2FwcHJveF8wXzEsCiAgICBQRVJDRU5USUxFX0FQUFJPWChzY29yZSwgMC4yKSBBUyBwZXJjZW50aWxlX2FwcHJveF8wXzIsCiAgICBQRVJDRU5USUxFX0FQUFJPWChzY29yZSwgMC4zKSBBUyBwZXJjZW50aWxlX2FwcHJveF8wXzMsCiAgICBQRVJDRU5USUxFX0FQUFJPWChzY29yZSwgMC40KSBBUyBwZXJjZW50aWxlX2FwcHJveF8wXzQsCiAgICBQRVJDRU5USUxFX0FQUFJPWChzY29yZSwgMC41KSBBUyBwZXJjZW50aWxlX2FwcHJveF8wXzUsCiAgICBQRVJDRU5USUxFX0FQUFJPWChzY29yZSwgMC42KSBBUyBwZXJjZW50aWxlX2FwcHJveF8wXzYsCiAgICBQRVJDRU5USUxFX0FQUFJPWChzY29yZSwgMC43KSBBUyBwZXJjZW50aWxlX2FwcHJveF8wXzcsCiAgICBQRVJDRU5USUxFX0FQUFJPWChzY29yZSwgMC44KSBBUyBwZXJjZW50aWxlX2FwcHJveF8wXzgsCiAgICBQRVJDRU5USUxFX0FQUFJPWChzY29yZSwgMC45KSBBUyBwZXJjZW50aWxlX2FwcHJveF8wXzksCiAgICBQRVJDRU5USUxFX0FQUFJPWChzY29yZSwgMS4wKSBBUyBwZXJjZW50aWxlX2FwcHJveF8xXzAgCkZST00gdGJsaW5tYXJrZXR2NHNjb3JlcwpXSEVSRSBldmVudGRhdGUgPSAie3sgZHMgfX0iCiIiIgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyBkdWUgdG8gZmxvYXRpbmcgcG9pbnQgcm91bmRpbmcgZXJyb3JzIG11c3QgZXhwbGljaXRseSBzZXQgdGhlc2UgYnVja2V0cwpkaXN0cmlidXRpb25fY29scyA9ICIsXG4iLmpvaW4oWwogICAgIlBFUkNFTlRJTEVfQVBQUk9YKHNjb3JlLCB7fSkgQVMgcGVyY2VudGlsZV9hcHByb3hfe30iLmZvcm1hdChidWNrZXQsIHN0cihidWNrZXQpLnJlcGxhY2UoIi4iLCAiXyIpKQogICAgZm9yIGJ1Y2tldCBpbiBbMC4wLCAwLjEsIDAuMiwgMC4zLCAwLjQsIDAuNSwgMC42LCAwLjcsIDAuOCwgMC45LCAxLjBdCl0pCgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkYWc9Tm9uZSwK</text>
+        <text encoding="base64">Zm9yIGJ1Y2tldCBpbiBkaXN0cmlidXRpb25fYnVja2V0czoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>deepcopy</last-search>
+      <last-search>dag</last-search>
       <last-offset />
-      <last-pattern>deepcopy</last-pattern>
+      <last-pattern>dag</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1220,8 +1231,6 @@
     </search>
     <history>
       <history-search>
-        <entry>WFUS_SOID</entry>
-        <entry>model_storage_client</entry>
         <entry>preload</entry>
         <entry>Agg</entry>
         <entry>Triggered</entry>
@@ -1240,6 +1249,8 @@
         <entry>NotImplementeed</entry>
         <entry>NotImplemented</entry>
         <entry>deepcopy</entry>
+        <entry>__deep</entry>
+        <entry>dag</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
@@ -1255,12 +1266,12 @@
         <entry>e</entry>
         <entry encoding="base64">JzwsJz5zLycvIg==</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>split</entry>
-        <entry>q</entry>
         <entry>qa</entry>
-        <entry>vsplit</entry>
         <entry>W</entry>
         <entry>:W</entry>
+        <entry>vsplit</entry>
+        <entry>q</entry>
+        <entry>split</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
