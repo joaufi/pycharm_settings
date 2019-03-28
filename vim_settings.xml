@@ -152,12 +152,6 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/1_Get_Order_Details.hql" timestamp="1552313644773">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="42" column="45" />
-        <mark key="." line="41" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/scoring-library/.python_environment-3.6/lib/python3.6/site-packages/modelvalidation/models.py" timestamp="1537989100113">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
@@ -559,11 +553,12 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1553778673010">
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1553782904723">
         <mark key="'" line="10" column="69" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
+        <mark key="[" line="142" column="15" />
+        <mark key="]" line="142" column="50" />
+        <mark key="." line="142" column="50" />
+        <mark key="^" line="142" column="50" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/vertica_xcom_operator.py" timestamp="1553507536868">
         <mark key="[" line="8" column="0" />
@@ -637,12 +632,6 @@
         <mark key="]" line="4" column="34" />
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
-      </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/app.py" timestamp="1553176910161">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/aggregate_model.py" timestamp="1534944449548">
         <mark key="[" line="222" column="0" />
@@ -1052,7 +1041,7 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/repositories/model_storage_service/model_storage_service/utilities.py" timestamp="1553780755230" />
+      <file name="$USER_HOME$/repositories/model_storage_service/model_storage_service/utilities.py" timestamp="1553782531647" />
       <file name="$USER_HOME$/repositories/bidsift/bidsift/middleware.py" timestamp="1547131147011">
         <mark key="[" line="5" column="34" />
         <mark key="]" line="6" column="0" />
@@ -1192,13 +1181,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRvd25sb2FkX3VybCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChtb2RlbF9yZXNwb25zZSkK</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>model_response.json()[&quot;models&quot;][0][&quot;hot_storage_path&quot;]</text>
       </register>
       <register name="/" type="4">
         <text>aloka</text>
@@ -1207,31 +1196,31 @@
         <text encoding="base64">ZnJvbSBhaXJmbG93LnV0aWxzLmRlY29yYXRvcnMgaW1wb3J0IGFwcGx5X2RlZmF1bHRzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRvd25sb2FkX3VybCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChtb2RlbF9yZXNwb25zZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRvd25sb2FkX21vZGVsX3Jlc3BvbnNlKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChtb2RlbF9yZXNwb25zZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlbF9zdG9yYWdlX2NsaWVudCBpbXBvcnQgTW9kZWxTdG9yYWdlQ2xpZW50Cg==</text>
+        <text encoding="base64">ICAgIG1vZGVsX3Jlc3BvbnNlID0gcmVxdWVzdHMuZ2V0KAogICAgICAgICJodHRwOi8ve306ODg4Ni9tb2RlbF9zdG9yYWdlL21vZGVscy9pbm1hcmtldC92ZXJzaW9ucy92Mi90cmFpbmluZ19ncm91cHMvbGF0ZXN0P2xvYWQ9ZG93bmxvYWQiLmZvcm1hdCgKICAgICAgICAgICAgQURNSU5fVkFSSUFCTEVTWyJtb2RlbF9zdG9yYWdlX2hvc3QiXQogICAgICAgICksCiAgICAgICAgc3RyZWFtPVRydWUsCiAgICApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgRXZlbiB0aG91Z2ggd2Ugc3BlY2lmeSB2MiBoZXJlLCB0aGF0IGlzIERhdGFTY2llbmNlInMgb2xkIHZlcnNpb25pbmcuCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGRvd25sb2FkX3VybCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">REVGQVVMVF9BUkdTID0gewo=</text>
+        <text encoding="base64">ICAgIHByaW50KGRvd25sb2FkX21vZGVsX3Jlc3BvbnNlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VEVNUExBVEVfRElSID0gcGF0aC5qb2luKERBR1NfRElSLCBDVVNUT01FUl9TQ09SSU5HX0RBR1MsICJxdWVyaWVzIiwgImhpdmUiLCAiaW5fbWFya2V0X3Y0X2NvbnZlcnRfN19kYXkiKQo=</text>
+        <text encoding="base64">ZnJvbSBtb2RlbF9zdG9yYWdlX2NsaWVudCBpbXBvcnQgTW9kZWxTdG9yYWdlQ2xpZW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBhcHBseV9kZWZhdWx0cwo=</text>
+        <text encoding="base64">ICAgICMgRXZlbiB0aG91Z2ggd2Ugc3BlY2lmeSB2MiBoZXJlLCB0aGF0IGlzIERhdGFTY2llbmNlInMgb2xkIHZlcnNpb25pbmcuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRhc2tfaWQ9ImxvZ19tZXRyaWNzX3RvX2luZmx1eCIsCg==</text>
+        <text encoding="base64">REVGQVVMVF9BUkdTID0gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrX2lkLAo=</text>
+        <text encoding="base64">VEVNUExBVEVfRElSID0gcGF0aC5qb2luKERBR1NfRElSLCBDVVNUT01FUl9TQ09SSU5HX0RBR1MsICJxdWVyaWVzIiwgImhpdmUiLCAiaW5fbWFya2V0X3Y0X2NvbnZlcnRfN19kYXkiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
