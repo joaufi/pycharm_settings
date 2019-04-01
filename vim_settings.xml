@@ -16,9 +16,6 @@
         <mark key="." line="20" column="14" />
         <mark key="^" line="20" column="14" />
       </file>
-      <file name="/a.dummy" timestamp="1553522356503">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.txt" timestamp="1540228771158">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="12" column="37" />
@@ -299,11 +296,11 @@
         <mark key="^" line="44" column="49" />
         <mark key="." line="44" column="49" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v4/score_inmarket_v4_pdp_8_30.py" timestamp="1553805800498">
-        <mark key="[" line="100" column="62" />
-        <mark key="]" line="101" column="3" />
-        <mark key="." line="101" column="3" />
-        <mark key="^" line="101" column="3" />
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v4/score_inmarket_v4_pdp_8_30.py" timestamp="1554122792798">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="95" column="3" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.json" timestamp="1550259834327">
         <mark key="[" line="0" column="0" />
@@ -397,9 +394,6 @@
         <mark key="^" line="0" column="1907" />
         <mark key="." line="0" column="1907" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/utilities.py" timestamp="1554121802881">
-        <mark key="[" line="47" column="85" />
-      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/vertica/top_style_by_store.sql" timestamp="1536854328024">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="31" column="36" />
@@ -486,6 +480,12 @@
         <mark key="]" line="4" column="20" />
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v4/score_inmarket_v4_conversion_7.py" timestamp="1554122785492">
+        <mark key="'" line="135" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/aggregate_features/1_Get_ATC_RFC.hql" timestamp="1553883606009">
         <mark key="[" line="3" column="51" />
@@ -1236,7 +1236,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBob3N0PW1vZGVsX3N0b3JhZ2VfY29uZmlnWyJob3N0Il0sCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECmZyb20gaW5tYXJrZXRfdjRfdXRpbGl0eSBpbXBvcnQgZ2V0X2luX21hcmtldF9tb2RlbAoKCj09PT09PT0KPj4+Pj4+PiBwYXJlbnQgb2YgODFhMGE4NmU4Li4uIE1vZGlmeSBpbm1hcmtldF92NCBqb2JzIHRvIHVzZSBuZXcgTW9kZWwgU3RvcmFnZSBkb3dubG9hZCBtZXRob2QK</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -1251,31 +1251,31 @@
         <text encoding="base64">ICAgIHBhcmFtcz1wYXJhbXMsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBob3N0PW1vZGVsX3N0b3JhZ2VfY29uZmlnWyJob3N0Il0sCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECmZyb20gaW5tYXJrZXRfdjRfdXRpbGl0eSBpbXBvcnQgZ2V0X2luX21hcmtldF9tb2RlbAoKCj09PT09PT0KPj4+Pj4+PiBwYXJlbnQgb2YgODFhMGE4NmU4Li4uIE1vZGlmeSBpbm1hcmtldF92NCBqb2JzIHRvIHVzZSBuZXcgTW9kZWwgU3RvcmFnZSBkb3dubG9hZCBtZXRob2QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">V0hFUkUKICBwcm9kLmV2ZW50ZGF0ZSA9ICAne3sgbWFjcm9zLmRzX2FkZChkcywgMCkgfX0nCiAgQU5EIHByb2Quc3RvcmVpZCA9IHt7IHBhcmFtcy5zdG9yZV9pZCB9fQogIEFORCBwcm9kLmlzYm90ID0gRkFMU0UKICBBTkQgcHJvZC5lbXBsb3llZWN1c3RvbWVyaWQgSVMgTlVMTAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECmZyb20gaW5tYXJrZXRfdjRfdXRpbGl0eSBpbXBvcnQgZ2V0X2luX21hcmtldF9tb2RlbAoKCj09PT09PT0KPj4+Pj4+PiBwYXJlbnQgb2YgODFhMGE4NmU4Li4uIE1vZGlmeSBpbm1hcmtldF92NCBqb2JzIHRvIHVzZSBuZXcgTW9kZWwgU3RvcmFnZSBkb3dubG9hZCBtZXRob2QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFdIRVJFCiAgICAgICAgdDEuZXZlbnRkYXRlIEJFVFdFRU4gJ3t7IG1hY3Jvcy5kc19hZGQoZHMsIC0yOCkgfX0nIEFORCAne3sgbWFjcm9zLmRzX2FkZChkcywgMCkgfX0nCiAgICAgICAgQU5EIHQxLnN0b3JlaWQgPSB7eyBwYXJhbXMuc3RvcmVfaWQgfX0K</text>
+        <text encoding="base64">ICAgICAgICBob3N0PW1vZGVsX3N0b3JhZ2VfY29uZmlnWyJob3N0Il0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFdIRVJFCiAgICAgICAgdDEuZXZlbnRkYXRlIEJFVFdFRU4gJzIwMTktMDMtMDEnIEFORCAnMjAxOS0wMy0yOScKICAgICAgICBBTkQgdDEuc3RvcmVpZCA9IDgxCg==</text>
+        <text encoding="base64">V0hFUkUKICBwcm9kLmV2ZW50ZGF0ZSA9ICAne3sgbWFjcm9zLmRzX2FkZChkcywgMCkgfX0nCiAgQU5EIHByb2Quc3RvcmVpZCA9IHt7IHBhcmFtcy5zdG9yZV9pZCB9fQogIEFORCBwcm9kLmlzYm90ID0gRkFMU0UKICBBTkQgcHJvZC5lbXBsb3llZWN1c3RvbWVyaWQgSVMgTlVMTAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBTkQgdDEuc3RvcmVpZCA9IDgxCg==</text>
+        <text encoding="base64">ICAgIFdIRVJFCiAgICAgICAgdDEuZXZlbnRkYXRlIEJFVFdFRU4gJ3t7IG1hY3Jvcy5kc19hZGQoZHMsIC0yOCkgfX0nIEFORCAne3sgbWFjcm9zLmRzX2FkZChkcywgMCkgfX0nCiAgICAgICAgQU5EIHQxLnN0b3JlaWQgPSB7eyBwYXJhbXMuc3RvcmVfaWQgfX0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIFdIRVJFCiAgICAgICAgdDEuZXZlbnRkYXRlIEJFVFdFRU4gJzIwMTktMDMtMDEnIEFORCAnMjAxOS0wMy0yOScKICAgICAgICBBTkQgdDEuc3RvcmVpZCA9IDgxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBTkQgdDEuc3RvcmVpZCA9IDgxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhcmFtc1sic3RvcmVfaWQiXSA9IHN0b3JlX2lkCg==</text>
+        <text encoding="base64">ICAgIFdIRVJFCiAgICAgICAgdDEuZXZlbnRkYXRlIEJFVFdFRU4gJzIwMTktMDMtMDEnIEFORCAnMjAxOS0wMy0yOScKICAgICAgICBBTkQgdDEuc3RvcmVpZCA9IDgxCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhcmFtc1sic3RvcmVfaWQiXSA9IHN0b3JlX2lkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
