@@ -328,6 +328,9 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="4" column="2" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" timestamp="1553618645705">
+        <mark key="'" line="2225" column="13" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_temporary_tables/populate_temp_page_views.sql" timestamp="1540565581536">
         <mark key="[" line="10" column="32" />
         <mark key="]" line="10" column="32" />
@@ -412,7 +415,6 @@
         <mark key="^" line="0" column="71691" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/2_Merge_Feature.hql" timestamp="1553880971497" />
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v4/2_Merge_Feature_v4_conversion_7.hql" timestamp="1551984435931">
         <mark key="[" line="314" column="54" />
         <mark key="]" line="314" column="53" />
@@ -586,6 +588,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/bidsift/.python_environment/lib/python3.6/site-packages/me_mssql/mssql_client.py" timestamp="1554155839929">
+        <mark key="'" line="31" column="8" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.json" timestamp="1547580802580">
         <mark key="[" line="0" column="0" />
@@ -1138,7 +1143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="5" filename="$USER_HOME$/repositories/airflow-dags/atcie_tradedesk_uploader.py" />
       <jump line="18" column="66" filename="$USER_HOME$/repositories/airflow-dags/atcie_tradedesk_uploader.py" />
       <jump line="272" column="28" filename="$USER_HOME$/repositories/airflow-dags/atcie_tradedesk_uploader.py" />
       <jump line="46" column="37" filename="$USER_HOME$/repositories/airflow-dags/atcie_tradedesk_uploader.py" />
@@ -1238,6 +1242,7 @@
       <jump line="185" column="12" filename="$USER_HOME$/repositories/airflow-dags/rum_dag.py" />
       <jump line="28" column="90" filename="$USER_HOME$/repositories/airflow-dags/rum_dag.py" />
       <jump line="52" column="7" filename="$USER_HOME$/repositories/airflow-dags/rum_dag.py" />
+      <jump line="31" column="8" filename="$USER_HOME$/repositories/bidsift/.python_environment/lib/python3.6/site-packages/me_mssql/mssql_client.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
