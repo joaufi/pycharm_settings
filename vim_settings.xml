@@ -1099,12 +1099,12 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1554255211597">
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1554257536795">
         <mark key="'" line="138" column="32" />
-        <mark key="[" line="170" column="14" />
-        <mark key="]" line="170" column="14" />
-        <mark key="." line="170" column="14" />
-        <mark key="^" line="169" column="26" />
+        <mark key="[" line="163" column="45" />
+        <mark key="]" line="163" column="49" />
+        <mark key="." line="163" column="49" />
+        <mark key="^" line="163" column="49" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/viewed_sku_by_device_guid.sql" timestamp="1532508496490">
         <mark key="[" line="31" column="0" />
@@ -1255,19 +1255,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{{ ds }}</text>
+        <text>ADMIN_VARIABLES[&quot;database&quot;]</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>{{ ds }}</text>
+        <text>ADMIN_VARIABLES[&quot;database&quot;]</text>
       </register>
       <register name="/" type="4">
         <text>model</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bG9nX21ldHJpY3MgPSBJbmZsdXhSZXBvcnRlck9wZXJhdG9yKAogICAgIiIiCiAgICBTRUxFQ1QKICAgICAgICBNQVgoc2NvcmUpIEFTIG1heF9zY29yZSwKICAgICAgICBNSU4oc2NvcmUpIEFTIG1pbl9zY29yZSwKICAgICAgICBBVkcoc2NvcmUpIEFTIGF2ZXJhZ2Vfc2NvcmUsCiAgICAgICAgVkFSX1BPUChzY29yZSkgQVMgdmFyaWFuY2Vfc2NvcmUsCiAgICAgICAgU1REREVWX1BPUChzY29yZSkgQVMgc3RhbmRhcmRfZGV2aWF0aW9uX3Njb3JlLAogICAgICAgIFBFUkNFTlRJTEVfQVBQUk9YKHNjb3JlLCAwLjEpIEFTIHBlcmNlbnRpbGVfYXBwcm94XzBfMSwKICAgICAgICBQRVJDRU5USUxFX0FQUFJPWChzY29yZSwgMC4yKSBBUyBwZXJjZW50aWxlX2FwcHJveF8wXzIsCiAgICAgICAgUEVSQ0VOVElMRV9BUFBST1goc2NvcmUsIDAuMykgQVMgcGVyY2VudGlsZV9hcHByb3hfMF8zLAogICAgICAgIFBFUkNFTlRJTEVfQVBQUk9YKHNjb3JlLCAwLjQpIEFTIHBlcmNlbnRpbGVfYXBwcm94XzBfNCwKICAgICAgICBQRVJDRU5USUxFX0FQUFJPWChzY29yZSwgMC41KSBBUyBwZXJjZW50aWxlX2FwcHJveF8wXzUsCiAgICAgICAgUEVSQ0VOVElMRV9BUFBST1goc2NvcmUsIDAuNikgQVMgcGVyY2VudGlsZV9hcHByb3hfMF82LAogICAgICAgIFBFUkNFTlRJTEVfQVBQUk9YKHNjb3JlLCAwLjcpIEFTIHBlcmNlbnRpbGVfYXBwcm94XzBfNywKICAgICAgICBQRVJDRU5USUxFX0FQUFJPWChzY29yZSwgMC44KSBBUyBwZXJjZW50aWxlX2FwcHJveF8wXzgsCiAgICAgICAgUEVSQ0VOVElMRV9BUFBST1goc2NvcmUsIDAuOSkgQVMgcGVyY2VudGlsZV9hcHByb3hfMF85CiAgICBGUk9NIHRibGlubWFya2V0djRzY29yZXMKICAgIFdIRVJFIGV2ZW50ZGF0ZSA9ICd7eyBkcyB9fScKICAgICIiIiwKICAgIHRhc2tfaWQ9ImxvZ19tZXRyaWNzX3RvX2luZmx1eCIsCiAgICBzY2hlbWE9QURNSU5fVkFSSUFCTEVTWyJkYXRhYmFzZSJdLAogICAgZGFnPWRhZywKKQo=</text>
+        <text encoding="base64">ICAgICAgICBzY2hlbWE9QURNSU5fVkFSSUFCTEVTWyJkYXRhYmFzZSJdLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBQRVJDRU5USUxFX0FQUFJPWChzY29yZSwgMS4wKSBBUyBwZXJjZW50aWxlX2FwcHJveF8xXzAK</text>
@@ -1351,8 +1351,8 @@
         <entry>qa</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>we</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
