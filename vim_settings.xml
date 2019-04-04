@@ -22,11 +22,6 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/aggregate_features/1_Get_Order_Details.hql" timestamp="1553880476020">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch._1.cmdline" timestamp="1539722768664">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -82,11 +77,6 @@
         <mark key="]" line="53" column="5" />
         <mark key="^" line="53" column="5" />
         <mark key="." line="53" column="5" />
-      </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/aggregate_features/1_Get_B2B_Deviceguid.hql" timestamp="1553880410665">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/drop_and_create_facts_tables.sql" timestamp="1545316670712">
         <mark key="[" line="22" column="0" />
@@ -206,11 +196,6 @@
         <mark key="^" line="55" column="22" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/aggregate_features/1_Get_Favorited.hql" timestamp="1553880426293">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/aggregate_features/Get_B2B_Deviceguid.hql" timestamp="1553885320139">
         <mark key="[" line="17" column="23" />
         <mark key="]" line="17" column="23" />
@@ -254,11 +239,11 @@
         <mark key="." line="33" column="1" />
         <mark key="^" line="33" column="1" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/influx_reporter_operator.py" timestamp="1554388067527">
-        <mark key="[" line="46" column="29" />
-        <mark key="]" line="46" column="44" />
-        <mark key="." line="46" column="44" />
-        <mark key="^" line="46" column="44" />
+      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/influx_reporter_operator.py" timestamp="1554390081835">
+        <mark key="[" line="49" column="56" />
+        <mark key="]" line="49" column="57" />
+        <mark key="." line="49" column="57" />
+        <mark key="^" line="49" column="57" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/aggregates/views.py" timestamp="1547477276685">
         <mark key="[" line="8" column="0" />
@@ -340,8 +325,8 @@
         <mark key="." line="58" column="61" />
         <mark key="^" line="58" column="61" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" timestamp="1553618645705">
-        <mark key="'" line="2225" column="13" />
+      <file name="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" timestamp="1554388986064">
+        <mark key="'" line="1985" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_temporary_tables/populate_temp_page_views.sql" timestamp="1540565581536">
         <mark key="[" line="10" column="32" />
@@ -385,11 +370,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="90" column="51" />
         <mark key="^" line="90" column="51" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.txt" timestamp="1554082077897">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="27" column="27" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/atcie-python-commons/atciecommons/model_storage/fields.py" timestamp="1531949509680">
         <mark key="[" line="0" column="5" />
@@ -1205,7 +1185,6 @@
       <jump line="10" column="11" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/operators/influx_reporter_operator.py" />
       <jump line="209" column="1" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
       <jump line="10" column="69" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
-      <jump line="1985" column="6" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="2005" column="11" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="2006" column="10" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="2118" column="12" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
@@ -1250,58 +1229,59 @@
       <jump line="138" column="32" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
       <jump line="158" column="41" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
       <jump line="159" column="42" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
+      <jump line="1985" column="6" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>filtered_results</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>filtered_results</text>
       </register>
       <register name="/" type="4">
-        <text>model</text>
+        <text>self.dag</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUEVSQ0VOVElMRV9BUFBST1goc2NvcmUsIDAuMykgQVMgcGVyY2VudGlsZV9hcHByb3hfMF8zLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLS0gdGhlIHZhbHVlIGFmdGVyIHRoZSAlIGlzIHRoZSBudW1iZXIgb2YgYnVja2V0cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzY2hlbWE9InNjb3JpbmciLAo=</text>
+        <text encoding="base64">ICAgICAgICBmaWx0ZXJlZF9yZXN1bHRzID0gbGlzdCgKICAgICAgICAgICAgbWFwKAogICAgICAgICAgICAgICAgbGFtYmRhIHZhbDogKHZhbFswXVswXSwgdmFsWzFdKSwKICAgICAgICAgICAgICAgIHppcChyZXN1bHRbImhlYWRlciJdLCByZXN1bHRbImRhdGEiXVswXSkKICAgICAgICAgICAgKQogICAgICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUEVSQ0VOVElMRV9BUFBST1goc2NvcmUsIDAuOCkgQVMgcGVyY2VudGlsZV9hcHByb3hfMF84LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLS0gdGhlIHZhbHVlIGFmdGVyIHRoZSAlIGlzIHRoZSBudW1iZXIgb2YgYnVja2V0cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUEVSQ0VOVElMRV9BUFBST1goc2NvcmUsIDAuNikgQVMgcGVyY2VudGlsZV9hcHByb3hfMF82LAo=</text>
+        <text encoding="base64">ICAgICAgICBzY2hlbWE9InNjb3JpbmciLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUEVSQ0VOVElMRV9BUFBST1goc2NvcmUsIDAuNCkgQVMgcGVyY2VudGlsZV9hcHByb3hfMF80LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUEVSQ0VOVElMRV9BUFBST1goc2NvcmUsIDAuOCkgQVMgcGVyY2VudGlsZV9hcHByb3hfMF84LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUEVSQ0VOVElMRV9BUFBST1goc2NvcmUsIDAuMikgQVMgcGVyY2VudGlsZV9hcHByb3hfMF8yLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUEVSQ0VOVElMRV9BUFBST1goc2NvcmUsIDAuNikgQVMgcGVyY2VudGlsZV9hcHByb3hfMF82LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBQRVJDRU5USUxFX0FQUFJPWChzY29yZSwgMS4wKSBBUyBwZXJjZW50aWxlX2FwcHJveF8xXzAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUEVSQ0VOVElMRV9BUFBST1goc2NvcmUsIDAuNCkgQVMgcGVyY2VudGlsZV9hcHByb3hfMF80LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQRVJDRU5USUxFX0FQUFJPWChzY29yZSwgMC4wKSBBUyBwZXJjZW50aWxlX2FwcHJveF8wXzAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUEVSQ0VOVElMRV9BUFBST1goc2NvcmUsIDAuMikgQVMgcGVyY2VudGlsZV9hcHByb3hfMF8yLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAqYXJnczogCiAgICAgICAgKiprd2FyZ3M6Cg==</text>
+        <text encoding="base64">ICAgICAgICBQRVJDRU5USUxFX0FQUFJPWChzY29yZSwgMS4wKSBBUyBwZXJjZW50aWxlX2FwcHJveF8xXzAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>model</last-search>
+      <last-search>self.dag</last-search>
       <last-offset />
-      <last-pattern>model</last-pattern>
+      <last-pattern>self.dag</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1309,7 +1289,6 @@
     </search>
     <history>
       <history-search>
-        <entry>execute</entry>
         <entry>get_template_context</entry>
         <entry>load</entry>
         <entry>NotImplementeed</entry>
@@ -1329,6 +1308,7 @@
         <entry>infog</entry>
         <entry>tasks</entry>
         <entry>model</entry>
+        <entry>self.dag</entry>
       </history-search>
       <history-cmd>
         <entry>Lw</entry>
