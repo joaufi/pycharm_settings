@@ -239,11 +239,12 @@
         <mark key="." line="33" column="1" />
         <mark key="^" line="33" column="1" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/influx_reporter_operator.py" timestamp="1554482629291">
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="22" column="77" />
-        <mark key="." line="22" column="77" />
-        <mark key="^" line="22" column="77" />
+      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/influx_reporter_operator.py" timestamp="1554485033262">
+        <mark key="'" line="112" column="3" />
+        <mark key="[" line="73" column="14" />
+        <mark key="]" line="73" column="16" />
+        <mark key="." line="73" column="16" />
+        <mark key="^" line="73" column="16" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/aggregates/views.py" timestamp="1547477276685">
         <mark key="[" line="8" column="0" />
@@ -1130,7 +1131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="8" column="62" filename="$USER_HOME$/repositories/airflow-dags/shop_the_look_dag.py" />
       <jump line="11" column="39" filename="$USER_HOME$/repositories/airflow-dags/shop_the_look_dag.py" />
       <jump line="2037" column="73" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
@@ -1230,16 +1230,17 @@
       <jump line="1985" column="6" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="54" column="47" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/influx_reporter_operator.py" />
       <jump line="88" column="7" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/influx_reporter_operator.py" />
+      <jump line="112" column="3" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/influx_reporter_operator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>str</text>
+        <text>raise_or_log_upload_count</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>str</text>
+        <text>raise_or_log_upload_count</text>
       </register>
       <register name="/" type="4">
         <text>self.dag</text>
@@ -1248,31 +1249,31 @@
         <text encoding="base64">ICAgICAgICBmaWVsZHMgPSB0dXBsZShtYXAobGFtYmRhIHR1cDogdHVwWzBdLCByZXN1bHRbJ2hlYWRlciddKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGFnLmRhZ19pZCB3aWxsIGJlIGFkZGVkIHRvIHRhZ3MgdW5kZXIgdGhlIGtleSAiZGFnIi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmRhZzoKICAgICAgICAgICAgc2VsZi50YWdzWyJkYWcK</text>
+        <text encoding="base64">ICAgICAgICBpZiB1cGxvYWRfY291bnQgPT0gMDoKICAgICAgICAgICAgbWVzc2FnZSA9ICJObyBtZXRyaWNzIHdlcmUgdXBsb2FkZWQgdG8gSW5mbHV4REIuIgogICAgICAgICAgICBpZiBzZWxmLnF1aWV0ID09IEZhbHNlOgogICAgICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKG1lc3NhZ2UpCiAgICAgICAgICAgIHNlbGYubG9nLndhcm4obWVzc2FnZSkKCiAgICAgICAgc2VsZi5sb2cuaW5mbygKICAgICAgICAgICAgInt1cGxvYWRfY291bnR9ICd7bWV0cmljfScgbWV0cmljcyB3ZXJlIHVwbG9hZGVkLiIuZm9ybWF0KAogICAgICAgICAgICAgICAgdXBsb2FkX2NvdW50PXVwbG9hZF9jb3VudCwKICAgICAgICAgICAgICAgIG1ldHJpYz1zZWxmLm1ldHJpYywKICAgICAgICAgICAgKQogICAgICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGZpZWxkcyA9IHtjb2x1bW46IHZhbHVlfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpZWxkcz0sCiAgICAgICAgICAgICAgICB0YWdzPQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSB0dXBsZShtYXAobGFtYmRhIHR1cDogdHVwWzBdLCByZXN1bHRbJ2hlYWRlciddKSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgcmVzdWx0czoKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCJRdWVyeSBkaWQgbm90IHJldHVybiBhbnkgcmVzdWx0cy4iKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoZSB0dXBsZSBpcyB0aGUgY29sdW1uIHZhbHVlLgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgcmVzdWx0cwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgMHRoIGluZGV4IG9mIHRoZSB0dXBsZSBpcyB0aGUgY29sdW1uIG5hbWUgYW5kIHRoZSAxc3QgaW5kZXggb2YK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInt9IGxvZ2dlZCB0byBJbmZsdXhEQiB3aXRoIHZhbHVlIHt9Ii5mb3JtYXQoKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbGlzdCgKICAgICAgICAgICAgbWFwKAogICAgICAgICAgICAgICAgbGFtYmRhIHZhbDogKHZhbFswXVswXSwgdmFsWzFdKSwKICAgICAgICAgICAgICAgIHppcChyZXN1bHRbImhlYWRlciJdLCByZXN1bHRbImRhdGEiXSkKICAgICAgICAgICAgKQogICAgICAgICkK</text>
+      <register name="7" type="8">
+        <text encoding="base64">IyAKIyAKIyA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZHMgPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGQgc28gdHlwaWNhbCBBaXJmbG93IEppbmphIHRlbXBsYXRpbmcgY2FuIGJlIHVzZWQuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gcmVzdWx0WydkYXRhJ10K</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgbWV0cmljX25hbWU6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
