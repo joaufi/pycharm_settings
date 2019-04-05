@@ -239,12 +239,11 @@
         <mark key="." line="33" column="1" />
         <mark key="^" line="33" column="1" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/influx_reporter_operator.py" timestamp="1554474420847">
-        <mark key="'" line="54" column="47" />
-        <mark key="[" line="75" column="76" />
-        <mark key="]" line="76" column="20" />
-        <mark key="." line="76" column="20" />
-        <mark key="^" line="76" column="20" />
+      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/influx_reporter_operator.py" timestamp="1554478514715">
+        <mark key="[" line="51" column="18" />
+        <mark key="]" line="51" column="89" />
+        <mark key="." line="51" column="89" />
+        <mark key="^" line="51" column="89" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/aggregates/views.py" timestamp="1547477276685">
         <mark key="[" line="8" column="0" />
@@ -1131,7 +1130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="26" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="8" column="62" filename="$USER_HOME$/repositories/airflow-dags/shop_the_look_dag.py" />
       <jump line="11" column="39" filename="$USER_HOME$/repositories/airflow-dags/shop_the_look_dag.py" />
@@ -1231,49 +1229,50 @@
       <jump line="159" column="42" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
       <jump line="1985" column="6" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="54" column="47" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/influx_reporter_operator.py" />
+      <jump line="88" column="7" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/influx_reporter_operator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICgwLjUxNDI0NTY2MDUyMDY5NzgsIDAuNjk4MTUzMDAxMTU5NDczKQ==</text>
+        <text>{self.value_field: value}</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICgwLjUxNDI0NTY2MDUyMDY5NzgsIDAuNjk4MTUzMDAxMTU5NDczKQ==</text>
+        <text>{self.value_field: value}</text>
       </register>
       <register name="/" type="4">
         <text>self.dag</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUEVSQ0VOVElMRV9BUFBST1goc2NvcmUsIDAuMykgQVMgcGVyY2VudGlsZV9hcHByb3hfMF8zLAo=</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSB0dXBsZShtYXAobGFtYmRhIHR1cDogdHVwWzBdLCByZXN1bHRbJ2hlYWRlciddKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmRhZzoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGZpZWxkcyA9IHtjb2x1bW46IHZhbHVlfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50YWdzWyJkYWciXSA9IHNlbGYuZGFnLmRhZ19pZAo=</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSB0dXBsZShtYXAobGFtYmRhIHR1cDogdHVwWzBdLCByZXN1bHRbJ2hlYWRlciddKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBoaXZlc2VydmVyMl9jb25uX2lkIChzdHIpOiBIaXZlU2VydmVyMiBjb25uZWN0aW9uIElEIHRvIHVzZS4gRGVmYXVsdHMgdG8KICAgICAgICAgICAgImhpdmVzZXJ2ZXIyX2xhdGVzdCIuCiAgICAgICAgZmllbGRfbmFtZSAoc3RyKTogTmFtZSBvZiB0aGUgZmllbGQgdG8gdXBsb2FkIHRoZSBtZXRyaWMgdmFsdWUgaW50by4KICAgICAgICAgICAgRGVmYXVsdHMgdG8gInZhbHVlIi4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoZSB0dXBsZSBpcyB0aGUgY29sdW1uIHZhbHVlLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoaXZlc2VydmVyMl9jb25uX2lkPSJoaXZlc2VydmVyMl9sYXRlc3QiLAogICAgICAgIGZpZWxkX25hbWU9InZhbHVlIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgMHRoIGluZGV4IG9mIHRoZSB0dXBsZSBpcyB0aGUgY29sdW1uIG5hbWUgYW5kIHRoZSAxc3QgaW5kZXggb2YK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICgnYXZlcmFnZV9zY29yZScsICdET1VCTEUnLCBOb25lLCBOb25lLCBOb25lLCBOb25lLCBOb25lKSwKICAgICAgICAgICgndmFyaWFuY2Vfc2NvcmUnLCAnRE9VQkxFJywgTm9uZSwgTm9uZSwgTm9uZSwgTm9uZSwgTm9uZSksCiAgICAgICAgICAoJ3N0YW5kYXJkX2RldmlhdGlvbl9zY29yZScsICdET1VCTEUnLCBOb25lLCBOb25lLCBOb25lLCBOb25lLCBOb25lKSwKICAgICAgICAgICgncGVyY2VudGlsZV9hcHByb3hfMF8xJywgJ0RPVUJMRScsIE5vbmUsIE5vbmUsIE5vbmUsIE5vbmUsIE5vbmUpLAogICAgICAgICAgKCdwZXJjZW50aWxlX2FwcHJveF8wXzInLCAnRE9VQkxFJywgTm9uZSwgTm9uZSwgTm9uZSwgTm9uZSwgTm9uZSksCiAgICAgICAgICAoJ3BlcmNlbnRpbGVfYXBwcm94XzBfMycsICdET1VCTEUnLCBOb25lLCBOb25lLCBOb25lLCBOb25lLCBOb25lKSwKICAgICAgICAgICgncGVyY2VudGlsZV9hcHByb3hfMF80JywgJ0RPVUJMRScsIE5vbmUsIE5vbmUsIE5vbmUsIE5vbmUsIE5vbmUpLAogICAgICAgICAgKCdwZXJjZW50aWxlX2FwcHJveF8wXzUnLCAnRE9VQkxFJywgTm9uZSwgTm9uZSwgTm9uZSwgTm9uZSwgTm9uZSksCiAgICAgICAgICAoJ3BlcmNlbnRpbGVfYXBwcm94XzBfNicsICdET1VCTEUnLCBOb25lLCBOb25lLCBOb25lLCBOb25lLCBOb25lKSwKICAgICAgICAgICgncGVyY2VudGlsZV9hcHByb3hfMF83JywgJ0RPVUJMRScsIE5vbmUsIE5vbmUsIE5vbmUsIE5vbmUsIE5vbmUpLAogICAgICAgICAgKCdwZXJjZW50aWxlX2FwcHJveF8wXzgnLCAnRE9VQkxFJywgTm9uZSwgTm9uZSwgTm9uZSwgTm9uZSwgTm9uZSksCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbGlzdCgKICAgICAgICAgICAgbWFwKAogICAgICAgICAgICAgICAgbGFtYmRhIHZhbDogKHZhbFswXVswXSwgdmFsWzFdKSwKICAgICAgICAgICAgICAgIHppcChyZXN1bHRbImhlYWRlciJdLCByZXN1bHRbImRhdGEiXSkKICAgICAgICAgICAgKQogICAgICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAwLjAwMDEwNDI2MDA0ODgyOTAxOTA3LAogICAgICAgICAgIDAuMjgxMzQ5Mjg4MDkyNDk1NTQsCiAgICAgICAgICAgMC4wNjY2Nzc4MDU0NTc5ODYyMSwKICAgICAgICAgICAwLjI1ODIyMDQ1OTAyMjg3ODc3LAogICAgICAgICAgIDAuMDI0MDQ4Nzk1NzU4NjA2MjE3LAogICAgICAgICAgIDAuMDUwMjk0MjM0MTU1MDU3MzM1LAogICAgICAgICAgIDAuMDg0NDk1MjM2Njk0NzczODQsCiAgICAgICAgICAgMC4xMzI0ODU2NjcwODM4NDMxLAogICAgICAgICAgIDAuMTk1MDI4ODQ2MDE0NjkyMSwKICAgICAgICAgICAwLjI3NDMyNTA1MjYyMTQ5MjI2LAogICAgICAgICAgIDAuMzc3MTUzMzg2ODEwNjU5MSwKICAgICAgICAgICAwLjUxNDI0NTY2MDUyMDY5NzgsCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZHMgPQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gcmVzdWx0WydkYXRhJ10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXJlZF9yZXN1bHRzID0gbGlzdCgKICAgICAgICAgICAgbWFwKAogICAgICAgICAgICAgICAgbGFtYmRhIHZhbDogKHZhbFswXVswXSwgdmFsWzFdKSwKICAgICAgICAgICAgICAgIHppcChyZXN1bHRbImhlYWRlciJdLCByZXN1bHRbImRhdGEiXVswXSkKICAgICAgICAgICAgKQogICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbWV0cmljLCB2YWx1ZSBpbiByZXN1bHRzOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLS0gdGhlIHZhbHVlIGFmdGVyIHRoZSAlIGlzIHRoZSBudW1iZXIgb2YgYnVja2V0cwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmRhZzoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
