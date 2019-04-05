@@ -591,11 +591,11 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1554473936479">
-        <mark key="[" line="167" column="25" />
-        <mark key="]" line="168" column="26" />
-        <mark key="." line="168" column="26" />
-        <mark key="^" line="168" column="26" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1554486410338">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
+        <mark key="^" line="145" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/viewed_sku_by_device_guid.sql" timestamp="1532508496490">
         <mark key="[" line="31" column="0" />
@@ -1233,14 +1233,14 @@
       <jump line="112" column="3" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/influx_reporter_operator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>raise_or_log_upload_count</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>raise_or_log_upload_count</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>self.dag</text>
@@ -1249,31 +1249,31 @@
         <text encoding="base64">ICAgICAgICBmaWVsZHMgPSB0dXBsZShtYXAobGFtYmRhIHR1cDogdHVwWzBdLCByZXN1bHRbJ2hlYWRlciddKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB1cGxvYWRfY291bnQgPT0gMDoKICAgICAgICAgICAgbWVzc2FnZSA9ICJObyBtZXRyaWNzIHdlcmUgdXBsb2FkZWQgdG8gSW5mbHV4REIuIgogICAgICAgICAgICBpZiBzZWxmLnF1aWV0ID09IEZhbHNlOgogICAgICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKG1lc3NhZ2UpCiAgICAgICAgICAgIHNlbGYubG9nLndhcm4obWVzc2FnZSkKCiAgICAgICAgc2VsZi5sb2cuaW5mbygKICAgICAgICAgICAgInt1cGxvYWRfY291bnR9ICd7bWV0cmljfScgbWV0cmljcyB3ZXJlIHVwbG9hZGVkLiIuZm9ybWF0KAogICAgICAgICAgICAgICAgdXBsb2FkX2NvdW50PXVwbG9hZF9jb3VudCwKICAgICAgICAgICAgICAgIG1ldHJpYz1zZWxmLm1ldHJpYywKICAgICAgICAgICAgKQogICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NvcmUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpZWxkcz0sCiAgICAgICAgICAgICAgICB0YWdzPQo=</text>
+        <text encoding="base64">ICAgICAgICBhZ2dyZWdhdGVfZmVhdHVyZXMgPj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgcmVzdWx0czoKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCJRdWVyeSBkaWQgbm90IHJldHVybiBhbnkgcmVzdWx0cy4iKQoK</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZF9uYW1lPSJzY29yZSIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgcmVzdWx0cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTUFYKHNjb3JlKSBBUyBtYXhfc2NvcmUsCiAgICAgICAgICAgIE1JTihzY29yZSkgQVMgbWluX3Njb3JlLAogICAgICAgICAgICBBVkcoc2NvcmUpIEFTIGF2ZXJhZ2Vfc2NvcmUsCiAgICAgICAgICAgIFZBUl9QT1Aoc2NvcmUpIEFTIHZhcmlhbmNlX3Njb3JlLAogICAgICAgICAgICBTVERERVZfUE9QKHNjb3JlKSBBUyBzdGFuZGFyZF9kZXZpYXRpb25fc2NvcmUsCiAgICAgICAgICAgIFBFUkNFTlRJTEVfQVBQUk9YKHNjb3JlLCAwLjEpIEFTIHBlcmNlbnRpbGVfYXBwcm94XzBfMSwKICAgICAgICAgICAgUEVSQ0VOVElMRV9BUFBST1goc2NvcmUsIDAuMikgQVMgcGVyY2VudGlsZV9hcHByb3hfMF8yLAogICAgICAgICAgICBQRVJDRU5USUxFX0FQUFJPWChzY29yZSwgMC4zKSBBUyBwZXJjZW50aWxlX2FwcHJveF8wXzMsCiAgICAgICAgICAgIFBFUkNFTlRJTEVfQVBQUk9YKHNjb3JlLCAwLjQpIEFTIHBlcmNlbnRpbGVfYXBwcm94XzBfNCwKICAgICAgICAgICAgUEVSQ0VOVElMRV9BUFBST1goc2NvcmUsIDAuNSkgQVMgcGVyY2VudGlsZV9hcHByb3hfMF81LAogICAgICAgICAgICBQRVJDRU5USUxFX0FQUFJPWChzY29yZSwgMC42KSBBUyBwZXJjZW50aWxlX2FwcHJveF8wXzYsCiAgICAgICAgICAgIFBFUkNFTlRJTEVfQVBQUk9YKHNjb3JlLCAwLjcpIEFTIHBlcmNlbnRpbGVfYXBwcm94XzBfNywKICAgICAgICAgICAgUEVSQ0VOVElMRV9BUFBST1goc2NvcmUsIDAuOCkgQVMgcGVyY2VudGlsZV9hcHByb3hfMF84LAogICAgICAgICAgICBQRVJDRU5USUxFX0FQUFJPWChzY29yZSwgMC45KSBBUyBwZXJjZW50aWxlX2FwcHJveF8wXzkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInt9IGxvZ2dlZCB0byBJbmZsdXhEQiB3aXRoIHZhbHVlIHt9Ii5mb3JtYXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">IyAKIyAKIyA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiB1cGxvYWRfY291bnQgPT0gMDoKICAgICAgICAgICAgbWVzc2FnZSA9ICJObyBtZXRyaWNzIHdlcmUgdXBsb2FkZWQgdG8gSW5mbHV4REIuIgogICAgICAgICAgICBpZiBzZWxmLnF1aWV0ID09IEZhbHNlOgogICAgICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKG1lc3NhZ2UpCiAgICAgICAgICAgIHNlbGYubG9nLndhcm4obWVzc2FnZSkKCiAgICAgICAgc2VsZi5sb2cuaW5mbygKICAgICAgICAgICAgInt1cGxvYWRfY291bnR9ICd7bWV0cmljfScgbWV0cmljcyB3ZXJlIHVwbG9hZGVkLiIuZm9ybWF0KAogICAgICAgICAgICAgICAgdXBsb2FkX2NvdW50PXVwbG9hZF9jb3VudCwKICAgICAgICAgICAgICAgIG1ldHJpYz1zZWxmLm1ldHJpYywKICAgICAgICAgICAgKQogICAgICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGQgc28gdHlwaWNhbCBBaXJmbG93IEppbmphIHRlbXBsYXRpbmcgY2FuIGJlIHVzZWQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpZWxkcz0sCiAgICAgICAgICAgICAgICB0YWdzPQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgbWV0cmljX25hbWU6Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgcmVzdWx0czoKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCJRdWVyeSBkaWQgbm90IHJldHVybiBhbnkgcmVzdWx0cy4iKQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
