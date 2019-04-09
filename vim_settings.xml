@@ -163,11 +163,11 @@
         <mark key="." line="32" column="6" />
         <mark key="^" line="32" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b/post_enrollment_model.py" timestamp="1554773566440">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="101" column="55" />
-        <mark key="." line="101" column="55" />
-        <mark key="^" line="101" column="55" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b/post_enrollment_model.py" timestamp="1554774655709">
+        <mark key="'" line="102" column="8" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_v2_batch_scoring/1_Get_Fav.hql" timestamp="1549048015592">
         <mark key="[" line="5" column="20" />
@@ -282,6 +282,13 @@
         <mark key="]" line="125" column="32" />
         <mark key="." line="125" column="32" />
         <mark key="^" line="125" column="32" />
+      </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1554774611842">
+        <mark key="'" line="566" column="22" />
+        <mark key="[" line="574" column="19" />
+        <mark key="]" line="574" column="22" />
+        <mark key="^" line="574" column="22" />
+        <mark key="." line="574" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1550245634157">
         <mark key="[" line="86" column="0" />
@@ -673,7 +680,7 @@
         <mark key="^" line="26" column="19" />
         <mark key="." line="26" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" timestamp="1554493645252">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" timestamp="1554773732110">
         <mark key="'" line="76" column="24" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.json" timestamp="1538512201759">
@@ -912,6 +919,11 @@
         <mark key="^" line="38" column="4" />
         <mark key="." line="38" column="4" />
       </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/constants.py" timestamp="1554774044474">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="28" />
+        <mark key="." line="52" column="28" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/ira.py" timestamp="1553174721296">
         <mark key="'" line="0" column="21" />
         <mark key="[" line="48" column="10" />
@@ -1128,28 +1140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="7" filename="$USER_HOME$/repositories/airflow-dags/model_storage_dag.py" />
-      <jump line="10" column="19" filename="$USER_HOME$/repositories/airflow-dags/templates/pricing/image_embeddings/image_embeddings.py" />
-      <jump line="13" column="47" filename="$USER_HOME$/repositories/airflow-dags/vtvt_dag.py" />
-      <jump line="16" column="17" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/ira.py" />
-      <jump line="0" column="21" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/ira.py" />
-      <jump line="64" column="12" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/argus.py" />
-      <jump line="78" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/argus.py" />
-      <jump line="27" column="6" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/operators/bash_operator.py" />
-      <jump line="32" column="42" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/operators/bash_operator.py" />
-      <jump line="1990" column="36" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
-      <jump line="2085" column="19" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
-      <jump line="2087" column="19" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
-      <jump line="2392" column="12" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
-      <jump line="2403" column="17" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/operators/influx_reporter.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/bidsift/.python_environment/lib/python3.6/site-packages/scoring/evaluation/model_storage_client.py" />
-      <jump line="2405" column="14" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
-      <jump line="3504" column="35" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
-      <jump line="3511" column="40" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
-      <jump line="3526" column="19" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
-      <jump line="2427" column="21" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
-      <jump line="2436" column="40" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="132" column="11" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
       <jump line="2424" column="8" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="3503" column="8" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
@@ -1228,69 +1218,342 @@
       <jump line="23" column="3" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
       <jump line="76" column="24" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="24" column="30" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b/post_enrollment_model.py" />
+      <jump line="103" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b/post_enrollment_model.py" />
+      <jump line="556" column="37" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="577" column="35" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="109" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="282" column="5" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="310" column="5" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="338" column="5" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="366" column="5" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="26" column="4" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="137" column="5" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="203" column="5" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="245" column="5" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="259" column="5" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="222" column="32" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="307" column="25" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="322" column="35" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="515" column="12" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="565" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="566" column="22" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Agg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eWRkCg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Agg</text>
+        <text encoding="base64">QXZlcmFnZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>REDUCED</text>
+        <text>sum</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAoJ1ZlcnRpY2FsX0NvbnRyYWN0b3InLCAoQWdncmVnYXRpb25OYW1lLklTX1ZFUlRJQ0FMLCBDb21wYW55VHlwZXMuQ09OVFJBQ1RPUikpLAogICAgICAgICgnVmVydGljYWxfRWR1Y2F0aW9uJywgKEFnZ3JlZ2F0aW9uTmFtZS5JU19WRVJUSUNBTCwgQ29tcGFueVR5cGVzLkVEVUNBVElPTikpLAogICAgICAgICgnVmVydGljYWxfSGVhbHRoY2FyZScsIChBZ2dyZWdhdGlvbk5hbWUuSVNfVkVSVElDQUwsIENvbXBhbnlUeXBlcy5IRUFMVEhDQVJFKSksCiAgICAgICAgKCdWZXJ0aWNhbF9Ib3NwaXRhbGl0eScsIChBZ2dyZWdhdGlvbk5hbWUuSVNfVkVSVElDQUwsIENvbXBhbnlUeXBlcy5IT1NQSVRBTElUWSkpLAogICAgICAgICgnVmVydGljYWxfSW50ZXJpb3IgRGVzaWduZXInLCAoQWdncmVnYXRpb25OYW1lLklTX1ZFUlRJQ0FMLCBDb21wYW55VHlwZXMuSU5URVJJT1JfREVTSUdORVIpKSwKICAgICAgICAoJ1ZlcnRpY2FsX09mZmljZS9CdXNpbmVzcycsIChBZ2dyZWdhdGlvbk5hbWUuSVNfVkVSVElDQUwsIENvbXBhbnlUeXBlcy5PRkZJQ0VfQlVTSU5FU1MpKSwKICAgICAgICAoJ1ZlcnRpY2FsX1Byb3BlcnR5IE1hbmFnZW1lbnQnLCAoQWdncmVnYXRpb25OYW1lLklTX1ZFUlRJQ0FMLCBDb21wYW55VHlwZXMuUFJPUEVSVFlfTUFOQUdFTUVOVCkpLAo=</text>
+        <text encoding="base64">ICAgIEBsb2dfdGltZSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eWRkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAoJ0JhbUlEUmFua19BcHBsaWNhdGlvbicsIChBZ2dyZWdhdGlvbk5hbWUuSEFTX0JVU0lORVNTX0FQUExJQ0FUSU9OKSksCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAoJycsKQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBtYXBwaW5nX2Z1bmN0aW9uID0gcGFydGlhbCgKICAgICAgICAgICAgc2VsZi5fYXZlcmFnZV9saW5lX2l0ZW1fcHJpY2UsCiAgICAgICAgICAgIHVuaXRfcHJpY2VfaW5kZXg9MSwKICAgICAgICAgICAgcXVhbnRpdHlfaW5kZXg9MgogICAgICAgICkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93Lmhvb2tzLmhpdmVfaG9va3MgaW1wb3J0IEhpdmVTZXJ2ZXIySG9vawo=</text>
+      <register name="4" type="4">
+        <text>log_time()
+    def most_recent_viewed_class_id(self, device_guids, aggregation, store_id=None):
+        &quot;&quot;&quot;Get the most recent timestamp of a purchased sku
+
+        Args:
+            device_guids (list of str): the device guids from the request
+            aggregation (AggregationModel): request parameters
+            store_id (int): The store id to filter by
+
+        Returns:
+            int or None: the most recently viewed class id
+        &quot;&quot;&quot;
+        columns = [
+            ColumnNames.EVENT_TIMESTAMP,
+            ColumnNames.CLASS_ID,
+            ColumnNames.STORE_ID,
+            ColumnNames.PRODUCT_TYPE
+        ]
+        query_results = self.dao.get_facts_by_device_3_month(
+            columns,
+            DeviceFactNames.VIEWED_SKU,
+            device_guids,
+            aggregation.start_date,
+            end_date=aggregation.end_date
+        )
+
+        mapping_function = partial(self._get_most_recent_value, timestamp_index=0, value_index=1)
+
+        return aggregation.evaluate(
+            query_results,
+            store_id,
+            columns,
+            mapping_function=mapping_function,
+            dedupe=False
+        )
+
+    @</text>
+      </register>
+      <register name="5" type="4">
+        <text>log_time()
+    def most_recent_purchased_sku(self, customer_guids, aggregation, store_id=None):
+        &quot;&quot;&quot;Get the most recent timestamp of a purchased sku
+
+        Args:
+            customer_guids (list of str): the customer guids from the request
+            aggregation (AggregationModel): request parameters
+            store_id (int): The store id to filter by
+
+        Returns:
+            datetime: the time of the most recent purchased sku
+        &quot;&quot;&quot;
+        columns = [ColumnNames.EVENT_TIMESTAMP, ColumnNames.CLASS_ID, ColumnNames.STORE_ID]
+        query_results = self.dao.get_facts_by_customer_1_year(
+            columns,
+            CustomerFactNames.PURCHASED_SKU,
+            customer_guids,
+            aggregation.start_date,
+            end_date=aggregation.end_date
+        )
+
+        return aggregation.evaluate(
+            query_results,
+            store_id,
+            columns,
+            mapping_function=self._get_most_recent,
+            aggregate_column=ColumnNames.EVENT_TIMESTAMP,
+            dedupe=False
+        )
+
+    @</text>
+      </register>
+      <register name="6" type="4">
+        <text>log_time()
+    def num_added_to_cart_skus(self, device_guids, aggregation, store_id=None):
+        &quot;&quot;&quot;Return the number of distinct SKUs added to cart in the given date range.
+
+        Args:
+            device_guids (list of str): a list of guids representing devices
+            aggregation (AggregationModel): request parameters
+            store_id (int): The store id to filter by
+
+        Returns:
+            int: number of distinct skus, filtered by product class
+        &quot;&quot;&quot;
+        columns = [ColumnNames.SKU, ColumnNames.CLASS_ID, ColumnNames.STORE_ID]
+        query_results = self.dao.get_facts_by_device_3_month(
+            columns,
+            DeviceFactNames.ADDED_CART_SKU,
+            device_guids,
+            aggregation.start_date,
+            end_date=aggregation.end_date
+        )
+
+        return aggregation.evaluate(
+            query_results,
+            store_id,
+            columns,
+            mapping_function=len,
+            aggregate_column=ColumnNames.SKU
+        )
+
+    def num_keyword_searches(self, device_guids, aggregation, store_id=None):
+        &quot;&quot;&quot;Return the number of distinct keyword searches in the given date range.
+
+        Args:
+            device_guids (list of str): a customer's devices
+            aggregation (AggregationModel): request parameters
+            store_id (int): The store id to filter by
+
+        Returns:
+            int: number of distinct keyword searches
+        &quot;&quot;&quot;
+        columns = [ColumnNames.KEYWORD, ColumnNames.STORE_ID, ColumnNames.CLASS_ID]
+        query_results = self.dao.get_facts_by_device_3_month(
+            columns,
+            DeviceFactNames.KEYWORD_SEARCH,
+            device_guids,
+            aggregation.start_date,
+            end_date=aggregation.end_date
+        )
+
+        return aggregation.evaluate(
+            query_results,
+            store_id,
+            columns,
+            mapping_function=len,
+            aggregate_column=ColumnNames.KEYWORD
+        )
+
+    def num_favorited_skus(self, customer_guids, aggregation, store_id=None):
+        &quot;&quot;&quot;Return the number of distinct favorited SKUs in the given date range.
+
+        Args:
+            customer_guids (list of str): the most recent customer
+            aggregation (AggregationModel): request parameters
+            store_id (int): the store id to filter by
+
+        Returns:
+            int: number of distinct SKUs
+        &quot;&quot;&quot;
+        columns = [ColumnNames.SKU, ColumnNames.CLASS_ID, ColumnNames.STORE_ID]
+        query_results = self.dao.get_facts_by_customer_1_year(
+            columns,
+            CustomerFactNames.FAVORITED_SKU,
+            customer_guids,
+            aggregation.start_date,
+            end_date=aggregation.end_date
+        )
+
+        return aggregation.evaluate(
+            query_results,
+            store_id,
+            columns,
+            mapping_function=len,
+            aggregate_column=ColumnNames.SKU
+        )
+
+    def num_superbrowse_filters(self, device_guids, aggregation, store_id=None):
+        &quot;&quot;&quot;Return the number of distinct filters applied to superbrowse pages.
+
+        Args:
+            device_guids (list of str): a customer's devices
+            aggregation (AggregationModel): request parameters
+            store_id (int): The store id to filter by
+
+        Returns:
+            int: number of filters
+        &quot;&quot;&quot;
+        columns = [ColumnNames.RECENT_FILTER, ColumnNames.CLASS_ID, ColumnNames.STORE_ID]
+        query_results = self.dao.get_facts_by_device_3_month(
+            columns,
+            DeviceFactNames.RECENT_FILTER,
+            device_guids,
+            aggregation.start_date,
+            end_date=aggregation.end_date
+        )
+
+        return aggregation.evaluate(
+            query_results,
+            store_id,
+            columns,
+            mapping_function=len,
+            aggregate_column=ColumnNames.RECENT_FILTER
+        )
+
+    def avg_price_added_to_cart_skus(self, device_guids, aggregation, store_id=None):
+        &quot;&quot;&quot;Return the average price of added to cart skus in the given date range.
+
+        Args:
+            device_guids (list of str): a customer's devices
+            aggregation (AggregationModel): request parameters
+            store_id (int): The store id to filter by
+
+        Returns:
+            float: Average price in dollars and cents, e.g. 10.55
+        &quot;&quot;&quot;
+        columns = [
+            ColumnNames.SKU,
+            ColumnNames.UNIT_PRICE_CENTS,
+            ColumnNames.SKU_QUANTITY,
+            ColumnNames.STORE_ID,
+        ]
+        query_results = self.dao.get_facts_by_device_3_month(
+            columns,
+            DeviceFactNames.ADDED_CART_SKU,
+            device_guids,
+            aggregation.start_date,
+            end_date=aggregation.end_date
+        )
+
+        mapping_function = partial(
+            self._average_line_item_price,
+            unit_price_index=1,
+            quantity_index=2
+        )
+
+        return aggregation.evaluate(
+            query_results,
+            store_id,
+            columns,
+            mapping_function=mapping_function
+        )
+
+    def avg_price_added_to_cart_skus(self, device_guids, aggregation, store_id=None):
+        &quot;&quot;&quot;Return the average price of added to cart skus in the given date range.
+
+        Args:
+            device_guids (list of str): a customer's devices
+            aggregation (AggregationModel): request parameters
+            store_id (int): The store id to filter by
+
+        Returns:
+            float: Average price in dollars and cents, e.g. 10.55
+        &quot;&quot;&quot;
+        columns = [
+            ColumnNames.SKU,
+            ColumnNames.UNIT_PRICE_CENTS,
+            ColumnNames.SKU_QUANTITY,
+            ColumnNames.STORE_ID,
+        ]
+        query_results = self.dao.get_facts_by_device_3_month(
+            columns,
+            DeviceFactNames.ADDED_CART_SKU,
+            device_guids,
+            aggregation.start_date,
+            end_date=aggregation.end_date
+        )
+
+        mapping_function = partial(
+            self._average_line_item_price,
+            unit_price_index=1,
+            quantity_index=2
+        )
+
+        return aggregation.evaluate(
+            query_results,
+            store_id,
+            columns,
+            mapping_function=mapping_function
+        )
+
+    @</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZyb20gYWlyZmxvdwo=</text>
+        <text encoding="base64">ICAgIEBsb2dfdGltZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLS0gU2FtcGxlIDEgcm93IG91dCBvdXQgb2YgZXZlcnkgMTAwIHJvd3MsIG9yIDElCg==</text>
+        <text encoding="base64">ICAgIEBsb2dfdGltZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIEBsb2dfdGltZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>REDUCED</last-search>
+      <last-search>sum</last-search>
       <last-offset />
-      <last-pattern>REDUCED</last-pattern>
-      <last-replace>&quot;</last-replace>
-      <last-substitute>'</last-substitute>
+      <last-pattern>sum</last-pattern>
+      <last-replace>',''),</last-replace>
+      <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>task_id</entry>
-        <entry>aloka</entry>
-        <entry>from</entry>
-        <entry>FROM</entry>
         <entry>ver</entry>
         <entry>grou</entry>
         <entry>{g</entry>
@@ -1307,9 +1570,12 @@
         <entry>num_favorited_skus</entry>
         <entry>fav</entry>
         <entry>REDUCED</entry>
+        <entry>$</entry>
+        <entry>log_time</entry>
+        <entry>num_added</entry>
+        <entry>sum</entry>
       </history-search>
       <history-cmd>
-        <entry>Lw</entry>
         <entry>2</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy8=</entry>
@@ -1318,16 +1584,17 @@
         <entry>wq</entry>
         <entry>e</entry>
         <entry encoding="base64">JzwsJz5zLycvIg==</entry>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>:W</entry>
         <entry>split</entry>
         <entry encoding="base64">JzwsJz5xYQ==</entry>
         <entry>qa</entry>
         <entry>we</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>vsplit</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zLyQvJywnJyksLw==</entry>
+        <entry>vsplit</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
