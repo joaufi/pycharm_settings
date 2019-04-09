@@ -739,8 +739,8 @@
         <mark key="^" line="26" column="19" />
         <mark key="." line="26" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" timestamp="1554773732110">
-        <mark key="'" line="76" column="24" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" timestamp="1554820893214">
+        <mark key="'" line="285" column="66" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/model_service_script.py" timestamp="1529958302165">
         <mark key="[" line="72" column="0" />
@@ -918,7 +918,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="0" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v4/score_inmarket_v4_conversion_7.py" />
       <jump line="133" column="3" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v4/score_inmarket_v4_pdp_8_30.py" />
       <jump line="151" column="3" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
       <jump line="1" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/aggregate_features/1_Get_Viewed_Skus.hql" />
@@ -1018,6 +1017,7 @@
       <jump line="101" column="43" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b/post_enrollment_model.py" />
       <jump line="557" column="47" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/feature-service/README.md" />
+      <jump line="285" column="66" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1030,7 +1030,7 @@
         <text>REDUCED_V1_FEATURES_TO_AGGREGATIONS</text>
       </register>
       <register name="/" type="4">
-        <text>visit</text>
+        <text>channel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyBvdGhlciBpbnN0YWxsZWQgcGFja2FnZXMgLiAuIC4K</text>
@@ -1067,9 +1067,9 @@
       </register>
     </registers>
     <search>
-      <last-search>visit</last-search>
+      <last-search>channel</last-search>
       <last-offset />
-      <last-pattern>visit</last-pattern>
+      <last-pattern>channel</last-pattern>
       <last-replace>',''),</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1077,7 +1077,6 @@
     </search>
     <history>
       <history-search>
-        <entry>num_added</entry>
         <entry>sum</entry>
         <entry>order_total</entry>
         <entry>function</entry>
@@ -1097,6 +1096,7 @@
         <entry>num</entry>
         <entry>visits</entry>
         <entry>visit</entry>
+        <entry>channel</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
