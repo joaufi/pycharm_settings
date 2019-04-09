@@ -93,12 +93,12 @@
         <mark key="." line="32" column="6" />
         <mark key="^" line="32" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b/post_enrollment_model.py" timestamp="1554776799404">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b/post_enrollment_model.py" timestamp="1554818884726">
         <mark key="'" line="101" column="43" />
-        <mark key="[" line="103" column="9" />
-        <mark key="]" line="103" column="7" />
-        <mark key="^" line="103" column="7" />
-        <mark key="." line="103" column="7" />
+        <mark key="[" line="149" column="38" />
+        <mark key="]" line="149" column="59" />
+        <mark key="^" line="149" column="59" />
+        <mark key="." line="149" column="59" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_v2_batch_scoring/1_Get_Fav.hql" timestamp="1549048015592">
         <mark key="[" line="5" column="20" />
@@ -326,7 +326,12 @@
         <mark key="^" line="0" column="71691" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/README.md" timestamp="1554815658553" />
+      <file name="$USER_HOME$/repositories/bidsift/README.md" timestamp="1554818648962">
+        <mark key="[" line="252" column="37" />
+        <mark key="]" line="252" column="45" />
+        <mark key="^" line="252" column="45" />
+        <mark key="." line="252" column="45" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v4/2_Merge_Feature_v4_conversion_7.hql" timestamp="1551984435931">
         <mark key="[" line="314" column="54" />
         <mark key="]" line="314" column="53" />
@@ -683,14 +688,14 @@
         <mark key="." line="16" column="49" />
         <mark key="^" line="16" column="49" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/README.md" timestamp="1554817120624">
+      <file name="$USER_HOME$/repositories/scoring-library/README.md" timestamp="1554818640693">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="74" column="281" />
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/controller.py" timestamp="1554814829482">
-        <mark key="'" line="164" column="0" />
+        <mark key="'" line="163" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.jql" timestamp="1529949914712">
         <mark key="[" line="5" column="7" />
@@ -1015,14 +1020,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/repositories/feature-service/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>REDUCED_V1_FEATURES_TO_AGGREGATIONS</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>You can run these in your container via `docker-compose run test`.</text>
+        <text>REDUCED_V1_FEATURES_TO_AGGREGATIONS</text>
       </register>
       <register name="/" type="4">
         <text>visit</text>
