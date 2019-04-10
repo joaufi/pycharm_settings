@@ -833,6 +833,9 @@
         <mark key="." line="33" column="69" />
         <mark key="^" line="33" column="69" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/merge_features.hql" timestamp="1554909035765">
+        <mark key="'" line="264" column="32" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_28.json" timestamp="1554144768064">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="722" />
@@ -1065,12 +1068,12 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1554908703292">
-        <mark key="'" line="168" column="8" />
-        <mark key="[" line="69" column="29" />
-        <mark key="]" line="69" column="49" />
-        <mark key="." line="69" column="49" />
-        <mark key="^" line="69" column="49" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1554910311778">
+        <mark key="'" line="178" column="8" />
+        <mark key="[" line="42" column="59" />
+        <mark key="]" line="42" column="70" />
+        <mark key="." line="42" column="70" />
+        <mark key="^" line="42" column="70" />
       </file>
       <file name="$USER_HOME$/repositories/feature-service/README.md" timestamp="1554815868593">
         <mark key="'" line="0" column="0" />
@@ -1123,17 +1126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/Merge_Features.hql" />
-      <jump line="80" column="4" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/Merge_Features.hql" />
-      <jump line="95" column="67" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/Merge_Features.hql" />
-      <jump line="111" column="59" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/Merge_Features.hql" />
-      <jump line="148" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/Merge_Features.hql" />
-      <jump line="172" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/Merge_Features.hql" />
-      <jump line="253" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/Merge_Features.hql" />
-      <jump line="266" column="45" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/Merge_Features.hql" />
-      <jump line="47" column="57" filename="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v4/inmarket_v4_utility.py" />
-      <jump line="75" column="9" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
-      <jump line="90" column="9" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
       <jump line="66" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" />
       <jump line="185" column="12" filename="$USER_HOME$/repositories/airflow-dags/rum_dag.py" />
       <jump line="28" column="90" filename="$USER_HOME$/repositories/airflow-dags/rum_dag.py" />
@@ -1223,67 +1215,76 @@
       <jump line="29" column="40" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/influx_reporter_operator.py" />
       <jump line="152" column="43" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
       <jump line="168" column="8" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
+      <jump line="97" column="11" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/merge_features.hql" />
+      <jump line="164" column="49" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/merge_features.hql" />
+      <jump line="165" column="48" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/merge_features.hql" />
+      <jump line="170" column="27" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/merge_features.hql" />
+      <jump line="212" column="19" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/merge_features.hql" />
+      <jump line="213" column="20" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/merge_features.hql" />
+      <jump line="218" column="7" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/merge_features.hql" />
+      <jump line="245" column="20" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/merge_features.hql" />
+      <jump line="246" column="19" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/merge_features.hql" />
+      <jump line="251" column="6" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/merge_features.hql" />
+      <jump line="264" column="32" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/merge_features.hql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>get_b2b_device_map</text>
+        <text encoding="base64">ICsgIl9qYWZpc2hlciIgIyBUT0RPOiBDaGFuZ2UgYmVmb3JlIGRlcGxveSEhIQ==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>get_b2b_device_map</text>
+        <text encoding="base64">ICsgIl9qYWZpc2hlciIgIyBUT0RPOiBDaGFuZ2UgYmVmb3JlIGRlcGxveSEhIQ==</text>
       </register>
       <register name="/" type="4">
-        <text>score_model</text>
+        <text>feature_order</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEFQUF9QQUlEID0gJ0FwcCAtIFBhaWQnCiAgICBBUFBfRlJFRSA9ICdBcHAgLSBGcmVlJwogICAgRElTUExBWV9UUkFOU0FDVElPTkFMID0gJ0Rpc3BsYXkgLSBUcmFuc2FjdGlvbmFsJwogICAgU09DSUFMX1RSQU5TQUNUSU9OQUwgPSAnU29jaWFsIC0gVHJhbnNhY3Rpb25hbCcKICAgIFBBSURfU0VBUkNIX1RSQU5TQUNUSU9OQUwgPSAnUGFpZCBTZWFyY2ggLSBUcmFuc2FjdGlvbmFsJwogICAgUEFJRF9TRUFSQ0hfQUNRVUlTSVRJT04gPSAnUGFpZCBTZWFyY2ggLSBBY3F1aXNpdGlvbicKICAgIE9OTElORV9WSURFTyA9ICdPbmxpbmUgVmlkZW8nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLS0gU2FtcGxlIDEgcm93IG91dCBvdXQgb2YgZXZlcnkgMTAwIHJvd3MsIG9yIDElCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLS0gb3RoZXIgc3RvcmVfaWRzIGJ1dCBpdCBzaG91bGQgc3RpbGwgYmUgZW5vdWdoIGZvciB1c2VmdWwgYW5kIHNpZ25pZmljYW50IG1ldHJpY3MuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndXNlcl9sZXZlbF9iaWRkaW5nX3tzdG9yZV9pZH1fe3Zpc2l0b3JfdHlwZX1fRGVza3RvcF9BcHBOZXh1c19MaW5SZWcnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLS0gIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvZWZmaWNpZW50PTAuMDk5OSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLS0gU2FtcGxlIDEgcm93IG91dCBvdXQgb2YgZXZlcnkgMTAwIHJvd3MsIG9yIDElCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvZWZmaWNpZW50PTAuMDYxOSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndXNlcl9sZXZlbF9iaWRkaW5nX3tzdG9yZV9pZH1fe3Zpc2l0b3JfdHlwZX1fRGVza3RvcF9BcHBOZXh1c19MaW5SZWcnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvZWZmaWNpZW50PTAuNDUyNiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvZWZmaWNpZW50PTAuMDk5OSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgc2VsZi5sb2cuaW5mbygKICAgICAgICAgICAgInt1cGxvYWRfY291bnR9ICd7bWV0cmljfScgbWV0cmljcyB3ZXJlIHVwbG9hZGVkLiIuZm9ybWF0KAogICAgICAgICAgICAgICAgdXBsb2FkX2NvdW50PXVwbG9hZF9jb3VudCwgbWV0cmljPXNlbGYubWV0cmljCiAgICAgICAgICAgICkKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvZWZmaWNpZW50PTAuMDYxOSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvZWZmaWNpZW50PTAuNDUyNiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgc2VsZi5sb2cuaW5mbygKICAgICAgICAgICAgInt1cGxvYWRfY291bnR9ICd7bWV0cmljfScgbWV0cmljcyB3ZXJlIHVwbG9hZGVkLiIuZm9ybWF0KAogICAgICAgICAgICAgICAgdXBsb2FkX2NvdW50PXVwbG9hZF9jb3VudCwgbWV0cmljPXNlbGYubWV0cmljCiAgICAgICAgICAgICkKICAgICAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfcmFpc2Vfb3JfbG9nX3VwbG9hZF9jb3VudChzZWxmLCB1cGxvYWRfY291bnQpOgogICAgICAgIGlmIHVwbG9hZF9jb3VudCA9PSAwOgogICAgICAgICAgICBleGNlcHRpb24gPSBFeGNlcHRpb24oIk5vIG1ldHJpY3Mgd2VyZSB1cGxvYWRlZCB0byBJbmZsdXhEQi4iKQogICAgICAgICAgICBpZiBzZWxmLnF1aWV0ID09IEZhbHNlOgogICAgICAgICAgICAgICAgcmFpc2UgZXhjZXB0aW9uCiAgICAgICAgICAgIHNlbGYubG9nLndhcm4oZXhjZXB0aW9uKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>score_model</last-search>
+      <last-search>feature_order</last-search>
       <last-offset />
-      <last-pattern>score_model</last-pattern>
+      <last-pattern>feature_order</last-pattern>
       <last-replace>',''),</last-replace>
       <last-substitute>$</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>function</entry>
-        <entry>_sum_line</entry>
         <entry>_line</entry>
         <entry>sum_added</entry>
         <entry>sum_price_added</entry>
@@ -1302,6 +1303,8 @@
         <entry>channel</entry>
         <entry>PRICED_S</entry>
         <entry>score_model</entry>
+        <entry>order</entry>
+        <entry>feature_order</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
