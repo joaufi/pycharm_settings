@@ -176,10 +176,10 @@
         <mark key="^" line="6" column="261" />
         <mark key="." line="6" column="261" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b/post_enrollment_model.py" timestamp="1555097089837">
-        <mark key="[" line="104" column="36" />
-        <mark key="]" line="104" column="62" />
-        <mark key="." line="104" column="62" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b/post_enrollment_model.py" timestamp="1555097582791">
+        <mark key="[" line="103" column="30" />
+        <mark key="]" line="103" column="30" />
+        <mark key="." line="103" column="30" />
         <mark key="^" line="104" column="62" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/model_storage_client.py" timestamp="1552919373352">
@@ -290,11 +290,12 @@
         <mark key="." line="125" column="32" />
         <mark key="^" line="125" column="32" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1555014300162">
-        <mark key="[" line="252" column="9" />
-        <mark key="]" line="253" column="0" />
-        <mark key="^" line="253" column="0" />
-        <mark key="." line="253" column="0" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1555098239398">
+        <mark key="'" line="501" column="36" />
+        <mark key="[" line="722" column="76" />
+        <mark key="]" line="723" column="7" />
+        <mark key="^" line="723" column="7" />
+        <mark key="." line="723" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1550245634157">
         <mark key="[" line="86" column="0" />
@@ -348,11 +349,10 @@
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/core/constants.py" timestamp="1550266386476">
-        <mark key="[" line="32" column="49" />
-        <mark key="]" line="32" column="45" />
-        <mark key="." line="32" column="45" />
-        <mark key="^" line="32" column="45" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/core/constants.py" timestamp="1555098042772">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/aggregate_features/Get_B2B_Deviceguid.hql" timestamp="1553885320139">
         <mark key="[" line="17" column="23" />
@@ -1154,9 +1154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="42" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
-      <jump line="54" column="47" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/influx_reporter_operator.py" />
-      <jump line="88" column="7" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/influx_reporter_operator.py" />
       <jump line="112" column="3" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/influx_reporter_operator.py" />
       <jump line="31" column="8" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/influx_reporter_operator.py" />
       <jump line="1985" column="6" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
@@ -1254,59 +1251,62 @@
       <jump line="280" column="104" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="20" column="14" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="113" column="9" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="549" column="19" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="501" column="36" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>IS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IEFyZSByZXN1bHRzIGluIGNlbnRzPwo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>IS</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>price</text>
+        <text>avg_price_v</text>
       </register>
-      <register name="0" type="4">
-        <text>, lookback=self.THIRTY_DAYS_IN_MILLISECONDS)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IEFyZSByZXN1bHRzIGluIGNlbnRzPwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBDaGVjayBjb2x1bW4gbmFtZXMgYW5kIGNoYW5nZQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBDaGVjayBjb2x1bW4gbmFtZXMgYW5kIGNoYW5nZQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIERJU1BMQVlfUFJJQ0UgPSAnZGlzcGxheV9wcmljZScK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IEZpZ3VyZSBvdXQgd2hhdCB0aGlzIGZlYXR1cmUgaXMgdHJ5aW5nIHRvIGJlCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBMZWdhY3kgTmFtZTogVmlzaXRGcmVxdWVuY3k5MGRfQXBwCgo=</text>
       </register>
-      <register name="2" type="8">
+      <register name="6" type="8">
         <text>return
 return</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jdXN0b21lcl9wbGF0Zm9ybV92aXNpdHMoKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLS0gb3RoZXIgc3RvcmVfaWRzIGJ1dCBpdCBzaG91bGQgc3RpbGwgYmUgZW5vdWdoIGZvciB1c2VmdWwgYW5kIHNpZ25pZmljYW50IG1ldHJpY3MuCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLS0gIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLS0gU2FtcGxlIDEgcm93IG91dCBvdXQgb2YgZXZlcnkgMTAwIHJvd3MsIG9yIDElCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndXNlcl9sZXZlbF9iaWRkaW5nX3tzdG9yZV9pZH1fe3Zpc2l0b3JfdHlwZX1fRGVza3RvcF9BcHBOZXh1c19MaW5SZWcnLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvZWZmaWNpZW50PTAuMDk5OSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLS0gb3RoZXIgc3RvcmVfaWRzIGJ1dCBpdCBzaG91bGQgc3RpbGwgYmUgZW5vdWdoIGZvciB1c2VmdWwgYW5kIHNpZ25pZmljYW50IG1ldHJpY3MuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>price</last-search>
+      <last-search>avg_price_v</last-search>
       <last-offset />
-      <last-pattern>price</last-pattern>
+      <last-pattern>avg_price_v</last-pattern>
       <last-replace>',''),</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1314,8 +1314,6 @@ return</text>
     </search>
     <history>
       <history-search>
-        <entry>num_viewed_skus</entry>
-        <entry>sum_price_viewed</entry>
         <entry>price_viewed</entry>
         <entry>price_added</entry>
         <entry>num_purchased</entry>
@@ -1334,6 +1332,8 @@ return</text>
         <entry>return</entry>
         <entry>priced</entry>
         <entry>price</entry>
+        <entry>sum_price_viewed</entry>
+        <entry>avg_price_v</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
