@@ -290,12 +290,12 @@
         <mark key="." line="125" column="32" />
         <mark key="^" line="125" column="32" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1555098239398">
-        <mark key="'" line="501" column="36" />
-        <mark key="[" line="722" column="76" />
-        <mark key="]" line="723" column="7" />
-        <mark key="^" line="723" column="7" />
-        <mark key="." line="723" column="7" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1555099886061">
+        <mark key="'" line="564" column="53" />
+        <mark key="[" line="337" column="11" />
+        <mark key="]" line="338" column="41" />
+        <mark key="^" line="338" column="41" />
+        <mark key="." line="338" column="41" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1550245634157">
         <mark key="[" line="86" column="0" />
@@ -1154,11 +1154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="3" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/influx_reporter_operator.py" />
-      <jump line="31" column="8" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/influx_reporter_operator.py" />
-      <jump line="1985" column="6" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
-      <jump line="20" column="57" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
-      <jump line="191" column="2" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
       <jump line="23" column="3" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
       <jump line="76" column="24" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="24" column="30" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b/post_enrollment_model.py" />
@@ -1191,7 +1186,6 @@
       <jump line="317" column="44" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="381" column="25" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="623" column="44" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
-      <jump line="293" column="18" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="294" column="35" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="762" column="73" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="790" column="78" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
@@ -1254,16 +1248,22 @@
       <jump line="17" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="549" column="19" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="501" column="36" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="231" column="61" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="293" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="521" column="43" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="661" column="15" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="828" column="9" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="563" column="53" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IEFyZSByZXN1bHRzIGluIGNlbnRzPwo=</text>
+      <register name="&quot;" type="4">
+        <text>UNIT_PRICE_CENTS</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>UNIT_PRICE_CENTS</text>
       </register>
       <register name="/" type="4">
         <text>avg_price_v</text>
@@ -1272,32 +1272,32 @@
         <text encoding="base64">ICAgICAgICAjIFRPRE86IEFyZSByZXN1bHRzIGluIGNlbnRzPwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBDaGVjayBjb2x1bW4gbmFtZXMgYW5kIGNoYW5nZQo=</text>
+        <text encoding="base64">ICAgICAgICBtYXBwaW5nX2Z1bmN0aW9uID0gcGFydGlhbChzZWxmLl9zdW0sIHJlc3VsdHNfaW5fY2VudHM9VHJ1ZSkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBDaGVjayBjb2x1bW4gbmFtZXMgYW5kIGNoYW5nZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIERJU1BMQVlfUFJJQ0UgPSAnZGlzcGxheV9wcmljZScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBDaGVjayBjb2x1bW4gbmFtZXMgYW5kIGNoYW5nZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IEZpZ3VyZSBvdXQgd2hhdCB0aGlzIGZlYXR1cmUgaXMgdHJ5aW5nIHRvIGJlCg==</text>
+        <text encoding="base64">ICAgIERJU1BMQVlfUFJJQ0UgPSAnZGlzcGxheV9wcmljZScK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IEZpZ3VyZSBvdXQgd2hhdCB0aGlzIGZlYXR1cmUgaXMgdHJ5aW5nIHRvIGJlCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBMZWdhY3kgTmFtZTogVmlzaXRGcmVxdWVuY3k5MGRfQXBwCgo=</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>return
 return</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jdXN0b21lcl9wbGF0Zm9ybV92aXNpdHMoKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLS0gb3RoZXIgc3RvcmVfaWRzIGJ1dCBpdCBzaG91bGQgc3RpbGwgYmUgZW5vdWdoIGZvciB1c2VmdWwgYW5kIHNpZ25pZmljYW50IG1ldHJpY3MuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1314,9 +1314,6 @@ return</text>
     </search>
     <history>
       <history-search>
-        <entry>price_viewed</entry>
-        <entry>price_added</entry>
-        <entry>num_purchased</entry>
         <entry>price_purchased</entry>
         <entry>num_fav</entry>
         <entry>num</entry>
@@ -1333,6 +1330,9 @@ return</text>
         <entry>priced</entry>
         <entry>price</entry>
         <entry>sum_price_viewed</entry>
+        <entry>sum_price</entry>
+        <entry>max</entry>
+        <entry>max_</entry>
         <entry>avg_price_v</entry>
       </history-search>
       <history-cmd>
@@ -1340,7 +1340,6 @@ return</text>
         <entry encoding="base64">JzwsJz5zLyIvJy8=</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9pZw==</entry>
         <entry>w:w</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLycvIg==</entry>
         <entry>:W</entry>
         <entry>split</entry>
@@ -1355,6 +1354,7 @@ return</text>
         <entry>qa</entry>
         <entry>vsplit</entry>
         <entry>W</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
