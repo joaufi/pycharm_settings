@@ -176,6 +176,12 @@
         <mark key="^" line="6" column="261" />
         <mark key="." line="6" column="261" />
       </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b/post_enrollment_model.py" timestamp="1555097089837">
+        <mark key="[" line="104" column="36" />
+        <mark key="]" line="104" column="62" />
+        <mark key="." line="104" column="62" />
+        <mark key="^" line="104" column="62" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/model_storage_client.py" timestamp="1552919373352">
         <mark key="'" line="147" column="8" />
         <mark key="[" line="147" column="0" />
@@ -398,7 +404,7 @@
         <mark key="^" line="9" column="33" />
         <mark key="." line="9" column="33" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utility/transformation_functions.py" timestamp="1544636723473">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/utility/transformation_functions.py" timestamp="1555096693845">
         <mark key="'" line="0" column="28" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -587,6 +593,12 @@
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/controller.py" timestamp="1554843363050">
         <mark key="'" line="164" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/event_business_model.py" timestamp="1555097075590">
+        <mark key="[" line="125" column="35" />
+        <mark key="]" line="125" column="35" />
+        <mark key="^" line="132" column="81" />
+        <mark key="." line="125" column="35" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.jql" timestamp="1529949914712">
         <mark key="[" line="5" column="7" />
         <mark key="]" line="5" column="39" />
@@ -598,6 +610,9 @@
         <mark key="]" line="48" column="69" />
         <mark key="^" line="19" column="61" />
         <mark key="." line="19" column="61" />
+      </file>
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1555097343554">
+        <mark key="'" line="113" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/local.default.py" timestamp="1539198476925">
         <mark key="[" line="124" column="0" />
@@ -1053,12 +1068,12 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1550846560548">
-        <mark key="'" line="84" column="29" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="68" column="45" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1555096476471">
+        <mark key="'" line="281" column="104" />
+        <mark key="[" line="278" column="15" />
+        <mark key="]" line="282" column="8" />
+        <mark key="." line="282" column="8" />
+        <mark key="^" line="282" column="8" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/score_in_market_v2_pyspark.py" timestamp="1549038530788">
         <mark key="'" line="88" column="9" />
@@ -1091,11 +1106,6 @@
         <mark key="]" line="42" column="70" />
         <mark key="." line="42" column="70" />
         <mark key="^" line="42" column="70" />
-      </file>
-      <file name="$USER_HOME$/repositories/feature-service/README.md" timestamp="1554815868593">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="25" column="2" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/queries/hive/in_market_batch_scoring/populate_facts_tables/viewed_sku_by_device_guid.sql" timestamp="1532508496490">
         <mark key="[" line="31" column="0" />
@@ -1144,17 +1154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="22" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
-      <jump line="100" column="10" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
-      <jump line="110" column="8" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
-      <jump line="112" column="21" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
-      <jump line="113" column="33" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
-      <jump line="117" column="29" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
-      <jump line="126" column="43" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
-      <jump line="128" column="10" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
-      <jump line="129" column="23" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
-      <jump line="138" column="32" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
-      <jump line="158" column="41" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
       <jump line="159" column="42" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
       <jump line="54" column="47" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/influx_reporter_operator.py" />
       <jump line="88" column="7" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/influx_reporter_operator.py" />
@@ -1244,58 +1243,70 @@
       <jump line="132" column="49" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="136" column="21" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="137" column="43" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
+      <jump line="238" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
+      <jump line="239" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
+      <jump line="242" column="43" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
+      <jump line="245" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
+      <jump line="246" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
+      <jump line="249" column="39" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
+      <jump line="259" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
+      <jump line="280" column="104" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
+      <jump line="20" column="14" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
+      <jump line="113" column="9" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>IS</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>IS</text>
       </register>
       <register name="/" type="4">
-        <text>added</text>
+        <text>price</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGVmIHDMts2KzL/Nm82dzJvNlMymzJzMoWzMuM2bzIvMjcy/zL/Nl8yDzYDMksyHzIHMnMyzzLDMqM2ZzKzMp8ydZcy3zZvMk8yRzZzMscyXzKbNmsy7zK/NhcyszZrMnsytzKPMn8ygYcy2zIDMuc2azJbNjnPMt82BzJrMlM2DzJXMiM2XzZvMjcyQzZfMlc2gzKXMpcy7zKNlzLfNi8yAzZfMhc2KzIrMjcyzzZrMnsyzzJzMoc2czKbNh1/Mtc2EzYTMk82AzJLMi82GzZDNgMyJzILMkc2BzaDNjMyhzYfMnM2UzLzNicyWzJfMpcyfa8y1zInNg8yFzJDNmM2GzJPNgMyFzJ3MmM2UzKbMq8ytzK3Nhc2NzJbMl2nMtcyazJTMgcyFzITMgM2BzYPNoMyPzYTMosywzLHNms2HzJzNh8ymzJzMoGzMtc2YzJDMvM2VzZRszLfNkMyJzJHMms2gzZDMkMyFzZjMm82RzIDMg82dzI3MrMyrzJjMu8yZzKjNh8yqzZTMll/MuMyQzYbNjMyPzYHNm8yLzYzNl8yZzK3Mo8yfzKfMs82FzJfMrcywzJzMsMyxbcy3zITMv8ySzJLNhM2DzYTMis2KzZ3Mk82VzJ7MsM2HzKTMps2azZnMqs2HZcy0zIHMisyOzL/Mm8y+zIbMh8yrKCk6Cg==</text>
+      <register name="0" type="4">
+        <text>, lookback=self.THIRTY_DAYS_IN_MILLISECONDS)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMZWdhY3kgTmFtZTogVmlzaXRGcmVxdWVuY3k5MGRfQXBwCgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLS0gb3RoZXIgc3RvcmVfaWRzIGJ1dCBpdCBzaG91bGQgc3RpbGwgYmUgZW5vdWdoIGZvciB1c2VmdWwgYW5kIHNpZ25pZmljYW50IG1ldHJpY3MuCg==</text>
+      <register name="2" type="8">
+        <text>return
+return</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLS0gIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jdXN0b21lcl9wbGF0Zm9ybV92aXNpdHMoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLS0gU2FtcGxlIDEgcm93IG91dCBvdXQgb2YgZXZlcnkgMTAwIHJvd3MsIG9yIDElCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndXNlcl9sZXZlbF9iaWRkaW5nX3tzdG9yZV9pZH1fe3Zpc2l0b3JfdHlwZX1fRGVza3RvcF9BcHBOZXh1c19MaW5SZWcnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLS0gb3RoZXIgc3RvcmVfaWRzIGJ1dCBpdCBzaG91bGQgc3RpbGwgYmUgZW5vdWdoIGZvciB1c2VmdWwgYW5kIHNpZ25pZmljYW50IG1ldHJpY3MuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvZWZmaWNpZW50PTAuMDk5OSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLS0gIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvZWZmaWNpZW50PTAuMDYxOSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLS0gU2FtcGxlIDEgcm93IG91dCBvdXQgb2YgZXZlcnkgMTAwIHJvd3MsIG9yIDElCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvZWZmaWNpZW50PTAuNDUyNiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndXNlcl9sZXZlbF9iaWRkaW5nX3tzdG9yZV9pZH1fe3Zpc2l0b3JfdHlwZX1fRGVza3RvcF9BcHBOZXh1c19MaW5SZWcnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgc2VsZi5sb2cuaW5mbygKICAgICAgICAgICAgInt1cGxvYWRfY291bnR9ICd7bWV0cmljfScgbWV0cmljcyB3ZXJlIHVwbG9hZGVkLiIuZm9ybWF0KAogICAgICAgICAgICAgICAgdXBsb2FkX2NvdW50PXVwbG9hZF9jb3VudCwgbWV0cmljPXNlbGYubWV0cmljCiAgICAgICAgICAgICkKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvZWZmaWNpZW50PTAuMDk5OSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>added</last-search>
+      <last-search>price</last-search>
       <last-offset />
-      <last-pattern>added</last-pattern>
+      <last-pattern>price</last-pattern>
       <last-replace>',''),</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1303,10 +1314,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_line</entry>
-        <entry>sum_added</entry>
-        <entry>sum_price_added</entry>
-        <entry>num_purchased_skus</entry>
         <entry>num_viewed_skus</entry>
         <entry>sum_price_viewed</entry>
         <entry>price_viewed</entry>
@@ -1323,6 +1330,10 @@
         <entry>order</entry>
         <entry>feature_order</entry>
         <entry>added</entry>
+        <entry>ninety</entry>
+        <entry>return</entry>
+        <entry>priced</entry>
+        <entry>price</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -1336,13 +1347,13 @@
         <entry encoding="base64">JzwsJz5xYQ==</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zLyQvJywnJyksLw==</entry>
-        <entry>vsplit</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>we</entry>
         <entry>e</entry>
         <entry>:w</entry>
         <entry>qa</entry>
+        <entry>vsplit</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
