@@ -290,12 +290,11 @@
         <mark key="." line="125" column="32" />
         <mark key="^" line="125" column="32" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1555099886061">
-        <mark key="'" line="564" column="53" />
-        <mark key="[" line="337" column="11" />
-        <mark key="]" line="338" column="41" />
-        <mark key="^" line="338" column="41" />
-        <mark key="." line="338" column="41" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1555333993331">
+        <mark key="'" line="344" column="40" />
+        <mark key="[" line="557" column="0" />
+        <mark key="]" line="557" column="0" />
+        <mark key="." line="557" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1550245634157">
         <mark key="[" line="86" column="0" />
@@ -1154,7 +1153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="3" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
       <jump line="76" column="24" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="24" column="30" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b/post_enrollment_model.py" />
       <jump line="103" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b/post_enrollment_model.py" />
@@ -1254,10 +1252,11 @@
       <jump line="661" column="15" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="828" column="9" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="563" column="53" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="344" column="40" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>UNIT_PRICE_CENTS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IEFyZSByZXN1bHRzIGluIGNlbnRzPwo=</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -1266,47 +1265,47 @@
         <text>UNIT_PRICE_CENTS</text>
       </register>
       <register name="/" type="4">
-        <text>avg_price_v</text>
+        <text>viewed_sku</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIFRPRE86IEFyZSByZXN1bHRzIGluIGNlbnRzPwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBwaW5nX2Z1bmN0aW9uID0gcGFydGlhbChzZWxmLl9zdW0sIHJlc3VsdHNfaW5fY2VudHM9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IEFyZSByZXN1bHRzIGluIGNlbnRzPwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBDaGVjayBjb2x1bW4gbmFtZXMgYW5kIGNoYW5nZQo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IEFyZSB0aGVzZSBjb2x1bW5zIGNvcnJlY3Q/Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBDaGVjayBjb2x1bW4gbmFtZXMgYW5kIGNoYW5nZQo=</text>
+        <text encoding="base64">ICAgICAgICBtYXBwaW5nX2Z1bmN0aW9uID0gcGFydGlhbChzZWxmLl9zdW0sIHJlc3VsdHNfaW5fY2VudHM9VHJ1ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIERJU1BMQVlfUFJJQ0UgPSAnZGlzcGxheV9wcmljZScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBDaGVjayBjb2x1bW4gbmFtZXMgYW5kIGNoYW5nZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IEZpZ3VyZSBvdXQgd2hhdCB0aGlzIGZlYXR1cmUgaXMgdHJ5aW5nIHRvIGJlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBDaGVjayBjb2x1bW4gbmFtZXMgYW5kIGNoYW5nZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMZWdhY3kgTmFtZTogVmlzaXRGcmVxdWVuY3k5MGRfQXBwCgo=</text>
+        <text encoding="base64">ICAgIERJU1BMQVlfUFJJQ0UgPSAnZGlzcGxheV9wcmljZScK</text>
       </register>
-      <register name="7" type="8">
-        <text>return
-return</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IEZpZ3VyZSBvdXQgd2hhdCB0aGlzIGZlYXR1cmUgaXMgdHJ5aW5nIHRvIGJlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jdXN0b21lcl9wbGF0Zm9ybV92aXNpdHMoKQo=</text>
+        <text encoding="base64">ICAgICAgICBMZWdhY3kgTmFtZTogVmlzaXRGcmVxdWVuY3k5MGRfQXBwCgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="8">
+        <text>return
+return</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>avg_price_v</last-search>
+      <last-search>viewed_sku</last-search>
       <last-offset />
-      <last-pattern>avg_price_v</last-pattern>
+      <last-pattern>viewed_sku</last-pattern>
       <last-replace>',''),</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1314,7 +1313,6 @@ return</text>
     </search>
     <history>
       <history-search>
-        <entry>price_purchased</entry>
         <entry>num_fav</entry>
         <entry>num</entry>
         <entry>visits</entry>
@@ -1334,6 +1332,7 @@ return</text>
         <entry>max</entry>
         <entry>max_</entry>
         <entry>avg_price_v</entry>
+        <entry>viewed_sku</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
