@@ -152,11 +152,11 @@
         <mark key="^" line="94" column="57" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/scribe_client.py" timestamp="1555465833402">
-        <mark key="[" line="151" column="63" />
-        <mark key="]" line="151" column="72" />
-        <mark key="." line="151" column="72" />
-        <mark key="^" line="151" column="72" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/scribe_client.py" timestamp="1555467639826">
+        <mark key="[" line="74" column="85" />
+        <mark key="]" line="74" column="92" />
+        <mark key="." line="74" column="92" />
+        <mark key="^" line="74" column="92" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/inmarket_v2/pyspark_score_in_market_v2.py" timestamp="1548032780885">
         <mark key="'" line="99" column="18" />
@@ -759,11 +759,11 @@
         <mark key="^" line="269" column="8" />
         <mark key="." line="269" column="8" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/client/tracking_service_client.py" timestamp="1555464475531">
-        <mark key="'" line="22" column="21" />
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="16" column="37" />
-        <mark key="." line="16" column="37" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/client/tracking_service_client.py" timestamp="1555467467574">
+        <mark key="'" line="20" column="21" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
         <mark key="^" line="16" column="37" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/custinfolib_business_model.py" timestamp="1550846566216">
@@ -1297,13 +1297,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BidsiftRequest</text>
+        <text>None</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>BidsiftRequest</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text>SCRIBE_TR</text>
@@ -1312,31 +1312,31 @@
         <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHRyYWNlYmFjazsgcHJpbnQodHJhY2ViYWNrLmZvcm1hdF9leGMoKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZG9uZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIndlIHBvc3RlZCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiSEVZIFdFIFRSSUVEIFRPIFNVQk1JVCEiICsgc3RyKHNlbCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwYXlsb2FkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiU1VCTUlUIFRSSUdHRVJFRCIpCiAgICAgICAgcHJpbnQocmVxdWVzdF91cmwpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnZlcnRfdG9fdGltZXpvbmUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZG9uZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBvcmRlcnM6IAogICAgOnJldHVybjogCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiSEVZIFdFIFRSSUVEIFRPIFNVQk1JVCEiICsgc3RyKHNlbCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcl90aW1lc3RhbXBzID0gZ2V0X3ZhbHVlc19hdF9rZXkoY3VzdG9tZXJfaGlzdG9yeS5vcmRlcnMsIEtleS5PUkRFUl9USU1FU1RBTVApCgogICAgICAgIGxhc3Rfb3JkZXJfdGltZXN0YW1wID0gMAogICAgICAgIGlmIG9yZGVyX3RpbWVzdGFtcHM6CiAgICAgICAgICAgIGxhc3Rfb3JkZXJfdGltZXN0YW1wID0gY29udmVydF90b190aW1lem9uZShtYXgob3JkZXJfdGltZXN0YW1wcykpCgogICAgICAgIHJldHVybiBtb250aHNfc2luY2UobGFzdF9vcmRlcl90aW1lc3RhbXAsIDEyNykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
