@@ -431,7 +431,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" timestamp="1555956962891" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" timestamp="1555958054243">
+        <mark key="[" line="60" column="12" />
+        <mark key="]" line="60" column="16" />
+        <mark key="." line="60" column="16" />
+        <mark key="^" line="60" column="16" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/tests/aggregation/mocks/mock_dao.py" timestamp="1555336865903">
         <mark key="'" line="52" column="12" />
         <mark key="[" line="120" column="0" />
@@ -1357,14 +1362,14 @@
       <jump line="119" column="20" filename="$USER_HOME$/repositories/bidsift/bidsift/scribe_client.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvZWZmaWNpZW50PTAuMDAwNSwK</text>
+      <register name="&quot;" type="4">
+        <text>True</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>current</text>
