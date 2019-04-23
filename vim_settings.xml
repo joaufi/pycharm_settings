@@ -302,7 +302,7 @@
         <mark key="." line="36" column="41" />
         <mark key="^" line="36" column="41" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/configured_hive_operator.py" timestamp="1553887627966">
+      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/configured_hive_operator.py" timestamp="1556049363922">
         <mark key="[" line="137" column="46" />
         <mark key="]" line="137" column="62" />
         <mark key="." line="137" column="62" />
@@ -431,11 +431,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" timestamp="1555958595466">
-        <mark key="[" line="60" column="12" />
-        <mark key="]" line="60" column="16" />
-        <mark key="." line="60" column="16" />
-        <mark key="^" line="60" column="16" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" timestamp="1556051103750">
+        <mark key="'" line="47" column="16" />
+        <mark key="[" line="42" column="14" />
+        <mark key="]" line="42" column="13" />
+        <mark key="." line="42" column="13" />
+        <mark key="^" line="42" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/tests/aggregation/mocks/mock_dao.py" timestamp="1555336865903">
         <mark key="'" line="52" column="12" />
@@ -652,9 +653,6 @@
         <mark key="^" line="0" column="370" />
         <mark key="." line="0" column="370" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555525415058">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/code.py" timestamp="1547792813061">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -665,12 +663,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1555609047374">
-        <mark key="'" line="0" column="37" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="101" column="70" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1555609399770">
@@ -709,6 +701,12 @@
         <mark key="]" line="66" column="0" />
         <mark key="^" line="62" column="38" />
         <mark key="." line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/utilities.py" timestamp="1556050673842">
+        <mark key="[" line="17" column="38" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/utility/hive_query_config_template.py" timestamp="1531170239178">
         <mark key="[" line="19" column="0" />
@@ -1266,12 +1264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="327" column="12" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
-      <jump line="544" column="52" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
-      <jump line="254" column="12" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
-      <jump line="292" column="14" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
-      <jump line="543" column="61" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
-      <jump line="591" column="71" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="593" column="24" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="596" column="12" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
       <jump line="68" column="38" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/constants.py" />
@@ -1366,64 +1358,64 @@
       <jump line="117" column="38" filename="$USER_HOME$/repositories/bidsift/bidsift/scribe_client.py" />
       <jump line="120" column="40" filename="$USER_HOME$/repositories/bidsift/bidsift/scribe_client.py" />
       <jump line="278" column="12" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" />
+      <jump line="44" column="48" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
+      <jump line="265" column="8" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
+      <jump line="330" column="17" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
+      <jump line="10" column="44" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
+      <jump line="49" column="16" filename="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
+        <text encoding="base64">aW1wb3J0IGpzb247IHByaW50KGpzb24uZHVtcHMpCg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>#getthefuckoutofmyhead;</text>
       </register>
       <register name="/" type="4">
-        <text>current</text>
+        <text>slac</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmVhdHVyZV9uYW1lX3RvX3ZhbHVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
+        <text encoding="base64">aW1wb3J0IGpzb247IHByaW50KGpzb24uZHVtcHMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQganNvbjsgcHJpbnQoanNvbi5kdW1wcyhzY29yZV9ldmVudCwgaW5kZW50PTIpKQo=</text>
+        <text encoding="base64">ICAgIGltcG9ydAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fb3JkZXJlZF9mZWF0dXJlX3ZhbHVlcyA9IFsKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgIm51bV9rZXl3b3JkX3NlYXJjaGVzXzMwX2RheSIsCiAgICAgICAgICAgICAgICAwCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICJudW1fdmlld2VkX3NrdXNfMzBfZGF5IiwKICAgICAgICAgICAgICAgIDAKICAgICAgICAgICAgXSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgImF2Z19wcmljZV92aWV3ZWRfc2t1c18zMF9kYXkiLAogICAgICAgICAgICAgICAgMAogICAgICAgICAgICBdLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAibnVtX2FkZGVkX3RvX2NhcnRfc2t1c18zMF9kYXkiLAogICAgICAgICAgICAgICAgMAogICAgICAgICAgICBdLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAiYXZnX3ByaWNlX2FkZGVkX3RvX2NhcnRfc2t1c18zMF9kYXkiLAogICAgICAgICAgICAgICAgMAogICAgICAgICAgICBdLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAibnVtX3B1cmNoYXNlZF9za3VzXzMwX2RheSIsCiAgICAgICAgICAgICAgICAxCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICJhdmdfcHJpY2VfcHVyY2hhc2VkX3NrdXNfMzBfZGF5IiwKICAgICAgICAgICAgICAgIDE4OS45OQogICAgICAgICAgICBdLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAiYWRkZWRfdG9faWRlYWJvYXJkXzMwX2RheSIsCiAgICAgICAgICAgICAgICAwCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICJpc19icmFuZF9jaGFubmVsX3Zpc2l0IiwKICAgICAgICAgICAgICAgIDAKICAgICAgICAgICAgXSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgInVyYmFuX3Njb3JlIiwKICAgICAgICAgICAgICAgIDEKICAgICAgICAgICAgXSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgImhvbWVfZGVjb3JfcXVpbnRpbGUiLAogICAgICAgICAgICAgICAgMAogICAgICAgICAgICBdLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAiYWdlIiwKICAgICAgICAgICAgICAgIDYxCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICJob3VzZV9ob2xkX3NpemUiLAogICAgICAgICAgICAgICAgMAogICAgICAgICAgICBdLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAiaG9tZV9vd25lciIsCiAgICAgICAgICAgICAgICAwCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICJob21lX21hcmtldF92YWx1ZSIsCiAgICAgICAgICAgICAgICAyMTkKICAgICAgICAgICAgXSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgImFjcXVpcmVkX3Zpc2l0b3IiLAogICAgICAgICAgICAgICAgMAogICAgICAgICAgICBdLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAiYWN0aXZhdGVkX3Zpc2l0b3IiLAogICAgICAgICAgICAgICAgMQogICAgICAgICAgICBdLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAiaXNfY2hyb21lX29zIiwKICAgICAgICAgICAgICAgIDAKICAgICAgICAgICAgXSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgImlzX2xpbnV4X29zIiwKICAgICAgICAgICAgICAgIDAKICAgICAgICAgICAgXSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgImlzX21hY19vcyIsCiAgICAgICAgICAgICAgICAxCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICJpc19vdGhlcl9vcyIsCiAgICAgICAgICAgICAgICAwCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICJpc193aW5kb3dzX29zIiwKICAgICAgICAgICAgICAgIDAKICAgICAgICAgICAgXQogICAgICAgIF0K</text>
+        <text encoding="base64">ICAgICdlbWFpbCc6IFdBUk5fRU1BSUwsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChxdWVyeV9yZXN1bHRzKQogICAgICAgIHByaW50KHN0b3JlX2lkKQo=</text>
+        <text encoding="base64">ICAgIHNsYWNrX29uX2FueV9mYWlsdXJlLAogICAgc2xhY2tfb25fYWxsX3N1Y2Nlc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmVhdHVyZV9uYW1lX3RvX3ZhbHVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQob3JkZXJlZF9mZWF0dXJlX3ZhbHVlcykK</text>
+        <text encoding="base64">cHJldmlvdXNfdGFzayA+PiBzbGFja19vbl9hbGxfc3VjY2VzcyhtYXN0ZXJfZGFnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5fb3JkZXJlZF9mZWF0dXJlX3ZhbHVlcykK</text>
+        <text encoding="base64">ICAgIHNsYWNrX29uX2FueV9mYWlsdXJlLAogICAgc2xhY2tfb25fYWxsX3N1Y2Nlc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiMjIyBGb2xsb3cgVXAKClRoaXMgZm9sbG93IHVwIHNlY3Rpb24gaXMgZmFpcmx5IG9wZW4tZW5kZWQgYW5kIG5vdCBhbHdheXMgcmVxdWlyZWQtIGlmIHRoZXJlIGFyZSB0YXNrcyB0aGF0IG5lZWQgdG8gYmUgZG9uZSBvbmNlIGEgdGlja2V0J3MgQWNjZXB0YW5jZSBDcml0ZXJpYSBoYXMgYmVlbiBjb21wbGV0ZWQgc2F0aXNmYWN0b3JpYWxseSB0aGlzIHNlY3Rpb24gd291bGQgYmUgdGhlIHBsYWNlIHRvIHB1dCBpdC4KCkV4YW1wbGU6IE9uY2UgdGhlIHRlbXBsYXRlIGlzIGZpbmlzaGVkIHRvdWNoIGJhc2Ugd2l0aCB0aGUgUHJvamVjdCBUcmFja2VyIHRlYW0gdG8gbGVhcm4gb2YgYW55ICJoaWRkZW4gZmVhdHVyZXMiLiBJZiBuZWVkZWQsIHRpY2tldGl6ZSB0aGUgd29yayB0byBpbXBsZW1lbnQgdGhvc2UgInNlY3JldHMiLgo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNsYWNrX29uX2FueV9mYWlsdXJlKGRhZykK</text>
       </register>
-      <register name="9" type="4">
-        <text>Acceptance Criteria should be a _numbered list_ of items that must be completed or able-to-be-performed to consider this ticket completed.
-1. Acceptance Criteria should be specific, measurable, and discrete- if the criteria is longer than one sentence it is likely too big and should be split into multiple criterion.
-    a. Note: Clarifying notes can be added to criteria if needed.
-1. Example: Customer Scoring ticket template is finished and available in the &quot;Load from Template&quot; drop-down from within Project Tracker's Create Ticket form.
-1. Example: I should be able to create my own Customer Scoring ticket using this ticket template to do so.
-1. Example: Customer Scoring team is notified of the existence of this ticket templated through Slack or e-mail.
-    a. Do not notify Customer Scoring through Skype because no one uses it.</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHNsYWNrX29uX2FueV9mYWlsdXJlLAogICAgc2xhY2tfb25fYWxsX3N1Y2Nlc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>current</last-search>
+      <last-search>slac</last-search>
       <last-offset />
-      <last-pattern>current</last-pattern>
+      <last-pattern>slac</last-pattern>
       <last-replace>',''),</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1431,7 +1423,6 @@
     </search>
     <history>
       <history-search>
-        <entry>max</entry>
         <entry>max_</entry>
         <entry>avg_price_v</entry>
         <entry>viewed_sku</entry>
@@ -1451,6 +1442,7 @@
         <entry>ideaboard</entry>
         <entry>trace</entry>
         <entry>current</entry>
+        <entry>slac</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy8=</entry>
