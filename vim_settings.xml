@@ -898,12 +898,12 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" timestamp="1556572100049">
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" timestamp="1556572845385">
         <mark key="'" line="166" column="59" />
-        <mark key="[" line="166" column="59" />
-        <mark key="]" line="166" column="59" />
-        <mark key="." line="166" column="59" />
-        <mark key="^" line="166" column="59" />
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="190" column="0" />
+        <mark key="." line="190" column="0" />
+        <mark key="^" line="178" column="19" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_27.json" timestamp="1554077222202">
         <mark key="[" line="0" column="0" />
@@ -1393,7 +1393,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBnZXQgYXBwbmV4dXNfaWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -1408,13 +1408,13 @@
         <text encoding="base64">ICAgICAgICAidXNlcl9sZXZlbF9iaWRkaW5nXzQ5X05ld1JldHVybmluZ19NT0JJTEVfV0VCX0FwcE5leHVzX0xpblJlZyI6IHsKICAgICAgICAgICAgInYxIjogMTY4Njg0NjgsCiAgICAgICAgfSwKICAgICAgICAidXNlcl9sZXZlbF9iaWRkaW5nXzQ5X0FjcXVpcmVkQWN0aXZhdGVkX01PQklMRV9XRUJfQXBwTmV4dXNfTGluUmVnIjogewogICAgICAgICAgICAjIHRoZXJlIGlzIG5vICJ2MSIgb2YgQWNxdWlyZWRBY3RpdmF0ZWQgbW9kZWxzIGR1ZSB0byBlYXJseSBhYnN0cmFjdGlvbiBtaXNjb21tdW5pY2F0aW9ucwogICAgICAgICAgICAidjIiOiAxNjg2ODQ3MQogICAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBnZXQgYXBwbmV4dXNfaWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBHZXQgYXBwbmV4dXMgaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBCdWlsZCB0aGUgZmVhdHVyZSBuYW1lIHRvIHZhbHVlIG1hcCBmb3IgaW5wdXQgZmVhdHVyZSBsb2dnaW5nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1423,16 +1423,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWRmYSA9IGN1cnJlbnRfZXZlbnQuZ2V0KENDS2V5LklERkEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBnZXQgYXBwbmV4dXNfaWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc29tZSBjdXJyZW50IGV2ZW50cyB1c2UgJ2FkaWQnIGFuZCBzb21lIHVzZSAnYWRJZCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBHZXQgYXBwbmV4dXMgaWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRpZCA9IGN1cnJlbnRfZXZlbnQuZ2V0KENDS2V5LkFESURfTE9XRVJDQVNFKSBvciBjdXJyZW50X2V2ZW50LmdldChDQ0tleS5BRElEX0NBTUVMQ0FTRSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWRmYSA9IGN1cnJlbnRfZXZlbnQuZ2V0KENDS2V5LklERkEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1489,8 +1489,8 @@
         <entry>q</entry>
         <entry>qa</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
