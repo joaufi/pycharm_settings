@@ -816,7 +816,8 @@
         <mark key="." line="137" column="0" />
         <mark key="^" line="166" column="5" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1555962475661">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1556739735179">
+        <mark key="'" line="377" column="0" />
         <mark key="[" line="73" column="9" />
         <mark key="]" line="74" column="21" />
         <mark key="^" line="74" column="21" />
@@ -1294,9 +1295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="285" column="66" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="341" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
-      <jump line="29" column="40" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/influx_reporter_operator.py" />
       <jump line="152" column="43" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
       <jump line="168" column="8" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
       <jump line="97" column="11" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/merge_features.hql" />
@@ -1394,6 +1392,9 @@
       <jump line="166" column="59" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
       <jump line="20" column="23" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/product_model.py" />
       <jump line="23" column="19" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/product_model.py" />
+      <jump line="32" column="4" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="324" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="377" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1406,7 +1407,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>mobile</text>
+        <text>sum_price</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAidXNlcl9sZXZlbF9iaWRkaW5nXzQ5X05ld1JldHVybmluZ19NT0JJTEVfV0VCX0FwcE5leHVzX0xpblJlZyI6IHsKICAgICAgICAgICAgInYxIjogMTY4Njg0NjgsCiAgICAgICAgfSwKICAgICAgICAidXNlcl9sZXZlbF9iaWRkaW5nXzQ5X0FjcXVpcmVkQWN0aXZhdGVkX01PQklMRV9XRUJfQXBwTmV4dXNfTGluUmVnIjogewogICAgICAgICAgICAjIHRoZXJlIGlzIG5vICJ2MSIgb2YgQWNxdWlyZWRBY3RpdmF0ZWQgbW9kZWxzIGR1ZSB0byBlYXJseSBhYnN0cmFjdGlvbiBtaXNjb21tdW5pY2F0aW9ucwogICAgICAgICAgICAidjIiOiAxNjg2ODQ3MQogICAgICAgIH0sCg==</text>
@@ -1443,9 +1444,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mobile</last-search>
+      <last-search>sum_price</last-search>
       <last-offset />
-      <last-pattern>mobile</last-pattern>
+      <last-pattern>sum_price</last-pattern>
       <last-replace>',''),</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1453,7 +1454,6 @@
     </search>
     <history>
       <history-search>
-        <entry>viewed_sku</entry>
         <entry>view</entry>
         <entry>priced_sku</entry>
         <entry>PythonOpe</entry>
@@ -1473,6 +1473,7 @@
         <entry>slac</entry>
         <entry encoding="base64">XDxBY2NlcHRhbmNlXD4=</entry>
         <entry>mobile</entry>
+        <entry>sum_price</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy8=</entry>
