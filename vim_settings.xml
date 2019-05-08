@@ -685,11 +685,11 @@
         <mark key="." line="57" column="20" />
         <mark key="^" line="57" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/call_routing_models.py" timestamp="1557341027195">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/call_routing_models.py" timestamp="1557342214695">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.txt" timestamp="1543520991691">
         <mark key="[" line="0" column="716" />
@@ -720,12 +720,12 @@
         <mark key="." line="36" column="15" />
         <mark key="^" line="36" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" timestamp="1557341539847">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" timestamp="1557342241728">
         <mark key="'" line="274" column="12" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="282" column="33" />
+        <mark key="[" line="282" column="63" />
+        <mark key="]" line="283" column="7" />
+        <mark key="." line="283" column="7" />
+        <mark key="^" line="283" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/argus.py" timestamp="1553199666992">
         <mark key="'" line="78" column="0" />
@@ -1007,11 +1007,10 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="55" column="77" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/controller.py" timestamp="1557341278481">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="139" column="12" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/controller.py" timestamp="1557342865568">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.jql" timestamp="1529949914712">
         <mark key="[" line="5" column="7" />
@@ -1067,11 +1066,12 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" timestamp="1557340806032">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" timestamp="1557342308478">
         <mark key="'" line="246" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="105" column="17" />
+        <mark key="]" line="105" column="35" />
+        <mark key="." line="105" column="35" />
+        <mark key="^" line="105" column="35" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/custinfolib/common/context.py" timestamp="1555337346529">
         <mark key="[" line="33" column="59" />
@@ -1445,55 +1445,55 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEFsZ29yaXRobXMsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>(ModelAlgorithms, algorithm)</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>ModelAlgorithms</text>
+        <text>algorithm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBsaW5lYXJfcmVncmVzc2lvbl9zZXJpYWxpemVkKGZlYXR1cmVzLCBtb2RlbCk6CiAgICAgICAgIiIiQ2FsY3VsYXRlcyBhIHNjb3JlIHVzaW5nIHByZS10cmFpbmVkIGxpbmVhciByZWdyZXNzaW9uIG1vZGVsIG9iamVjdCBzZXJ2ZWQKICAgICAgICBieSBtb2RlbCBzdG9yYWdlIHNlcnZpY2UuCgogICAgICAgIEFyZ3M6CiAgICAgICAgICAgIGZlYXR1cmVzIChsaXN0IG9mIGZsb2F0KTogT3JkZXJlZCBsaXN0IG9mIGZlYXR1cmVzIHRvIGNhbGN1bGF0ZSBzY29yZSBmb3IuCiAgICAgICAgICAgIG1vZGVsIChzY2lraXQtbGVhcm4gbGluZWFyIHJlZ3Jlc3Npb24pOiBUcmFpbmVkIHNjaWtpdCBtb2RlbCBmaWxlCgogICAgICAgIFJldHVybnM6CiAgICAgICAgICAgIGZsb2F0OiBDYWxjdWxhdGVkIHNjb3JlCiAgICAgICAgIiIiCiAgICAgICAgd2FybmluZ3MuZmlsdGVyd2FybmluZ3MoJ2lnbm9yZScsIGNhdGVnb3J5PVVzZXJXYXJuaW5nKQogICAgICAgIHdhcm5pbmdzLmZpbHRlcndhcm5pbmdzKCdpZ25vcmUnLCBjYXRlZ29yeT1EZXByZWNhdGlvbldhcm5pbmcpCgogICAgICAgIGZlYXR1cmVfYXJyYXkgPSBudW1weS5hcnJheShbZmVhdHVyZXNdKQogICAgICAgIHByZWRpY3Rpb24gPSBtb2RlbC5wcmVkaWN0KGZlYXR1cmVfYXJyYXkpCgogICAgICAgIHJldHVybiBmbG9hdChwcmVkaWN0aW9uWzBdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFsZ29yaXRobXMsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgS2V5LkFMR09SSVRITTogYWxnb3JpdGhtLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVzZV9hZXJvc3Bpa2UgIHVzZV9hZXJvc3Bpa2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbGdvcml0aG0gPSBzZWxmLl9tb3N0X3JlY2VudF9zcGVjaWZpY2F0aW9uW0tleS5BTEdPUklUSE1dCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqYXJncywgdXNlX2Flcm9zcGlrZT1GYWxzZSwgKiprd2FyZ3MpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBzY29yaW5nLmV2YWx1YXRpb24ubW9kZWxzLmFsZ29yaXRobXMgaW1wb3J0IE1vZGVsQWxnb3JpdGhtcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJfbGV2ZWxfYmlkZGluZ19hcHBuZXh1cyc6CiAgICAgICAgICAgICAgICBVc2VyTGV2ZWxCaWRkaW5nQXBwbmV4dXNNb2RlbChzZWxmLmNvbnRleHQsIHVzZV9hZXJvc3Bpa2U9dXNlX2Flcm9zcGlrZSksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEFMR09SSVRITSA9ICdhbGdvcml0aG0nCg==</text>
+        <text encoding="base64">ICAgICAgICBhbGdvcml0aG0gPSBzcGVjaWZpY2F0aW9uW0tleS5BTEdPUklUSE1dCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJfbGV2ZWxfYmlkZGluZ19mYWNlYm9vayc6CiAgICAgICAgICAgICAgICBVc2VyTGV2ZWxCaWRkaW5nRmFjZWJvb2tNb2RlbChzZWxmLmNvbnRleHQsIHVzZV9hZXJvc3Bpa2U9dXNlX2Flcm9zcGlrZSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgS2V5LkFMR09SSVRITTogQWxnb3JpdGhtcy5HUkFESUVOVF9CT09TVEVEX1RSRUUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2luX21hcmtldCc6CiAgICAgICAgICAgICAgICBJbk1hcmtldE1vZGVsKHNlbGYuY29udGV4dCwgdXNlX2Flcm9zcGlrZT11c2VfYWVyb3NwaWtlKSwK</text>
+        <text encoding="base64">ICAgIEFsZ29yaXRobXMsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBzY29yaW5nLmV2YWx1YXRpb24ubW9kZWxzLmJ1c2luZXNzLnVzZXJfbGV2ZWxfYmlkZGluZ19mYWNlYm9va19tb2RlbCBpbXBvcnQgKAogICAgVXNlckxldmVsQmlkZGluZ0ZhY2Vib29rTW9kZWwKKQo=</text>
+        <text encoding="base64">ICAgIGRlZgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ModelAlgorithms</last-search>
+      <last-search>algorithm</last-search>
       <last-offset />
-      <last-pattern>ModelAlgorithms</last-pattern>
+      <last-pattern>algorithm</last-pattern>
       <last-replace>',''),</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1501,7 +1501,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PythonOpe</entry>
         <entry>custin</entry>
         <entry>DOWNLO</entry>
         <entry>uti</entry>
@@ -1521,6 +1520,7 @@
         <entry>sum_price</entry>
         <entry>coef</entry>
         <entry>ModelAlgorithms</entry>
+        <entry>algorithm</entry>
       </history-search>
       <history-cmd>
         <entry>split</entry>
