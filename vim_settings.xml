@@ -441,11 +441,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/tests/test_details_controller.py" timestamp="1557426686377">
-        <mark key="'" line="33" column="29" />
-        <mark key="[" line="216" column="0" />
-        <mark key="]" line="216" column="0" />
-        <mark key="." line="216" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.py" timestamp="1557498997428">
+        <mark key="'" line="16" column="8" />
+        <mark key="[" line="9" column="74" />
+        <mark key="]" line="9" column="73" />
+        <mark key="^" line="9" column="73" />
+        <mark key="." line="9" column="73" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" timestamp="1557431705664">
         <mark key="'" line="157" column="47" />
@@ -471,8 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="153" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="160" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="167" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="174" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
@@ -571,34 +570,36 @@
       <jump line="113" column="2" filename="$USER_HOME$/repositories/scoring-library/.gitlab-ci.yml" />
       <jump line="97" column="2" filename="$USER_HOME$/repositories/scoring-library/.gitlab-ci.yml" />
       <jump line="60" column="2" filename="$USER_HOME$/repositories/scoring-library/.gitlab-ci.yml" />
+      <jump line="8" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.py" />
+      <jump line="16" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>new_user_level_bidding_446_AcquiredActivated_Desktop_AppNexus_Linreg</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>'user_level_bidding_appnexus'</text>
+        <text>new_user_level_bidding_446_AcquiredActivated_Desktop_AppNexus_Linreg</text>
       </register>
       <register name="/" type="4">
-        <text>artifacts:</text>
+        <text>LinReg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4cGlyZV9pbjogMSBkYXkK</text>
+        <text encoding="base64">ICAgICAgICBbJ3VzZXJfbGV2ZWxfYmlkZGluZ19hY3F1aXJlZF9hY3RpdmF0ZWRfNDQ2X1dFQl9BcHBOZXh1c19MaW5SZWcnLAogICAgICAgICAndXNlcl9sZXZlbF9iaWRkaW5nX2FjcXVpcmVkX2FjdGl2YXRlZF80NDZfTU9CSUxFX1dFQl9BcHBOZXh1c19MaW5SZWcnLAogICAgICAgICAndXNlcl9sZXZlbF9iaWRkaW5nX2FjcXVpcmVkX2FjdGl2YXRlZF80NDZfTU9CSUxFX0FQUF9BcHBOZXh1c19MaW5SZWcnXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
+        <text encoding="base64">XSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQganNvbjsgcHJpbnQoanNvbi5kdW1wcyhzY29yZV9ldmVudCwgaW5kZW50PTIpKQo=</text>
+        <text encoding="base64">ICAgICduZXdfdXNlcl9sZXZlbF9iaWRkaW5nXzQ0Nl9OZXdSZXR1cm5pbmdfRGVza3RvcF9BcHBOZXh1c18nOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiaGl0ISIpCg==</text>
+        <text encoding="base64">ICAgICAgICAnbmV3X3VzZXJfbGV2ZWxfYmlkZGluZ180NDZfQWNxdWlyZWRBY3RpdmF0ZWRfRGVza3RvcF9BcHBOZXh1c19MaW5SZWcnOgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
@@ -607,30 +608,29 @@
         <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKHNlbGYuc2NvcmluZ19tb2RlbCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQganNvbjsgcHJpbnQoanNvbi5kdW1wcyhzY29yZV9ldmVudCwgaW5kZW50PTIpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXR0ZXI9Rm9ybWF0dGVyLmxvd2VyLAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiaGl0ISIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXR0ZXI9Rm9ybWF0dGVyLnN0cmluZywK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>artifacts:</last-search>
+      <last-search>LinReg</last-search>
       <last-offset />
-      <last-pattern>artifacts:</last-pattern>
-      <last-replace>',''),</last-replace>
-      <last-substitute>$</last-substitute>
+      <last-pattern>LinReg</last-pattern>
+      <last-replace>xgboost</last-replace>
+      <last-substitute>LinReg</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>algorithm</entry>
         <entry>scoring</entry>
         <entry>coe</entry>
         <entry>VISI</entry>
@@ -650,9 +650,9 @@
         <entry>score</entry>
         <entry>artifacts</entry>
         <entry>artifacts:</entry>
+        <entry>LinReg</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyQvJywnJyksLw==</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>we</entry>
         <entry>:w</entry>
@@ -671,6 +671,7 @@
         <entry>q</entry>
         <entry>W</entry>
         <entry>qa</entry>
+        <entry encoding="base64">JzwsJz5zL0xpblJlZy94Z2Jvb3N0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
