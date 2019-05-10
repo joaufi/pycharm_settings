@@ -193,6 +193,7 @@
         <mark key="^" line="119" column="4" />
         <mark key="." line="256" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/bidsift/.codedeploy/hooks/pre_deploy_hook.sh" timestamp="1557499798332" />
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/customer_history_model.py" timestamp="1557431679929">
         <mark key="'" line="91" column="54" />
         <mark key="[" line="81" column="68" />
@@ -269,6 +270,9 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
+      <file name="$USER_HOME$/.pyenv/versions/3.6.7/lib/python3.6/logging/__init__.py" timestamp="1557500044557">
+        <mark key="'" line="903" column="15" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/data/aggregate_model.py" timestamp="1557343945244" />
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1555609399770">
         <mark key="[" line="138" column="22" />
@@ -290,6 +294,13 @@
         <mark key="^" line="14" column="16" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/.gitlab-ci.yml" timestamp="1557497441041" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/app.py" timestamp="1557500083981">
+        <mark key="'" line="58" column="14" />
+        <mark key="[" line="184" column="43" />
+        <mark key="]" line="184" column="50" />
+        <mark key="." line="184" column="50" />
+        <mark key="^" line="184" column="50" />
+      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/responses.py" timestamp="1557437279698" />
       <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/batch_uploader_operator.py" timestamp="1553520101692">
         <mark key="'" line="35" column="59" />
@@ -472,15 +483,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="167" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="174" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="183" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="190" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="197" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="204" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="211" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="218" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="226" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="234" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="242" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
@@ -572,22 +574,31 @@
       <jump line="60" column="2" filename="$USER_HOME$/repositories/scoring-library/.gitlab-ci.yml" />
       <jump line="8" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.py" />
       <jump line="16" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.py" />
+      <jump line="8" column="21" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
+      <jump line="23" column="54" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
+      <jump line="31" column="20" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
+      <jump line="38" column="23" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
+      <jump line="40" column="15" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
+      <jump line="58" column="14" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/.pyenv/versions/3.6.7/lib/python3.6/logging/__init__.py" />
+      <jump line="33" column="63" filename="$USER_HOME$/.pyenv/versions/3.6.7/lib/python3.6/logging/__init__.py" />
+      <jump line="903" column="15" filename="$USER_HOME$/.pyenv/versions/3.6.7/lib/python3.6/logging/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new_user_level_bidding_446_AcquiredActivated_Desktop_AppNexus_Linreg</text>
+        <text>started</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>new_user_level_bidding_446_AcquiredActivated_Desktop_AppNexus_Linreg</text>
+        <text>started</text>
       </register>
       <register name="/" type="4">
-        <text>LinReg</text>
+        <text>def error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbJ3VzZXJfbGV2ZWxfYmlkZGluZ19hY3F1aXJlZF9hY3RpdmF0ZWRfNDQ2X1dFQl9BcHBOZXh1c19MaW5SZWcnLAogICAgICAgICAndXNlcl9sZXZlbF9iaWRkaW5nX2FjcXVpcmVkX2FjdGl2YXRlZF80NDZfTU9CSUxFX1dFQl9BcHBOZXh1c19MaW5SZWcnLAogICAgICAgICAndXNlcl9sZXZlbF9iaWRkaW5nX2FjcXVpcmVkX2FjdGl2YXRlZF80NDZfTU9CSUxFX0FQUF9BcHBOZXh1c19MaW5SZWcnXSwK</text>
+        <text encoding="base64">ICAgIGFwcC5sb2dnZXIuaW5mbygnTW9kZWwgU3RvcmFnZSBsb2FkaW5nIHN0YXJ0ZWQhJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -621,19 +632,16 @@
       </register>
     </registers>
     <search>
-      <last-search>LinReg</last-search>
+      <last-search>def error</last-search>
       <last-offset />
-      <last-pattern>LinReg</last-pattern>
+      <last-pattern>def error</last-pattern>
       <last-replace>xgboost</last-replace>
       <last-substitute>LinReg</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>scoring</entry>
-        <entry>coe</entry>
-        <entry>VISI</entry>
         <entry>VISITOR_TYPE</entry>
         <entry>Ident</entry>
         <entry>spec</entry>
@@ -651,6 +659,9 @@
         <entry>artifacts</entry>
         <entry>artifacts:</entry>
         <entry>LinReg</entry>
+        <entry>log</entry>
+        <entry>error</entry>
+        <entry>def error</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
