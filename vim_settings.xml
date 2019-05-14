@@ -171,10 +171,11 @@
         <mark key="." line="259" column="0" />
         <mark key="^" line="31" column="91" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b/post_enrollment_model.py" timestamp="1557784005394">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b/post_enrollment_model.py" timestamp="1557840598762">
+        <mark key="[" line="134" column="42" />
+        <mark key="]" line="134" column="45" />
+        <mark key="." line="134" column="45" />
+        <mark key="^" line="134" column="45" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/model_storage_client.py" timestamp="1552919373352">
         <mark key="'" line="147" column="8" />
@@ -585,14 +586,14 @@
       <jump line="47" column="12" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/mocks/mock_context.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxlbihQT1NUX0VOUk9MTE1FTlRfRkVBVFVSRVNbJ3YyX3JlZHVjZWQnXSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>cls</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>cls</text>
       </register>
       <register name="/" type="4">
         <text>sum_price</text>
