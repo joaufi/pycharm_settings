@@ -615,7 +615,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>expected =</text>
+        <text>joblib</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -652,9 +652,9 @@
       </register>
     </registers>
     <search>
-      <last-search>expected =</last-search>
+      <last-search>joblib</last-search>
       <last-offset />
-      <last-pattern>expected =</last-pattern>
+      <last-pattern>joblib</last-pattern>
       <last-replace>xgboost</last-replace>
       <last-substitute>LinReg</last-substitute>
       <last-dir>1</last-dir>
@@ -662,7 +662,6 @@
     </search>
     <history>
       <history-search>
-        <entry>patch</entry>
         <entry>centos-71</entry>
         <entry>centos</entry>
         <entry>FactTyoe</entry>
@@ -682,6 +681,7 @@
         <entry>actu</entry>
         <entry>actual =</entry>
         <entry>expected =</entry>
+        <entry>joblib</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
