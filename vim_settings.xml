@@ -626,7 +626,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>joblib</text>
+        <text>redis</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -663,9 +663,9 @@
       </register>
     </registers>
     <search>
-      <last-search>joblib</last-search>
+      <last-search>redis</last-search>
       <last-offset />
-      <last-pattern>joblib</last-pattern>
+      <last-pattern>redis</last-pattern>
       <last-replace>xgboost</last-replace>
       <last-substitute>LinReg</last-substitute>
       <last-dir>1</last-dir>
@@ -673,7 +673,6 @@
     </search>
     <history>
       <history-search>
-        <entry>centos-71</entry>
         <entry>centos</entry>
         <entry>FactTyoe</entry>
         <entry>visitor_type</entry>
@@ -693,6 +692,7 @@
         <entry>actual =</entry>
         <entry>expected =</entry>
         <entry>joblib</entry>
+        <entry>redis</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
