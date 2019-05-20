@@ -93,7 +93,7 @@
         <mark key="." line="26" column="90" />
         <mark key="^" line="26" column="90" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/prod.py" timestamp="1558354328461">
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/prod.py" timestamp="1558359860148">
         <mark key="'" line="87" column="17" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="61" />
@@ -248,11 +248,11 @@
         <mark key="." line="35" column="59" />
         <mark key="^" line="35" column="59" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/merge_features.hql" timestamp="1558355464753">
-        <mark key="[" line="302" column="0" />
-        <mark key="]" line="302" column="0" />
-        <mark key="^" line="308" column="5" />
-        <mark key="." line="302" column="0" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/merge_features.hql" timestamp="1558360123635">
+        <mark key="[" line="315" column="32" />
+        <mark key="]" line="315" column="34" />
+        <mark key="^" line="315" column="34" />
+        <mark key="." line="315" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/linear_regression_model.py" timestamp="1557423580599">
         <mark key="[" line="27" column="0" />
@@ -633,13 +633,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>model_storage_host</text>
@@ -647,32 +647,54 @@
       <register name="0" type="2">
         <text encoding="base64">Y3JlYXRlX2RldmljZW1hcCA9IENvbmZpZ3VyZWRIaXZlT3BlcmF0b3IoCiAgICAiY3JlYXRlX2RldmljZW1hcCIsCiAgICBwYXRoLmpvaW4oVEVNUExBVEVfRElSLCAiY3JlYXRlX2RldmljZW1hcC5ocWwiKSwKICAgIHBhcmVudF9kYWcsCiAgICBoaXZlX3F1ZXJ5X293bmVyPURFRkFVTFRfQVJHU1sib3duZXIiXSwKICAgIHVzZV9zcGFya19leGVjdXRpb25fZW5naW5lPVRydWUsCiAgICB1c2VfZGFzX2NsdXN0ZXI9VHJ1ZSwKICAgIHBhcmFtcz1oaXZlX3BhcmFtcywKKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>ft.
+ft.
+ft.
+ft.
+ft.
+ft.
+ft.
+ft.
+ft.
+ft.
+ft.
+ft.
+ft.
+ft.
+ft.
+ft.
+ft.
+ft.
+ft.
+ft.
+ft.
+ft.
+ft.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z2V0X2IyYl9kZXZpY2VndWlkcyA9IENvbmZpZ3VyZWRIaXZlT3BlcmF0b3IoCiAgICAiZ2V0X2IyYl9kZXZpY2VndWlkcyIsCiAgICBwYXRoLmpvaW4oVEVNUExBVEVfRElSLCAiZ2V0X2IyYl9kZXZpY2VndWlkLmhxbCIpLAogICAgcGFyZW50X2RhZywKICAgIGhpdmVfcXVlcnlfb3duZXI9REVGQVVMVF9BUkdTWyJvd25lciJdLAogICAgdXNlX3NwYXJrX2V4ZWN1dGlvbl9lbmdpbmU9VHJ1ZSwKICAgIHVzZV9kYXNfY2x1c3Rlcj1UcnVlLAogICAgcGFyYW1zPWhpdmVfcGFyYW1zLAopCgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV9waWNrbGlzdHMK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Z2V0X2IyYl9kZXZpY2VndWlkcyA9IENvbmZpZ3VyZWRIaXZlT3BlcmF0b3IoCiAgICAiZ2V0X2IyYl9kZXZpY2VndWlkcyIsCiAgICBwYXRoLmpvaW4oVEVNUExBVEVfRElSLCAiZ2V0X2IyYl9kZXZpY2VndWlkLmhxbCIpLAogICAgcGFyZW50X2RhZywKICAgIGhpdmVfcXVlcnlfb3duZXI9REVGQVVMVF9BUkdTWyJvd25lciJdLAogICAgdXNlX3NwYXJrX2V4ZWN1dGlvbl9lbmdpbmU9VHJ1ZSwKICAgIHVzZV9kYXNfY2x1c3Rlcj1UcnVlLAogICAgcGFyYW1zPWhpdmVfcGFyYW1zLAopCgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNyZWF0ZV9waWNrbGlzdHMK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Y3JlYXRlX2RldmljZW1hcCA9IENvbmZpZ3VyZWRIaXZlT3BlcmF0b3IoCiAgICAiY3JlYXRlX2RldmljZW1hcCIsCiAgICBwYXRoLmpvaW4oVEVNUExBVEVfRElSLCAiY3JlYXRlX2RldmljZW1hcC5ocWwiKSwKICAgIHBhcmVudF9kYWcsCiAgICBoaXZlX3F1ZXJ5X293bmVyPURFRkFVTFRfQVJHU1sib3duZXIiXSwKICAgIHVzZV9zcGFya19leGVjdXRpb25fZW5naW5lPVRydWUsCiAgICB1c2VfZGFzX2NsdXN0ZXI9VHJ1ZSwKICAgIHBhcmFtcz1oaXZlX3BhcmFtcywKKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Y3JlYXRlX2RldmljZW1hcCA9IENvbmZpZ3VyZWRIaXZlT3BlcmF0b3IoCiAgICAiY3JlYXRlX2RldmljZW1hcCIsCiAgICBwYXRoLmpvaW4oVEVNUExBVEVfRElSLCAiY3JlYXRlX2RldmljZW1hcC5ocWwiKSwKICAgIHBhcmVudF9kYWcsCiAgICBoaXZlX3F1ZXJ5X293bmVyPURFRkFVTFRfQVJHU1sib3duZXIiXSwKICAgIHVzZV9zcGFya19leGVjdXRpb25fZW5naW5lPVRydWUsCiAgICB1c2VfZGFzX2NsdXN0ZXI9VHJ1ZSwKICAgIHBhcmFtcz1oaXZlX3BhcmFtcywKKQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y3JlYXRlX2RldmljZW1hcCA9IENvbmZpZ3VyZWRIaXZlT3BlcmF0b3IoCiAgICAiY3JlYXRlX2RldmljZW1hcCIsCiAgICBwYXRoLmpvaW4oVEVNUExBVEVfRElSLCAiY3JlYXRlX2RldmljZW1hcC5ocWwiKSwKICAgIHBhcmVudF9kYWcsCiAgICBoaXZlX3F1ZXJ5X293bmVyPURFRkFVTFRfQVJHU1sib3duZXIiXSwKICAgIHVzZV9zcGFya19leGVjdXRpb25fZW5naW5lPVRydWUsCiAgICB1c2VfZGFzX2NsdXN0ZXI9VHJ1ZSwKICAgIHBhcmFtcz1oaXZlX3BhcmFtcywKKQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YWRkX2N1c3RvbWVyX2NvbnRleHQgPSBDb25maWd1cmVkSGl2ZU9wZXJhdG9yKAogICAgImNyZWF0ZV9kZXZpY2VtYXAiLAogICAgcGF0aC5qb2luKFRFTVBMQVRFX0RJUiwgImNyZWF0ZV9kZXZpY2VtYXAuaHFsIiksCiAgICBwYXJlbnRfZGFnLAogICAgaGl2ZV9xdWVyeV9vd25lcj1ERUZBVUxUX0FSR1NbIm93bmVyIl0sCiAgICB1c2Vfc3BhcmtfZXhlY3V0aW9uX2VuZ2luZT1UcnVlLAogICAgdXNlX2Rhc19jbHVzdGVyPVRydWUsCiAgICBwYXJhbXM9aGl2ZV9wYXJhbXMsCikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y3JlYXRlX2RldmljZW1hcCA9IENvbmZpZ3VyZWRIaXZlT3BlcmF0b3IoCg==</text>
+        <text encoding="base64">YWRkX2N1c3RvbWVyX2NvbnRleHQgPSBDb25maWd1cmVkSGl2ZU9wZXJhdG9yKAogICAgImNyZWF0ZV9kZXZpY2VtYXAiLAogICAgcGF0aC5qb2luKFRFTVBMQVRFX0RJUiwgImNyZWF0ZV9kZXZpY2VtYXAuaHFsIiksCiAgICBwYXJlbnRfZGFnLAogICAgaGl2ZV9xdWVyeV9vd25lcj1ERUZBVUxUX0FSR1NbIm93bmVyIl0sCiAgICB1c2Vfc3BhcmtfZXhlY3V0aW9uX2VuZ2luZT1UcnVlLAogICAgdXNlX2Rhc19jbHVzdGVyPVRydWUsCiAgICBwYXJhbXM9aGl2ZV9wYXJhbXMsCikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -721,7 +743,6 @@
         <entry>g/coef/d</entry>
         <entry>v</entry>
         <entry>&quot;w</entry>
-        <entry>e</entry>
         <entry encoding="base64">JzwsJz5zL0xpblJlZy94Z2Jvb3N0</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>q</entry>
@@ -730,6 +751,7 @@
         <entry>W</entry>
         <entry>qa</entry>
         <entry encoding="base64">JzwsJz5zL2dldF9iMmJfZGV2aWNlZ3VpZHMvY3JlYXRlX2RldmljZW1hcC8=</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
