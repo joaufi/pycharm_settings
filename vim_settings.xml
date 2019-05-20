@@ -38,7 +38,7 @@
         <mark key="." line="423" column="0" />
         <mark key="^" line="433" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/aggregate_features/get_changed_cart_skus.hql" timestamp="1558383057287">
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/aggregate_features/get_changed_cart_skus.hql" timestamp="1558383656944">
         <mark key="[" line="55" column="90" />
         <mark key="]" line="55" column="131" />
         <mark key="." line="55" column="90" />
@@ -260,7 +260,11 @@
         <mark key="^" line="315" column="34" />
         <mark key="." line="315" column="34" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/aggregate_features/get_viewed_skus.hql" timestamp="1558382609826" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/aggregate_features/get_viewed_skus.hql" timestamp="1558383755775">
+        <mark key="[" line="164" column="91" />
+        <mark key="]" line="164" column="91" />
+        <mark key="." line="164" column="91" />
+      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/linear_regression_model.py" timestamp="1557423580599">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -446,11 +450,11 @@
         <mark key="." line="91" column="69" />
         <mark key="^" line="91" column="69" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/aggregate_features/get_favorited_skus.hql" timestamp="1558382604110">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="129" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/aggregate_features/get_favorited_skus.hql" timestamp="1558383696358">
+        <mark key="[" line="35" column="87" />
+        <mark key="]" line="35" column="87" />
         <mark key="^" line="35" column="89" />
-        <mark key="." line="35" column="124" />
+        <mark key="." line="35" column="87" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/data_science/vtvt/whitelist_tblClass.sql" timestamp="1558382239276">
         <mark key="[" line="8" column="65" />
@@ -650,13 +654,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}}'</text>
+        <text>)</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>}}'</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>model_storage_host</text>
@@ -751,7 +755,6 @@ ft.</text>
       </history-search>
       <history-cmd>
         <entry>we</entry>
-        <entry>:w</entry>
         <entry>wq</entry>
         <entry>qq</entry>
         <entry encoding="base64">JzwsJz5xYQ==</entry>
@@ -770,6 +773,7 @@ ft.</text>
         <entry>e</entry>
         <entry>qa</entry>
         <entry>w</entry>
+        <entry>:w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
