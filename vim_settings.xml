@@ -42,11 +42,11 @@
         <mark key="^" line="53" column="5" />
         <mark key="." line="53" column="5" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" timestamp="1558451557324">
-        <mark key="[" line="79" column="68" />
-        <mark key="]" line="79" column="89" />
-        <mark key="." line="79" column="89" />
-        <mark key="^" line="79" column="89" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" timestamp="1558454473165">
+        <mark key="'" line="79" column="43" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/app.py" timestamp="1557500083981">
         <mark key="[" line="194" column="43" />
@@ -546,7 +546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="119" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="123" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="127" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
@@ -646,16 +645,17 @@
       <jump line="135" column="51" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
       <jump line="271" column="4" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/constants.py" />
       <jump line="2617" column="4" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/constants.py" />
+      <jump line="79" column="43" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>FEATURES_RAW</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC5jb2RkbHVtbigiY3VzdG9tZXJpZCIpCg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>FEATURES_RAW</text>
+        <text encoding="base64">ICsgWyJ2aXNpdG9ydHlwZV9tYXhfbWF4IiwgInZpc2l0b3J0eXBlX21pbl9taW4iXQ==</text>
       </register>
       <register name="/" type="4">
         <text>model_storage_host</text>
@@ -664,12 +664,24 @@
         <text>, metastore_conn_id='metastore_prod') }}'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IwpGRUFUVVJFU19SQVdfQ0FURUdPUklDQUwgPSBGRUFUVVJFU19OVU1FUklDQUwgKyBbCiAgICAidmlzaXRvcnR5cGVfbWluX21pbiIsCiAgICAidmlzaXRvcnR5cGVfbWF4X21heCIsCl0K</text>
+        <text encoding="base64">ICAgIC5jb2RkbHVtbigiY3VzdG9tZXJpZCIpCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIC5maWxsbmEoTmFOLAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">c2NvcmluZ19mZWF0dXJlcyA9IHNjb3JlX2RhdGFfZmluYWwuc2VsZWN0KENVU1RPTUVSX0NPTlRFWFRfQ09MUyArIEZFQVRVUkVTX0ZJTkFMKQoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IwpGRUFUVVJFU19SQVdfQ0FURUdPUklDQUwgPSBGRUFUVVJFU19OVU1FUklDQUwgKyBbCiAgICAidmlzaXRvcnR5cGVfbWluX21pbiIsCiAgICAidmlzaXRvcnR5cGVfbWF4X21heCIsCl0K</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBBTkQgdDIuZXZlbnRfZGF0ZSA9Cgo=</text>
       </register>
-      <register name="3" type="8">
+      <register name="7" type="8">
         <text>ft.
 ft.
 ft.
@@ -694,23 +706,11 @@ ft.
 ft.
 ft.</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Z2V0X2IyYl9kZXZpY2VndWlkcyA9IENvbmZpZ3VyZWRIaXZlT3BlcmF0b3IoCiAgICAiZ2V0X2IyYl9kZXZpY2VndWlkcyIsCiAgICBwYXRoLmpvaW4oVEVNUExBVEVfRElSLCAiZ2V0X2IyYl9kZXZpY2VndWlkLmhxbCIpLAogICAgcGFyZW50X2RhZywKICAgIGhpdmVfcXVlcnlfb3duZXI9REVGQVVMVF9BUkdTWyJvd25lciJdLAogICAgdXNlX3NwYXJrX2V4ZWN1dGlvbl9lbmdpbmU9VHJ1ZSwKICAgIHVzZV9kYXNfY2x1c3Rlcj1UcnVlLAogICAgcGFyYW1zPWhpdmVfcGFyYW1zLAopCgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV9waWNrbGlzdHMK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3JlYXRlX2RldmljZW1hcCA9IENvbmZpZ3VyZWRIaXZlT3BlcmF0b3IoCiAgICAiY3JlYXRlX2RldmljZW1hcCIsCiAgICBwYXRoLmpvaW4oVEVNUExBVEVfRElSLCAiY3JlYXRlX2RldmljZW1hcC5ocWwiKSwKICAgIHBhcmVudF9kYWcsCiAgICBoaXZlX3F1ZXJ5X293bmVyPURFRkFVTFRfQVJHU1sib3duZXIiXSwKICAgIHVzZV9zcGFya19leGVjdXRpb25fZW5naW5lPVRydWUsCiAgICB1c2VfZGFzX2NsdXN0ZXI9VHJ1ZSwKICAgIHBhcmFtcz1oaXZlX3BhcmFtcywKKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y3JlYXRlX2RldmljZW1hcCA9IENvbmZpZ3VyZWRIaXZlT3BlcmF0b3IoCiAgICAiY3JlYXRlX2RldmljZW1hcCIsCiAgICBwYXRoLmpvaW4oVEVNUExBVEVfRElSLCAiY3JlYXRlX2RldmljZW1hcC5ocWwiKSwKICAgIHBhcmVudF9kYWcsCiAgICBoaXZlX3F1ZXJ5X293bmVyPURFRkFVTFRfQVJHU1sib3duZXIiXSwKICAgIHVzZV9zcGFya19leGVjdXRpb25fZW5naW5lPVRydWUsCiAgICB1c2VfZGFzX2NsdXN0ZXI9VHJ1ZSwKICAgIHBhcmFtcz1oaXZlX3BhcmFtcywKKQoK</text>
+        <text encoding="base64">Z2V0X2IyYl9kZXZpY2VndWlkcyA9IENvbmZpZ3VyZWRIaXZlT3BlcmF0b3IoCiAgICAiZ2V0X2IyYl9kZXZpY2VndWlkcyIsCiAgICBwYXRoLmpvaW4oVEVNUExBVEVfRElSLCAiZ2V0X2IyYl9kZXZpY2VndWlkLmhxbCIpLAogICAgcGFyZW50X2RhZywKICAgIGhpdmVfcXVlcnlfb3duZXI9REVGQVVMVF9BUkdTWyJvd25lciJdLAogICAgdXNlX3NwYXJrX2V4ZWN1dGlvbl9lbmdpbmU9VHJ1ZSwKICAgIHVzZV9kYXNfY2x1c3Rlcj1UcnVlLAogICAgcGFyYW1zPWhpdmVfcGFyYW1zLAopCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
