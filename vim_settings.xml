@@ -54,10 +54,11 @@
         <mark key="." line="194" column="50" />
         <mark key="^" line="194" column="50" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/create_devicemap.hql" timestamp="1558463788720">
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="17" column="23" />
-        <mark key="." line="17" column="23" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/create_devicemap.hql" timestamp="1558464976605">
+        <mark key="[" line="29" column="80" />
+        <mark key="]" line="29" column="78" />
+        <mark key="." line="29" column="78" />
+        <mark key="^" line="29" column="78" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/model_storage_client.py" timestamp="1552919373352">
         <mark key="'" line="147" column="8" />
@@ -649,13 +650,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC5jb2RkbHVtbigiY3VzdG9tZXJpZCIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgWyJ2aXNpdG9ydHlwZV9tYXhfbWF4IiwgInZpc2l0b3J0eXBlX21pbl9taW4iXQ==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>model_storage_host</text>
@@ -664,24 +665,27 @@
         <text>, metastore_conn_id='metastore_prod') }}'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC5jb2RkbHVtbigiY3VzdG9tZXJpZCIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC5maWxsbmEoTmFOLAo=</text>
+        <text encoding="base64">ICAgIC5jb2RkbHVtbigiY3VzdG9tZXJpZCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC5maWxsbmEoTmFOLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2NvcmluZ19mZWF0dXJlcyA9IHNjb3JlX2RhdGFfZmluYWwuc2VsZWN0KENVU1RPTUVSX0NPTlRFWFRfQ09MUyArIEZFQVRVUkVTX0ZJTkFMKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IwpGRUFUVVJFU19SQVdfQ0FURUdPUklDQUwgPSBGRUFUVVJFU19OVU1FUklDQUwgKyBbCiAgICAidmlzaXRvcnR5cGVfbWluX21pbiIsCiAgICAidmlzaXRvcnR5cGVfbWF4X21heCIsCl0K</text>
+        <text encoding="base64">c2NvcmluZ19mZWF0dXJlcyA9IHNjb3JlX2RhdGFfZmluYWwuc2VsZWN0KENVU1RPTUVSX0NPTlRFWFRfQ09MUyArIEZFQVRVUkVTX0ZJTkFMKQoK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">IwpGRUFUVVJFU19SQVdfQ0FURUdPUklDQUwgPSBGRUFUVVJFU19OVU1FUklDQUwgKyBbCiAgICAidmlzaXRvcnR5cGVfbWluX21pbiIsCiAgICAidmlzaXRvcnR5cGVfbWF4X21heCIsCl0K</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBBTkQgdDIuZXZlbnRfZGF0ZSA9Cgo=</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text>ft.
 ft.
 ft.
@@ -706,11 +710,8 @@ ft.
 ft.
 ft.</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Z2V0X2IyYl9kZXZpY2VndWlkcyA9IENvbmZpZ3VyZWRIaXZlT3BlcmF0b3IoCiAgICAiZ2V0X2IyYl9kZXZpY2VndWlkcyIsCiAgICBwYXRoLmpvaW4oVEVNUExBVEVfRElSLCAiZ2V0X2IyYl9kZXZpY2VndWlkLmhxbCIpLAogICAgcGFyZW50X2RhZywKICAgIGhpdmVfcXVlcnlfb3duZXI9REVGQVVMVF9BUkdTWyJvd25lciJdLAogICAgdXNlX3NwYXJrX2V4ZWN1dGlvbl9lbmdpbmU9VHJ1ZSwKICAgIHVzZV9kYXNfY2x1c3Rlcj1UcnVlLAogICAgcGFyYW1zPWhpdmVfcGFyYW1zLAopCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
