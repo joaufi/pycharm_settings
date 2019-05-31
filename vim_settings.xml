@@ -74,9 +74,6 @@
         <mark key="^" line="19" column="17" />
         <mark key="." line="19" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558448209614">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/aggregate_features/get_favorited_skus.hql" timestamp="1558383696358">
         <mark key="[" line="35" column="87" />
         <mark key="]" line="35" column="87" />
@@ -94,6 +91,12 @@
         <mark key="]" line="21" column="64" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="1" column="6" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.json" timestamp="1559311451783">
+        <mark key="[" line="3" column="3" />
+        <mark key="]" line="5" column="9" />
+        <mark key="^" line="5" column="9" />
+        <mark key="." line="5" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/app.py" timestamp="1557500083981">
         <mark key="[" line="194" column="43" />
@@ -278,14 +281,14 @@
       <jump line="841" column="60" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGVuYWJsZWRfbW9kZWxzKQo=</text>
+      <register name="&quot;" type="4">
+        <text>`</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text>order_details</text>
@@ -321,7 +324,7 @@
         <text encoding="base64">ICAgICMgQjJCIFBvc3QgRW5yb2xsbWVudAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -374,9 +377,9 @@
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>vsplit</entry>
-        <entry>q</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
