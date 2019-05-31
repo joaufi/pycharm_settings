@@ -21,6 +21,7 @@
         <mark key="." line="55" column="90" />
         <mark key="^" line="95" column="37" />
       </file>
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/common/reference_data.py" timestamp="1559307072547" />
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/utilities.py" timestamp="1559271158732">
         <mark key="'" line="30" column="16" />
         <mark key="[" line="20" column="39" />
@@ -147,6 +148,9 @@
         <mark key="^" line="39" column="7" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" timestamp="1559307100939">
+        <mark key="'" line="841" column="60" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/merge_features.hql" timestamp="1558554487920">
         <mark key="[" line="300" column="10" />
         <mark key="]" line="300" column="26" />
@@ -166,7 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="139" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="145" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="152" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
@@ -266,6 +269,7 @@
       <jump line="149" column="35" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
       <jump line="17" column="16" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/utilities.py" />
       <jump line="124" column="69" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" />
+      <jump line="841" column="60" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -278,7 +282,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>model</text>
+        <text>order_details</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2J1c2luZXNzX2xldmVsX2JpZGRpbmdfNDlfV0VCX0FwcE5leHVzX0xpblJlZycsCiAgICAgICAgICAgICdidXNpbmVzc19sZXZlbF9iaWRkaW5nXzQ5X1dFQl9BcHBOZXh1c194Z2Jvb3N0JywK</text>
@@ -315,9 +319,9 @@
       </register>
     </registers>
     <search>
-      <last-search>model</last-search>
+      <last-search>order_details</last-search>
       <last-offset />
-      <last-pattern>model</last-pattern>
+      <last-pattern>order_details</last-pattern>
       <last-replace>create_devicemap</last-replace>
       <last-substitute>get_b2b_deviceguids</last-substitute>
       <last-dir>1</last-dir>
@@ -325,7 +329,6 @@
     </search>
     <history>
       <history-search>
-        <entry>artifacts:</entry>
         <entry>LinReg</entry>
         <entry>log</entry>
         <entry>error</entry>
@@ -345,6 +348,7 @@
         <entry>}</entry>
         <entry>/mod</entry>
         <entry>model</entry>
+        <entry>order_details</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
