@@ -68,6 +68,7 @@
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/constants.py" timestamp="1558448449818">
         <mark key="'" line="2617" column="4" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/configured_hive_operator.py" timestamp="1559572165071" />
       <file name="$USER_HOME$/repositories/bidsift/tests/unit/user_level_bidding/strategy/test_bidding_model.py" timestamp="1557426868614">
         <mark key="[" line="27" column="75" />
         <mark key="]" line="27" column="75" />
@@ -140,6 +141,13 @@
         <mark key="^" line="89" column="0" />
         <mark key="." line="45" column="31" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_33.json" timestamp="1559572194532">
+        <mark key="'" line="0" column="18328" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="63334" />
+        <mark key="." line="0" column="63334" />
+        <mark key="^" line="0" column="63334" />
+      </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" timestamp="1558447341783">
         <mark key="[" line="225" column="4" />
         <mark key="]" line="225" column="98" />
@@ -193,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="159" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="166" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
       <jump line="173" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
@@ -293,16 +300,17 @@
       <jump line="841" column="60" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
       <jump line="225" column="58" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" />
       <jump line="110" column="82" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
+      <jump line="0" column="18328" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_33.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJfbGV2ZWxfYmlkZGluZ19hY3F1aXJlZF9hY3RpdmF0ZWRfNDlfV0VCX0FwcE5leHVzX0xpblJlZycsCiAgICAgICAgICAgICd1c2VyX2xldmVsX2JpZGRpbmdfYWNxdWlyZWRfYWN0aXZhdGVkXzQ5X1dFQl9BcHBOZXh1c194Z2Jvb3N0JywK</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>xgboost</text>
