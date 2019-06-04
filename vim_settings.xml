@@ -52,12 +52,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" timestamp="1559678087459">
-        <mark key="'" line="236" column="16" />
-        <mark key="[" line="274" column="59" />
-        <mark key="]" line="274" column="74" />
-        <mark key="." line="274" column="74" />
-        <mark key="^" line="274" column="74" />
+      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" timestamp="1559679210274">
+        <mark key="'" line="406" column="8" />
+        <mark key="[" line="276" column="60" />
+        <mark key="]" line="276" column="92" />
+        <mark key="." line="276" column="92" />
+        <mark key="^" line="276" column="92" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" timestamp="1559324929688">
         <mark key="[" line="263" column="43" />
@@ -179,11 +179,11 @@
         <mark key="." line="0" column="63334" />
         <mark key="^" line="0" column="63334" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" timestamp="1559678028206">
-        <mark key="[" line="250" column="107" />
-        <mark key="]" line="251" column="7" />
+      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" timestamp="1559679276904">
+        <mark key="[" line="306" column="26" />
+        <mark key="]" line="306" column="26" />
         <mark key="^" line="251" column="7" />
-        <mark key="." line="251" column="7" />
+        <mark key="." line="306" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/.python_environment/lib/python3.6/site-packages/custinfolib/common/filter_models.py" timestamp="1559659509449" />
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/controller.py" timestamp="1559324068998">
@@ -229,8 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/repositories/bidsift/README.md" />
-      <jump line="33" column="29" filename="$USER_HOME$/repositories/customer-information-library/tests/test_details_controller.py" />
       <jump line="71" column="8" filename="$USER_HOME$/repositories/scoring-library/.gitlab-ci.yml" />
       <jump line="117" column="105" filename="$USER_HOME$/repositories/scoring-library/.gitlab-ci.yml" />
       <jump line="67" column="61" filename="$USER_HOME$/repositories/scoring-library/.gitlab-ci.yml" />
@@ -329,6 +327,8 @@
       <jump line="2188" column="35" filename="$USER_HOME$/repositories/customer-information-service/.python_environment/lib/python3.6/site-packages/scoring/evaluation/dsrm_constants.py" />
       <jump line="4" column="4" filename="$USER_HOME$/repositories/customer-information-service/.python_environment/lib/python3.6/site-packages/scoring/evaluation/dsrm_constants.py" />
       <jump line="22" column="41" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/constants.py" />
+      <jump line="434" column="26" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
+      <jump line="406" column="8" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1020,46 +1020,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>GET_ALL</text>
+        <text>.</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>GET_ALL</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>DEVICEMAP</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ19jb3VudGVyKAogICAgICAgIGFwcCwKICAgICAgICAne30ue30nLmZvcm1hdChTVEFUU19QUkVGSVgsICdnZXRfY3VzdG9tZXJfbGV2ZWxfY2FsbF9yb3V0aW5nJyksCiAgICAgICAgcm91dGluZz1yZXN1bHQuZ2V0KCdyb3V0aW5nX3F1ZXVlJywgJ251bGwnKQogICAgKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGR5bmFtaWNfcGhvbmVfbnVtYmVyPWR5bmFtaWNfcGhvbmVfbnVtYmVyLAogICAgICAgICAgICAgICAgY2FsbGluZ19udW1iZXI9Y2FsbGluZ19udW1iZXIsCiAgICAgICAgICAgICAgICBjdXN0b21lcl9ndWlkPWN1c3RvbWVyX2d1aWQsCiAgICAgICAgICAgICAgICBkZXZpY2VfZ3VpZHM9ZGV2aWNlX2d1aWRzLAogICAgICAgICAgICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGdvaW5nIHRvIHJlbW92ZSB0aGlzIHNjb3JpbmcgbW9kZWwgZW50aXJlbHkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbF9xdWV1ZSA9IEdFTkVSQUxfUk9VVElOR19RVUVVRQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgpERVZJQ0VNQVBfRklMVEVSID0gewogICAgJ2VkZ2VfbGltaXQnOiAxMCwKICAgICdlZGdlX3R5cGVzJzogewogICAgICAgICdkZXRlcm1pbmlzdGljJzoge30KICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBkZXZpY2VfZ3VpZHM6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEdFTkVSQUxfUk9VVElORywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jb250ZXh0LmxvZ2dlci5pbmZvKAogICAgICAgICAgICAgICAgJ2RzLWNhbGwtcm91dGluZyBlbmRwb2ludCBjb3VsZCBub3QgZmluZCBkZXZpY2UgZ3VpZHMnLAogICAgICAgICAgICAgICAgZXh0cmE9ewogICAgICAgICAgICAgICAgICAgICdwYXlsb2FkJzogcGF5bG9hZCwKICAgICAgICAgICAgICAgICAgICAnZGV2aWNlX2d1aWQnOiBkZXZpY2VfZ3VpZCwKICAgICAgICAgICAgICAgICAgICAnY3VzdG9tZXJfZ3VpZCc6IGN1c3RvbWVyX2d1aWQsCiAgICAgICAgICAgICAgICAgICAgJ2lkZW50aWZpY2F0aW9uX21ldGhvZCc6IGlkX21ldGhvZCwKICAgICAgICAgICAgICAgICAgICAncm91dGluZ19xdWV1ZSc6IGZpbmFsX3F1ZXVlCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBHRU5FUkFMX1JPVVRJTkcgPSAnVVMuQ1MuRFBOLlNhbGVzLlBRJwo=</text>
+        <text encoding="base64">ICAgICAgICAjIGRvbnQgZmlyZSBzY3JpYmUgZXZlbnRzIHdoZW4gdmFsaWRhdGluZyAvIGRlYnVnZ2luZwogICAgICAgIGlmIG5vdCBjdXJyZW50X3RpbWU6CiAgICAgICAgICAgIHNlbGYudHJhY2tpbmdfY2xpZW50LnN1Ym1pdF90cmFja2luZ19kYXRhKHsKICAgICAgICAgICAgICAgICdldmVudFR5cGUnOiAnQ2FsbFJvdXRpbmdTY29yZScsCiAgICAgICAgICAgICAgICAnZHluYW1pY1Bob25lTnVtYmVyJzogZHluYW1pY19waG9uZV9udW1iZXIsCiAgICAgICAgICAgICAgICAnYXV0b21hdGljTnVtYmVySWRlbnRpZmljYXRpb24nOiBjYWxsaW5nX251bWJlciwKICAgICAgICAgICAgICAgICdtb2RlbE5hbWUnOiBtb2RlbF9uYW1lLAogICAgICAgICAgICAgICAgJ21vZGVsVmVyc2lvbic6IG1vZGVsX3ZlcnNpb24sCiAgICAgICAgICAgICAgICAnc2NvcmUnOiBzY29yZSwKICAgICAgICAgICAgICAgICdjdXN0b21lckd1aWQnOiBjdXN0b21lcl9ndWlkLAogICAgICAgICAgICAgICAgJ2RldmljZUd1aWQnOiBkZXZpY2VfZ3VpZHNbMF0gaWYgZGV2aWNlX2d1aWRzIGVsc2UgTm9uZSwKICAgICAgICAgICAgICAgICdjYWxsUGxhY2VkVGltZXN0YW1wJzogTm9uZQogICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdkcG4nOiBkeW5hbWljX3Bob25lX251bWJlciwKICAgICAgICAgICAgICAgICdjYWxsaW5nX251bWJlcic6IGNhbGxpbmdfbnVtYmVyLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jb250ZXh0LmxvZ2dlci5pbmZvKAogICAgICAgICAgICAgICAgJ2RzLWNhbGwtcm91dGluZyBlbmRwb2ludCBjb3VsZCBub3QgZmluZCBkZXZpY2UgZ3VpZHMnLAogICAgICAgICAgICAgICAgZXh0cmE9ewogICAgICAgICAgICAgICAgICAgICdwYXlsb2FkJzogcGF5bG9hZCwKICAgICAgICAgICAgICAgICAgICAnZGV2aWNlX2d1aWQnOiBkZXZpY2VfZ3VpZCwKICAgICAgICAgICAgICAgICAgICAnY3VzdG9tZXJfZ3VpZCc6IGN1c3RvbWVyX2d1aWQsCiAgICAgICAgICAgICAgICAgICAgJ2lkZW50aWZpY2F0aW9uX21ldGhvZCc6IGlkX21ldGhvZCwKICAgICAgICAgICAgICAgICAgICAncm91dGluZ19xdWV1ZSc6IGZpbmFsX3F1ZXVlCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dfcm91dGluZ19yZXF1ZXN0KGRwbl9hcHAsICdnZXRfY3VzdG9tZXJfbGV2ZWxfY2FsbF9yb3V0aW5nJywgcmVzdWx0LmdldCgncm91dGluZ19xdWV1ZScpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1c3RvbWVyX2d1aWQsCiAgICAgICAgICAgICAgICBkZXZpY2VfZ3VpZHMsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1116,8 +1116,8 @@
         <entry>q</entry>
         <entry>e</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
