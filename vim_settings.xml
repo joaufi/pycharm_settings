@@ -28,6 +28,12 @@
         <mark key="^" line="95" column="37" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/common/reference_data.py" timestamp="1559307072547" />
+      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/common/models.py" timestamp="1559677735461">
+        <mark key="[" line="18" column="59" />
+        <mark key="]" line="18" column="7" />
+        <mark key="^" line="18" column="7" />
+        <mark key="." line="18" column="7" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/utilities.py" timestamp="1559528312469">
         <mark key="'" line="30" column="16" />
         <mark key="[" line="35" column="0" />
@@ -46,12 +52,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" timestamp="1559676691829">
+      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" timestamp="1559678087459">
         <mark key="'" line="236" column="16" />
-        <mark key="[" line="356" column="0" />
-        <mark key="]" line="356" column="0" />
-        <mark key="." line="356" column="0" />
-        <mark key="^" line="299" column="20" />
+        <mark key="[" line="274" column="59" />
+        <mark key="]" line="274" column="74" />
+        <mark key="." line="274" column="74" />
+        <mark key="^" line="274" column="74" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" timestamp="1559324929688">
         <mark key="[" line="263" column="43" />
@@ -76,12 +82,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/constants.py" timestamp="1559676835067">
-        <mark key="'" line="2380" column="41" />
-        <mark key="[" line="2232" column="0" />
-        <mark key="]" line="2232" column="35" />
-        <mark key="." line="2232" column="0" />
-        <mark key="^" line="2250" column="17" />
+      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/constants.py" timestamp="1559677968976">
+        <mark key="'" line="22" column="41" />
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/configured_hive_operator.py" timestamp="1559657720981">
         <mark key="[" line="7" column="42" />
@@ -173,11 +179,11 @@
         <mark key="." line="0" column="63334" />
         <mark key="^" line="0" column="63334" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" timestamp="1559676530536">
-        <mark key="[" line="52" column="68" />
-        <mark key="]" line="52" column="72" />
-        <mark key="^" line="52" column="72" />
-        <mark key="." line="52" column="72" />
+      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" timestamp="1559678028206">
+        <mark key="[" line="250" column="107" />
+        <mark key="]" line="251" column="7" />
+        <mark key="^" line="251" column="7" />
+        <mark key="." line="251" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/.python_environment/lib/python3.6/site-packages/custinfolib/common/filter_models.py" timestamp="1559659509449" />
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/controller.py" timestamp="1559324068998">
@@ -223,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="68" filename="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/customer_history_model.py" />
       <jump line="18" column="0" filename="$USER_HOME$/repositories/bidsift/README.md" />
       <jump line="33" column="29" filename="$USER_HOME$/repositories/customer-information-library/tests/test_details_controller.py" />
       <jump line="71" column="8" filename="$USER_HOME$/repositories/scoring-library/.gitlab-ci.yml" />
@@ -323,6 +328,7 @@
       <jump line="0" column="6" filename="$USER_HOME$/repositories/customer-information-service/.python_environment/lib/python3.6/site-packages/scoring/evaluation/dsrm_constants.py" />
       <jump line="2188" column="35" filename="$USER_HOME$/repositories/customer-information-service/.python_environment/lib/python3.6/site-packages/scoring/evaluation/dsrm_constants.py" />
       <jump line="4" column="4" filename="$USER_HOME$/repositories/customer-information-service/.python_environment/lib/python3.6/site-packages/scoring/evaluation/dsrm_constants.py" />
+      <jump line="22" column="41" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/constants.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1013,20 +1019,20 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA4OiAnVVMuQ1MuRFBOLkhZQi5GdXJuLlBRJywK</text>
+      <register name="&quot;" type="4">
+        <text>GET_ALL</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>LIST</text>
+        <text>GET_ALL</text>
       </register>
       <register name="/" type="4">
         <text>DEVICEMAP</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA4OiAnVVMuQ1MuRFBOLkhZQi5GdXJuLlBRJywK</text>
+        <text encoding="base64">ICAgIGxvZ19jb3VudGVyKAogICAgICAgIGFwcCwKICAgICAgICAne30ue30nLmZvcm1hdChTVEFUU19QUkVGSVgsICdnZXRfY3VzdG9tZXJfbGV2ZWxfY2FsbF9yb3V0aW5nJyksCiAgICAgICAgcm91dGluZz1yZXN1bHQuZ2V0KCdyb3V0aW5nX3F1ZXVlJywgJ251bGwnKQogICAgKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1035,26 +1041,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVfaWQgPSBOb25lCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIFZlcnNpb24gNiBNb2RlbHMKICAgICAgICA2OiBbCiAgICAgICAgICAgIE1vZGVsU3RvcmFnZVNwZWMoCiAgICAgICAgICAgICAgICBEU0NhbGxSb3V0aW5nRW5kcG9pbnRWZXJzaW9uNi5NT0RFTF9TVE9SQUdFX0RTUk1fU1BFQ0lBTElaRUQsCiAgICAgICAgICAgICAgICBEU0NhbGxSb3V0aW5nRW5kcG9pbnRWZXJzaW9uNi5NT0RFTF9WRVJTSU9OLAogICAgICAgICAgICAgICAgZmVhdHVyZV9vcmRlcj1EU0NhbGxSb3V0aW5nRW5kcG9pbnRWZXJzaW9uNi5GRUFUVVJFX0xJU1QKICAgICAgICAgICAgKSwKICAgICAgICAgICAgTW9kZWxTdG9yYWdlU3BlYygKICAgICAgICAgICAgICAgIERTQ2FsbFJvdXRpbmdFbmRwb2ludFZlcnNpb242Lk1PREVMX1NUT1JBR0VfRFNSTV9OT05fU0FMRVNfQVRUUklCVVRFUywKICAgICAgICAgICAgICAgIERTQ2FsbFJvdXRpbmdFbmRwb2ludFZlcnNpb242Lk1PREVMX1ZFUlNJT04sCiAgICAgICAgICAgICAgICBmZWF0dXJlX29yZGVyPURTQ2FsbFJvdXRpbmdFbmRwb2ludFZlcnNpb242LkZFQVRVUkVfTElTVAogICAgICAgICAgICApLAogICAgICAgIF0sCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IFRoaXMgaXMgbW9yZSBsaWtlIHRoZSBkZWZhdWx0Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICBGRUFUVVJFX0xJU1QgPSB0dXBsZShfRkVBVFVSRV9MSVNUKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text>DSCallRoutingXgboost
-DSCallRoutingXgboost</text>
+      <register name="4" type="2">
+        <text encoding="base64">CgpERVZJQ0VNQVBfRklMVEVSID0gewogICAgJ2VkZ2VfbGltaXQnOiAxMCwKICAgICdlZGdlX3R5cGVzJzogewogICAgICAgICdkZXRlcm1pbmlzdGljJzoge30KICAgIH0KfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEdFTkVSQUxfUk9VVElORywK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBHRU5FUkFMX1JPVVRJTkcgPSAnVVMuQ1MuRFBOLlNhbGVzLlBRJwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdkcG4nOiBkeW5hbWljX3Bob25lX251bWJlciwKICAgICAgICAgICAgICAgICdjYWxsaW5nX251bWJlcic6IGNhbGxpbmdfbnVtYmVyLAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAxMDogJ1VTLkNTLkRQTi5QdXJwbGUuUFEnLAogICAgICAgIDExOiAnVVMuQ1MuRFBOLlB1cnBsZS5QUScsCiAgICAgICAgMTI6ICdVUy5DUy5EUE4uUHVycGxlLlBRJywKICAgICAgICAxMzogJ1VTLkNTLkRQTi5QdXJwbGUuUFEnLAogICAgICAgIDE0OiAnVVMuQ1MuRFBOLlB1cnBsZS5QUScsCiAgICAgICAgMTU6ICdVUy5DUy5EUE4uUHVycGxlLlBRJywKICAgICAgICAxNjogJ1VTLkNTLkRQTi5TYWxlcy5QUScsCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dfcm91dGluZ19yZXF1ZXN0KGRwbl9hcHAsICdnZXRfY3VzdG9tZXJfbGV2ZWxfY2FsbF9yb3V0aW5nJywgcmVzdWx0LmdldCgncm91dGluZ19xdWV1ZScpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1109,9 +1114,9 @@ DSCallRoutingXgboost</text>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>we</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>e</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
