@@ -27,6 +27,7 @@
         <mark key="." line="55" column="90" />
         <mark key="^" line="95" column="37" />
       </file>
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/common/reference_data.py" timestamp="1559307072547" />
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/utilities.py" timestamp="1559528312469">
         <mark key="'" line="30" column="16" />
         <mark key="[" line="35" column="0" />
@@ -45,10 +46,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" timestamp="1559652889749">
-        <mark key="[" line="414" column="0" />
-        <mark key="]" line="414" column="0" />
-        <mark key="." line="414" column="0" />
+      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" timestamp="1559659540029">
+        <mark key="'" line="239" column="8" />
+        <mark key="[" line="268" column="0" />
+        <mark key="]" line="268" column="0" />
+        <mark key="." line="268" column="0" />
+        <mark key="^" line="268" column="75" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" timestamp="1559324929688">
         <mark key="[" line="263" column="43" />
@@ -178,6 +181,7 @@
         <mark key="^" line="35" column="44" />
         <mark key="." line="35" column="44" />
       </file>
+      <file name="$USER_HOME$/repositories/customer-information-service/.python_environment/lib/python3.6/site-packages/custinfolib/common/filter_models.py" timestamp="1559659509449" />
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/controller.py" timestamp="1559324068998">
         <mark key="[" line="171" column="36" />
         <mark key="]" line="171" column="36" />
@@ -228,19 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="189" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="196" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="203" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="210" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="217" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="225" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="233" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="241" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="248" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/user_level_bidding_appnexus_model.py" />
-      <jump line="102" column="39" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
-      <jump line="117" column="70" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
-      <jump line="119" column="49" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="135" column="61" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/customer_history_model.py" />
       <jump line="84" column="4" filename="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/custinfolib/details/constants.py" />
       <jump line="32" column="4" filename="$USER_HOME$/repositories/scoring-library/.python_environment/lib/python3.6/site-packages/custinfolib/details/constants.py" />
@@ -328,58 +319,71 @@
       <jump line="34" column="15" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
       <jump line="40" column="5" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
       <jump line="13" column="55" filename="$USER_HOME$/repositories/airflow-dags/comp_intel_execute_vlm_pipeline.py" />
+      <jump line="266" column="53" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
+      <jump line="267" column="59" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
+      <jump line="276" column="14" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
+      <jump line="291" column="55" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
+      <jump line="308" column="21" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
+      <jump line="309" column="75" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
+      <jump line="314" column="75" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
+      <jump line="158" column="12" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
+      <jump line="165" column="19" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
+      <jump line="166" column="75" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
+      <jump line="171" column="75" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
+      <jump line="219" column="8" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
+      <jump line="238" column="8" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnbWFwcmVkLmpvYi5xdWV1ZS5uYW1lJzogJ3Jvb3QuY3VzdG9tZXJfaWRlbnRpdHknLAo=</text>
+        <text encoding="base64">ICAgICAgICBkZXZpY2VtYXBfZmlsdGVyID0gewoKICAgICAgICB9Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>devicemap_filter</text>
       </register>
       <register name="/" type="4">
-        <text>Configured</text>
+        <text>devicemap</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIFZlcnNpb24gNyBNb2RlbHMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnbWFwcmVkLmpvYi5xdWV1ZS5uYW1lJzogJ3Jvb3QuY3VzdG9tZXJfaWRlbnRpdHknLAo=</text>
+        <text encoding="base64">ICAgICAgICBkZXZpY2VtYXBfZmlsdGVyID0gewoKICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIE9wZXJhdG9yIGlzIGRlcHJlY2F0ZWQgYW5kIG9ubHkgZm9yIHVzZSBieSAK</text>
+        <text encoding="base64">ICAgICAgICBhcHBkZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnbWFwcmVkLmpvYi5xdWV1ZS5uYW1lJzogJ3Jvb3QuY3VzdG9tZXJfaWRlbnRpdHknLAo=</text>
+        <text encoding="base64">ICAgICAgICBJZGVudGlmaWVyTWFwcGVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB1dGlsaXR5X29wZXJhdG9ycy5jb25maWd1cmVkX2hpdmVfb3BlcmF0b3IgaW1wb3J0IENvbmZpZ3VyZWRIaXZlT3BlcmF0b3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBERVBSRUNBVEVEIERPIE5PVCBVU0UK</text>
+        <text encoding="base64">ICAgICAgICBjdXN0b21lcl9ndWlkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFkZGl0aW9uYWxfaGl2ZV9vcHRpb25zPQo=</text>
+        <text encoding="base64">ICAgICAgICAnbWFwcmVkLmpvYi5xdWV1ZS5uYW1lJzogJ3Jvb3QuY3VzdG9tZXJfaWRlbnRpdHknLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">ICAgICAgICAjIE9wZXJhdG9yIGlzIGRlcHJlY2F0ZWQgYW5kIG9ubHkgZm9yIHVzZSBieSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgdmVyc2lvbiA9PSA3OgogICAgICAgICAgICAgICAgcHJlbG9hZF9tb2RlbHMoZHBuX2FwcCwgbW9kZWxzPVZFUlNJT05fN19NT0RFTFMpCiAgICAgICAgICAgIGVsaWYgdmVyc2lvbiA9PSA2OgogICAgICAgICAgICAgICAgcHJlbG9hZF9tb2RlbHMoZHBuX2FwcCwgbW9kZWxzPVZFUlNJT05fNl9NT0RFTFMpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBwcmVsb2FkX21vZGVscyhkcG5fYXBwKQo=</text>
+        <text encoding="base64">ICAgICAgICAnbWFwcmVkLmpvYi5xdWV1ZS5uYW1lJzogJ3Jvb3QuY3VzdG9tZXJfaWRlbnRpdHknLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRlZmF1bHQgdG8gdGhlIG1vZGVscyBpbiB0aGUgbWFpbiBlbmRwb2ludAogICAgICAgIG1vZGVscyA9IFZFUlNJT05fN19NT0RFTFMKICAgICAgICBpZiBtb2RlbF9uYW1lIGFuZCBtb2RlbF92ZXJzaW9uOgogICAgICAgICAgICBtb2RlbHMgPSBbCiAgICAgICAgICAgICAgICBNb2RlbFN0b3JhZ2VTcGVjKAogICAgICAgICAgICAgICAgICAgIG1vZGVsX25hbWUsCiAgICAgICAgICAgICAgICAgICAgbW9kZWxfdmVyc2lvbiwKICAgICAgICAgICAgICAgICAgICBmZWF0dXJlX2xpc3RfbG9jYXRpb249TW9kZWxTdG9yYWdlU3BlYy5GRUFUVVJFUwogICAgICAgICAgICAgICAgKQogICAgICAgICAgICBdCgo=</text>
+        <text encoding="base64">ZnJvbSB1dGlsaXR5X29wZXJhdG9ycy5jb25maWd1cmVkX2hpdmVfb3BlcmF0b3IgaW1wb3J0IENvbmZpZ3VyZWRIaXZlT3BlcmF0b3IK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Configured</last-search>
+      <last-search>devicemap</last-search>
       <last-offset />
-      <last-pattern>Configured</last-pattern>
+      <last-pattern>devicemap</last-pattern>
       <last-replace>create_devicemap</last-replace>
       <last-substitute>get_b2b_deviceguids</last-substitute>
       <last-dir>1</last-dir>
@@ -387,7 +391,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sum_price</entry>
         <entry>Time</entry>
         <entry>Class</entry>
         <entry>actu</entry>
@@ -407,6 +410,7 @@
         <entry>queue</entry>
         <entry>ConfiguredHiveOperator</entry>
         <entry>Configured</entry>
+        <entry>devicemap</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5xYQ==</entry>
