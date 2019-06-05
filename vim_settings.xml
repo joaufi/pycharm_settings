@@ -72,11 +72,6 @@
         <mark key="^" line="19" column="17" />
         <mark key="." line="19" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" timestamp="1559575261665">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" timestamp="1558280878297">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="64" />
@@ -174,12 +169,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" timestamp="1559754841610">
+      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" timestamp="1559758752050">
         <mark key="'" line="414" column="0" />
-        <mark key="[" line="358" column="0" />
-        <mark key="]" line="358" column="0" />
-        <mark key="." line="358" column="0" />
-        <mark key="^" line="395" column="15" />
+        <mark key="[" line="366" column="13" />
+        <mark key="]" line="367" column="11" />
+        <mark key="." line="367" column="11" />
+        <mark key="^" line="367" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" timestamp="1559596802245">
         <mark key="[" line="148" column="0" />
@@ -187,7 +182,11 @@
         <mark key="^" line="149" column="68" />
         <mark key="." line="149" column="68" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/constants.py" timestamp="1559745237706">
+      <file name="/routes.py" timestamp="1559759440585">
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="188" column="12" />
+      </file>
+      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/constants.py" timestamp="1559758821802">
         <mark key="'" line="66" column="13" />
         <mark key="[" line="0" column="108" />
         <mark key="]" line="0" column="109" />
@@ -214,6 +213,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="2188" column="49" />
       </file>
+      <file name="$USER_HOME$/repositories/customer-information-service/.python_environment/lib/python3.6/site-packages/scoring/evaluation/model_storage_client.py" timestamp="1559759500638">
+        <mark key="[" line="42" column="8" />
+        <mark key="]" line="42" column="5" />
+        <mark key="^" line="42" column="5" />
+        <mark key="." line="42" column="5" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1559657744847">
         <mark key="'" line="40" column="5" />
         <mark key="[" line="58" column="15" />
@@ -228,12 +233,12 @@
         <mark key="." line="2188" column="3" />
         <mark key="^" line="2188" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" timestamp="1559754702934">
-        <mark key="'" line="255" column="52" />
-        <mark key="[" line="320" column="0" />
-        <mark key="]" line="320" column="0" />
-        <mark key="^" line="315" column="11" />
-        <mark key="." line="320" column="0" />
+      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" timestamp="1559759561794">
+        <mark key="'" line="38" column="45" />
+        <mark key="[" line="259" column="67" />
+        <mark key="]" line="260" column="11" />
+        <mark key="^" line="260" column="11" />
+        <mark key="." line="260" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/controller.py" timestamp="1559324068998">
         <mark key="[" line="171" column="36" />
@@ -256,10 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="240" column="56" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" />
-      <jump line="34" column="29" filename="$USER_HOME$/repositories/scoring-library/.gitlab-ci.yml" />
-      <jump line="90" column="16" filename="$USER_HOME$/repositories/scoring-library/.gitlab-ci.yml" />
-      <jump line="113" column="2" filename="$USER_HOME$/repositories/scoring-library/.gitlab-ci.yml" />
       <jump line="97" column="2" filename="$USER_HOME$/repositories/scoring-library/.gitlab-ci.yml" />
       <jump line="60" column="2" filename="$USER_HOME$/repositories/scoring-library/.gitlab-ci.yml" />
       <jump line="8" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.py" />
@@ -346,7 +347,6 @@
       <jump line="318" column="24" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
       <jump line="323" column="66" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
       <jump line="335" column="17" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" />
-      <jump line="176" column="33" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" />
       <jump line="177" column="10" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" />
       <jump line="40" column="30" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/constants.py" />
       <jump line="66" column="13" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/constants.py" />
@@ -356,6 +356,11 @@
       <jump line="248" column="43" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" />
       <jump line="286" column="32" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" />
       <jump line="255" column="52" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" />
+      <jump line="203" column="19" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" />
+      <jump line="612" column="0" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" />
+      <jump line="176" column="12" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" />
+      <jump line="262" column="48" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" />
+      <jump line="38" column="45" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1047,46 +1052,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0cmlldmVfYW5kX2xvYWRfbW9kZWwoCiAgICAgICAgICAgICAgICBhcHAubW9kZWxfc3RvcmFnZV9jbGllbnQsCiAgICAgICAgICAgICAgICBtb2RlbCwKICAgICAgICAgICAgICAgIGFwcC5jb25maWdbJ1NFUklBTElaRURfTU9ERUxfUEFUSCddCiAgICAgICAgICAgICkK</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text># otherwise, route them to the general sales queue</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>validate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgZGVidWc6CiAgICAgICAgICAgICAgICByZXN1bHQudXBkYXRlKHsKICAgICAgICAgICAgICAgICAgICAnZW5kcG9pbnRfdmVyc2lvbic6IGVuZHBvaW50X3ZlcnNpb24sCiAgICAgICAgICAgICAgICAgICAgJ3Njb3JpbmdfdmVyc2lvbic6IHNjb3JpbmdfdmVyc2lvbiwKICAgICAgICAgICAgICAgICAgICAnY3VzdGluZm9saWJfdmVyc2lvbic6IGN1c3RpbmZvbGliX3ZlcnNpb24sCiAgICAgICAgICAgICAgICAgICAgJ2N1cnJlbnRfdGltZSc6IGN1cnJlbnRfdGltZQogICAgICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBtb2RlbF9uYW1lIGFuZCBtb2RlbF92ZXJzaW9uOgogICAgICAgICAgICBtb2RlbHMgPSBbCiAgICAgICAgICAgICAgICBNb2RlbFN0b3JhZ2VTcGVjKAogICAgICAgICAgICAgICAgICAgIG1vZGVsX25hbWUsCiAgICAgICAgICAgICAgICAgICAgbW9kZWxfdmVyc2lvbiwKICAgICAgICAgICAgICAgICAgICBmZWF0dXJlX2xpc3RfbG9jYXRpb249TW9kZWxTdG9yYWdlU3BlYy5GRUFUVVJFUwogICAgICAgICAgICAgICAgKQogICAgICAgICAgICBdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0cmlldmVfYW5kX2xvYWRfbW9kZWwoCiAgICAgICAgICAgICAgICBhcHAubW9kZWxfc3RvcmFnZV9jbGllbnQsCiAgICAgICAgICAgICAgICBtb2RlbCwKICAgICAgICAgICAgICAgIGFwcC5jb25maWdbJ1NFUklBTElaRURfTU9ERUxfUEFUSCddCiAgICAgICAgICAgICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbW9kZWwgaW4gbW9kZWxzOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgdXNpbmdfZHNfbW9kZWw6CiAgICAgICAgICAgIHJldHVybiBzZWxmLmRwbi5nZXRfcm91dGluZ19pbmZvKHsKICAgICAgICAgICAgICAgICdkeW5hbWljX3Bob25lX251bWJlcic6IGR5bmFtaWNfcGhvbmVfbnVtYmVyLAogICAgICAgICAgICAgICAgJ2NhbGxpbmdfbnVtYmVyJzogY2FsbGluZ19udW1iZXIsCiAgICAgICAgICAgIH0pCgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBtb2RlbF9uYW1lIGFuZCBtb2RlbF92ZXJzaW9uOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1c2luZ19kc19tb2RlbD1UcnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBtb2RlbF9uYW1lIGFuZCBtb2RlbF92ZXJzaW9uOgogICAgICAgICAgICBNb2RlbFN0b3JhZ2VTcGVjKAoKICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzaW5nX2RzX21vZGVsPXVzaW5nX2RzX21vZGVsLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVldWVfc2NvcmUgPSA0ICAjIHNldCB0aGUgcXVldWUgc2NvcmUgdG8gdGhlIEdFTkVSQUxfUk9VVElOR19RVUVVRSBJRAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVzaW5nX2RzX21vZGVsID0gYXJncy5nZXQoJ3VzaW5nX2RzX21vZGVsJywgJ3RydWUnKS5zdHJpcCgpLmxvd2VyKCkgIT0gJ2ZhbHNlJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgpkZWYgX2xvZ19kcG5fcm91dGluZ19yZXF1ZXN0KGFwcCwgbWV0aG9kLCByb3V0aW5nKToKICAgIGxvZ19jb3VudGVyKAogICAgICAgIGFwcCwKICAgICAgICAne30ue30nLmZvcm1hdChTVEFUU19QUkVGSVgsIG1ldGhvZCksCiAgICAgICAgcm91dGluZz1yb3V0aW5nIGlmIHJvdXRpbmcgaXMgbm90IE5vbmUgZWxzZSAnbnVsbCcKICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nX2NvdW50ZXIoZHBuX2FwcCwgbWV0aG9kLCByb3V0aW5nPXJvdXRpbmcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kID0gJ3t9LmdldF9kc19jYWxsX3JvdXRpbmcucmVxdWVzdCcuZm9ybWF0KFNUQVRTX1BSRUZJWCkKICAgICAgICAgICAgcm91dGluZyA9ICd7fS5kc19jYWxsX3JvdXRpbmcue30nLmZvcm1hdChTVEFUU19QUkVGSVgsIHJlc3VsdC5nZXQoJ3JvdXRpbmdfcXVldWUnLCAnbnVsbCcpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1103,7 +1108,6 @@
     </search>
     <history>
       <history-search>
-        <entry>expected =</entry>
         <entry>joblib</entry>
         <entry>redis</entry>
         <entry>catalog</entry>
@@ -1122,10 +1126,10 @@
         <entry>DSCallRoutingV3</entry>
         <entry>DSCallRouting</entry>
         <entry>DEVICEMAP</entry>
+        <entry>_log</entry>
         <entry>validate</entry>
       </history-search>
       <history-cmd>
-        <entry>g</entry>
         <entry>g/coefficient</entry>
         <entry>g/coef/d</entry>
         <entry>v</entry>
@@ -1144,6 +1148,7 @@
         <entry>qw</entry>
         <entry>W</entry>
         <entry>q</entry>
+        <entry>w\</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
