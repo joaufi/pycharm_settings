@@ -9,6 +9,11 @@
         <mark key="." line="233" column="0" />
         <mark key="^" line="201" column="852" />
       </file>
+      <file name="$USER_HOME$/repositories/customer-information-service/.python_environment/lib/python3.6/site-packages/scoring/__init__.py" timestamp="1559750782628">
+        <mark key="[" line="3" column="79" />
+        <mark key="]" line="3" column="79" />
+        <mark key="." line="3" column="79" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_25.txt" timestamp="1559827825705">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -40,6 +45,11 @@
         <mark key="]" line="20" column="32" />
         <mark key="^" line="20" column="32" />
         <mark key="." line="20" column="32" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/comp_intel_execute_vlm_pipeline.py" timestamp="1559657564646">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/tests/unit/user_level_bidding/strategy/test_bidding_model.py" timestamp="1559608686778">
         <mark key="[" line="61" column="51" />
@@ -114,11 +124,22 @@
         <mark key="^" line="10" column="46" />
         <mark key="." line="10" column="46" />
       </file>
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/scribe_client.py" timestamp="1559842710079">
+        <mark key="[" line="41" column="41" />
+        <mark key="]" line="41" column="41" />
+        <mark key="." line="41" column="41" />
+        <mark key="^" line="41" column="41" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/merge_features.hql" timestamp="1558554487920">
         <mark key="[" line="300" column="10" />
         <mark key="]" line="300" column="26" />
         <mark key="^" line="300" column="26" />
         <mark key="." line="300" column="26" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/aggregate_features/get_viewed_skus.hql" timestamp="1558468967160">
+        <mark key="[" line="164" column="91" />
+        <mark key="]" line="164" column="91" />
+        <mark key="." line="164" column="91" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/templates/segmentation/segmentation_scribe_simple.py" timestamp="1559575098113">
         <mark key="[" line="125" column="0" />
@@ -144,6 +165,11 @@
         <mark key="." line="124" column="0" />
         <mark key="^" line="127" column="34" />
       </file>
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/client/tracking_service_client.py" timestamp="1559842227638">
+        <mark key="[" line="24" column="63" />
+        <mark key="]" line="24" column="64" />
+        <mark key="." line="24" column="64" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" timestamp="1559828897595">
         <mark key="[" line="148" column="4" />
         <mark key="]" line="148" column="3" />
@@ -155,6 +181,11 @@
         <mark key="]" line="18" column="7" />
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
+      </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/constants.py" timestamp="1558375775422">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/core/constants.py" timestamp="1559768636369" />
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" timestamp="1559758752050">
@@ -175,10 +206,6 @@
         <mark key="]" line="149" column="68" />
         <mark key="^" line="149" column="68" />
         <mark key="." line="149" column="68" />
-      </file>
-      <file name="/routes.py" timestamp="1559759440585">
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="188" column="12" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/constants.py" timestamp="1559765287162">
         <mark key="[" line="118" column="29" />
@@ -1049,14 +1076,14 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhY3R1YWwpCg==</text>
+      <register name="&quot;" type="4">
+        <text>_size</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>[(136.0, 'MosSinceActivationDefault136'), (0.0, 'LifetimeRevenue'),</text>
+        <text>_size</text>
       </register>
       <register name="/" type="4">
         <text>validate</text>
@@ -1065,19 +1092,19 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2IyYl9wb3N0X2Vucm9sbG1lbnQnOiBQb3N0RW5yb2xsbWVudE1vZGVsKHNlbGYuY29udGV4dCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhY3R1YWwpCg==</text>
+        <text encoding="base64">aW1wb3J0IGpzb24sIHRpbWUsIHV1aWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoMTMzLjAsICdNb3NTaW5jZUxhc3RPcmRlckRlZmF1bHQxMzMnKSwgKDAuMCwgJ0FPVl8xeXInKSwgKDAuMCwgJ1JldmVudWVQZXJNb250aF8xeXInKSwKICAgICAgICAgICAgICAgICAgICAoMC4wLCAnVmlzaXRGcmVxdWVuY3k5MGRfQXBwJyksICgwLjAsICdWaXNpdEZyZXF1ZW5jeTkwZF9Nb2JpbGUnKSwKICAgICAgICAgICAgICAgICAgICAoMC4wLCAnVmlzaXRGcmVxdWVuY3k5MGRfRGVza3RvcCcpLCAoMC4wLCAnQ3VDcmVhdGlvblN0b3JlXzgxJyksICgwLjAsICdDdUNyZWF0aW9uU3RvcmVfNDIyJyksCiAgICAgICAgICAgICAgICAgICAgKDAuMCwgJ0N1Q3JlYXRpb25TdG9yZV80NTAnKSwgKDAuMCwgJ0N1Q3JlYXRpb25TdG9yZV80NTcnKSwgKDAuMCwgJ0JhbUlEUmFua19BcHBsaWNhdGlvbicpLAogICAgICAgICAgICAgICAgICAgICgwLjAsICdDaGFubmVsTmFtZV9BZmZpbGlhdGVzJyksICgwLjAsICdDaGFubmVsTmFtZV9CcmFuZCcpLAogICAgICAgICAgICAgICAgICAgICgwLjAsICdDaGFubmVsTmFtZV9Db21wYXJpc29uIFNob3BwaW5nJyksICgwLjAsICdDaGFubmVsTmFtZV9DdXN0b21lciBGaWxlIFJlbWFya2V0aW5nJyksCiAgICAgICAgICAgICAgICAgICAgKDAuMCwgJ0NoYW5uZWxOYW1lX0Rpc3BsYXkgLSBBY3F1aXNpdGlvbicpLCAoMC4wLCAnQ2hhbm5lbE5hbWVfRGlzcGxheSAtIFJldGFyZ2V0aW5nJyksCiAgICAgICAgICAgICAgICAgICAgKDAuMCwgJ0NoYW5uZWxOYW1lX0VtYWlsJyksICgwLjAsICdDaGFubmVsTmFtZV9Hb29nbGUgUHJvZHVjdCBBZHMnKSwKICAgICAgICAgICAgICAgICAgICAoMC4wLCAnQ2hhbm5lbE5hbWVfU2VhcmNoIC0gT3JnYW5pYycpLCAoMC4wLCAnQ2hhbm5lbE5hbWVfU29jaWFsIC0gT3JnYW5pYycpLAogICAgICAgICAgICAgICAgICAgICgwLjAsICdDaGFubmVsTmFtZV9Tb2NpYWwgLSBQYWlkJyksICgwLjAsICdWZXJ0aWNhbF9Db250cmFjdG9yJyksICgwLjAsICdWZXJ0aWNhbF9FZHVjYXRpb24nKSwKICAgICAgICAgICAgICAgICAgICAoMC4wLCAnVmVydGljYWxfSGVhbHRoY2FyZScpLCAoMC4wLCAnVmVydGljYWxfSG9zcGl0YWxpdHknKSwgKDAuMCwgJ1ZlcnRpY2FsX0ludGVyaW9yIERlc2lnbmVyJyksCiAgICAgICAgICAgICAgICAgICAgKDAuMCwgJ1ZlcnRpY2FsX09mZmljZS9CdXNpbmVzcycpLCAoMC4wLCAnVmVydGljYWxfUHJvcGVydHkgTWFuYWdlbWVudCcpLAogICAgICAgICAgICAgICAgICAgICgxLjAsICdFbnJvbGxtZW50TWV0aG9kX0RpcmVjdGx5IEVucm9sbGVkIEVJTiBQcm92aWRlZCcpLCAoMC4wLCAnRW5yb2xsbWVudE1ldGhvZF9NYW51YWwgRW1haWwnKSwKICAgICAgICAgICAgICAgICAgICAoMC4wLCAnRW5yb2xsbWVudE1ldGhvZF9NYW51YWwgTm8gT3V0cmVhY2gnKSwgKDAuMCwgJ0Vucm9sbG1lbnRNZXRob2RfTWFudWFsIFBob25lIExpdmUgVHJhbnNmZXInKSwKICAgICAgICAgICAgICAgICAgICAoMC4wLCAnVmlzaXRGcmVxdWVuY3kzMGQnKSwgKDAuMCwgJ251bV92aWV3ZWRfc2t1c18zMF9kYXknKSwgKDAuMCwgJ251bV9hZGRlZF90b19jYXJ0X3NrdXNfMzBfZGF5JyksCiAgICAgICAgICAgICAgICAgICAgKDAuMCwgJ251bV9wdXJjaGFzZWRfc2t1c18zMF9kYXknKSwgKDAuMCwgJ3N1bV9wcmljZV9wdXJjaGFzZWRfc2t1c18zMF9kYXknKSwKICAgICAgICAgICAgICAgICAgICAoMC4wLCAnYWRkZWRfdG9faWRlYWJvYXJkXzMwX2RheScpXQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhY3R1YWwpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMZWdhY3kgTmFtZTogTW9zU2luY2VMYXN0T3JkZXJEZWZhdWx0MTI3Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoMTMzLjAsICdNb3NTaW5jZUxhc3RPcmRlckRlZmF1bHQxMzMnKSwgKDAuMCwgJ0FPVl8xeXInKSwgKDAuMCwgJ1JldmVudWVQZXJNb250aF8xeXInKSwKICAgICAgICAgICAgICAgICAgICAoMC4wLCAnVmlzaXRGcmVxdWVuY3k5MGRfQXBwJyksICgwLjAsICdWaXNpdEZyZXF1ZW5jeTkwZF9Nb2JpbGUnKSwKICAgICAgICAgICAgICAgICAgICAoMC4wLCAnVmlzaXRGcmVxdWVuY3k5MGRfRGVza3RvcCcpLCAoMC4wLCAnQ3VDcmVhdGlvblN0b3JlXzgxJyksICgwLjAsICdDdUNyZWF0aW9uU3RvcmVfNDIyJyksCiAgICAgICAgICAgICAgICAgICAgKDAuMCwgJ0N1Q3JlYXRpb25TdG9yZV80NTAnKSwgKDAuMCwgJ0N1Q3JlYXRpb25TdG9yZV80NTcnKSwgKDAuMCwgJ0JhbUlEUmFua19BcHBsaWNhdGlvbicpLAogICAgICAgICAgICAgICAgICAgICgwLjAsICdDaGFubmVsTmFtZV9BZmZpbGlhdGVzJyksICgwLjAsICdDaGFubmVsTmFtZV9CcmFuZCcpLAogICAgICAgICAgICAgICAgICAgICgwLjAsICdDaGFubmVsTmFtZV9Db21wYXJpc29uIFNob3BwaW5nJyksICgwLjAsICdDaGFubmVsTmFtZV9DdXN0b21lciBGaWxlIFJlbWFya2V0aW5nJyksCiAgICAgICAgICAgICAgICAgICAgKDAuMCwgJ0NoYW5uZWxOYW1lX0Rpc3BsYXkgLSBBY3F1aXNpdGlvbicpLCAoMC4wLCAnQ2hhbm5lbE5hbWVfRGlzcGxheSAtIFJldGFyZ2V0aW5nJyksCiAgICAgICAgICAgICAgICAgICAgKDAuMCwgJ0NoYW5uZWxOYW1lX0VtYWlsJyksICgwLjAsICdDaGFubmVsTmFtZV9Hb29nbGUgUHJvZHVjdCBBZHMnKSwKICAgICAgICAgICAgICAgICAgICAoMC4wLCAnQ2hhbm5lbE5hbWVfU2VhcmNoIC0gT3JnYW5pYycpLCAoMC4wLCAnQ2hhbm5lbE5hbWVfU29jaWFsIC0gT3JnYW5pYycpLAogICAgICAgICAgICAgICAgICAgICgwLjAsICdDaGFubmVsTmFtZV9Tb2NpYWwgLSBQYWlkJyksICgwLjAsICdWZXJ0aWNhbF9Db250cmFjdG9yJyksICgwLjAsICdWZXJ0aWNhbF9FZHVjYXRpb24nKSwKICAgICAgICAgICAgICAgICAgICAoMC4wLCAnVmVydGljYWxfSGVhbHRoY2FyZScpLCAoMC4wLCAnVmVydGljYWxfSG9zcGl0YWxpdHknKSwgKDAuMCwgJ1ZlcnRpY2FsX0ludGVyaW9yIERlc2lnbmVyJyksCiAgICAgICAgICAgICAgICAgICAgKDAuMCwgJ1ZlcnRpY2FsX09mZmljZS9CdXNpbmVzcycpLCAoMC4wLCAnVmVydGljYWxfUHJvcGVydHkgTWFuYWdlbWVudCcpLAogICAgICAgICAgICAgICAgICAgICgxLjAsICdFbnJvbGxtZW50TWV0aG9kX0RpcmVjdGx5IEVucm9sbGVkIEVJTiBQcm92aWRlZCcpLCAoMC4wLCAnRW5yb2xsbWVudE1ldGhvZF9NYW51YWwgRW1haWwnKSwKICAgICAgICAgICAgICAgICAgICAoMC4wLCAnRW5yb2xsbWVudE1ldGhvZF9NYW51YWwgTm8gT3V0cmVhY2gnKSwgKDAuMCwgJ0Vucm9sbG1lbnRNZXRob2RfTWFudWFsIFBob25lIExpdmUgVHJhbnNmZXInKSwKICAgICAgICAgICAgICAgICAgICAoMC4wLCAnVmlzaXRGcmVxdWVuY3kzMGQnKSwgKDAuMCwgJ251bV92aWV3ZWRfc2t1c18zMF9kYXknKSwgKDAuMCwgJ251bV9hZGRlZF90b19jYXJ0X3NrdXNfMzBfZGF5JyksCiAgICAgICAgICAgICAgICAgICAgKDAuMCwgJ251bV9wdXJjaGFzZWRfc2t1c18zMF9kYXknKSwgKDAuMCwgJ3N1bV9wcmljZV9wdXJjaGFzZWRfc2t1c18zMF9kYXknKSwKICAgICAgICAgICAgICAgICAgICAoMC4wLCAnYWRkZWRfdG9faWRlYWJvYXJkXzMwX2RheScpXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMZWdhY3kgTmFtZTogTW9zU2luY2VBY3RpdmF0aW9uRGVmYXVsdDEyOQoK</text>
+        <text encoding="base64">ICAgICAgICBMZWdhY3kgTmFtZTogTW9zU2luY2VMYXN0T3JkZXJEZWZhdWx0MTI3Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhY3R1YWwgPSBNb2NrRGF0YVNjaWVuY2VNb2RlbC5mZWF0dXJlX2FycmF5Cg==</text>
+        <text encoding="base64">ICAgICAgICBMZWdhY3kgTmFtZTogTW9zU2luY2VBY3RpdmF0aW9uRGVmYXVsdDEyOQoK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBhY3R1YWwgPSBNb2NrRGF0YVNjaWVuY2VNb2RlbC5mZWF0dXJlX2FycmF5Cg==</text>
@@ -1086,10 +1113,10 @@
         <text encoding="base64">ICAgICAgICBhY3R1YWwgPSBNb2NrRGF0YVNjaWVuY2VNb2RlbC5mZWF0dXJlX2FycmF5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBldmFsdWF0aW9uLm1vZGVscy5kYXRhLmFnZ3JlZ2F0ZV9wYXlsb2FkX21vZGVsIGltcG9ydCBBZ2dyZWdhdGVQYXlsb2FkTW9kZWwK</text>
+        <text encoding="base64">ICAgICAgICBhY3R1YWwgPSBNb2NrRGF0YVNjaWVuY2VNb2RlbC5mZWF0dXJlX2FycmF5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ZnJvbSBldmFsdWF0aW9uLm1vZGVscy5kYXRhLmFnZ3JlZ2F0ZV9wYXlsb2FkX21vZGVsIGltcG9ydCBBZ2dyZWdhdGVQYXlsb2FkTW9kZWwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1128,7 +1155,6 @@
         <entry>validate</entry>
       </history-search>
       <history-cmd>
-        <entry>g/coefficient</entry>
         <entry>g/coef/d</entry>
         <entry>v</entry>
         <entry>&quot;w</entry>
@@ -1139,14 +1165,15 @@
         <entry>r</entry>
         <entry>vsplit</entry>
         <entry>:w</entry>
-        <entry>we</entry>
         <entry>e</entry>
         <entry>qw</entry>
         <entry>w\</entry>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>W</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry encoding="base64">JzwsJz5zcG9ydA==</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
