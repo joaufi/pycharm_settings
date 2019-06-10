@@ -276,11 +276,12 @@
         <mark key="." line="2188" column="3" />
         <mark key="^" line="2188" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" timestamp="1560177531315">
-        <mark key="'" line="147" column="21" />
-        <mark key="[" line="169" column="0" />
-        <mark key="]" line="169" column="0" />
-        <mark key="." line="169" column="0" />
+      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" timestamp="1560178636948">
+        <mark key="'" line="578" column="12" />
+        <mark key="[" line="582" column="28" />
+        <mark key="]" line="582" column="28" />
+        <mark key="." line="582" column="28" />
+        <mark key="^" line="582" column="28" />
       </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/controller.py" timestamp="1559916763934">
         <mark key="[" line="37" column="13" />
@@ -301,12 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="26" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b/post_enrollment_model.py" />
-      <jump line="115" column="7" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b/post_enrollment_model.py" />
-      <jump line="47" column="12" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/mocks/mock_context.py" />
-      <jump line="87" column="8" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
-      <jump line="92" column="25" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
-      <jump line="126" column="8" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
       <jump line="160" column="8" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
       <jump line="197" column="8" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
       <jump line="63" column="0" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
@@ -401,6 +396,12 @@
       <jump line="169" column="0" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" />
       <jump line="573" column="12" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" />
       <jump line="147" column="21" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" />
+      <jump line="26" column="19" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" />
+      <jump line="252" column="62" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" />
+      <jump line="582" column="28" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" />
+      <jump line="148" column="21" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" />
+      <jump line="163" column="16" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" />
+      <jump line="578" column="12" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1091,17 +1092,17 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>SUB_APP_NAME</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>devicemap_app</text>
+        <text>SUB_APP_NAME</text>
       </register>
       <register name="/" type="4">
-        <text>wf_stats</text>
+        <text>wf_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodHJhY2ViYWNrLmZvcm1hdF9leGMoKSkK</text>
@@ -1138,9 +1139,9 @@
       </register>
     </registers>
     <search>
-      <last-search>wf_stats</last-search>
+      <last-search>wf_</last-search>
       <last-offset />
-      <last-pattern>wf_stats</last-pattern>
+      <last-pattern>wf_</last-pattern>
       <last-replace>create_devicemap</last-replace>
       <last-substitute>get_b2b_deviceguids</last-substitute>
       <last-dir>1</last-dir>
@@ -1148,7 +1149,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_b2b_deviceguids</entry>
         <entry>model_storage_host</entry>
         <entry>)</entry>
         <entry>}</entry>
@@ -1168,6 +1168,7 @@
         <entry>model_sto</entry>
         <entry>AEROSPIKE</entry>
         <entry>wf_stats</entry>
+        <entry>wf_</entry>
       </history-search>
       <history-cmd>
         <entry>g/coef/d</entry>
@@ -1184,11 +1185,11 @@
         <entry>w\</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zcG9ydA==</entry>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>we</entry>
         <entry>qa</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
