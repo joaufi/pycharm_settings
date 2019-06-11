@@ -344,6 +344,12 @@
         <mark key="." line="254" column="0" />
         <mark key="^" line="254" column="34" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_27.txt" timestamp="1560262792922">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="349" column="22" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
@@ -1136,14 +1142,14 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJ2JpZ2RhdGFfY3JlZCcsCg==</text>
+      <register name="&quot;" type="4">
+        <text>b</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>bigdata</text>
@@ -1152,31 +1158,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2Rzcm1fc3BlY2lhbGl6ZWQnOiBjYWxsX3JvdXRpbmdfbW9kZWwsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJ2JpZ2RhdGFfY3JlZCcsCg==</text>
+        <text encoding="base64">ZmFiIC1JIC1IIOKAqGplbmtpbnNtYXN0ZXJjMW4xLmRldi5ibzEuY3Nuem9vLmNvbSxqZW5raW5zbWFzdGVyYzJuMS5kZXYuYm8xLmNzbnpvby5jb20samVua2luc21hc3RlcmMzbjEuZGV2LmJvMS5jc256b28uY29tLGplbmtpbnNtYXN0ZXJjMW4yLmRldi5ibzEuY3Nuem9vLmNvbSxqZW5raW5zbWFzdGVyYzduMi5kZXYuYm8xLmNzbnpvby5jb20JLGFpcmZsb3cwMS5kZXYuYm8xLmNzbnpvby5jb20sY2FjaGVoZWFkMDEuZGV2LmJvMS5jc256b28uY29tLGplbmtpbnNiaWdkYXRhYzRuMS5kZXYuYm8xLmNzbnpvby5jb20sYmlnZGF0YXRvcDAxLmRldi5ibzEuY3Nuem9vLmNvbSxhaXJmbG93c2NoZWR1bGVyYzFuMS5kZXYuYm8xLmNzbnpvby5jb20sZ3B1MDMuZGV2LmJvMS5jc256b28uY29tLG1lYmlnZGF0YTE5LmRldi5ibzEuY3Nuem9vLmNvbQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJ2RldndlYl9jcmVkJywK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgJ2JpZ2RhdGFfY3JlZCcsCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgJ2RldndlYl9jcmVkJywK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmZWF0dXJlX25hbWVfdG9fdmFsdWUpCg==</text>
+        <text encoding="base64">ICAgICAgJ2JpZ2RhdGFfY3JlZCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2IyYl9wcmVfZW5yb2xsbWVudCc6IFByZUVucm9sbG1lbnRNb2RlbChzZWxmLmNvbnRleHQpLAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmZWF0dXJlX25hbWVfdG9fdmFsdWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHR5cGUgPSBGaWVsZHMuU1RSSU5HX0ZJRUxECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2IyYl9wcmVfZW5yb2xsbWVudCc6IFByZUVucm9sbG1lbnRNb2RlbChzZWxmLmNvbnRleHQpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXZlbF9iaWRkaW5nX21vZGVsID0gVXNlckxldmVsQmlkZGluZ0FwcG5leHVzTW9kZWwoc2VsZi5jb250ZXh0KQo=</text>
+        <text encoding="base64">ICAgIHR5cGUgPSBGaWVsZHMuU1RSSU5HX0ZJRUxECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2J1c2luZXNzX2xldmVsX2JpZGRpbmcnOiBsZXZlbF9iaWRkaW5nX21vZGVsLAo=</text>
+        <text encoding="base64">ICAgICAgICBsZXZlbF9iaWRkaW5nX21vZGVsID0gVXNlckxldmVsQmlkZGluZ0FwcG5leHVzTW9kZWwoc2VsZi5jb250ZXh0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAnYnVzaW5lc3NfbGV2ZWxfYmlkZGluZycgaW4gaW5wdXRfbW9kZWwubmFtZToKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX21vZGVsc1snYnVzaW5lc3NfbGV2ZWxfYmlkZGluZyddCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2J1c2luZXNzX2xldmVsX2JpZGRpbmcnOiBsZXZlbF9iaWRkaW5nX21vZGVsLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
