@@ -232,6 +232,13 @@
         <mark key="^" line="149" column="68" />
         <mark key="." line="158" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/puppet/modules/passwords/manifests/init.pp" timestamp="1560260404177">
+        <mark key="'" line="3019" column="20" />
+        <mark key="[" line="3019" column="0" />
+        <mark key="]" line="3019" column="0" />
+        <mark key="^" line="3021" column="19" />
+        <mark key="." line="3019" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/call_routing_models.py" timestamp="1559916781393">
         <mark key="[" line="102" column="23" />
         <mark key="]" line="102" column="28" />
@@ -303,6 +310,9 @@
         <mark key="." line="2188" column="3" />
         <mark key="^" line="2188" column="3" />
       </file>
+      <file name="$USER_HOME$/repositories/puppet/manifests/site.pp" timestamp="1560260105101">
+        <mark key="'" line="770" column="7" />
+      </file>
       <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" timestamp="1560179678638">
         <mark key="'" line="578" column="12" />
         <mark key="[" line="164" column="13" />
@@ -336,35 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2617" column="4" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/constants.py" />
-      <jump line="79" column="43" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" />
-      <jump line="98" column="32" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
-      <jump line="100" column="12" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
-      <jump line="139" column="17" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
-      <jump line="149" column="35" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
-      <jump line="17" column="16" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/utilities.py" />
-      <jump line="124" column="69" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" />
-      <jump line="841" column="60" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/business_model.py" />
-      <jump line="225" column="58" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" />
-      <jump line="110" column="82" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" />
-      <jump line="0" column="18328" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_33.json" />
-      <jump line="34" column="15" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
-      <jump line="40" column="5" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
-      <jump line="13" column="55" filename="$USER_HOME$/repositories/airflow-dags/comp_intel_execute_vlm_pipeline.py" />
-      <jump line="266" column="53" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
-      <jump line="267" column="59" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
-      <jump line="276" column="14" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
-      <jump line="291" column="55" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
-      <jump line="308" column="21" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
-      <jump line="309" column="75" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
-      <jump line="314" column="75" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
-      <jump line="158" column="12" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
-      <jump line="165" column="19" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
-      <jump line="166" column="75" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
-      <jump line="171" column="75" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
-      <jump line="219" column="8" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
-      <jump line="238" column="8" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
-      <jump line="140" column="8" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/constants.py" />
       <jump line="349" column="22" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
       <jump line="9" column="4" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
       <jump line="10" column="4" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
@@ -436,6 +417,35 @@
       <jump line="256" column="16" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" />
       <jump line="259" column="13" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" />
       <jump line="254" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" />
+      <jump line="3019" column="20" filename="$USER_HOME$/repositories/puppet/modules/passwords/manifests/init.pp" />
+      <jump line="774" column="7" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="778" column="7" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="823" column="27" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="1914" column="14" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="1915" column="25" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="1918" column="14" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="1919" column="25" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="1922" column="14" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="1923" column="25" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="1926" column="14" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="1927" column="25" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="1930" column="14" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="1931" column="25" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="1934" column="14" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="1935" column="25" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="2477" column="7" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="46" column="7" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="47" column="16" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="691" column="7" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="696" column="7" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="700" column="7" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="704" column="7" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="713" column="15" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="714" column="25" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="733" column="9" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="749" column="7" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="763" column="18" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
+      <jump line="770" column="7" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1127,7 +1137,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmZWF0dXJlX25hbWVfdG9fdmFsdWUpCg==</text>
+        <text encoding="base64">ICAgICAgJ2JpZ2RhdGFfY3JlZCcsCg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -1136,46 +1146,46 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>type</text>
+        <text>bigdata</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2Rzcm1fc3BlY2lhbGl6ZWQnOiBjYWxsX3JvdXRpbmdfbW9kZWwsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmZWF0dXJlX25hbWVfdG9fdmFsdWUpCg==</text>
+        <text encoding="base64">ICAgICAgJ2JpZ2RhdGFfY3JlZCcsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2IyYl9wcmVfZW5yb2xsbWVudCc6IFByZUVucm9sbG1lbnRNb2RlbChzZWxmLmNvbnRleHQpLAo=</text>
+        <text encoding="base64">ICAgICAgJ2RldndlYl9jcmVkJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHR5cGUgPSBGaWVsZHMuU1RSSU5HX0ZJRUxECg==</text>
+        <text encoding="base64">ICAgICAgJ2JpZ2RhdGFfY3JlZCcsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXZlbF9iaWRkaW5nX21vZGVsID0gVXNlckxldmVsQmlkZGluZ0FwcG5leHVzTW9kZWwoc2VsZi5jb250ZXh0KQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmZWF0dXJlX25hbWVfdG9fdmFsdWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2J1c2luZXNzX2xldmVsX2JpZGRpbmcnOiBsZXZlbF9iaWRkaW5nX21vZGVsLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2IyYl9wcmVfZW5yb2xsbWVudCc6IFByZUVucm9sbG1lbnRNb2RlbChzZWxmLmNvbnRleHQpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAnYnVzaW5lc3NfbGV2ZWxfYmlkZGluZycgaW4gaW5wdXRfbW9kZWwubmFtZToKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX21vZGVsc1snYnVzaW5lc3NfbGV2ZWxfYmlkZGluZyddCg==</text>
+        <text encoding="base64">ICAgIHR5cGUgPSBGaWVsZHMuU1RSSU5HX0ZJRUxECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGhhY2sgdG8gc3VwcG9ydCBuZXcgLyBvbGQgbGV2ZWxfYmlkZGluZyBtb2RlbHMgY29leGlzdGluZyBhdCB0aGUgc2FtZSB0aW1lCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXZlbF9iaWRkaW5nX21vZGVsID0gVXNlckxldmVsQmlkZGluZ0FwcG5leHVzTW9kZWwoc2VsZi5jb250ZXh0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2J1c2luZXNzX2xldmVsX2JpZGRpbmcnOiBsZXZlbF9iaWRkaW5nX21vZGVsLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpbnB1dF9tb2RlbC50eXBlOgogICAgICAgICAgICBpZiBpbnB1dF9tb2RlbC50eXBlIG5vdCBpbiBzZWxmLl9tb2RlbF90eXBlczoKICAgICAgICAgICAgICAgIHJhaXNlIFNjb3JpbmdMaWJyYXJ5RXhjZXB0aW9uKCJtb2RlbCB0eXBlIG5vdCB2YWxpZDoge30iLmZvcm1hdChpbnB1dF9tb2RlbC50eXBlKSkKCiAgICAgICAgICAgIHJldHVybiBzZWxmLl9tb2RlbF90eXBlc1tpbnB1dF9tb2RlbC50eXBlXSgKICAgICAgICAgICAgICAgIHNlbGYuY29udGV4dCwKICAgICAgICAgICAgICAgIG1vZGVsX3N0b3JhZ2VfbmFtZT1pbnB1dF9tb2RlbC5uYW1lCiAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAnYnVzaW5lc3NfbGV2ZWxfYmlkZGluZycgaW4gaW5wdXRfbW9kZWwubmFtZToKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX21vZGVsc1snYnVzaW5lc3NfbGV2ZWxfYmlkZGluZyddCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>type</last-search>
+      <last-search>bigdata</last-search>
       <last-offset />
-      <last-pattern>type</last-pattern>
+      <last-pattern>bigdata</last-pattern>
       <last-replace>create_devicemap</last-replace>
       <last-substitute>get_b2b_deviceguids</last-substitute>
       <last-dir>1</last-dir>
@@ -1183,9 +1193,6 @@
     </search>
     <history>
       <history-search>
-        <entry>xgboost</entry>
-        <entry>queue</entry>
-        <entry>ConfiguredHiveOperator</entry>
         <entry>Configured</entry>
         <entry>devicemap</entry>
         <entry>DSCallRoutingV3</entry>
@@ -1203,6 +1210,9 @@
         <entry>for feature_name</entry>
         <entry>MODEL_TYPE</entry>
         <entry>type</entry>
+        <entry>mebig</entry>
+        <entry>mebigdata</entry>
+        <entry>bigdata</entry>
       </history-search>
       <history-cmd>
         <entry>&quot;w</entry>
