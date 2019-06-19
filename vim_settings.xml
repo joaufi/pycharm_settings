@@ -79,12 +79,12 @@
       <file name="$USER_HOME$/repositories/scoring-library/tests/aggregation/test_controllers.py" timestamp="1560349817507">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/app.py" timestamp="1560973019910">
-        <mark key="'" line="149" column="0" />
-        <mark key="[" line="66" column="9" />
-        <mark key="]" line="67" column="7" />
-        <mark key="." line="67" column="7" />
-        <mark key="^" line="67" column="7" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/app.py" timestamp="1560974746993">
+        <mark key="'" line="148" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="175" column="99" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/create_devicemap.hql" timestamp="1558470489180">
         <mark key="[" line="20" column="0" />
@@ -238,6 +238,9 @@
         <mark key="^" line="35" column="89" />
         <mark key="." line="35" column="87" />
       </file>
+      <file name="$USER_HOME$/repositories/customer-information-service/requirements.lock" timestamp="1560974416166">
+        <mark key="'" line="1" column="13" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.json" timestamp="1559311451783">
         <mark key="[" line="3" column="3" />
         <mark key="]" line="5" column="9" />
@@ -318,7 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="10" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" />
       <jump line="40" column="30" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/constants.py" />
       <jump line="66" column="13" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/constants.py" />
       <jump line="1" column="3" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/feature_orders.py" />
@@ -418,6 +420,7 @@
       <jump line="362" column="25" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
       <jump line="425" column="8" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
       <jump line="439" column="12" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
+      <jump line="1" column="13" filename="$USER_HOME$/repositories/customer-information-service/requirements.lock" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1108,56 +1111,56 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>request_json</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHRyYWNlYmFjawo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>request_json</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
-        <text>device_guid</text>
+        <text>0.1.3</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhZ2dyZWdhdGVzX2FwcC5sb2dnZXIuZXJyb3IoCiAgICAgICAgICAgICdFcnJvciB3aGlsZSBnZXR0aW5nIGFnZ3JlZ2F0aW9uJywKICAgICAgICAgICAgZXh0cmE9eydzdGFja190cmFjZSc6IHRyYWNlYmFjay5mb3JtYXRfZXhjKCksCiAgICAgICAgICAgICAgICAgICAncmVxdWVzdF9qc29uJzogcmVxdWVzdF9qc29ufQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhZ2dyZWdhdGVzX2FwcC5sb2dnZXIuZXJyb3IoCg==</text>
+        <text encoding="base64">aW1wb3J0IHRyYWNlYmFjawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbHM9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZ2dyZWdhdGVzX2FwcC5sb2dnZXIuZXJyb3IoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZXZpY2VfZ3VpZCA9IGRldmljZV9ndWlkc1swXSBpZiBkZXZpY2VfZ3VpZHMgZWxzZSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZXZpY2VfZ3VpZCA9IGRldmljZV9ndWlkc1swXSBpZiBkZXZpY2VfZ3VpZHMgZWxzZSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbHM9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldmljZV9ndWlkPWRldmljZV9ndWlkLAo=</text>
+        <text encoding="base64">ICAgICAgICBkZXZpY2VfZ3VpZCA9IGRldmljZV9ndWlkc1swXSBpZiBkZXZpY2VfZ3VpZHMgZWxzZSBOb25lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZXZpY2VfZ3VpZCA9IGRldmljZV9ndWlkc1swXSBpZiBkZXZpY2VfZ3VpZHMgZWxzZSBOb25lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZlYXR1cmVfbGlzdF9sb2NhdGlvbj1Nb2RlbFN0b3JhZ2VTcGVjLkZFQVRVUkVTCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldmljZV9ndWlkPWRldmljZV9ndWlkLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGZlYXR1cmVfb3JkZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>device_guid</last-search>
+      <last-search>0.1.3</last-search>
       <last-offset />
-      <last-pattern>device_guid</last-pattern>
+      <last-pattern>0.1.3</last-pattern>
       <last-replace>create_devicemap</last-replace>
       <last-substitute>get_b2b_deviceguids</last-substitute>
       <last-dir>1</last-dir>
@@ -1165,7 +1168,6 @@
     </search>
     <history>
       <history-search>
-        <entry>wf_secrets</entry>
         <entry>pyaes</entry>
         <entry>feature_name</entry>
         <entry>for feature_name</entry>
@@ -1185,6 +1187,7 @@
         <entry>feature_list_location</entry>
         <entry>feature_list</entry>
         <entry>device_guid</entry>
+        <entry>0.1.3</entry>
       </history-search>
       <history-cmd>
         <entry>&quot;w</entry>
@@ -1201,10 +1204,10 @@
         <entry encoding="base64">JzwsJz5zcG9ydA==</entry>
         <entry>we</entry>
         <entry>qa</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zb3J0IC1p</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
