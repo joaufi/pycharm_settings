@@ -74,12 +74,12 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" timestamp="1562793134738">
-        <mark key="'" line="136" column="42" />
-        <mark key="[" line="147" column="19" />
-        <mark key="]" line="147" column="21" />
-        <mark key="." line="147" column="21" />
-        <mark key="^" line="147" column="21" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" timestamp="1562848869140">
+        <mark key="'" line="154" column="57" />
+        <mark key="[" line="175" column="38" />
+        <mark key="]" line="175" column="8" />
+        <mark key="." line="175" column="8" />
+        <mark key="^" line="175" column="8" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/bin/run_server.sh" timestamp="1559917094129">
         <mark key="[" line="19" column="30" />
@@ -316,6 +316,12 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1562848506917">
+        <mark key="[" line="244" column="0" />
+        <mark key="]" line="244" column="0" />
+        <mark key="^" line="243" column="51" />
+        <mark key="." line="244" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/settings/local.py.default" timestamp="1561993137658">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="24" column="52" />
@@ -353,10 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
-      <jump line="54" column="18" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/common/utilities.py" />
-      <jump line="187" column="6" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" />
-      <jump line="48" column="36" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/dev.py" />
       <jump line="58" column="4" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/dev.py" />
       <jump line="59" column="35" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/dev.py" />
       <jump line="169" column="0" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/routes.py" />
@@ -453,6 +455,10 @@
       <jump line="9" column="22" filename="$USER_HOME$/repositories/feature-service/featuresvc/view/batch_view.py" />
       <jump line="4" column="0" filename="$USER_HOME$/repositories/cis-notebooks/bin/env.sh" />
       <jump line="135" column="42" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" />
+      <jump line="106" column="36" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" />
+      <jump line="65" column="23" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" />
+      <jump line="145" column="57" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1143,56 +1149,56 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVjb3JhdG9yPT00LjMuMAppcHl0aG9uPT01LjMuMAppcHl0aG9uLWdlbnV0aWxzPT0wLjIuMApudW1weT09MS4xNS4yCnBhbmRhcz09MC4yMi4wCnBleHBlY3Q9PTQuNi4wCnBpY2tsZXNoYXJlPT0wLjcuNQpwcm9tcHQtdG9vbGtpdD09MS4wLjE1CnB0eXByb2Nlc3M9PTAuNi4wCnB5YXJyb3c9PTAuOC4wClB5Z21lbnRzPT0yLjMuMQpweXRob24tZGF0ZXV0aWw9PTIuNy41CnB5dHo9PTIwMTguOQpyZXF1ZXN0cz09Mi45LjEKc2Npa2l0LWxlYXJuPT0wLjE5LjAKc2NpcHk9PTAuMTkuMApzaW1wbGVnZW5lcmljPT0wLjguMQpzaXg9PTEuMTIuMAp0cmFpdGxldHM9PTQuMy4yCndjd2lkdGg9PTAuMS43CnhnYm9vc3Q9PTAuNGEzMAo=</text>
+      <register name="&quot;" type="4">
+        <text>v4/conversion/customer</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXJlIA==</text>
+        <text>v4/conversion/customer</text>
       </register>
       <register name="/" type="4">
-        <text>No</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVjb3JhdG9yPT00LjMuMAppcHl0aG9uPT01LjMuMAppcHl0aG9uLWdlbnV0aWxzPT0wLjIuMApudW1weT09MS4xNS4yCnBhbmRhcz09MC4yMi4wCnBleHBlY3Q9PTQuNi4wCnBpY2tsZXNoYXJlPT0wLjcuNQpwcm9tcHQtdG9vbGtpdD09MS4wLjE1CnB0eXByb2Nlc3M9PTAuNi4wCnB5YXJyb3c9PTAuOC4wClB5Z21lbnRzPT0yLjMuMQpweXRob24tZGF0ZXV0aWw9PTIuNy41CnB5dHo9PTIwMTguOQpyZXF1ZXN0cz09Mi45LjEKc2Npa2l0LWxlYXJuPT0wLjE5LjAKc2NpcHk9PTAuMTkuMApzaW1wbGVnZW5lcmljPT0wLjguMQpzaXg9PTEuMTIuMAp0cmFpdGxldHM9PTQuMy4yCndjd2lkdGg9PTAuMS43CnhnYm9vc3Q9PTAuNGEzMAo=</text>
+        <text encoding="base64">ICAgIHBhcnRpdGlvbkJ5PSJldmVudGRhdGUiLAogICAgbW9kZT0iYXBwZW5kIiwKICAgIGZvcm1hdD0icGFycXVldCIsCiAgICBwYXRoPSJoZGZzOi8vIiArIGFyZ3MuaGRmc19ob3N0ICsgIi9ob21lLyIgKyBhcmdzLmRhdGFiYXNlICsgIi9pbl9tYXJrZXQvc2NvcmVzL3Y0L2NvbnZlcnNpb24vZGV2aWNlIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBjaGFsbGVuZ2VyIHNjb3JlcyBhcmUgMC4wIGZvciBub3cgYXMgdGhlcmUgaXMgbm8gY2hhbGxlbmdlcgo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2NvcmVkX2N1c3RvbWVyX2xldmVsX2RmID0gc2NvcmVkX2RmIFwKICAgIC5zZWxlY3QoQ1VTVE9NRVJfTEVWRUxfQ09OVEVYVF9DT0xTICsgWyJzY29yZSJdKSBcCiAgICAud2l0aENvbHVtbigiY2hhbGxlbmdlcl9zY29yZSIsIGxpdChOb25lKSlcCiAgICAud2l0aENvbHVtbigibWF4X3Njb3JlIiwgbWF4KCJzY29yZSIpLm92ZXIoV2luZG93LnBhcnRpdGlvbkJ5KCpDVVNUT01FUl9MRVZFTF9DT05URVhUX0NPTFMpKSlcCiAgICAud2hlcmUoY29sKCJzY29yZSIpID09IGNvbCgibWF4X3Njb3JlIikpXAogICAgLmRyb3AoIm1heFNjb3JlIilcCiAgICAud2l0aENvbHVtbigiZXZlbnRkYXRlIiwgbGl0KGFyZ3MuZXZlbnRkYXRlKSkK</text>
+        <text encoding="base64">ICAgIGdldF9wZHBfbW9kZWwgPj4gc2NvcmVfcGRwX21vZGVsID4+IGxvZ19tZXRyaWNzCiAgICBnZXRfY29udmVyc2lvbl9tb2RlbCA+PiBzY29yZV9jb252ZXJzaW9uX21vZGVsID4+IGxvZ19tZXRyaWNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA+PiBsb2dfbWV0cmljcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y3VzdG9tZXJfdyA9Cg==</text>
+        <text encoding="base64">ICAgICAgICA+PiBnZXRfY29udmVyc2lvbl9tb2RlbAogICAgICAgID4+IHNjb3JlX2NvbnZlcnNpb25fbW9kZWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJvbXB0LXRvb2xraXQ9PTIuMC45Cg==</text>
+        <text encoding="base64">ICAgICgKICAgICAgICBtZXJnZV9tb2RlbF9mZWF0dXJlcwogICAgICAgID4+IGdldF9wZHBfbW9kZWwKICAgICAgICA+PiBzY29yZV9wZHBfbW9kZWwKICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aXB5dGhvbj09Ni40LjAK</text>
+        <text encoding="base64">ICAgICAgICA+PiBsb2dfbWV0cmljcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA+PiBsb2dfbWV0cmljcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>No</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern>No</last-pattern>
+      <last-pattern>'</last-pattern>
       <last-replace>conf</last-replace>
       <last-substitute>dev</last-substitute>
       <last-dir>1</last-dir>
@@ -1200,7 +1206,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mebigdata</entry>
         <entry>bigdata</entry>
         <entry>)</entry>
         <entry>post</entry>
@@ -1220,6 +1225,7 @@
         <entry>dev</entry>
         <entry>none</entry>
         <entry>No</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
         <entry>Lw</entry>
