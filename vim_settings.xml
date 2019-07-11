@@ -67,12 +67,12 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" timestamp="1562848869140">
-        <mark key="'" line="154" column="57" />
-        <mark key="[" line="175" column="38" />
-        <mark key="]" line="175" column="8" />
-        <mark key="." line="175" column="8" />
-        <mark key="^" line="175" column="8" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" timestamp="1562868768941">
+        <mark key="'" line="155" column="57" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="4" />
+        <mark key="." line="146" column="4" />
+        <mark key="^" line="139" column="45" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-service/bin/run_server.sh" timestamp="1559917094129">
         <mark key="[" line="19" column="30" />
@@ -343,7 +343,7 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/repositories/feature-service/featuresvc/batch/batch_feature.py" timestamp="1562854046466" />
+      <file name="$USER_HOME$/repositories/feature-service/featuresvc/batch/batch_feature.py" timestamp="1562868561951" />
     </filemarks>
     <jumps>
       <jump line="58" column="4" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/dev.py" />
@@ -1136,44 +1136,44 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>v4/conversion/customer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBhdGg9ImhkZnM6Ly97fS9ob21lL3t9L2luX21hcmtldC9zY29yZXMve30vY3VzdG9tZXIiLgo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>v4/conversion/customer</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcnRpdGlvbkJ5PSJldmVudGRhdGUiLAogICAgbW9kZT0iYXBwZW5kIiwKICAgIGZvcm1hdD0icGFycXVldCIsCiAgICBwYXRoPSJoZGZzOi8vIiArIGFyZ3MuaGRmc19ob3N0ICsgIi9ob21lLyIgKyBhcmdzLmRhdGFiYXNlICsgIi9pbl9tYXJrZXQvc2NvcmVzL3Y0L2NvbnZlcnNpb24vZGV2aWNlIgo=</text>
+        <text encoding="base64">ICAgIHBhdGg9ImhkZnM6Ly97fS9ob21lL3t9L2luX21hcmtldC9zY29yZXMve30vZGV2aWNlIi5mb3JtYXQoYXJncy5oZGZzX2hvc3QsIGFyZ3MuZGF0YWJhc2UsIGFyZ3Muc2NvcmVfdGFibGVfc3VmZml4KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgIHBhdGg9ImhkZnM6Ly97fS9ob21lL3t9L2luX21hcmtldC9zY29yZXMve30vY3VzdG9tZXIiLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICgK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldF9wZHBfbW9kZWwgPj4gc2NvcmVfcGRwX21vZGVsID4+IGxvZ19tZXRyaWNzCiAgICBnZXRfY29udmVyc2lvbl9tb2RlbCA+PiBzY29yZV9jb252ZXJzaW9uX21vZGVsID4+IGxvZ19tZXRyaWNzCg==</text>
+        <text encoding="base64">ICAgICgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA+PiBsb2dfbWV0cmljcwo=</text>
+        <text encoding="base64">ICAgIGdldF9wZHBfbW9kZWwgPj4gc2NvcmVfcGRwX21vZGVsID4+IGxvZ19tZXRyaWNzCiAgICBnZXRfY29udmVyc2lvbl9tb2RlbCA+PiBzY29yZV9jb252ZXJzaW9uX21vZGVsID4+IGxvZ19tZXRyaWNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA+PiBnZXRfY29udmVyc2lvbl9tb2RlbAogICAgICAgID4+IHNjb3JlX2NvbnZlcnNpb25fbW9kZWwK</text>
+        <text encoding="base64">ICAgICAgICA+PiBsb2dfbWV0cmljcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICgKICAgICAgICBtZXJnZV9tb2RlbF9mZWF0dXJlcwogICAgICAgID4+IGdldF9wZHBfbW9kZWwKICAgICAgICA+PiBzY29yZV9wZHBfbW9kZWwKICAgICkK</text>
+        <text encoding="base64">ICAgICAgICA+PiBnZXRfY29udmVyc2lvbl9tb2RlbAogICAgICAgID4+IHNjb3JlX2NvbnZlcnNpb25fbW9kZWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA+PiBsb2dfbWV0cmljcwo=</text>
+        <text encoding="base64">ICAgICgKICAgICAgICBtZXJnZV9tb2RlbF9mZWF0dXJlcwogICAgICAgID4+IGdldF9wZHBfbW9kZWwKICAgICAgICA+PiBzY29yZV9wZHBfbW9kZWwKICAgICkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICA+PiBsb2dfbWV0cmljcwo=</text>
