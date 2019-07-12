@@ -61,6 +61,13 @@
         <mark key="^" line="19" column="17" />
         <mark key="." line="19" column="17" />
       </file>
+      <file name="$USER_HOME$/repositories/feature-service/featuresvc/app.py" timestamp="1562004413454">
+        <mark key="'" line="14" column="42" />
+        <mark key="[" line="30" column="54" />
+        <mark key="]" line="30" column="54" />
+        <mark key="^" line="30" column="84" />
+        <mark key="." line="30" column="54" />
+      </file>
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/view/batch_view.py" timestamp="1562007327511">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -215,6 +222,13 @@
         <mark key="." line="15" column="68" />
         <mark key="^" line="15" column="68" />
       </file>
+      <file name="$USER_HOME$/repositories/feature-service/featuresvc/settings/local.py" timestamp="1561993133067">
+        <mark key="'" line="0" column="31" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="24" column="51" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/influx_reporter_operator.py" timestamp="1562890867735">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
@@ -300,12 +314,12 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1562932287542">
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1562933798354">
         <mark key="'" line="59" column="16" />
-        <mark key="[" line="246" column="67" />
-        <mark key="]" line="246" column="82" />
-        <mark key="." line="246" column="82" />
-        <mark key="^" line="246" column="82" />
+        <mark key="[" line="253" column="26" />
+        <mark key="]" line="253" column="35" />
+        <mark key="." line="253" column="35" />
+        <mark key="^" line="253" column="35" />
       </file>
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/settings/local.py.default" timestamp="1561993137658">
         <mark key="[" line="0" column="0" />
@@ -1136,13 +1150,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGV2aWNlZ3VpZCA=</text>
+        <text>, identi</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGV2aWNlZ3VpZCA=</text>
+        <text>, identi</text>
       </register>
       <register name="/" type="4">
         <text>database</text>
@@ -1151,28 +1165,28 @@
         <text encoding="base64">ICAgICAgICBfbG9nX21ldHJpY3NfcGVyX3RhYmxlKCJ0Ymxpbm1hcmtldF9ieV9kZXZpY2VndWlkX3Y0X2NvbnZlcnNpb24iKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdldF9jb252ZXJzaW9uX21vZGVsID4+IHNjb3JlX2NvbnZlcnNpb25fbW9kZWwgPj4gc2NvcmluZ19jb21wbGV0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQU5EIHNvaWQgPSB7e3t7IHBhcmFtcy5zdG9yZV9pZCB9fX19Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIERBUyBpbiBwcm9kLCBJc2lsb24gcHJvZCBpbiBkZXYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNjb3JpbmdfY29tcGxldGUgPSBEdW1teU9wZXJhdG9yKHRhc2tfaWQ9InNjb3JpbmdfY29tcGxldGUiKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBIaXZlSW5mbHV4UmVwb3J0ZXJPcGVyYXRvcigKICAgICAgICAjIFVzaW5nIG1vZHVsdXMgMzAwMCBhcyB+MzBtaWwgc2NvcmVzIGFyZSB0eXBpY2FsbHkgZ2VuZXJhdGVkIGZvcgogICAgICAgICMgc3RvcmVfaWQgNDkuIExlc3MgZGV2aWNlZ3VpZHMgd2lsbCBiZSBzYW1wbGVkIGZvciBvdGhlciBzdG9yZV9pZHMKICAgICAgICAjIHVzaW5nIHRoaXMgdmFsdWUgYnV0IGVub3VnaCB0byBiZSB1c2VmdWwgYW5kIHNpZ25pZmljYW50LgogICAgICAgICIiIgogICAgICAgIFNFTEVDVAogICAgICAgICAgICBzY29yZSwKICAgICAgICAgICAgc29pZCBhcyBzdG9yZV9pZCwKICAgICAgICAgICAgY2xpZCBhcyBjbGFzc19pZAogICAgICAgIEZST00gdGJsaW5tYXJrZXRfYnlfZGV2aWNlZ3VpZF92NF9jb252ZXJzaW9uCiAgICAgICAgV0hFUkUKICAgICAgICAgICAgZXZlbnRkYXRlID0gJ3t7IGRzIH19JwogICAgICAgICAgICBBTkQgZGV2aWNlZ3VpZCBJUyBOT1QgTlVMTAogICAgICAgICAgICBBTkQgc29pZCA9IHt7IHBhcmFtcy5zdG9yZV9pZCB9fQogICAgICAgICAgICBBTkQgQUJTKEhBU0goZGV2aWNlZ3VpZCkpICUgMzAwMCA9IDAKICAgICAgICAiIiIsCiAgICAgICAgUEFSRU5UX0RBR19OQU1FLAogICAgICAgIHRhc2tfaWQ9ImxvZ19tZXRyaWNzIiwKICAgICAgICBzY2hlbWE9InNjb3JpbmciLAogICAgICAgIHZhbHVlX2ZpZWxkcz1bInNjb3JlIl0sCiAgICAgICAgZGFnPWNoaWxkX2RhZywKICAgICAgICBwYXJhbXM9aGl2ZV9wYXJhbXMsCiAgICApCg==</text>
+        <text encoding="base64">ICAgIHNjb3JpbmdfY29tcGxldGUgPj4gbG9nX21ldHJpY3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLS0gVXNpbmcgbW9kdWx1cyAzMDAwIGFzIH4zMG1pbCBzY29yZXMgYXJlIHR5cGljYWxseSBnZW5lcmF0ZWQgZm9yCiAgICAgICAgICAgIC0tIHN0b3JlX2lkIDQ5LiBMZXNzIGRldmljZWd1aWRzIHdpbGwgYmUgc2FtcGxlZCBmb3Igb3RoZXIgc3RvcmVfaWRzCiAgICAgICAgICAgIC0tIHVzaW5nIHRoaXMgdmFsdWUgYnV0IGVub3VnaCB0byBiZSB1c2VmdWwgYW5kIHNpZ25pZmljYW50Lgo=</text>
+        <text encoding="base64">ICAgIGRlZiBfbG9nX21ldHJpY3NfcGVyX3RhYmxlKHRhYmxlLCBpZGVudGlmaWVyKToKICAgICAgICByZXR1cm4gSGl2ZUluZmx1eFJlcG9ydGVyT3BlcmF0b3IoCiAgICAgICAgICAgICMgVXNpbmcgbW9kdWx1cyAzMDAwIGFzIH4zMG1pbCBzY29yZXMgYXJlIHR5cGljYWxseSBnZW5lcmF0ZWQgZm9yCiAgICAgICAgICAgICMgc3RvcmVfaWQgNDkuIExlc3MgZGV2aWNlZ3VpZHMgd2lsbCBiZSBzYW1wbGVkIGZvciBvdGhlciBzdG9yZV9pZHMKICAgICAgICAgICAgIyB1c2luZyB0aGlzIHZhbHVlIGJ1dCBlbm91Z2ggdG8gYmUgdXNlZnVsIGFuZCBzaWduaWZpY2FudC4KICAgICAgICAgICAgIiIiCiAgICAgICAgICAgIFNFTEVDVAogICAgICAgICAgICAgICAgc2NvcmUsCiAgICAgICAgICAgICAgICBzb2lkIGFzIHN0b3JlX2lkLAogICAgICAgICAgICAgICAgY2xpZCBhcyBjbGFzc19pZAogICAgICAgICAgICBGUk9NIHt9CiAgICAgICAgICAgIFdIRVJFCiAgICAgICAgICAgICAgICBldmVudGRhdGUgPSAne3t7eyBkcyB9fX19JwogICAgICAgICAgICAgICAgQU5EIHt9IElTIE5PVCBOVUxMCiAgICAgICAgICAgICAgICBBTkQgc29pZCA9IHt7e3sgcGFyYW1zLnN0b3JlX2lkIH19fX0KICAgICAgICAgICAgICAgIEFORCBBQlMoSEFTSChkZXZpY2VndWlkKSkgJSAzMDAwID0gMAogICAgICAgICAgICAiIiIuZm9ybWF0KHRhYmxlLCBpZGVudGlmaWVyKSwKICAgICAgICAgICAgUEFSRU5UX0RBR19OQU1FLAogICAgICAgICAgICB0YXNrX2lkPSJsb2dfe31fbWV0cmljcyIuZm9ybWF0KHRhYmxlKSwKICAgICAgICAgICAgc2NoZW1hPUFETUlOX1ZBUklBQkxFU1siZGF0YWJhc2UiXSwKICAgICAgICAgICAgdmFsdWVfZmllbGRzPVsic2NvcmUiXSwKICAgICAgICAgICAgZGFnPWNoaWxkX2RhZywKICAgICAgICAgICAgcGFyYW1zPWhpdmVfcGFyYW1zLAogICAgICAgICAgICB0YWdzPXsidGFibGUiOiB0YWJsZSwgImlkZW50aWZpZXIiOiBpZGVudGlmaWVyfQogICAgICAgICkKCiAgICBsb2dfbWV0cmljcyA9IFsKICAgICAgICBfbG9nX21ldHJpY3NfcGVyX3RhYmxlKCJ0Ymxpbm1hcmtldF9ieV9kZXZpY2VndWlkX3Y0X2NvbnZlcnNpb24iLCAiZGV2aWNlZ3VpZCIpLAogICAgICAgIF9sb2dfbWV0cmljc19wZXJfdGFibGUoInRibGlubWFya2V0X2J5X2N1c3RvbWVyZ3VpZF92NF9jb252ZXJzaW9uIiwgImN1c3RvbWVyZ3VpZCIpLAogICAgICAgIF9sb2dfbWV0cmljc19wZXJfdGFibGUoInRibGlubWFya2V0X2J5X2RldmljZWd1aWRfdjRfcGRwIiwgImRldmljZWd1aWQiKSwKICAgICAgICBfbG9nX21ldHJpY3NfcGVyX3RhYmxlKCJ0Ymxpbm1hcmtldF9ieV9jdXN0b21lcmd1aWRfdjRfcGRwIiwgImN1c3RvbWVyZ3VpZCIpLAogICAgXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLS0gdXNpbmcgdGhpcyB2YWx1ZSBidXQgZW5vdWdoIHRvIGJlIHVzZWZ1bCBhbmQgc2lnbmlmaWNhbnQuCg==</text>
+        <text encoding="base64">ICAgIGdldF9jb252ZXJzaW9uX21vZGVsID4+IHNjb3JlX2NvbnZlcnNpb25fbW9kZWwgPj4gc2NvcmluZ19jb21wbGV0ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLS0gVXNpbmcgbW9kdWx1cyAzMDAwIGFzIH4zMG1pbCBzY29yZXMgYXJlIHR5cGljYWxseSBnZW5lcmF0ZWQgZm9yCiAgICAgICAgICAgIC0tIHN0b3JlX2lkIDQ5LiBMZXNzIGRldmljZWd1aWRzIHdpbGwgYmUgc2FtcGxlZCBmb3Igb3RoZXIgc3RvcmVfaWRzCiAgICAgICAgICAgIC0tIHVzaW5nIHRoaXMgdmFsdWUgYnV0IGVub3VnaCB0byBiZSB1c2VmdWwgYW5kIHNpZ25pZmljYW50Lgo=</text>
+        <text encoding="base64">ICAgICAgICAjIERBUyBpbiBwcm9kLCBJc2lsb24gcHJvZCBpbiBkZXYK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
