@@ -3,14 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repositories/feature-service/featuresvc/settings/dev.py" timestamp="1563280648321">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/view/training_set_view.py" timestamp="1563241847075">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="18" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1563214912090">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/aggregate_features/get_changed_cart_skus.hql" timestamp="1558383656944">
         <mark key="[" line="55" column="90" />
@@ -29,6 +31,16 @@
         <mark key="]" line="8" column="8" />
         <mark key="." line="8" column="8" />
         <mark key="^" line="8" column="8" />
+      </file>
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/input_model.py" timestamp="1561039356872">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="52" />
+        <mark key="." line="3" column="52" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/in_market_batch_scoring.py" timestamp="1562592874920">
+        <mark key="[" line="282" column="0" />
+        <mark key="]" line="282" column="0" />
+        <mark key="." line="282" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/daos/training_set_sql_dao.py" timestamp="1563240116297">
         <mark key="[" line="6" column="18" />
@@ -53,11 +65,12 @@
         <mark key="^" line="21" column="40" />
         <mark key="." line="21" column="40" />
       </file>
-      <file name="$USER_HOME$/repositories/feature-service/featuresvc/settings/local.default.py" timestamp="1561993732980">
-        <mark key="[" line="8" column="46" />
-        <mark key="]" line="8" column="46" />
-        <mark key="." line="8" column="46" />
-        <mark key="^" line="8" column="46" />
+      <file name="$USER_HOME$/repositories/feature-service/featuresvc/settings/local.default.py" timestamp="1563281092318">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="9" column="16" />
       </file>
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/daos/training_set_dao.py" timestamp="1563214901544">
         <mark key="[" line="5" column="6" />
@@ -77,11 +90,24 @@
         <mark key="^" line="19" column="17" />
         <mark key="." line="19" column="17" />
       </file>
+      <file name="$USER_HOME$/repositories/feature-service/featuresvc/app.py" timestamp="1562004413454">
+        <mark key="'" line="14" column="42" />
+        <mark key="[" line="30" column="54" />
+        <mark key="]" line="30" column="54" />
+        <mark key="^" line="30" column="84" />
+        <mark key="." line="30" column="54" />
+      </file>
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/view/batch_view.py" timestamp="1562007327511">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="^" line="13" column="0" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/feature-service/docs/feature-manager-api.md" timestamp="1563280042246">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="230" column="0" />
+        <mark key="]" line="230" column="0" />
+        <mark key="." line="230" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" timestamp="1563223275902">
         <mark key="'" line="8" column="34" />
@@ -96,7 +122,6 @@
         <mark key="." line="19" column="31" />
         <mark key="^" line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/spark_submit_bash_operator.py" timestamp="1563220328572" />
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b/pre_enrollment_model.py" timestamp="1560275840008">
         <mark key="[" line="29" column="15" />
         <mark key="]" line="29" column="16" />
@@ -127,18 +152,24 @@
         <mark key="." line="32" column="28" />
         <mark key="^" line="4" column="12" />
       </file>
+      <file name="$USER_HOME$/repositories/feature-service/sql_schema/2_predefined_records.sql" timestamp="1563280077827">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="331" column="0" />
+        <mark key="]" line="331" column="0" />
+        <mark key="." line="331" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/aggregate_model.py" timestamp="1561039332995">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="57" />
         <mark key="^" line="2" column="39" />
         <mark key="." line="3" column="57" />
       </file>
-      <file name="$USER_HOME$/repositories/feature-service/featuresvc/common/constants.py" timestamp="1563240216261">
-        <mark key="'" line="191" column="79" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="67" column="20" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/repositories/feature-service/featuresvc/common/constants.py" timestamp="1563279925843">
+        <mark key="'" line="186" column="79" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="62" column="20" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.py" timestamp="1557843243807">
         <mark key="[" line="9" column="127" />
@@ -157,6 +188,11 @@
         <mark key="]" line="41" column="41" />
         <mark key="." line="41" column="41" />
         <mark key="^" line="41" column="41" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/merge_features.hql" timestamp="1562703334366">
+        <mark key="[" line="266" column="34" />
+        <mark key="]" line="267" column="0" />
+        <mark key="." line="267" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/controllers/training_set_controller.py" timestamp="1563241301199">
         <mark key="[" line="52" column="32" />
@@ -194,11 +230,6 @@
         <mark key="^" line="30" column="7" />
         <mark key="." line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/feature-service/featuresvc/models/feature_model.py" timestamp="1563215504688">
-        <mark key="'" line="107" column="30" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="22" column="5" />
-      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/constants.py" timestamp="1560275958106">
         <mark key="[" line="155" column="14" />
         <mark key="]" line="155" column="15" />
@@ -217,11 +248,23 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/feature-service/bin/run_server.sh" timestamp="1563199148865">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="25" />
-        <mark key="^" line="19" column="40" />
-        <mark key="." line="19" column="42" />
+      <file name="$USER_HOME$/repositories/feature-service/tests/mock/mock_tables.py" timestamp="1563280167555">
+        <mark key="'" line="1195" column="0" />
+        <mark key="[" line="1209" column="0" />
+        <mark key="]" line="1209" column="0" />
+        <mark key="." line="1209" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/cis-notebooks/bin/env.sh" timestamp="1562768873139">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/feature-service/bin/run_server.sh" timestamp="1563280716305">
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="20" column="14" />
+        <mark key="^" line="20" column="14" />
+        <mark key="." line="20" column="14" />
       </file>
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/routes/feature_manager.py" timestamp="1563213698271">
         <mark key="[" line="117" column="0" />
@@ -246,6 +289,11 @@
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="39" />
       </file>
+      <file name="$USER_HOME$/repositories/feature-service/featuresvc/core/transform/__init__.py" timestamp="1563279933527">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" timestamp="1559930510552">
         <mark key="[" line="158" column="0" />
         <mark key="]" line="158" column="0" />
@@ -265,6 +313,17 @@
         <mark key="^" line="78" column="44" />
         <mark key="." line="78" column="44" />
       </file>
+      <file name="$USER_HOME$/repositories/feature-service/featuresvc/settings/local.py" timestamp="1563281086724">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/influx_reporter_operator.py" timestamp="1562890867735">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/models/base_feature_model.py" timestamp="1563238521057">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="26" column="67" />
@@ -275,11 +334,21 @@
         <mark key="." line="102" column="28" />
         <mark key="^" line="102" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/feature-service/featuresvc/view/fields.py" timestamp="1563241756506">
-        <mark key="[" line="42" column="110" />
-        <mark key="]" line="42" column="125" />
-        <mark key="." line="42" column="125" />
-        <mark key="^" line="42" column="125" />
+      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/constants.py" timestamp="1560357450312">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+      </file>
+      <file name="$USER_HOME$/repositories/feature-service/tests/unit/test_feature_manager_controller.py" timestamp="1563280207300">
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="178" column="0" />
+        <mark key="." line="178" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/feature-service/featuresvc/view/fields.py" timestamp="1563280009491">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="34" column="125" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/configured_hive_operator.py" timestamp="1559657720981">
         <mark key="[" line="7" column="42" />
@@ -311,6 +380,11 @@
         <mark key="." line="24" column="35" />
         <mark key="^" line="24" column="35" />
       </file>
+      <file name="$USER_HOME$/repositories/cis-notebooks/requirements.txt" timestamp="1562773362879">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_31.txt" timestamp="1563195022175">
         <mark key="[" line="1" column="31" />
         <mark key="]" line="1" column="39" />
@@ -341,24 +415,17 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="3" column="73" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_28.txt" timestamp="1560863479014">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/puppet/modules/pyhadoop/files/requirements36_in_market_v4.lock" timestamp="1562793242412">
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="20" column="14" />
-      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b/base_b2b_model.py" timestamp="1559829691027">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1563220366559">
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1563281390032">
         <mark key="'" line="59" column="16" />
-        <mark key="[" line="171" column="37" />
-        <mark key="]" line="171" column="38" />
-        <mark key="." line="171" column="38" />
+        <mark key="[" line="171" column="28" />
+        <mark key="]" line="171" column="28" />
+        <mark key="." line="171" column="28" />
         <mark key="^" line="191" column="43" />
       </file>
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/settings/local.py.default" timestamp="1561993137658">
@@ -385,15 +452,16 @@
         <mark key="^" line="39" column="7" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/scoring-library/requirements.txt" timestamp="1561039394852">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/settings/base.py" timestamp="1561993263616">
         <mark key="[" line="8" column="39" />
         <mark key="]" line="8" column="39" />
         <mark key="." line="8" column="39" />
         <mark key="^" line="0" column="37" />
-      </file>
-      <file name="$USER_HOME$/repositories/feature-service/featuresvc/view/feature_manager_view.py" timestamp="1563240266840">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="46" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_27.txt" timestamp="1560273815083">
         <mark key="[" line="0" column="0" />
@@ -403,17 +471,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="20" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" />
-      <jump line="5" column="7" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" />
-      <jump line="41" column="10" filename="$USER_HOME$/repositories/bidsift/requirements.lock" />
-      <jump line="58" column="0" filename="$USER_HOME$/repositories/bidsift/requirements.lock" />
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/bidsift/requirements.lock" />
-      <jump line="110" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" />
-      <jump line="250" column="8" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" />
-      <jump line="255" column="34" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" />
-      <jump line="256" column="16" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" />
-      <jump line="259" column="13" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" />
-      <jump line="254" column="0" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/base_model.py" />
       <jump line="3019" column="20" filename="$USER_HOME$/repositories/puppet/modules/passwords/manifests/init.pp" />
       <jump line="774" column="7" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
       <jump line="778" column="7" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
@@ -479,7 +536,6 @@
       <jump line="68" column="2" filename="$USER_HOME$/repositories/feature-service/docker-compose.yaml" />
       <jump line="71" column="26" filename="$USER_HOME$/repositories/feature-service/docker-compose.yaml" />
       <jump line="35" column="35" filename="$USER_HOME$/repositories/feature-service/featuresvc/settings/local.py" />
-      <jump line="0" column="31" filename="$USER_HOME$/repositories/feature-service/featuresvc/settings/local.py" />
       <jump line="51" column="19" filename="$USER_HOME$/repositories/feature-service/featuresvc/app.py" />
       <jump line="13" column="42" filename="$USER_HOME$/repositories/feature-service/featuresvc/app.py" />
       <jump line="8" column="63" filename="$USER_HOME$/repositories/feature-service/featuresvc/view/batch_view.py" />
@@ -503,6 +559,18 @@
       <jump line="50" column="0" filename="$USER_HOME$/repositories/feature-service/featuresvc/daos/training_set_sql_dao.py" />
       <jump line="35" column="27" filename="$USER_HOME$/repositories/feature-service/featuresvc/common/constants.py" />
       <jump line="189" column="79" filename="$USER_HOME$/repositories/feature-service/featuresvc/common/constants.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/feature-service/docs/feature-manager-api.md" />
+      <jump line="55" column="0" filename="$USER_HOME$/repositories/feature-service/sql_schema/2_predefined_records.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/feature-service/tests/mock/mock_tables.py" />
+      <jump line="734" column="0" filename="$USER_HOME$/repositories/feature-service/tests/mock/mock_tables.py" />
+      <jump line="793" column="0" filename="$USER_HOME$/repositories/feature-service/tests/mock/mock_tables.py" />
+      <jump line="831" column="0" filename="$USER_HOME$/repositories/feature-service/tests/mock/mock_tables.py" />
+      <jump line="966" column="0" filename="$USER_HOME$/repositories/feature-service/tests/mock/mock_tables.py" />
+      <jump line="1101" column="0" filename="$USER_HOME$/repositories/feature-service/tests/mock/mock_tables.py" />
+      <jump line="1190" column="0" filename="$USER_HOME$/repositories/feature-service/tests/mock/mock_tables.py" />
+      <jump line="1195" column="0" filename="$USER_HOME$/repositories/feature-service/tests/mock/mock_tables.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/feature-service/featuresvc/settings/local.default.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/feature-service/featuresvc/settings/local.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1194,55 +1262,55 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>SQL</text>
+        <text encoding="base64">PDw=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICBkZWYgc3RhcnRfYnVpbGQoc2VsZiwgcmVxdWVzdCk6CiAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">aW1wb3J0IG9zCgppbXBvcnQgd2ZfY29uZmlnCgppbXBvcnQgd2Zfc2VjcmV0cwpmcm9tIHdheWZhaXJ1dGlsIGltcG9ydCB3ZnNldHRpbmdzCgpmcm9tIGZlYXR1cmVzdmMuc2V0dGluZ3MuYmFzZSBpbXBvcnQgQmFzZUNvbmZpZwoKCmNsYXNzIERldkNvbmZpZyhCYXNlQ29uZmlnKToKICAgICIiIkRldmVsb3BtZW50IGNvbmZpZyB1c2VkIGluIGRldmVsb3BtZW50IGRhdGFjZW50ZXJzIiIiCgogICAgc2V0dGluZ3MgPSB3ZnNldHRpbmdzLldmY29uZmlnKCkKCiAgICBMT0dfTEVWRUwgPSAnV0FSTklORycKCiAgICBBRVJPU1BJS0VfQVVUSCA9IHsKICAgICAgICAndXNlcm5hbWUnOiAnYWR0ZWNoLXVzZXInLAogICAgICAgICdwYXNzd29yZCc6IHdmX3NlY3JldHMuZ2V0KCdhZHRlY2hfdXNlcicpLAogICAgICAgICMgU1JFIHVzZSBgX2AgdG8gY29ubmVjdCBzdHJpbmdzLCByZWZlciBQVCMxOTU4MDkyOQogICAgfQogICAgQUVST1NQSUtFX0NPTkZJRyA9IHsKICAgICAgICAnaG9zdHMnOiB3Zl9jb25maWcuZ2V0KCdXRl9BRVJPU1BJS0VfRU5UUllfTk9ERVMnLCBbXSksCiAgICAgICAgJ3BvbGljaWVzJzogeydyZWFkJzogeyd0b3RhbF90aW1lb3V0JzogNDAwLCAnbWF4X3JldHJpZXMnOiAzfX0sCiAgICB9CgogICAgREFUQUNFTlRFUiA9IHNldHRpbmdzLmdldF9zdGF0aWNfdmFsdWUoJ1dGX1BPRCcpCgogICAgTUFYX01TU1FMX0NPTk5FQ1RJT05TID0gaW50KG9zLmdldGVudignTUFYX01TU1FMX0NPTk5FQ1RJT05TJywgMzIpKQogICAgU1FMX0RSSVZFUl9OQU1FID0gJ09EQkMgRHJpdmVyIDExIGZvciBTUUwgU2VydmVyJwoKICAgICMgRmVhdHVyZSBEQgogICAgY3NuX2lkZW50aXR5X3VzZXIgPSAnY3NuX2lkZW50aXR5JwogICAgY3NuX2lkZW50aXR5X3Bhc3N3b3JkID0gd2Zfc2VjcmV0cy5nZXQoY3NuX2lkZW50aXR5X3VzZXIpCiAgICBkYl9mZWF0dXJlX2hvc3QgPSAnZGV2Ym9zcWwxMTUnCiAgICBkYl9mZWF0dXJlX25hbWUgPSAnY3NuX2ZlYXR1cmVsaWInCgogICAgU1FMX0NPTkZJRyA9IHsKICAgICAgICAnZmVhdHVyZWxpYic6IHsKICAgICAgICAgICAgJ2hvc3QnOiBkYl9mZWF0dXJlX2hvc3QsCiAgICAgICAgICAgICduYW1lJzogZGJfZmVhdHVyZV9uYW1lLAogICAgICAgICAgICAndXNlcic6IGNzbl9pZGVudGl0eV91c2VyLAogICAgICAgICAgICAncGFzc3dvcmQnOiBjc25faWRlbnRpdHlfcGFzc3dvcmQsCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UkVRVUlSRURfTkFNRV9GSUVMRCA9IEZpZWxkKHR5cGU9VHlwZXMuU1RSSU5HLCByZXF1aXJlZD1UcnVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UkVRVUlSRURfTkFNRV9GSUVMRCA9IEZpZWxkKHR5cGU9VHlwZXMuU1RSSU5HLCByZXF1aXJlZD1UcnVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE1PREVMX05BTUVfRklFTEQsCiAgICBTRUVEX1RBQkxFX0ZJRUxELAo=</text>
+        <text encoding="base64">aW1wb3J0IHdmX2NvbmZpZwppbXBvcnQgd2Zfc2VjcmV0cwpmcm9tIHdheWZhaXJ1dGlsIGltcG9ydCB3ZnNldHRpbmdzCgpmcm9tIGZlYXR1cmVzdmMuc2V0dGluZ3MuYmFzZSBpbXBvcnQgQmFzZUNvbmZpZwoKCmNsYXNzIExvY2FsQ29uZmlnKEJhc2VDb25maWcpOgogICAgIiIiTG9jYWwgY29uZmlnIHVzZWQgZm9yIGxvY2FsIGRldmVsb3BtZW50LiIiIgoKICAgIHNldHRpbmdzID0gd2ZzZXR0aW5ncy5XZmNvbmZpZygpCgogICAgTE9HX0xFVkVMID0gIldBUk5JTkciCgogICAgQUVST1NQSUtFX0FVVEggPSB7CiAgICAgICAgJ3VzZXJuYW1lJzogJ2FkdGVjaC11c2VyJywKICAgICAgICAncGFzc3dvcmQnOiB3Zl9zZWNyZXRzLmdldCgnYWR0ZWNoX3VzZXInKSwKICAgICAgICAjIFNSRSB1c2UgYF9gIHRvIGNvbm5lY3Qgc3RyaW5ncywgcmVmZXIgUFQjMTk1ODA5MjkKICAgIH0KICAgIEFFUk9TUElLRV9DT05GSUcgPSB7CiAgICAgICAgJ2hvc3RzJzogd2ZfY29uZmlnLmdldCgnV0ZfQUVST1NQSUtFX0VOVFJZX05PREVTJywgW10pLAogICAgICAgICdwb2xpY2llcyc6IHsncmVhZCc6IHsndG90YWxfdGltZW91dCc6IDQwMCwgJ21heF9yZXRyaWVzJzogM319LAogICAgfQoKICAgIERBVEFDRU5URVIgPSBzZXR0aW5ncy5nZXRfc3RhdGljX3ZhbHVlKCdXRl9QT0QnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UkVRVUlSRURfTkFNRV9GSUVMRCA9IEZpZWxkKHR5cGU9VHlwZXMuU1RSSU5HLCByZXF1aXJlZD1UcnVlKQo=</text>
+        <text encoding="base64">aW1wb3J0IHdmX2NvbmZpZwppbXBvcnQgd2Zfc2VjcmV0cwpmcm9tIHdheWZhaXJ1dGlsIGltcG9ydCB3ZnNldHRpbmdzCgpmcm9tIGZlYXR1cmVzdmMuc2V0dGluZ3MuYmFzZSBpbXBvcnQgQmFzZUNvbmZpZwoKCmNsYXNzIExvY2FsQ29uZmlnKEJhc2VDb25maWcpOgogICAgIiIiRGV2ZWxvcG1lbnQgY29uZmlnIHVzZWQgaW4gZGV2ZWxvcG1lbnQgZGF0YWNlbnRlcnMiIiIKCiAgICBzZXR0aW5ncyA9IHdmc2V0dGluZ3MuV2Zjb25maWcoKQoKICAgIExPR19MRVZFTCA9ICJXQVJOSU5HIgoKICAgIEFFUk9TUElLRV9BVVRIID0gewogICAgICAgICd1c2VybmFtZSc6ICdhZHRlY2gtdXNlcicsCiAgICAgICAgJ3Bhc3N3b3JkJzogd2Zfc2VjcmV0cy5nZXQoJ2FkdGVjaF91c2VyJyksCiAgICAgICAgIyBTUkUgdXNlIGBfYCB0byBjb25uZWN0IHN0cmluZ3MsIHJlZmVyIFBUIzE5NTgwOTI5CiAgICB9CiAgICBBRVJPU1BJS0VfQ09ORklHID0gewogICAgICAgICdob3N0cyc6IHdmX2NvbmZpZy5nZXQoJ1dGX0FFUk9TUElLRV9FTlRSWV9OT0RFUycsIFtdKSwKICAgICAgICAncG9saWNpZXMnOiB7J3JlYWQnOiB7J3RvdGFsX3RpbWVvdXQnOiA0MDAsICdtYXhfcmV0cmllcyc6IDN9fSwKICAgIH0KCiAgICBEQVRBQ0VOVEVSID0gc2V0dGluZ3MuZ2V0X3N0YXRpY192YWx1ZSgnV0ZfUE9EJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0VFRF9UQUJMRV9GSUVMRCA9IEZpZWxkKCkK</text>
+        <text encoding="base64">aW1wb3J0IHdmX2NvbmZpZwppbXBvcnQgd2Zfc2VjcmV0cwpmcm9tIHdheWZhaXJ1dGlsIGltcG9ydCB3ZnNldHRpbmdzCgpmcm9tIGZlYXR1cmVzdmMuc2V0dGluZ3MuYmFzZSBpbXBvcnQgQmFzZUNvbmZpZwoKCmNsYXNzIExvY2FsQ29uZmlnKEJhc2VDb25maWcpOgogICAgIiIiTG9jYWwgY29uZmlnIHVzZWQgZm9yIGxvY2FsIGRldmVsb3BtZW50LiIiIgoKICAgIHNldHRpbmdzID0gd2ZzZXR0aW5ncy5XZmNvbmZpZygpCgogICAgTE9HX0xFVkVMID0gIldBUk5JTkciCgogICAgQUVST1NQSUtFX0FVVEggPSB7CiAgICAgICAgJ3VzZXJuYW1lJzogJ2FkdGVjaC11c2VyJywKICAgICAgICAncGFzc3dvcmQnOiB3Zl9zZWNyZXRzLmdldCgnYWR0ZWNoX3VzZXInKSwKICAgICAgICAjIFNSRSB1c2UgYF9gIHRvIGNvbm5lY3Qgc3RyaW5ncywgcmVmZXIgUFQjMTk1ODA5MjkKICAgIH0KICAgIEFFUk9TUElLRV9DT05GSUcgPSB7CiAgICAgICAgJ2hvc3RzJzogd2ZfY29uZmlnLmdldCgnV0ZfQUVST1NQSUtFX0VOVFJZX05PREVTJywgW10pLAogICAgICAgICdwb2xpY2llcyc6IHsncmVhZCc6IHsndG90YWxfdGltZW91dCc6IDQwMCwgJ21heF9yZXRyaWVzJzogM319LAogICAgfQoKICAgIERBVEFDRU5URVIgPSBzZXR0aW5ncy5nZXRfc3RhdGljX3ZhbHVlKCdXRl9QT0QnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TU9ERUxfTkFNRV9GSUVMRCA9IEZpZWxkKHR5cGU9VHlwZXMuU1RSSU5HLCByZXF1aXJlZD1UcnVlKQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>SQL</last-search>
+      <last-search encoding="base64">PDw=</last-search>
       <last-offset />
-      <last-pattern>SQL</last-pattern>
+      <last-pattern encoding="base64">PDw=</last-pattern>
       <last-replace>conf</last-replace>
       <last-substitute>dev</last-substitute>
       <last-dir>1</last-dir>
@@ -1250,11 +1318,6 @@
     </search>
     <history>
       <history-search>
-        <entry>customer_level</entry>
-        <entry>valkidate</entry>
-        <entry>validate</entry>
-        <entry>feature_list_location</entry>
-        <entry>feature_list</entry>
         <entry>device_guid</entry>
         <entry>0.1.3</entry>
         <entry>artif</entry>
@@ -1270,6 +1333,11 @@
         <entry>dao</entry>
         <entry>sql</entry>
         <entry>SQL</entry>
+        <entry>===</entry>
+        <entry encoding="base64">Pj4+</entry>
+        <entry encoding="base64">PDw8</entry>
+        <entry encoding="base64">Pj4=</entry>
+        <entry encoding="base64">PDw=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dldF9iMmJfZGV2aWNlZ3VpZHMvY3JlYXRlX2RldmljZW1hcC8=</entry>
