@@ -388,11 +388,11 @@
         <mark key="." line="171" column="28" />
         <mark key="^" line="191" column="43" />
       </file>
-      <file name="$USER_HOME$/repositories/feature-service/sql_schema/1_table_creation.sql" timestamp="1563306555694">
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="^" line="130" column="11" />
-        <mark key="." line="128" column="0" />
+      <file name="$USER_HOME$/repositories/feature-service/sql_schema/1_table_creation.sql" timestamp="1563372045716">
+        <mark key="[" line="122" column="13" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_27.txt" timestamp="1560273815083">
         <mark key="[" line="0" column="0" />
@@ -1202,7 +1202,7 @@
         <text>FunctionId</text>
       </register>
       <register name="/" type="4">
-        <text>conftest</text>
+        <text>Date</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgiZGF0YWNlbnRlciBpczogIiArIHN0cihkYXRhY2VudGVyKSkK</text>
@@ -1235,13 +1235,13 @@
         <text encoding="base64">ICAgICAgICAgICAgIyBJZiB0aGVyZSB3YXMgYW4gZXJyb3IgZHVyaW5nIG1vZGVsIGxvYWRpbmcgc2ltcGx5IGxvZyBpdCBhbmQgY29udGludWUgdG8gdGhlIG5leHQK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>conftest</last-search>
+      <last-search>Date</last-search>
       <last-offset />
-      <last-pattern>conftest</last-pattern>
+      <last-pattern>Date</last-pattern>
       <last-replace>conf</last-replace>
       <last-substitute>dev</last-substitute>
       <last-dir>1</last-dir>
@@ -1249,8 +1249,6 @@
     </search>
     <history>
       <history-search>
-        <entry>middle</entry>
-        <entry>dev</entry>
         <entry>none</entry>
         <entry>No</entry>
         <entry>'</entry>
@@ -1269,6 +1267,8 @@
         <entry>time</entry>
         <entry>conf</entry>
         <entry>conftest</entry>
+        <entry>date</entry>
+        <entry>Date</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dldF9iMmJfZGV2aWNlZ3VpZHMvY3JlYXRlX2RldmljZW1hcC8=</entry>
@@ -1279,7 +1279,6 @@
         <entry>we</entry>
         <entry encoding="base64">JzwsJz5zb3J0IC1p</entry>
         <entry>sort</entry>
-        <entry>qa</entry>
         <entry encoding="base64">JzwsJz5zL2Rldi9jb25m</entry>
         <entry>w\</entry>
         <entry>e</entry>
@@ -1291,6 +1290,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
