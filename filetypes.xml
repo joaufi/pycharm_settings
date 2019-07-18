@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="build_cassandra_facts_by_customer_hive_table.sql" type="PLAIN_TEXT" />
       <mapping pattern="mock_aggregation_library.py" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping pattern="ContextMixin.py" type="Python" />
       <mapping ext="hql" type="SQL" />
