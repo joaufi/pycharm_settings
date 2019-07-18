@@ -86,12 +86,12 @@
         <mark key="." line="61" column="52" />
         <mark key="^" line="61" column="51" />
       </file>
-      <file name="$USER_HOME$/repositories/feature-service/featuresvc/app.py" timestamp="1563389717028">
+      <file name="$USER_HOME$/repositories/feature-service/featuresvc/app.py" timestamp="1563408360594">
         <mark key="'" line="14" column="42" />
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="3" />
-        <mark key="^" line="16" column="79" />
-        <mark key="." line="0" column="3" />
+        <mark key="[" line="14" column="60" />
+        <mark key="]" line="14" column="86" />
+        <mark key="^" line="14" column="86" />
+        <mark key="." line="14" column="86" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_23.py" timestamp="1558470506584">
         <mark key="[" line="0" column="0" />
@@ -154,7 +154,6 @@
         <mark key="." line="259" column="0" />
         <mark key="^" line="31" column="91" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/views.py" timestamp="1563394397054" />
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/routes/__init__.py" timestamp="1563389702752">
         <mark key="[" line="2" column="59" />
         <mark key="]" line="2" column="72" />
@@ -164,6 +163,7 @@
       <file name="$USER_HOME$/repositories/feature-service/.python_environment/lib/python3.6/site-packages/atciecommons/modelvalidation/format.py" timestamp="1563391440178">
         <mark key="'" line="5" column="6" />
       </file>
+      <file name="$USER_HOME$/repositories/feature-service/.python_environment/lib/python3.6/site-packages/aiohttp/web.py" timestamp="1563408429434" />
       <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/aggregate_model.py" timestamp="1561039332995">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="57" />
@@ -260,6 +260,12 @@
         <mark key="^" line="20" column="14" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/feature-service/featuresvc/routes/feature_manager.py" timestamp="1563408328638">
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="16" column="89" />
+        <mark key="." line="16" column="23" />
+        <mark key="^" line="10" column="86" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/core/fields.py" timestamp="1561039275987">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="52" />
@@ -290,17 +296,18 @@
         <mark key="^" line="180" column="52" />
         <mark key="." line="180" column="52" />
       </file>
-      <file name="$USER_HOME$/repositories/feature-service/featuresvc/routes/feature.py" timestamp="1562005804728">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="68" />
-        <mark key="." line="15" column="68" />
-        <mark key="^" line="15" column="68" />
+      <file name="$USER_HOME$/repositories/feature-service/featuresvc/routes/feature.py" timestamp="1563408334677">
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="16" column="104" />
+        <mark key="." line="16" column="37" />
+        <mark key="^" line="10" column="62" />
       </file>
-      <file name="$USER_HOME$/repositories/feature-service/featuresvc/routes/training_set.py" timestamp="1563391677536">
+      <file name="$USER_HOME$/repositories/feature-service/featuresvc/routes/training_set.py" timestamp="1563408317655">
         <mark key="'" line="16" column="35" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="86" />
+        <mark key="." line="17" column="86" />
+        <mark key="^" line="17" column="86" />
       </file>
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/settings/local.py" timestamp="1563281086724">
         <mark key="[" line="45" column="0" />
@@ -1272,46 +1279,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgVHJhaW5pbmdTZXRTdGF0dXNWaWV3KEJhc2VWaWV3KToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>formatter=Formatter.integer</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>integer</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJ1aWxkSWQgYXMgYnVpbGRfaWQsCiAgICAgICAgICAgICAgICBPd25lciBhcyBvd25lciwKICAgICAgICAgICAgICAgIE1vZGVsTmFtZSBhcyBtb2RlbF9uYW1lLAogICAgICAgICAgICAgICAgU2VlZFRhYmxlIGFzIHNlZWRfdGFibGUsCiAgICAgICAgICAgICAgICBPdXRwdXRUYWJsZSBhcyBvdXRwdXRfdGFibGUsCiAgICAgICAgICAgICAgICBGZWF0dXJlR3VpZHMgYXMgZmVhdHVyZV9ndWlkcywKICAgICAgICAgICAgICAgIENyZWF0ZWRBdCBhcyBjcmVhdGVkX2F0LAogICAgICAgICAgICAgICAgU3RhdHVzIGFzIHN0YXR1cywKICAgICAgICAgICAgICAgIERlc2NyaXB0aW9uIGFzIGRlc2NyaXB0aW9uLAogICAgICAgICAgICAgICAgRmluaXNoZWRBdCBhcyBmaW5pc2hlZF9hdCwKICAgICAgICAgICAgICAgIER1cmF0aW9uIGFzIGR1cmF0aW9uLAogICAgICAgICAgICAgICAgSm9iVXJsIGFzIGpvYl91cmwK</text>
+      <register name="0" type="4">
+        <text>middlewares=[context_middleware_handler, normalize_path_middleware]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgVHJhaW5pbmdTZXRTdGF0dXNWaWV3KEJhc2VWaWV3KToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIEZlYXR1cmVHdWlkcyBpcyBzdG9yZWQgYXMgYSBjb21tYS1kZWxpbWl0ZWQgdmFyY2hhciBkdWUgdG8gU1FMIHNlcnZlcgogICAgICAgIGZlYXR1cmVfZ3VpZHNfc3RyID0gZmVhdHVyZV9ndWlkcy5qb2luKCcsJykK</text>
+        <text encoding="base64">ZnJvbSBtaWRkbGV3YXJlIGltcG9ydCBub3JtYWxpemVfcGF0aF9taWRkbGV3YXJlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJ1aWxkSWQgYXMgYnVpbGRfaWQsCiAgICAgICAgICAgICAgICBPd25lciBhcyBvd25lciwKICAgICAgICAgICAgICAgIE1vZGVsTmFtZSBhcyBtb2RlbF9uYW1lLAogICAgICAgICAgICAgICAgU2VlZFRhYmxlIGFzIHNlZWRfdGFibGUsCiAgICAgICAgICAgICAgICBPdXRwdXRUYWJsZSBhcyBvdXRwdXRfdGFibGUsCiAgICAgICAgICAgICAgICBGZWF0dXJlR3VpZHMgYXMgZmVhdHVyZV9ndWlkcywKICAgICAgICAgICAgICAgIENyZWF0ZWRBdCBhcyBjcmVhdGVkX2F0LAogICAgICAgICAgICAgICAgU3RhdHVzIGFzIHN0YXR1cywKICAgICAgICAgICAgICAgIERlc2NyaXB0aW9uIGFzIGRlc2NyaXB0aW9uLAogICAgICAgICAgICAgICAgRmluaXNoZWRBdCBhcyBmaW5pc2hlZF9hdCwKICAgICAgICAgICAgICAgIER1cmF0aW9uIGFzIGR1cmF0aW9uLAogICAgICAgICAgICAgICAgSm9iVXJsIGFzIGpvYl91cmwK</text>
+        <text encoding="base64">ZnJvbSBtaWRkbGV3YXJlIGltcG9ydCBub3JtYWxpemVfcGF0aF9taWRkbGV3YXJlCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Zm9ybWF0dGVyPUZvcm1hdHRlci5pbnRlZ2VyKQpSRVFVSVJFRF9OQU1FX0ZJRUxEID0gRmllbGQodHlwZT1UeXBlcy5TVFJJTkcsIHJlcXVpcmVkPVRydWUpClJFUVVJUkVEX0dVSURTX0ZJRUxEID0gRmllbGQoCiAgICBmb3JtYXR0ZXI9Rm9ybWF0dGVyLmxvd2VyLAogICAgdHlwZT1UeXBlcy5MSVNULAogICAgdmFsaWRhdG9yPVZhbGlkYXRvci5saXN0X29mX3V1aWQsCiAgICByZXF1aXJlZD1UcnVlLAopClNUT1JFX0lEX0ZJRUxEID0gRmllbGQodHlwZT1UeXBlcy5JTlQsIHJlcXVpcmVkPUZhbHNlLCB2YWxpZGF0b3I9VmFsaWRhdG9yLnN0b3JlX2lkKQpTVE9SRV9JRFNfRklFTEQgPSBGaWVsZCgKICAgIGRlZmF1bHQ9bGlzdChWQUxJRF9TVE9SRV9JRFMpLAogICAgZm9ybWF0dGVyPUZvcm1hdHRlci5pbnRlZ2VyLAogICAgdHlwZT1UeXBlcy5MSVNULAogICAgdmFsaWRhdG9yPVZhbGlkYXRvci5zdG9yZV9pZHMsCikKU1RBUlRfVElNRV9PRkZTRVQgPSBGaWVsZCh0eXBlPVR5cGVzLklOVCwgcmVxdWlyZWQ9RmFsc2UpClRSQU5TRk9STUFUSU9OU19GSUVMRCA9IEZpZWxkKHR5cGU9VHlwZXMuTElTVCwgcmVxdWlyZWQ9RmFsc2UpCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Y2xhc3MgVHJhaW5pbmdTZXRTdGF0dXNWaWV3KEJhc2VWaWV3KToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHR5cGUocmVxdWVzdF9hcmdzKSkKICAgIHByaW50KHJlcXVlc3RfYXJncykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAjIEZlYXR1cmVHdWlkcyBpcyBzdG9yZWQgYXMgYSBjb21tYS1kZWxpbWl0ZWQgdmFyY2hhciBkdWUgdG8gU1FMIHNlcnZlcgogICAgICAgIGZlYXR1cmVfZ3VpZHNfc3RyID0gZmVhdHVyZV9ndWlkcy5qb2luKCcsJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJ1aWxkSWQgYXMgYnVpbGRfaWQsCiAgICAgICAgICAgICAgICBPd25lciBhcyBvd25lciwKICAgICAgICAgICAgICAgIE1vZGVsTmFtZSBhcyBtb2RlbF9uYW1lLAogICAgICAgICAgICAgICAgU2VlZFRhYmxlIGFzIHNlZWRfdGFibGUsCiAgICAgICAgICAgICAgICBPdXRwdXRUYWJsZSBhcyBvdXRwdXRfdGFibGUsCiAgICAgICAgICAgICAgICBGZWF0dXJlR3VpZHMgYXMgZmVhdHVyZV9ndWlkcywKICAgICAgICAgICAgICAgIENyZWF0ZWRBdCBhcyBjcmVhdGVkX2F0LAogICAgICAgICAgICAgICAgU3RhdHVzIGFzIHN0YXR1cywKICAgICAgICAgICAgICAgIERlc2NyaXB0aW9uIGFzIGRlc2NyaXB0aW9uLAogICAgICAgICAgICAgICAgRmluaXNoZWRBdCBhcyBmaW5pc2hlZF9hdCwKICAgICAgICAgICAgICAgIER1cmF0aW9uIGFzIGR1cmF0aW9uLAogICAgICAgICAgICAgICAgSm9iVXJsIGFzIGpvYl91cmwK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZnJvbSByb3V0ZXMudHJhaW5pbmdfc2V0IGltcG9ydCB0cmFpbmluZ19zZXRfYXBwCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">Zm9ybWF0dGVyPUZvcm1hdHRlci5pbnRlZ2VyKQpSRVFVSVJFRF9OQU1FX0ZJRUxEID0gRmllbGQodHlwZT1UeXBlcy5TVFJJTkcsIHJlcXVpcmVkPVRydWUpClJFUVVJUkVEX0dVSURTX0ZJRUxEID0gRmllbGQoCiAgICBmb3JtYXR0ZXI9Rm9ybWF0dGVyLmxvd2VyLAogICAgdHlwZT1UeXBlcy5MSVNULAogICAgdmFsaWRhdG9yPVZhbGlkYXRvci5saXN0X29mX3V1aWQsCiAgICByZXF1aXJlZD1UcnVlLAopClNUT1JFX0lEX0ZJRUxEID0gRmllbGQodHlwZT1UeXBlcy5JTlQsIHJlcXVpcmVkPUZhbHNlLCB2YWxpZGF0b3I9VmFsaWRhdG9yLnN0b3JlX2lkKQpTVE9SRV9JRFNfRklFTEQgPSBGaWVsZCgKICAgIGRlZmF1bHQ9bGlzdChWQUxJRF9TVE9SRV9JRFMpLAogICAgZm9ybWF0dGVyPUZvcm1hdHRlci5pbnRlZ2VyLAogICAgdHlwZT1UeXBlcy5MSVNULAogICAgdmFsaWRhdG9yPVZhbGlkYXRvci5zdG9yZV9pZHMsCikKU1RBUlRfVElNRV9PRkZTRVQgPSBGaWVsZCh0eXBlPVR5cGVzLklOVCwgcmVxdWlyZWQ9RmFsc2UpClRSQU5TRk9STUFUSU9OU19GSUVMRCA9IEZpZWxkKHR5cGU9VHlwZXMuTElTVCwgcmVxdWlyZWQ9RmFsc2UpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
