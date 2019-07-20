@@ -50,6 +50,7 @@
         <mark key="." line="0" column="40" />
         <mark key="^" line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/utilities.py" timestamp="1563619093999" />
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/routes/batch.py" timestamp="1562005760558">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
@@ -359,7 +360,8 @@
         <mark key="." line="22" column="55" />
         <mark key="^" line="22" column="55" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/configured_hive_operator.py" timestamp="1559657720981">
+      <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/configured_hive_operator.py" timestamp="1563620063161">
+        <mark key="'" line="21" column="23" />
         <mark key="[" line="7" column="42" />
         <mark key="]" line="8" column="18" />
         <mark key="." line="8" column="18" />
@@ -445,18 +447,21 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="3" column="73" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/dedup_active_catalog.py" timestamp="1563620164141">
+        <mark key="'" line="90" column="43" />
+      </file>
       <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b/base_b2b_model.py" timestamp="1559829691027">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1563538683352">
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1563620943897">
         <mark key="'" line="59" column="16" />
-        <mark key="[" line="80" column="47" />
-        <mark key="]" line="80" column="47" />
-        <mark key="." line="80" column="47" />
-        <mark key="^" line="80" column="47" />
+        <mark key="[" line="80" column="39" />
+        <mark key="]" line="80" column="55" />
+        <mark key="." line="80" column="55" />
+        <mark key="^" line="80" column="55" />
       </file>
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/settings/local.py.default" timestamp="1561993137658">
         <mark key="[" line="0" column="0" />
@@ -514,12 +519,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="770" column="7" filename="$USER_HOME$/repositories/puppet/manifests/site.pp" />
-      <jump line="215" column="0" filename="$USER_HOME$/repositories/scoring-library/tests/scoring/test_controllers.py" />
-      <jump line="2185" column="18" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/feature_orders.py" />
-      <jump line="4486" column="4" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/feature_orders.py" />
-      <jump line="0" column="10" filename="$USER_HOME$/repositories/scoring-library/scoring/evaluation/dsrm_constants.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/feature_orders.py" />
       <jump line="394" column="102" filename="$USER_HOME$/repositories/scoring-library/tests/aggregation/test_controllers.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/scoring-library/tests/aggregation/test_controllers.py" />
       <jump line="155" column="0" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
@@ -614,6 +613,12 @@
       <jump line="3" column="35" filename="$USER_HOME$/repositories/atcie-python-commons/.gitlab-ci.yml" />
       <jump line="117" column="20" filename="$USER_HOME$/repositories/atcie-python-commons/.gitlab-ci.yml" />
       <jump line="4" column="4" filename="$USER_HOME$/repositories/atcie-python-commons/.gitlab-ci.yml" />
+      <jump line="7" column="27" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/configured_hive_operator.py" />
+      <jump line="19" column="19" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/configured_hive_operator.py" />
+      <jump line="21" column="23" filename="$USER_HOME$/repositories/airflow-dags/utility_operators/configured_hive_operator.py" />
+      <jump line="63" column="12" filename="$USER_HOME$/repositories/airflow-dags/dedup_active_catalog.py" />
+      <jump line="39" column="31" filename="$USER_HOME$/repositories/airflow-dags/dedup_active_catalog.py" />
+      <jump line="90" column="43" filename="$USER_HOME$/repositories/airflow-dags/dedup_active_catalog.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1304,20 +1309,20 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYWNlYmFjawo=</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>scoring</text>
+        <text>mb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQo=</text>
+        <text encoding="base64">ICAgICAgICAic3BhcmsuZHluYW1pY0FsbG9jYXRpb24uZW5hYmxlZCI6ICJ0cnVlIiwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHRyYWNlYmFjawo=</text>
@@ -1351,9 +1356,9 @@
       </register>
     </registers>
     <search>
-      <last-search>scoring</last-search>
+      <last-search>mb</last-search>
       <last-offset />
-      <last-pattern>scoring</last-pattern>
+      <last-pattern>mb</last-pattern>
       <last-replace>conf</last-replace>
       <last-substitute>dev</last-substitute>
       <last-dir>1</last-dir>
@@ -1361,8 +1366,6 @@
     </search>
     <history>
       <history-search>
-        <entry>===</entry>
-        <entry encoding="base64">Pj4+</entry>
         <entry encoding="base64">PDw8</entry>
         <entry encoding="base64">Pj4=</entry>
         <entry encoding="base64">PDw=</entry>
@@ -1381,6 +1384,8 @@
         <entry>SLACK_CJHANNE</entry>
         <entry>SLAC</entry>
         <entry>scoring</entry>
+        <entry>dynamic</entry>
+        <entry>mb</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -1393,15 +1398,15 @@
         <entry>w\</entry>
         <entry>&quot;w</entry>
         <entry>qa</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zb3Q=</entry>
         <entry>vsplit</entry>
         <entry>Lw</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>e</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
