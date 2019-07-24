@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/feature-service/featuresvc/view/training_set_view.py" timestamp="1563405922094">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="17" column="37" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/repositories/feature-service/featuresvc/view/training_set_view.py" timestamp="1563924042351">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="12" column="44" />
+        <mark key="^" line="12" column="44" />
+        <mark key="." line="12" column="44" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/aggregate_features/get_changed_cart_skus.hql" timestamp="1558383656944">
         <mark key="[" line="55" column="90" />
@@ -72,6 +72,7 @@
         <mark key="." line="35" column="222" />
         <mark key="^" line="35" column="222" />
       </file>
+      <file name="$USER_HOME$/repositories/feature-service/featuresvc/view/feature_view.py" timestamp="1563923927242" />
       <file name="$USER_HOME$/repositories/bidsift/tests/unit/user_level_bidding/strategy/test_bidding_model.py" timestamp="1563384024646">
         <mark key="[" line="61" column="51" />
         <mark key="]" line="61" column="52" />
@@ -96,10 +97,6 @@
         <mark key="]" line="31" column="0" />
         <mark key="^" line="13" column="0" />
         <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/feature-service/docs/feature-manager-api.md" timestamp="1563456348997">
-        <mark key="[" line="169" column="0" />
-        <mark key="]" line="170" column="27" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" timestamp="1563223275902">
         <mark key="'" line="8" column="34" />
@@ -212,6 +209,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/feature-service/featuresvc/controllers/feature_controller.py" timestamp="1563923589691" />
       <file name="$USER_HOME$/repositories/scoring-library/.gitlab-ci.yml" timestamp="1563537888743">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="123" column="83" />
@@ -291,12 +289,12 @@
         <mark key="." line="16" column="37" />
         <mark key="^" line="10" column="62" />
       </file>
-      <file name="$USER_HOME$/repositories/feature-service/featuresvc/routes/training_set.py" timestamp="1563907996146">
-        <mark key="'" line="16" column="35" />
-        <mark key="[" line="80" column="26" />
-        <mark key="]" line="81" column="53" />
-        <mark key="." line="81" column="53" />
-        <mark key="^" line="81" column="53" />
+      <file name="$USER_HOME$/repositories/feature-service/featuresvc/routes/training_set.py" timestamp="1563923887744">
+        <mark key="'" line="76" column="31" />
+        <mark key="[" line="56" column="56" />
+        <mark key="]" line="56" column="109" />
+        <mark key="." line="56" column="109" />
+        <mark key="^" line="56" column="109" />
       </file>
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/settings/local.py" timestamp="1563281086724">
         <mark key="[" line="45" column="0" />
@@ -316,11 +314,11 @@
         <mark key="." line="102" column="28" />
         <mark key="^" line="102" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/feature-service/featuresvc/view/fields.py" timestamp="1563391465721">
-        <mark key="[" line="22" column="54" />
-        <mark key="]" line="22" column="55" />
-        <mark key="." line="22" column="55" />
-        <mark key="^" line="22" column="55" />
+      <file name="$USER_HOME$/repositories/feature-service/featuresvc/view/fields.py" timestamp="1563923938802">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="49" />
+        <mark key="." line="7" column="49" />
+        <mark key="^" line="7" column="49" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/configured_hive_operator.py" timestamp="1563620063161">
         <mark key="'" line="21" column="23" />
@@ -347,9 +345,6 @@
         <mark key="]" line="105" column="4" />
         <mark key="." line="105" column="4" />
         <mark key="^" line="106" column="10" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1563454609044">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/aggregate_features/get_favorited_skus.hql" timestamp="1558383696358">
         <mark key="[" line="35" column="87" />
@@ -473,7 +468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="8" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
       <jump line="171" column="8" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/dpn/controller.py" />
       <jump line="608" column="56" filename="$USER_HOME$/repositories/customer-information-service/docs/dpn-readme.md" />
       <jump line="612" column="15" filename="$USER_HOME$/repositories/customer-information-service/docs/dpn-readme.md" />
@@ -573,6 +567,7 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.txt" />
       <jump line="2810" column="30" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="40" column="19" filename="$USER_HOME$/repositories/feature-service/featuresvc/models/training_set_model.py" />
+      <jump line="76" column="31" filename="$USER_HOME$/repositories/feature-service/featuresvc/routes/training_set.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1264,7 +1259,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChidWlsZHMpCg==</text>
+        <text encoding="base64">ICAgIHRyYWluaW5nX3NldCA9IFRyYWluaW5nU2V0Q29udHJvbGxlcihyZXF1ZXN0X2NvbnRleHQpCg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -1273,46 +1268,46 @@
         <text encoding="base64">IG1hcChkYXRldGltZXNfdG9fc3RyLCBidWlsZHMp</text>
       </register>
       <register name="/" type="4">
-        <text>timeout</text>
+        <text>application_name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChidWlsZHMpCg==</text>
+        <text encoding="base64">ICAgIHRyYWluaW5nX3NldCA9IFRyYWluaW5nU2V0Q29udHJvbGxlcihyZXF1ZXN0X2NvbnRleHQsIGFwcGxpY2F0aW9uX25hbWU9cmVxdWVzdF9hcmdzLmdldCgnYXBwbGljYXRpb25fbmFtZScpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyYWluaW5nX3NldCA9IFRyYWluaW5nU2V0Q29udHJvbGxlcihyZXF1ZXN0X2NvbnRleHQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwcGxpY2F0aW9uX25hbWUgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIHJlcXVlc3RfYXJncwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChidWlsZHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYnVpbGRzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgogICAgICAgIHByaW50KGJ1aWxkcykKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZHMgPSBbY29tbWFfc3RyX2tleV90b19saXN0KGJ1aWxkLCBbJ2ZlYXR1cmVfZ3VpZHMnXSkgZm9yIGJ1aWxkIGluIGJ1aWxkc10KICAgICAgICBidWlsZHMgPSBbCiAgICAgICAgICAgIGRhdGV0aW1lX2tleV90b19zdHIoYnVpbGQsIFsnY3JlYXRlZF9hdCcsICdmaW5pc2hlZF9hdCddKQogICAgICAgICAgICBmb3IgYnVpbGQgaW4gYnVpbGRzCiAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChidWlsZHMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAoY29tbWFfc3RyX2tleV90b19saXN0LCBidWlsZHMpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYnVpbGRzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJ0aWFsKGNvbW1hX3N0cl9rZXlfdG9fbGlzdCwgKQo=</text>
+        <text encoding="base64">CgogICAgICAgIHByaW50KGJ1aWxkcykKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>timeout</last-search>
+      <last-search>application_name</last-search>
       <last-offset />
-      <last-pattern>timeout</last-pattern>
+      <last-pattern>application_name</last-pattern>
       <last-replace>conf</last-replace>
       <last-substitute>dev</last-substitute>
       <last-dir>1</last-dir>
@@ -1320,7 +1315,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Pj4=</entry>
         <entry encoding="base64">PDw=</entry>
         <entry>INT</entry>
         <entry>time</entry>
@@ -1340,6 +1334,7 @@
         <entry>dynamic</entry>
         <entry>mb</entry>
         <entry>timeout</entry>
+        <entry>application_name</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zcG9ydA==</entry>
@@ -1352,7 +1347,6 @@
         <entry>qa</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zb3Q=</entry>
-        <entry>vsplit</entry>
         <entry>Lw</entry>
         <entry>e</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -1361,6 +1355,7 @@
         <entry>q</entry>
         <entry>;w</entry>
         <entry>W</entry>
+        <entry>vsplit</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
