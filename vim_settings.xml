@@ -9,11 +9,12 @@
         <mark key="." line="3" column="52" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_identity_dags/utilities.py" timestamp="1563619093999" />
-      <file name="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/main_build_job.py" timestamp="1564162962828">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="45" column="38" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/main_build_job.py" timestamp="1564166053419">
+        <mark key="'" line="15" column="79" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="44" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/app.py" timestamp="1563409763809">
         <mark key="'" line="14" column="42" />
@@ -104,10 +105,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/feature-service/batch_jenkins_job/batch_devicemap_seed_table.py" timestamp="1564162075874">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="41" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/repositories/feature-service/batch_jenkins_job/batch_devicemap_seed_table.py" timestamp="1564165664649">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/view/training_set_view.py" timestamp="1564064943331">
         <mark key="[" line="10" column="0" />
@@ -199,8 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="19" filename="$USER_HOME$/repositories/feature-service/featuresvc/app.py" />
-      <jump line="13" column="42" filename="$USER_HOME$/repositories/feature-service/featuresvc/app.py" />
       <jump line="8" column="63" filename="$USER_HOME$/repositories/feature-service/featuresvc/view/batch_view.py" />
       <jump line="23" column="17" filename="$USER_HOME$/repositories/feature-service/featuresvc/view/batch_view.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/feature-service/featuresvc/view/batch_view.py" />
@@ -299,6 +299,8 @@
       <jump line="197" column="0" filename="$USER_HOME$/repositories/feature-service/docs/training-set-api.md" />
       <jump line="201" column="0" filename="$USER_HOME$/repositories/feature-service/docs/training-set-api.md" />
       <jump line="6" column="78" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
+      <jump line="19" column="79" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/main_build_job.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/repositories/feature-service/batch_jenkins_job/batch_devicemap_seed_table.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -990,55 +992,55 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoanNvbi5kdW1wcyhyZXNwb25zZV9qc29uLCBpbmRlbnQ9MikpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>featuresvc_host</text>
       </register>
       <register name="/" type="4">
-        <text>applic</text>
+        <text>store</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgbm9pbnNwZWN0aW9uIFB5VW5yZXNvbHZlZFJlZmVyZW5jZXMK</text>
+        <text encoding="base64">U0VFRF9ERVZJQ0VNQVBfQlVJTERfU1FMX1RFTVBMQVRFID0gJycnClNFTEVDVAogICAgc2VlZC57c291cmNlX2lkZW50aWZpZXJ9LAogICAgZG0ue3RhcmdldF9pZGVudGlmaWVyfSwKICAgIGRtLmxhc3RfdGltZXN0YW1wIEFTIGRldmljZW1hcGxhc3R0aW1lc3RhbXAsCiAgICBzZWVkLnNhbXBsZWRhdGUgQVMgc2FtcGxlZGF0ZSwKICAgIHNlZWQuc2FtcGxldGltZXN0YW1wIEFTIHNhbXBsZXRpbWVzdGFtcCwKICAgIHNlZWQudGFyZ2V0dmFsdWUsCiAgICBST1dfTlVNQkVSKCkgT1ZFUiAoUEFSVElUSU9OIEJZIHNlZWQue3NvdXJjZV9pZGVudGlmaWVyfSBPUkRFUiBCWSBkbS5sYXN0X3RpbWVzdGFtcCBERVNDKSBBUyBpZApGUk9NIGZlYXR1cmVsaWIue3NlZWR9IEFTIHNlZWQKTEVGVCBKT0lOIGlkZW50aXR5LnRibGRldmljZWN1c3RvbWVybWFwIEFTIGRtIE9OIHNlZWQue3NvdXJjZV9pZGVudGlmaWVyfSA9IGRtLntzb3VyY2VfaWRlbnRpZmllcn0KJycnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoanNvbi5kdW1wcyhyZXNwb25zZV9qc29uLCBpbmRlbnQ9MikpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBvcGVyYXRvciBpbXBvcnQgaXRlbWdldHRlcgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">U0VFRF9ERVZJQ0VNQVBfQlVJTERfU1FMX1RFTVBMQVRFID0gJycnClNFTEVDVAogICAgc2VlZC57c291cmNlX2lkZW50aWZpZXJ9LAogICAgZG0ue3RhcmdldF9pZGVudGlmaWVyfSwKICAgIGRtLmxhc3RfdGltZXN0YW1wIEFTIGRldmljZW1hcGxhc3R0aW1lc3RhbXAsCiAgICBzZWVkLnNhbXBsZWRhdGUgQVMgc2FtcGxlZGF0ZSwKICAgIHNlZWQuc2FtcGxldGltZXN0YW1wIEFTIHNhbXBsZXRpbWVzdGFtcCwKICAgIHNlZWQudGFyZ2V0dmFsdWUsCiAgICBST1dfTlVNQkVSKCkgT1ZFUiAoUEFSVElUSU9OIEJZIHNlZWQue3NvdXJjZV9pZGVudGlmaWVyfSBPUkRFUiBCWSBkbS5sYXN0X3RpbWVzdGFtcCBERVNDKSBBUyBpZApGUk9NIGZlYXR1cmVsaWIue3NlZWR9IEFTIHNlZWQKTEVGVCBKT0lOIGlkZW50aXR5LnRibGRldmljZWN1c3RvbWVybWFwIEFTIGRtIE9OIHNlZWQue3NvdXJjZV9pZGVudGlmaWVyfSA9IGRtLntzb3VyY2VfaWRlbnRpZmllcn0KJycnCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBwcmludChqc29uLmR1bXBzKHJlc3BvbnNlX2pzb24sIGluZGVudD0yKSkK</text>
+        <text encoding="base64">ICAgIGZlYXR1cmVzdmNfaG9zdCA9IG9zLmVudmlyb25bJ0ZFQVRVUkVTVkNfSE9TVCddCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBTdGVwIDE6IFF1ZXJ5IEZlYXR1cmUgU2VydmljZSBmb3IgYWxsIGJ1aWxkcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdhcHBsaWNhdGlvbl9uYW1lJzogJ1Njb3JpbmdTZXJ2aWNlJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vZGVsX25hbWU9bW9kZWxfbmFtZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkaWQ9YWRpZCwK</text>
+        <text encoding="base64">ICAgIHVybCA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>applic</last-search>
+      <last-search>store</last-search>
       <last-offset />
-      <last-pattern>applic</last-pattern>
+      <last-pattern>store</last-pattern>
       <last-replace>conf</last-replace>
       <last-substitute>dev</last-substitute>
       <last-dir>1</last-dir>
@@ -1046,8 +1048,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Date</entry>
-        <entry>bigint</entry>
         <entry>Created</entry>
         <entry>appnexus_id</entry>
         <entry>context</entry>
@@ -1066,6 +1066,8 @@
         <entry>```</entry>
         <entry>Scoring</entry>
         <entry>applic</entry>
+        <entry>,</entry>
+        <entry>store</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zcG9ydA==</entry>
