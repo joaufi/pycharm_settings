@@ -86,12 +86,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" timestamp="1564430337212">
-        <mark key="'" line="162" column="53" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="^" line="140" column="0" />
-        <mark key="." line="140" column="0" />
+      <file name="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" timestamp="1564431401408">
+        <mark key="'" line="37" column="24" />
+        <mark key="[" line="18" column="76" />
+        <mark key="]" line="18" column="76" />
+        <mark key="^" line="18" column="76" />
+        <mark key="." line="18" column="76" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.txt" timestamp="1563804214120">
         <mark key="'" line="0" column="0" />
@@ -210,11 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" />
-      <jump line="145" column="57" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" />
-      <jump line="242" column="47" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
-      <jump line="18" column="46" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
-      <jump line="58" column="16" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
       <jump line="8" column="34" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" />
       <jump line="46" column="8" filename="$USER_HOME$/repositories/feature-service/featuresvc/routes/training_set.py" />
       <jump line="88" column="35" filename="$USER_HOME$/repositories/feature-service/featuresvc/routes/training_set.py" />
@@ -310,6 +305,11 @@
       <jump line="147" column="18" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" />
       <jump line="188" column="4" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" />
       <jump line="161" column="53" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" />
+      <jump line="18" column="76" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" />
+      <jump line="91" column="24" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" />
+      <jump line="2" column="7" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" />
+      <jump line="17" column="24" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" />
+      <jump line="37" column="24" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1010,7 +1010,7 @@
         <text>crucible_host_and_port</text>
       </register>
       <register name="/" type="4">
-        <text>cr</text>
+        <text>request</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tY3J1Y2libGVfaG9zdF9hbmRfcG9ydCcsIGRlc3Q9J2NydWNpYmxlX2hvc3RfYW5kX3BvcnQnKQo=</text>
@@ -1047,17 +1047,16 @@
       </register>
     </registers>
     <search>
-      <last-search>cr</last-search>
+      <last-search>request</last-search>
       <last-offset />
-      <last-pattern>cr</last-pattern>
+      <last-pattern>request</last-pattern>
       <last-replace>conf</last-replace>
       <last-substitute>dev</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>SLAC</entry>
         <entry>scoring</entry>
         <entry>dynamic</entry>
         <entry>mb</entry>
@@ -1077,6 +1076,7 @@
         <entry>http</entry>
         <entry>cru</entry>
         <entry>cr</entry>
+        <entry>request</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
