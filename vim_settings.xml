@@ -46,7 +46,12 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/prod.py" timestamp="1564680773822" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/prod.py" timestamp="1564684161786">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="122" column="4" />
+        <mark key="^" line="121" column="61" />
+        <mark key="." line="121" column="61" />
+      </file>
       <file name="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/main_build_job.py" timestamp="1564405132328">
         <mark key="'" line="140" column="30" />
         <mark key="[" line="140" column="30" />
@@ -68,8 +73,20 @@
         <mark key="^" line="156" column="66" />
         <mark key="." line="156" column="65" />
       </file>
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" timestamp="1564684165702">
+        <mark key="'" line="124" column="62" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="132" column="5" />
+        <mark key="." line="129" column="0" />
+      </file>
       <file name="/" timestamp="1564580682817">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/views.py" timestamp="1564684064422">
+        <mark key="[" line="74" column="37" />
+        <mark key="]" line="74" column="36" />
+        <mark key="^" line="74" column="36" />
+        <mark key="." line="74" column="36" />
       </file>
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/common/constants.py" timestamp="1564057571564">
         <mark key="'" line="186" column="79" />
@@ -230,9 +247,14 @@
         <mark key="]" line="16" column="26" />
         <mark key="." line="16" column="26" />
       </file>
+      <file name="$USER_HOME$/repositories/feature-service/batch_jenkins_job/batch_devicemap_seed_table.py" timestamp="1564428305502">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="93" column="29" />
+        <mark key="." line="14" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="3" filename="$USER_HOME$/repositories/feature-service/sql_schema/1_table_creation.sql" />
       <jump line="176" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
       <jump line="5" column="6" filename="$USER_HOME$/repositories/feature-service/.python_environment/lib/python3.6/site-packages/atciecommons/modelvalidation/format.py" />
       <jump line="178" column="0" filename="$USER_HOME$/repositories/atcie-python-commons/atciecommons/decorators.py" />
@@ -332,6 +354,7 @@
       <jump line="94" column="23" filename="$USER_HOME$/repositories/feature-service/docs/training-set-api.md" />
       <jump line="95" column="25" filename="$USER_HOME$/repositories/feature-service/docs/training-set-api.md" />
       <jump line="141" column="19" filename="$USER_HOME$/repositories/feature-service/docs/training-set-api.md" />
+      <jump line="124" column="62" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1022,20 +1045,20 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBHUkFZTUFUVEVSX0NPTkZJRyA9IHsKICAgICAgICAnaG9zdCc6IHNldHRpbmdzLmdldF9zdGF0aWNfdmFsdWUoJ1dGX0dSQVlNQVRURVJfUkVTVCcpCiAgICB9Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>scoring.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyMjIDEuIEdldCBhIGxpc3Qgb2YgYWxsIGJ1aWxkcy4KCiMjIyMgVVJMCj4gYHtmZWF0dXJlc3ZjX3VybH0vdHJhaW5pbmdfc2V0L2J1aWxkc2AKCiMjIyMgSFRUUCBSZXF1ZXN0IFR5cGUKPiBHRVQKCiMjIyMgUmVzcG9uc2UgKEpTT04pCnxGaWVsZHxUeXBlfERlc2NyaXB0aW9uCnw6LS0tLS0tLS0gfDotLS0tLSB8Oi0tLS0tIHwKfGJ1aWxkc3xsaXN0fGxpc3Qgb2YgYWxsIGJ1aWxkcyBhcyBtYXBzfAoKIyMjIyBFeGFtcGxlIFVzYWdlClJlc3BvbnNlCmBgYGpzb24KewogICAgImJ1aWxkcyI6IFsKICAgICAgICB7CiAgICAgICAgICAgICJidWlsZF9pZCI6IDEsCiAgICAgICAgICAgICJvd25lciI6ICJAamFmcmFzaGVyIiwKICAgICAgICAgICAgIm1vZGVsX25hbWUiOiAiSG93Q29vbEFtSU1vZGVsIiwKICAgICAgICAgICAgInNlZWRfdGFibGUiOiAic2NvcmluZy5qYWZyYXNoZXJfaG93X2Nvb2xfYW1faV9zZWVkX3RhYmxlIiwKICAgICAgICAgICAgIm91dHB1dF90YWJsZSI6ICJzY29yaW5nLmphZnJhc2hlcl9ob3dfY29vbF9hbV9pX21vZGVsX2ZlYXR1cmVzIiwKICAgICAgICAgICAgImZlYXR1cmVfZ3VpZHMiOiBbCiAgICAgICAgICAgICAgICAiZmZmZmZmZmYtZmZmZi1mZmZmLWZmZmYtMDAwMDAwMDAwMDA2IiwKICAgICAgICAgICAgICAgICJmZmZmZmZmZi1mZmZmLWZmZmYtZmZmZi0wMDAwMDAwMDAwMDciLAogICAgICAgICAgICAgICAgImZmZmZmZmZmLWZmZmYtZmZmZi1mZmZmLTAwMDAwMDAwMDAwOCIsCiAgICAgICAgICAgICAgICAiZmZmZmZmZmYtZmZmZi1mZmZmLWZmZmYtMDAwMDAwMDAwMDA5IiwKICAgICAgICAgICAgICAgICJmZmZmZmZmZi1mZmZmLWZmZmYtZmZmZi0wMDAwMDAwMDAwMTAiCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICJjcmVhdGVkX2F0IjogIjIwMTktMDctMjMgMTE6Mzc6MjkuMDcwMDAwIiwKICAgICAgICAgICAgInN0YXR1cyI6ICJwZW5kaW5nIiwKICAgICAgICAgICAgImRlc2NyaXB0aW9uIjogIkZlYXR1cmVzIHRvIHJ1biBhIHByZWRpY3Rpb24gd2l0aCB0aGUgSG93IENvb2wgQW0gSSBNb2RlbC4gQmV0dGluZyB0aGUgc2NvcmUgaXMgZ29pbmcgdG8gYmUgUkVBTExZIGhpZ2ghIiwKICAgICAgICAgICAgImZpbmlzaGVkX2F0IjogbnVsbCwKICAgICAgICAgICAgImpvYl91cmwiOiBudWxsCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgICJidWlsZF9pZCI6IDIsCiAgICAgICAgICAgICJvd25lciI6ICJAeXVjbGF1IiwKICAgICAgICAgICAgIm1vZGVsX25hbWUiOiAiQmVzdE1vZGVsRXZlck1hZGVNb2RlbCIsCiAgICAgICAgICAgICJzZWVkX3RhYmxlIjogInNjb3JpbmcueXVjbGF1X2Jlc3RfbW9kZWxfZXZlcl9tb2RlbF9zZWVkIiwKICAgICAgICAgICAgIm91dHB1dF90YWJsZSI6ICJzY29yaW5nLnl1Y2xhdV9iZXN0X21vZGVsX2V2ZXJfbWFkZV9tb2RlbF9mZWF0dXJlcyIsCiAgICAgICAgICAgICJmZWF0dXJlX2d1aWRzIjogWwogICAgICAgICAgICAgICAgImZmZmZmZmZmLWZmZmYtZmZmZi1mZmZmLTAwMDAwMDAwMDAxOSIsCiAgICAgICAgICAgICAgICAiZmZmZmZmZmYtZmZmZi1mZmZmLWZmZmYtMDAwMDAwMDAwMDIwIiwKICAgICAgICAgICAgICAgICJmZmZmZmZmZi1mZmZmLWZmZmYtZmZmZi0wMDAwMDAwMDAwMjEiLAogICAgICAgICAgICAgICAgImZmZmZmZmZmLWZmZmYtZmZmZi1mZmZmLTAwMDAwMDAwMDAyMiIsCiAgICAgICAgICAgICAgICAiZmZmZmZmZmYtZmZmZi1mZmZmLWZmZmYtMDAwMDAwMDAwMDIzIiwKICAgICAgICAgICAgICAgICJmZmZmZmZmZi1mZmZmLWZmZmYtZmZmZi0wMDAwMDAwMDAwMjQiCiAgICAgICAgICAgIF0KICAgICAgICAgICAgImNyZWF0ZWRfYXQiOiAiMjAxOS0wNy0yMyAxMjozNzoyOS4wNzAwMDAiLAogICAgICAgICAgICAic3RhdHVzIjogInBlbmRpbmciLAogICAgICAgICAgICAiZGVzY3JpcHRpb24iOiAiRmVhdHVyZXMgZm9yIHRoZSBCRVNUIE1PREVMIEVWRVIgTUFERSBNT0RFTC4gRVZFUi4gUHJlZGljdHMgd2hhdCB0aGUgYmVzdCBtb2RlbCBldmVyIG1hZGUgaXMhIChIaW50OiBpdCBpcyB0aGUgQkVTVCBNT0RFTCBFVkVSIE1BREUgTU9ERUwhISEpICIsCiAgICAgICAgICAgICJmaW5pc2hlZF9hdCI6IG51bGwsCiAgICAgICAgICAgICJqb2JfdXJsIjogbnVsbAogICAgICAgIH0KICAgIF0KfQpgYGAK</text>
+        <text encoding="base64">CiAgICBHUkFZTUFUVEVSX0NPTkZJRyA9IHsKICAgICAgICAnaG9zdCc6IHNldHRpbmdzLmdldF9zdGF0aWNfdmFsdWUoJ1dGX0dSQVlNQVRURVJfUkVTVCcpCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAiam9iX3VybCI6IG51bGwK</text>
