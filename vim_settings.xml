@@ -79,6 +79,13 @@
         <mark key="]" line="132" column="5" />
         <mark key="." line="129" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/app.py" timestamp="1564686556385">
+        <mark key="'" line="80" column="9" />
+        <mark key="[" line="127" column="31" />
+        <mark key="]" line="106" column="6" />
+        <mark key="^" line="106" column="6" />
+        <mark key="." line="106" column="6" />
+      </file>
       <file name="/" timestamp="1564580682817">
         <mark key="[" line="0" column="0" />
       </file>
@@ -143,6 +150,13 @@
         <mark key="]" line="102" column="0" />
         <mark key="^" line="104" column="49" />
         <mark key="." line="102" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/client/graymatter_service_client.py" timestamp="1564686516529">
+        <mark key="'" line="20" column="37" />
+        <mark key="[" line="23" column="79" />
+        <mark key="]" line="25" column="29" />
+        <mark key="." line="25" column="29" />
+        <mark key="^" line="25" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/influx_reporter_operator.py" timestamp="1562890867735">
         <mark key="[" line="116" column="0" />
@@ -255,10 +269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="0" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
-      <jump line="5" column="6" filename="$USER_HOME$/repositories/feature-service/.python_environment/lib/python3.6/site-packages/atciecommons/modelvalidation/format.py" />
-      <jump line="178" column="0" filename="$USER_HOME$/repositories/atcie-python-commons/atciecommons/decorators.py" />
-      <jump line="386" column="20" filename="$USER_HOME$/repositories/atcie-python-commons/atciecommons/decorators.py" />
       <jump line="3" column="35" filename="$USER_HOME$/repositories/atcie-python-commons/.gitlab-ci.yml" />
       <jump line="117" column="20" filename="$USER_HOME$/repositories/atcie-python-commons/.gitlab-ci.yml" />
       <jump line="4" column="4" filename="$USER_HOME$/repositories/atcie-python-commons/.gitlab-ci.yml" />
@@ -355,6 +365,10 @@
       <jump line="95" column="25" filename="$USER_HOME$/repositories/feature-service/docs/training-set-api.md" />
       <jump line="141" column="19" filename="$USER_HOME$/repositories/feature-service/docs/training-set-api.md" />
       <jump line="124" column="62" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" />
+      <jump line="55" column="39" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
+      <jump line="80" column="9" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
+      <jump line="4" column="34" filename="$USER_HOME$/repositories/bidsift/bidsift/client/graymatter_service_client.py" />
+      <jump line="19" column="37" filename="$USER_HOME$/repositories/bidsift/bidsift/client/graymatter_service_client.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1045,65 +1059,63 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBHUkFZTUFUVEVSX0NPTkZJRyA9IHsKICAgICAgICAnaG9zdCc6IHNldHRpbmdzLmdldF9zdGF0aWNfdmFsdWUoJ1dGX0dSQVlNQVRURVJfUkVTVCcpCiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>scoring.</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICBHUkFZTUFUVEVSX0NPTkZJRyA9IHsKICAgICAgICAnaG9zdCc6IHNldHRpbmdzLmdldF9zdGF0aWNfdmFsdWUoJ1dGX0dSQVlNQVRURVJfUkVTVCcpCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiam9iX3VybCI6IG51bGwK</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImpvYl91cmwiOiBudWxsCg==</text>
+        <text encoding="base64">ZnJvbSBvcyBpbXBvcnQgam9pbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImRkam9iX3VybCI6IG51bGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEpvYlVybCBhcyBqb2JfdXJsCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEpvYlVybCBhcyBqb2JfdXJsCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYWNlYmFjazsgcHJpbnQodHJhY2ViYWNrLmZvcm1hdF9leGMoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NhY2hlLWNvbnRyb2wnOiAibm8tY2FjaGUiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFRyYWluaW5nU2V0VXBkYXRlQnVpbGRGaW5pc2hlZEF0VmlldywK</text>
+        <text encoding="base64">ICAgIHBheWxvYWQgPSAie1xuICAgIFwicHJlZGljdGlvbklkXCI6IDEyMyxcbiAgICBcImN1c3RvbWVySWRcIjogMTIzLFxuICAgIFwib3JkZXJJZFwiOiAxMjMsXG4gICAgXCJzdG9yZUlkXCI6IDEyMyxcbiAgICBcImIyYlNjb3JlXCI6IDEyMy4xMjNcbn0iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiam9iX3VybCI6IG51bGwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImpvYl91cmwiOiBudWxsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>scoring.</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>scoring.</last-pattern>
-      <last-replace>duration</last-replace>
-      <last-substitute>build\_status</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>request</entry>
-        <entry>print</entry>
         <entry>fea</entry>
         <entry>devicemap</entry>
         <entry>replace</entry>
@@ -1122,10 +1134,10 @@
         <entry>du</entry>
         <entry>feature_manager</entry>
         <entry>scoring.</entry>
+        <entry>catalog</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2Rldi9jb25m</entry>
-        <entry>w\</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zb3Q=</entry>
         <entry>Lw</entry>
@@ -1142,6 +1154,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>qa</entry>
+        <entry>split</entry>
+        <entry encoding="base64">JzwsJz5zLyIvJy9pZw==</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
