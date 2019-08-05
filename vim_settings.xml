@@ -97,12 +97,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="69" column="49" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/controller.py" timestamp="1565014631129">
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/controller.py" timestamp="1565015762227">
         <mark key="'" line="17" column="39" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
-        <mark key="^" line="113" column="70" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="12" column="12" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1564601687862">
         <mark key="[" line="61" column="39" />
@@ -146,12 +146,12 @@
         <mark key="^" line="104" column="49" />
         <mark key="." line="102" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/client/graymatter_service_client.py" timestamp="1565014696072">
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/client/graymatter_service_client.py" timestamp="1565015770586">
         <mark key="'" line="28" column="22" />
-        <mark key="[" line="49" column="26" />
-        <mark key="]" line="49" column="37" />
-        <mark key="^" line="49" column="37" />
-        <mark key="." line="49" column="37" />
+        <mark key="[" line="33" column="24" />
+        <mark key="]" line="33" column="32" />
+        <mark key="^" line="33" column="32" />
+        <mark key="." line="33" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/utility_operators/influx_reporter_operator.py" timestamp="1562890867735">
         <mark key="[" line="116" column="0" />
@@ -1031,13 +1031,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>'success' not in response_json or response_json['success'] is not True</text>
+        <text>'bomb'</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>'success' not in response_json or response_json['success'] is not True</text>
+        <text>'bomb'</text>
       </register>
       <register name="/" type="4">
         <text>order_id</text>
@@ -1052,25 +1052,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgnZG9uZSByZXRyeWluZycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnVklFVyBUaGlzIGV4Y2VwdGlvbiBoYXMgaGFwcGVuZWQ6XG4nICsgc3RyKGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgnZG9uZSByZXRyeWluZycpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHJldHJpZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnVklFVyBUaGlzIGV4Y2VwdGlvbiBoYXMgaGFwcGVuZWQ6XG4nICsgc3RyKGUpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdtYWtlIFBPU1QgdG8gZ3JheW1hdHRlcicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHJldHJpZXMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICBwcmludCgnZG9uZSBleGNlcHRpbmcgaW4gZ3JheW1hdHRlciBjb250cm9sbGVyJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdtYWtlIFBPU1QgdG8gZ3JheW1hdHRlcicpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3llYWFhYWFhYWFhYWFhYWFhYWFhYWFhaCBib2knKQogICAgICAgICAgICBwcmludCgnV2UgY2F1Z2h0IGV4Y2VwdGlvbjpcbicgKyBzdHIoZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICBwcmludCgnZG9uZSBleGNlcHRpbmcgaW4gZ3JheW1hdHRlciBjb250cm9sbGVyJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3dlIGFyZSBtYWtpbmcgYSBncmF5bWF0dGVyIHJlcXVlc3QnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3llYWFhYWFhYWFhYWFhYWFhYWFhYWFhaCBib2knKQogICAgICAgICAgICBwcmludCgnV2UgY2F1Z2h0IGV4Y2VwdGlvbjpcbicgKyBzdHIoZSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1109,7 +1109,6 @@
         <entry>order_id</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zb3Q=</entry>
         <entry>Lw</entry>
         <entry>e</entry>
         <entry>ew</entry>
@@ -1119,7 +1118,6 @@
         <entry encoding="base64">JzwsJz5zL3N0YXR1cy9maW5pc2hlZFxfYXQvaWc=</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2J1aWxkXF9zdGF0dXMvZHVyYXRpb24vaWc=</entry>
-        <entry>qa</entry>
         <entry>split</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9pZw==</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
@@ -1128,6 +1126,8 @@
         <entry>W</entry>
         <entry>qw</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>wq</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
