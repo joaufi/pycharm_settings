@@ -116,7 +116,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="92" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b/post_enrollment_model.py" timestamp="1565372707930">
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b/post_enrollment_model.py" timestamp="1565379458891">
         <mark key="[" line="102" column="37" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_36.json" timestamp="1565026832895">
@@ -158,8 +158,8 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="6" column="109" />
       </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1565370991558">
-        <mark key="'" line="622" column="67" />
+      <file name="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" timestamp="1565379651764">
+        <mark key="'" line="600" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1564601687862">
         <mark key="[" line="61" column="39" />
@@ -361,9 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="0" filename="$USER_HOME$/repositories/feature-service/docs/training-set-api.md" />
-      <jump line="194" column="0" filename="$USER_HOME$/repositories/feature-service/docs/training-set-api.md" />
-      <jump line="197" column="0" filename="$USER_HOME$/repositories/feature-service/docs/training-set-api.md" />
       <jump line="201" column="0" filename="$USER_HOME$/repositories/feature-service/docs/training-set-api.md" />
       <jump line="6" column="78" filename="$USER_HOME$/repositories/bidsift/bidsift/score/controller.py" />
       <jump line="19" column="79" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/main_build_job.py" />
@@ -461,6 +458,9 @@
       <jump line="53" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_40.json" />
       <jump line="41" column="62" filename="$USER_HOME$/repositories/customer-information-library/tests/mocks/mock_aerospike_client.py" />
       <jump line="318" column="16" filename="$USER_HOME$/repositories/customer-information-library/tests/mocks/mock_aerospike_client.py" />
+      <jump line="137" column="19" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="366" column="15" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
+      <jump line="600" column="18" filename="$USER_HOME$/repositories/scoring-library/scoring/aggregation/models/business_model.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1161,7 +1161,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>in_market</text>
+        <text>has_f</text>
       </register>
       <register name="0" type="4">
         <text>00000000-way0-0000-over-00000jumbuck</text>
@@ -1198,9 +1198,9 @@
       </register>
     </registers>
     <search>
-      <last-search>in_market</last-search>
+      <last-search>has_f</last-search>
       <last-offset />
-      <last-pattern>in_market</last-pattern>
+      <last-pattern>has_f</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1208,9 +1208,6 @@
     </search>
     <history>
       <history-search>
-        <entry>st</entry>
-        <entry>status</entry>
-        <entry>build\_status</entry>
         <entry>bu</entry>
         <entry>outPut</entry>
         <entry>OPTION</entry>
@@ -1228,6 +1225,9 @@
         <entry>sum_p</entry>
         <entry>sum</entry>
         <entry>in_market</entry>
+        <entry>pur</entry>
+        <entry>sum_price_p</entry>
+        <entry>has_f</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
