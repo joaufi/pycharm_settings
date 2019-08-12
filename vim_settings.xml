@@ -86,10 +86,10 @@
         <mark key="." line="140" column="36" />
         <mark key="^" line="140" column="36" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/local.py" timestamp="1565355816474">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="129" column="18" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/local.py" timestamp="1565620175487">
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/app.py" timestamp="1563409763809">
         <mark key="'" line="14" column="42" />
@@ -423,19 +423,15 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/models.py" timestamp="1565617932919">
-        <mark key="'" line="283" column="49" />
-        <mark key="[" line="388" column="0" />
-        <mark key="]" line="388" column="0" />
+      <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/details/models.py" timestamp="1565619794329">
+        <mark key="'" line="37" column="28" />
+        <mark key="[" line="313" column="0" />
+        <mark key="]" line="313" column="0" />
         <mark key="^" line="4" column="16" />
-        <mark key="." line="388" column="0" />
+        <mark key="." line="313" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="54" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/main_build_job.py" />
-      <jump line="145" column="43" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/main_build_job.py" />
-      <jump line="140" column="30" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/main_build_job.py" />
-      <jump line="147" column="18" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" />
       <jump line="188" column="4" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" />
       <jump line="91" column="24" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" />
       <jump line="17" column="24" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" />
@@ -532,6 +528,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/models.py" />
       <jump line="333" column="18" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/models.py" />
       <jump line="283" column="49" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/models.py" />
+      <jump line="13" column="16" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/models.py" />
+      <jump line="167" column="38" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/models.py" />
+      <jump line="256" column="38" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/models.py" />
+      <jump line="37" column="28" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1223,7 +1223,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CgojICdhYmNkJyAtPiBbKCdhJywgJ2InKSwgKCdiJywgJ2MnKSwgKCdjJywgJ2QnKV0KZGVmIHBhaXJ3aXNlKHBhdGgpOgogICAgcmV0dXJuIFsoaXRlbSwgcGF0aFtpICsgMV0pIGZvciBpLCBpdGVtIGluIGVudW1lcmF0ZShwYXRoWzotMV0pXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -1232,46 +1232,46 @@
         <text encoding="base64">ZGVscyA=</text>
       </register>
       <register name="/" type="4">
-        <text>dedupe</text>
+        <text encoding="base64">PDw8</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGFtYmRhIHJlY29yZDogKHJlY29yZFtDb2x1bW5OYW1lcy5DTEFTU19JRF0sIHJlY29yZFtDb2x1bW5OYW1lcy5TVE9SRV9JRF0pLAogICAgICAgICAgICBsYW1iZGEgcmVjb3JkOiAocmVjb3JkW0NvbHVtbk5hbWVzLklOX01BUktFVF9TQ09SRV0sIHJlY29yZFtDb2x1bW5OYW1lcy5FVkVOVF9USU1FU1RBTVBdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgojICdhYmNkJyAtPiBbKCdhJywgJ2InKSwgKCdiJywgJ2MnKSwgKCdjJywgJ2QnKV0KZGVmIHBhaXJ3aXNlKHBhdGgpOgogICAgcmV0dXJuIFsoaXRlbSwgcGF0aFtpICsgMV0pIGZvciBpLCBpdGVtIGluIGVudW1lcmF0ZShwYXRoWzotMV0pXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBjdXN0aW5mb2xpYi5jb21tb24uZXhjZXB0aW9ucyBpbXBvcnQgKAogICAgVW5hYmxlVG9SZXRyaWV2ZUlkZW50aWZpZXJFeGNlcHRpb24sCiAgICBWYWxpZGF0aW9uRXhjZXB0aW9uCikK</text>
+        <text encoding="base64">Pj4+Pj4+PiBqYWZpc2hlcl9pbl9tYXJrZXRfdXBkYXRlX2luX21hcmtldF9lbmRwb2ludF9wdF8yODE1NTg1NAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBjdXN0aW5mb2xpYi5jb21tb24udXRpbHMgaW1wb3J0IGRlZHVwZQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IG1hc3Rlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgpkZWYgZGVkdXBlKGRhdGEsIGtleSwgcHJlY2VkZW5jZSwgcmV2ZXJzZT1GYWxzZSk6CiAgICAiIiJEZWR1cGVzIGEgbGlzdCBvZiBkaWN0cyBieSBhIGNvbmZpZ3VyZWQgc2VsZWN0aW9uIGNyaXRlcmlhIChrZXkpIHdoaWxlCiAgICBvcmRlcmluZyB0aGUgcmVzdWx0aW5nIGRlZHVwZWQgbGlzdCAocHJlY2VkZW5jZSkuCgogICAgQXJnczoKICAgICAgICBkYXRhIChsaXN0IG9mIGRpY3QpOiBMaXN0IG9mIGRpY3RzIGNvbnRhaW5pbmcgdGhlIHNhbWUga2V5cy4KICAgICAgICBrZXkgKGxhbWJkYSk6IExhbWJkYSBmdW5jdGlvbiByZXR1cm5pbmcga2V5KHMpIHRvIHVzZSBpbiBkZWR1cGluZyBkYXRhLgogICAgICAgICAgICBlLmcuCiAgICAgICAgICAgICAgICBsYW1iZGEgcmVjb3JkOiByZWNvcmRbJ2NsYXNzX2lkJ10KICAgICAgICBwcmVjZWRlbmNlIChsYW1iZGEpOiBMYW1iZGEgZnVuY3Rpb24gcmV0dXJuaW5nIGtleShzKSB0byB1c2UgaW4gb3JkZXJpbmcKICAgICAgICAgICAgdGhlIGRlZHVwZWQgZGF0YSBiZWZvcmUgZGVkdXBpbmcuCiAgICAgICAgICAgIGUuZy4KICAgICAgICAgICAgICAgIGxhbWJkYSByZWNvcmQ6IHJlY29yZFsnc2NvcmUnXQogICAgICAgIHJldmVyc2UgKGJvb2wpOiBGYWxzZSB0byBzb3J0IHRoZSBkYXRhIGJ5IGFzY2VuZGluZyBwcmVjZWRlbmNlLCBUcnVlCiAgICAgICAgICAgIHRvIHNvcnQgdGhlIGRhdGEgYnkgZGVzY2VuZGluZyBwcmVjZWRlbmNlLiBEZWZhdWx0cyB0byBGYWxzZS4KCiAgICAgICAgR2l2ZW4gdGhlIGtleSBhbmQgcHJlY2VkZW5jZSBsYW1iZGEgZXhhbXBsZXMgYWJvdmUsIHRoZSByZXN1bHRpbmcgbGlzdAogICAgICAgIHdvdWxkIGJlIGRlZHVwZWQgYnkgY2xhc3NfaWQgd2hpbGUgY2hvb3NpbmcgdGhlIGxvd2VzdCBzY29yZSAoYXNzdW1pbmcKICAgICAgICByZXZlcnNlIGlzIEZhbHNlKS4KICAgICAgICAgICAgZS5nLgogICAgICAgICAgICAgICAgW3snc2NvcmUnOiAxLjExLCAnY2xhc3NfaWQnOiAxMjN9LAogICAgICAgICAgICAgICAgIHsnc2NvcmUnOiAyLjIyLCAnY2xhc3NfaWQnOiAxMjN9LAogICAgICAgICAgICAgICAgIHsnc2NvcmUnOiA5Ljk5LCAnY2xhc3NfaWQnOiA0NTZ9XQogICAgICAgICAgICAgICAgIC0+CiAgICAgICAgICAgICAgICBbeydzY29yZSc6IDEuMTEsICdjbGFzc19pZCc6IDEyM30sCiAgICAgICAgICAgICAgICAgeydzY29yZSc6IDkuOTksICdjbGFzc19pZCc6IDQ1Nn1dCgogICAgUmV0dXJuczoKICAgICAgICBsaXN0IG9mIGRpY3Q6IERlZHVwZWQgZGF0YSBzcGVjaWZpZWQgYnkga2V5IGFuZCBwcmVjZWRlbmNlLgogICAgIiIiCiAgICAjIElmIG11bHRpcGxlIGl0ZW1zIGhhdmUgdGhlIHNhbWUga2V5LCBhIGRpY3QgY29tcHJlaGVuc2lvbiB3aWxsIGtlZXAgdGhlCiAgICAjIGxhc3Qgb25lIHNlZW4sIHNvIGZpcnN0IHdlIHNvcnQgYnkgYXNjZW5kaW5nIHByZWNlZGVuY2UKICAgIGRhdGEgPSBzb3J0ZWQoZGF0YSwga2V5PXByZWNlZGVuY2UsIHJldmVyc2U9cmV2ZXJzZSkKCiAgICAjIEEgUHl0aG9uIGRpY3QgcHJlc2VydmVzIHRoZSBvcmRlciBvZiBpbnNlcnRpb24sIHNvIHRoZSBmaW5hbCBsaXN0IGlzIHN0aWxsCiAgICAjIG9yZGVyZWQgYnkgcHJlY2VkZW5jZQogICAgcmV0dXJuIGxpc3Qoe2tleShpdGVtKTogaXRlbSBmb3IgaXRlbSBpbiBkYXRhfS52YWx1ZXMoKSkK</text>
+        <text encoding="base64">CgojICdhYmNkJyAtPiBbKCdhJywgJ2InKSwgKCdiJywgJ2MnKSwgKCdjJywgJ2QnKV0KZGVmIHBhaXJ3aXNlKHBhdGgpOgogICAgcmV0dXJuIFsoaXRlbSwgcGF0aFtpICsgMV0pIGZvciBpLCBpdGVtIGluIGVudW1lcmF0ZShwYXRoWzotMV0pXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBbeydzY29yZSc6IDEsICdjbGFzc19pZCc6IDEyM30sIHsnc2NvcmUnOiAyLCAnY2xhc3NfaWQnOiAxMjN9LCB7J3Njb3JlJzogMSwgJ2NsYXNzX2lkJzogNDU2fV0gLT4KIyBbeydzY29yZSc6IDEsICdjbGFzc19pZCc6IDEyM30sIHsnc2NvcmUnOiAxLCAnY2xhc3NfaWQnOiA0NTZ9XQo=</text>
+        <text encoding="base64">ZnJvbSBjdXN0aW5mb2xpYi5jb21tb24uZXhjZXB0aW9ucyBpbXBvcnQgKAogICAgVW5hYmxlVG9SZXRyaWV2ZUlkZW50aWZpZXJFeGNlcHRpb24sCiAgICBWYWxpZGF0aW9uRXhjZXB0aW9uCikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFtYmRhIHJlY29yZDogKHJlY29yZFtDb2x1bW5OYW1lcy5JTl9NQVJLRVRfU0NPUkVdLCByZWNvcmRbQ29sdW1uTmFtZXMuRVZFTlRfVElNRVNUQU1QXSkK</text>
+        <text encoding="base64">ZnJvbSBjdXN0aW5mb2xpYi5jb21tb24udXRpbHMgaW1wb3J0IGRlZHVwZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRzID0gZGVkdXBlKHJlc3VsdHMsIGxhbWJkYSBhc3NvYzogYXNzb2MuaWQsIGxhbWJkYSBhc3NvYzogYXNzb2MudGltZXN0YW1wLCByZXZlcnNlPVRydWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dedupe</last-search>
+      <last-search encoding="base64">PDw8</last-search>
       <last-offset />
-      <last-pattern>dedupe</last-pattern>
+      <last-pattern encoding="base64">PDw8</last-pattern>
       <last-replace>'score'</last-replace>
       <last-substitute>'a'</last-substitute>
       <last-dir>1</last-dir>
@@ -1279,10 +1279,6 @@
     </search>
     <history>
       <history-search>
-        <entry>du</entry>
-        <entry>feature_manager</entry>
-        <entry>scoring.</entry>
-        <entry>catalog</entry>
         <entry>&quot;</entry>
         <entry>order_id</entry>
         <entry>itemge</entry>
@@ -1299,6 +1295,10 @@
         <entry>\'a\'</entry>
         <entry>'a'</entry>
         <entry>dedupe</entry>
+        <entry encoding="base64">Pj4+</entry>
+        <entry>===</entry>
+        <entry>CROSS</entry>
+        <entry encoding="base64">PDw8</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
