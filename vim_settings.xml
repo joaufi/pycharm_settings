@@ -42,8 +42,8 @@
         <mark key="]" line="61" column="51" />
         <mark key="." line="61" column="51" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" timestamp="1564343040829">
-        <mark key="'" line="8" column="34" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" timestamp="1565810995122">
+        <mark key="'" line="35" column="5" />
         <mark key="[" line="78" column="0" />
         <mark key="]" line="83" column="37" />
         <mark key="^" line="156" column="66" />
@@ -58,9 +58,6 @@
       </file>
       <file name="/" timestamp="1564580682817">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/scoring-library/scoring/evaluation/models/business/b2b/post_enrollment_model.py" timestamp="1565622620118">
-        <mark key="[" line="102" column="37" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/scribe_client.py" timestamp="1564601581631" />
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/core/transform/__init__.py" timestamp="1563279933527">
@@ -201,12 +198,8 @@
       <file name="$USER_HOME$/repositories/customer-information-library/custinfolib/dpn/constants.py" timestamp="1565271569770">
         <mark key="'" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" timestamp="1565805991415">
-        <mark key="'" line="19" column="25" />
-        <mark key="[" line="122" column="8" />
-        <mark key="]" line="122" column="8" />
-        <mark key="." line="122" column="8" />
-        <mark key="^" line="122" column="7" />
+      <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" timestamp="1565810296113">
+        <mark key="'" line="59" column="38" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_35.txt" timestamp="1565635946158">
         <mark key="'" line="20" column="13" />
@@ -336,14 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="4" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" />
-      <jump line="78" column="4" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" />
-      <jump line="129" column="42" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" />
-      <jump line="161" column="73" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" />
-      <jump line="203" column="39" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" />
-      <jump line="153" column="25" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" />
-      <jump line="262" column="27" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" />
-      <jump line="191" column="0" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" />
       <jump line="25" column="69" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" />
       <jump line="52" column="27" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" />
       <jump line="94" column="0" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" />
@@ -436,6 +421,14 @@
       <jump line="69" column="21" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/bidsift/requirements.lock" />
       <jump line="19" column="25" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" />
+      <jump line="35" column="32" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" />
+      <jump line="59" column="38" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" />
+      <jump line="18" column="11" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" />
+      <jump line="62" column="55" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" />
+      <jump line="102" column="45" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" />
+      <jump line="81" column="17" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" />
+      <jump line="32" column="5" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" />
+      <jump line="35" column="5" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1127,16 +1120,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>False</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
-        <text>DATACENTER</text>
+        <text>std</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIyBTZXQgdG8gVHJ1ZSB0byBsb2FkIG1vY2sgbW9kZWxzIGluc3RlYWQgb2YgaGl0dGluZyBNZXNhIChNb2RlbCBTdG9yYWdlKQogICAgICAgICdsb2FkX21vY2tfbW9kZWxzJzogVHJ1ZSwK</text>
@@ -1173,9 +1166,9 @@
       </register>
     </registers>
     <search>
-      <last-search>DATACENTER</last-search>
+      <last-search>std</last-search>
       <last-offset />
-      <last-pattern>DATACENTER</last-pattern>
+      <last-pattern>std</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IC4q</last-substitute>
       <last-dir>1</last-dir>
@@ -1183,13 +1176,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sum_price_p</entry>
-        <entry>has_f</entry>
-        <entry>id</entry>
-        <entry>\'a\'</entry>
-        <entry>'a'</entry>
-        <entry>dedupe</entry>
-        <entry encoding="base64">Pj4+</entry>
         <entry>===</entry>
         <entry>CROSS</entry>
         <entry encoding="base64">PDw8</entry>
@@ -1203,6 +1189,13 @@
         <entry>model</entry>
         <entry>datacenter</entry>
         <entry>DATACENTER</entry>
+        <entry>env</entry>
+        <entry>view</entry>
+        <entry>in_Cart</entry>
+        <entry>view_class</entry>
+        <entry>view_class0</entry>
+        <entry>in_cart</entry>
+        <entry>std</entry>
       </history-search>
       <history-cmd>
         <entry>vsplit</entry>
@@ -1221,10 +1214,10 @@
         <entry encoding="base64">JzwsJz5zLyAuKy8v</entry>
         <entry encoding="base64">JzwsJz5zLyAuKi8vaWc=</entry>
         <entry>&quot;</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>Lw</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
