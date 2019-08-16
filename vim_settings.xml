@@ -186,8 +186,8 @@
         <mark key="^" line="232" column="40" />
         <mark key="." line="232" column="40" />
       </file>
-      <file name="$USER_HOME$/repositories/bidsift/requirements.lock" timestamp="1565809025035">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/bidsift/requirements.lock" timestamp="1565983989314">
+        <mark key="'" line="46" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_40.json" timestamp="1565371217239">
         <mark key="'" line="53" column="21" />
@@ -466,8 +466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="28" filename="$USER_HOME$/repositories/feature-service/featuresvc/controllers/training_set_controller.py" />
-      <jump line="68" column="13" filename="$USER_HOME$/repositories/feature-service/featuresvc/controllers/training_set_controller.py" />
       <jump line="69" column="13" filename="$USER_HOME$/repositories/feature-service/featuresvc/controllers/training_set_controller.py" />
       <jump line="71" column="70" filename="$USER_HOME$/repositories/feature-service/featuresvc/controllers/training_set_controller.py" />
       <jump line="73" column="25" filename="$USER_HOME$/repositories/feature-service/featuresvc/controllers/training_set_controller.py" />
@@ -566,6 +564,8 @@
       <jump line="85" column="27" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
       <jump line="86" column="31" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
       <jump line="124" column="60" filename="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/repositories/bidsift/requirements.lock" />
+      <jump line="46" column="0" filename="$USER_HOME$/repositories/bidsift/requirements.lock" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1266,7 +1266,7 @@
         <text>8</text>
       </register>
       <register name="/" type="4">
-        <text>os.</text>
+        <text>custinfo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIENVU1RPTUVSX1NDT1JJTkdfRklMRV9ESVJFQ1RPUlkgPSAnL3dheWZhaXIvZGF0YS9iaWRzaWZ0X21vZGVscycK</text>
@@ -1303,9 +1303,9 @@
       </register>
     </registers>
     <search>
-      <last-search>os.</last-search>
+      <last-search>custinfo</last-search>
       <last-offset />
-      <last-pattern>os.</last-pattern>
+      <last-pattern>custinfo</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IC4q</last-substitute>
       <last-dir>1</last-dir>
@@ -1313,8 +1313,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PDw8</entry>
-        <entry>activation</entry>
         <entry>self.orders</entry>
         <entry>446</entry>
         <entry encoding="base64">IA==</entry>
@@ -1333,6 +1331,8 @@
         <entry>std</entry>
         <entry>os</entry>
         <entry>os.</entry>
+        <entry>scoring</entry>
+        <entry>custinfo</entry>
       </history-search>
       <history-cmd>
         <entry>&quot;w</entry>
