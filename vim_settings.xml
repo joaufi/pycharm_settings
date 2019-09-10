@@ -8,6 +8,12 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/cross_shop/in_market_cross_shop_target_base.hql" timestamp="1568131537264">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_33.txt" timestamp="1564596171310">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -119,6 +125,10 @@
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="37" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/cross_shop/1_Get_Cross_Shop_Mapping.hql" timestamp="1568131520250">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="75" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/responses.py" timestamp="1565014605702">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -145,6 +155,11 @@
       <file name="$USER_HOME$/repositories/airflow-dags/inmarket_model_v4_lsb.py" timestamp="1568125639307">
         <mark key="[" line="166" column="0" />
         <mark key="]" line="171" column="11" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/cross_shop/get_cross_shop_deviceguid_customerguid.hql" timestamp="1568130719099">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="22" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/score/views.py" timestamp="1564601687862">
         <mark key="[" line="61" column="39" />
@@ -238,6 +253,10 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/cross_shop/cross_shop_deviceguid_customerguid.hql" timestamp="1568131528784">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+      </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/model/bidding_model.py" timestamp="1565026282468">
         <mark key="[" line="24" column="57" />
         <mark key="]" line="24" column="4" />
@@ -255,6 +274,7 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/cross_shop/3_Get_Cross_Shop_Data.hql" timestamp="1568132058061" />
       <file name="$USER_HOME$/repositories/bidsift/requirements.lock" timestamp="1566242196707">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="47" column="0" />
@@ -267,18 +287,24 @@
         <mark key="^" line="16" column="11" />
         <mark key="." line="16" column="11" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/cross_shop/in_market_cross_shop_order.hql" timestamp="1568131532883">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_28.py" timestamp="1565966220115">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="17" />
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1568129295961">
-        <mark key="'" line="0" column="27" />
-        <mark key="[" line="79" column="1" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="79" column="0" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1568130341693">
+        <mark key="'" line="50" column="29" />
+        <mark key="[" line="242" column="4" />
+        <mark key="]" line="243" column="48" />
+        <mark key="." line="243" column="48" />
+        <mark key="^" line="243" column="48" />
       </file>
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/models/training_set_model.py" timestamp="1564592701198">
         <mark key="[" line="55" column="8" />
@@ -328,7 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="37" filename="$USER_HOME$/repositories/feature-service/featuresvc/view/fields.py" />
       <jump line="98" column="25" filename="$USER_HOME$/repositories/feature-service/featuresvc/daos/training_set_sql_dao.py" />
       <jump line="101" column="16" filename="$USER_HOME$/repositories/feature-service/featuresvc/daos/training_set_sql_dao.py" />
       <jump line="31" column="29" filename="$USER_HOME$/repositories/feature-service/docs/training-set-api.md" />
@@ -428,6 +453,7 @@
       <jump line="294" column="0" filename="$USER_HOME$/repositories/customer-information-library/custinfolib/details/models.py" />
       <jump line="121" column="0" filename="$USER_HOME$/repositories/customer-information-service/custinfosvc/settings/local.py" />
       <jump line="0" column="27" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
+      <jump line="50" column="29" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1119,31 +1145,31 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VVNFIHt7IHBhcmFtcy5zY2hlbWEgfX07Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>b2b_deviceguids</text>
+        <text>get_cross_shop_data</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>child</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhdGguam9pbihURU1QTEFURV9ESVIsICJnZXRfYjJiX2RldmljZWd1aWRzLmhxbCIpLAogICAgcGFyZW50X2RhZywK</text>
+        <text encoding="base64">VVNFIHt7IHBhcmFtcy5zY2hlbWEgfX07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFnZ3JlZ2F0ZV9jcm9zc19zaG9wX2RhdGEK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2V0X2Nyb3NzXwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1152,22 +1178,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhcmVudF9kYWcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhdGguam9pbihURU1QTEFURV9ESVIsICJnZXRfY3Jvc3Nfc2hvcF9tYXBwaW5nLmhxbCIpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z2V0X2Nyb3NzX3Nob3BfbWFwcGluZyA9IENvbmZpZ3VyZWRIaXZlT3BlcmF0b3IoCiAgICAnZ2V0X2Nyb3NzX3Nob3BfbWFwcGluZycsCiAgICBwYXRoLmpvaW4oVEVNUExBVEVfRElSLCAnMV9HZXRfQ3Jvc3NfU2hvcF9NYXBwaW5nLmhxbCcpLAogICAgcGFyZW50X2RhZywKICAgIGhpdmVfcXVlcnlfb3duZXI9REVGQVVMVF9BUkdTWyJvd25lciJdLAogICAgcGFyYW1zPXBhcmFtcywKICAgIGhpdmVfY2xpX2Nvbm5faWQ9QURNSU5fVkFSSUFCTEVTWydoaXZlX2Nvbm5lY3Rpb24nXSwKICAgIGRhZz1kYWcKKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>child</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>child</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IC4q</last-substitute>
       <last-dir>1</last-dir>
@@ -1175,7 +1201,6 @@
     </search>
     <history>
       <history-search>
-        <entry>seed</entry>
         <entry>model</entry>
         <entry>datacenter</entry>
         <entry>DATACENTER</entry>
@@ -1195,9 +1220,9 @@
         <entry>dedupe</entry>
         <entry>details</entry>
         <entry>print</entry>
+        <entry>child</entry>
       </history-search>
       <history-cmd>
-        <entry>&quot;w</entry>
         <entry>qw</entry>
         <entry encoding="base64">JzwsJz5zL2lkL2NsYXNzX2lkL2ln</entry>
         <entry encoding="base64">JzwsJz5zL1wnYVwnL3Njb3JlL2ln</entry>
@@ -1216,6 +1241,7 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
+        <entry>vsplit</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
