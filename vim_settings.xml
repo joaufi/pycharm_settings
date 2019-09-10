@@ -444,12 +444,12 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1568138201540">
-        <mark key="'" line="82" column="11" />
-        <mark key="[" line="69" column="19" />
-        <mark key="]" line="69" column="60" />
-        <mark key="^" line="61" column="0" />
-        <mark key="." line="69" column="19" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" timestamp="1568139226392">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/models/training_set_model.py" timestamp="1564592701198">
         <mark key="[" line="55" column="8" />
@@ -503,7 +503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_39.json" />
       <jump line="6068" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_40.json" />
       <jump line="6069" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_40.json" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_40.json" />
@@ -603,6 +602,7 @@
       <jump line="69" column="19" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
       <jump line="73" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
       <jump line="82" column="11" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_convert_7_day.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1293,14 +1293,14 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>hive_params</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>hive_params</text>
+        <text>path.join(TEMPLATE_PATH, &quot;get_b2b_</text>
       </register>
       <register name="/" type="4">
         <text>hive_params</text>
@@ -1309,31 +1309,31 @@
         <text encoding="base64">VVNFIHt7IHBhcmFtcy5zY2hlbWEgfX07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgSW5NYXJrZXRIaXZlT3BlcmF0b3IoSGl2ZU9wZXJhdG9yKToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHN1cGVyKEluTWFya2V0SGl2ZU9wZXJhdG9yLCBzZWxmKS5fX2luaXRfXygKICAgICAgICAgICAgKmFyZ3MsCiAgICAgICAgICAgIGhpdmVfcXVlcnlfb3duZXI9REVGQVVMVF9BUkdTWyJvd25lciJdLAogICAgICAgICAgICBtYXByZWRfcXVldWU9InJvb3QuY3VzdG9tZXJfaWRlbnRpdHkiLAogICAgICAgICAgICBoaXZlX2NsaV9jb25uX2lkPSJiZWVsaW5lX2RhcyIsCiAgICAgICAgICAgIHBhcmFtcz1oaXZlX3BhcmFtcywKICAgICAgICAgICAgKiprd2FyZ3MKICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhpdmVfcXVlcnlfb3duZXI9REVGQVVMVF9BUkdTWyJvd25lciJdLAogICAgdXNlX3NwYXJrX2V4ZWN1dGlvbl9lbmdpbmU9RmFsc2UsICAjIEFsd2F5cyBydW4gb24gTWFwUmVkdWNlIGZvciBub3cKICAgIHVzZV9kYXNfY2x1c3Rlcj1UcnVlLAogICAgcGFyYW1zPWhpdmVfcGFyYW1zLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SGl2ZU9wZXJhdG9yKCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGhpdmVfcXVlcnlfb3duZXI9REVGQVVMVF9BUkdTWyJvd25lciJdLAogICAgdXNlX3NwYXJrX2V4ZWN1dGlvbl9lbmdpbmU9RmFsc2UsICAjIEFsd2F5cyBydW4gb24gTWFwUmVkdWNlIGZvciBub3cKICAgIHVzZV9kYXNfY2x1c3Rlcj1UcnVlLAogICAgcGFyYW1zPWhpdmVfcGFyYW1zLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGhpdmVfcXVlcnlfb3duZXI9REVGQVVMVF9BUkdTWyJvd25lciJdLAogICAgdXNlX3NwYXJrX2V4ZWN1dGlvbl9lbmdpbmU9RmFsc2UsICAjIEFsd2F5cyBydW4gb24gTWFwUmVkdWNlIGZvciBub3cKICAgIHVzZV9kYXNfY2x1c3Rlcj1UcnVlLAogICAgcGFyYW1zPWhpdmVfcGFyYW1zLAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlX2Rhc19jbHVzdGVyPVRydWUsCg==</text>
+        <text encoding="base64">ICAgIGhpdmVfcXVlcnlfb3duZXI9REVGQVVMVF9BUkdTWyJvd25lciJdLAogICAgdXNlX3NwYXJrX2V4ZWN1dGlvbl9lbmdpbmU9RmFsc2UsICAjIEFsd2F5cyBydW4gb24gTWFwUmVkdWNlIGZvciBub3cKICAgIHVzZV9kYXNfY2x1c3Rlcj1UcnVlLAogICAgcGFyYW1zPWhpdmVfcGFyYW1zLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlX3NwYXJrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">REFHU19ESVIgPSBjb25mLmdldCgiY29yZSIsICJkYWdzX2ZvbGRlciIpCg==</text>
+        <text encoding="base64">Y2xhc3MgSW5NYXJrZXRIaXZlT3BlcmF0b3IoSGl2ZU9wZXJhdG9yKToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHN1cGVyKEluTWFya2V0SGl2ZU9wZXJhdG9yLCBzZWxmKS5fX2luaXRfXygKICAgICAgICAgICAgKmFyZ3MsCiAgICAgICAgICAgIGhpdmVfcXVlcnlfb3duZXI9REVGQVVMVF9BUkdTWyJvd25lciJdLAogICAgICAgICAgICBtYXByZWRfcXVldWU9InJvb3QuY3VzdG9tZXJfaWRlbnRpdHkiLAogICAgICAgICAgICBoaXZlX2NsaV9jb25uX2lkPSJiZWVsaW5lX2RhcyIsCiAgICAgICAgICAgIHBhcmFtcz1oaXZlX3BhcmFtcywKICAgICAgICAgICAgKiprd2FyZ3MKICAgICAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q1JPU1NfU0hPUF9URU1QTEFURV9ESVIgPSBQYXRoKFQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
