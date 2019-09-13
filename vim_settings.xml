@@ -146,11 +146,11 @@
         <mark key="." line="31" column="6" />
         <mark key="^" line="31" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_conversion_xshop/get_mapping/cross_shop_deviceguid_customerguid.hql" timestamp="1568308367322">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_conversion_xshop/get_mapping/cross_shop_deviceguid_customerguid.hql" timestamp="1568381445544">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
         <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_37.json" timestamp="1565273629850">
         <mark key="[" line="35" column="0" />
@@ -352,11 +352,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_conversion_xshop/get_mapping/in_market_cross_shop_order.hql" timestamp="1568308361983">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_conversion_xshop/get_mapping/in_market_cross_shop_order.hql" timestamp="1568381441269">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
         <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/cross_shop/get_data/4-get_more.hql" timestamp="1568133489679">
         <mark key="[" line="0" column="0" />
@@ -368,6 +368,12 @@
         <mark key="]" line="0" column="24" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/merge_features.hql" timestamp="1568295415167">
+        <mark key="'" line="37" column="38" />
+        <mark key="[" line="276" column="0" />
+        <mark key="]" line="298" column="18" />
+        <mark key="." line="267" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/controllers/training_set_controller.py" timestamp="1564592763830">
         <mark key="[" line="11" column="0" />
@@ -416,8 +422,10 @@
         <mark key="^" line="119" column="48" />
         <mark key="." line="119" column="48" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_conversion_xshop/get_mapping/in_market_cross_shop_target_base.hql" timestamp="1568308339612">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_conversion_xshop/get_mapping/in_market_cross_shop_target_base.hql" timestamp="1568381435644">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/cross_shop/get_data/3-get_clean_browse_context.hql" timestamp="1568134141102">
         <mark key="[" line="0" column="24" />
@@ -425,12 +433,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_conversion_xshop.py" timestamp="1568379256427">
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_conversion_xshop.py" timestamp="1568381430424">
         <mark key="'" line="136" column="30" />
-        <mark key="[" line="50" column="25" />
-        <mark key="]" line="51" column="20" />
-        <mark key="^" line="51" column="20" />
-        <mark key="." line="51" column="20" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/cross_shop/cross_shop_deviceguid_customerguid.hql" timestamp="1568131528784">
         <mark key="[" line="0" column="0" />
@@ -1271,7 +1278,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VVNFIHt7IHBhcmFtcy5zY2hlbWEgfX07Cgo=</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -1286,31 +1293,31 @@
         <text encoding="base64">U0VUIGhpdmUuZXhlYy5wYXJhbGxlbD10cnVlOwoKRFJPUCBUQUJMRSBJRiBFWElTVFMgaW5fbWFya2V0X3Njb3JpbmdfZmVhdHVyZV97eyBwYXJhbXMuZmVhdHVyZSB9fTsKQ1JFQVRFIFRBQkxFIGluX21hcmtldF9zY29yaW5nX2ZlYXR1cmVfe3sgcGFyYW1zLmZlYXR1cmUgfX0gQVMKU0VMRUNUICogRlJPTSAoCnt7IHBhcmFtcy51bmlvbnMgfX0KKSBBUyBtdWx0aV9zdG9yZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VVNFIHt7IHBhcmFtcy5zY2hlbWEgfX07Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cXVlcnkgPSAnJycKU0VUIGhpdmUuZXhlYy5wYXJhbGxlbD10cnVlOwoKRFJPUCBUQUJMRSBJRiBFWElTVFMgaW5fbWFya2V0X3Njb3JpbmdfZmVhdHVyZV97eyBwYXJhbXMuZmVhdHVyZSB9fTsKQ1JFQVRFIFRBQkxFIGluX21hcmtldF9zY29yaW5nX2ZlYXR1cmVfe3sgcGFyYW1zLmZlYXR1cmUgfX0gQVMKU0VMRUNUICogRlJPTSAoCnt7IHBhcmFtcy51bmlvbnMgfX0KKSBBUyBtdWx0aV9zdG9yZQonJycK</text>
+        <text encoding="base64">VVNFIHt7IHBhcmFtcy5zY2hlbWEgfX07Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICApLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdW5pb25zPSdVTklPTiBBTEwnLmpvaW4odW5pb25fcXVlcmllcyksCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmVhdHVyZT1mZWF0dXJlLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyBUT0RPOiBMZXQncyBwdXQgdGhpcyBxdWVyeSA9IGludG8gYSBmaWxlIGFuZCB1c2Uge3sgcGFyYW1zLmZlYXR1cmUgfX0gZXRjCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Q0hJTERfREFHX05BTUUgPSAic3RvcmVfaWRfe30iCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">VVNFIHt7IHBhcmFtcy5zY2hlbWEgfX07Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwYXJhbXM9cGFyYW1zLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cXVlcnkgPSAnJycKU0VUIGhpdmUuZXhlYy5wYXJhbGxlbD10cnVlOwoKRFJPUCBUQUJMRSBJRiBFWElTVFMgaW5fbWFya2V0X3Njb3JpbmdfZmVhdHVyZV97eyBwYXJhbXMuZmVhdHVyZSB9fTsKQ1JFQVRFIFRBQkxFIGluX21hcmtldF9zY29yaW5nX2ZlYXR1cmVfe3sgcGFyYW1zLmZlYXR1cmUgfX0gQVMKU0VMRUNUICogRlJPTSAoCnt7IHBhcmFtcy51bmlvbnMgfX0KKSBBUyBtdWx0aV9zdG9yZQonJycK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICApLAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy5zdWJkYWdfb3BlcmF0b3IgaW1wb3J0IFN1YkRhZ09wZXJhdG9yCgpmcm9tIGN1c3RvbWVyX3Njb3JpbmdfZGFncy51dGlsaXRpZXMgaW1wb3J0IHNsYWNrX29uX2FsbF9zdWNjZXNzLCBzbGFja19vbl9hbnlfZmFpbHVyZQpmcm9tIHV0aWxpdHlfb3BlcmF0b3JzLmFydGlmYWN0X2Rvd25sb2FkX29wZXJhdG9yIGltcG9ydCBBcnRpZmFjdERvd25sb2FkT3BlcmF0b3IKZnJvbSB1dGlsaXR5X29wZXJhdG9ycy5iYXRjaF91cGxvYWRlcl9vcGVyYXRvciBpbXBvcnQgQmF0Y2hVcGxvYWRlck9wZXJhdG9yCmZyb20gdXRpbGl0eV9vcGVyYXRvcnMuY29uZmlndXJlZF9oaXZlX29wZXJhdG9yIGltcG9ydCBDb25maWd1cmVkSGl2ZU9wZXJhdG9yCmZyb20gdXRpbGl0eV9vcGVyYXRvcnMuaW5mbHV4X3JlcG9ydGVyX29wZXJhdG9yIGltcG9ydCBIaXZlSW5mbHV4UmVwb3J0ZXJPcGVyYXRvcgpmcm9tIHV0aWxpdHlfb3BlcmF0b3JzLnNwYXJrX3N1Ym1pdF9iYXNoX29wZXJhdG9yIGltcG9ydCBTcGFya1N1Ym1pdEJhc2hPcGVyYXRvcgpmcm9tIHV0aWxpdHlfb3BlcmF0b3JzLnZpcnR1YWxfZW52aXJvbm1lbnRfb3BlcmF0b3IgaW1wb3J0IFZpcnR1YWxFbnZpcm9ubWVudE9wZXJhdG9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdW5pb25zPSdVTklPTiBBTEwnLmpvaW4odW5pb25fcXVlcmllcyksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
