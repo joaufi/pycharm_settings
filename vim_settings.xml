@@ -525,8 +525,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_conversion_xshop.py" timestamp="1568585420535">
-        <mark key="'" line="118" column="5" />
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_conversion_xshop.py" timestamp="1568586946846">
+        <mark key="'" line="177" column="70" />
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="0" />
+        <mark key="." line="198" column="0" />
+        <mark key="^" line="196" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/daos/base_sql_dao.py" timestamp="1563385036339">
         <mark key="[" line="101" column="0" />
@@ -578,10 +582,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="7" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
-      <jump line="122" column="30" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
-      <jump line="126" column="30" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
-      <jump line="258" column="67" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
       <jump line="8" column="10" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
       <jump line="55" column="17" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
       <jump line="66" column="12" filename="$USER_HOME$/repositories/bidsift/bidsift/app.py" />
@@ -678,6 +678,10 @@
       <jump line="60" column="79" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_41.json" />
       <jump line="113" column="100" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4_conversion_xshop.py" />
       <jump line="110" column="5" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_conversion_xshop.py" />
+      <jump line="16" column="52" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_conversion_xshop.py" />
+      <jump line="144" column="36" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_conversion_xshop.py" />
+      <jump line="148" column="45" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_conversion_xshop.py" />
+      <jump line="177" column="70" filename="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/in_market_v4_conversion_xshop.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1369,59 +1373,55 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgID4+IER1bW15T3BlcmF0b3IodGFza19pZD0nY29tcGxldGVfZmVhdHVyZV90YWJsZXMnKQo=</text>
+        <text encoding="base64">ICAgID4+IER1bW15T3BlcmF0b3IodGFza19pZD0nY29tcGxldGVfbWFwcGluZ3MnKQo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
-        <text>cross_shop</text>
+        <text>conversion_xshop</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Z2V0X3RhcmdldF9iYXNlID0gSGl2ZU9wZXJhdG9yKAogICAgdGFza19pZD1tYXBwaW5nX25hbWUsCiAgICBzY2hlbWE9QURNSU5fVkFSSUFCTEVTWydzY2hlbWEnXSwKICAgIGhxbD1tYXBwaW5nX25hbWUgKyAnLmhxbCcsCiAgICBoaXZlX2NsaV9jb25uX2lkPUhJVkVfQ09OTkVDVElPTiwKICAgIGRhZz1kYWcsCikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgID4+IER1bW15T3BlcmF0b3IodGFza19pZD0nY29tcGxldGVfZmVhdHVyZV90YWJsZXMnKQo=</text>
+        <text encoding="base64">ICAgID4+IER1bW15T3BlcmF0b3IodGFza19pZD0nY29tcGxldGVfbWFwcGluZ3MnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdpbl9tYXJrZXRfY3Jvc3Nfc2hvcF9vcmRlcicsCiAgICAnaW5fbWFya2V0X2Nyb3NzX3Nob3BfdGFyZ2V0X2Jhc2UnLAo=</text>
+        <text encoding="base64">ICAgICMgVE9ETzogUmVuYW1lIHRvIF9jb252ZXJzaW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdjcm9zc19zaG9wX2RldmljZWd1aWRfY3VzdG9tZXJndWlkJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Z2V0X21hcHBpbmdzID0gW10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zm9yIG1hcHBpbmdfbmFtZSBpbiBbCg==</text>
+        <text encoding="base64">REFHX05BTUUgPSAiamFmaXNoZXJfaW5fbWFya2V0X3Y0X2NvbnZlcnNpb25feHNob3AiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">XToK</text>
+        <text encoding="base64">REFHX05BTUUgPSAiaW5fbWFya2V0X3Y0X2NvbnZlcnNpb25feHNob3AiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdldF9tYXBwaW5ncy5hcHBlbmQoCiAgICBIaXZlT3BlcmF0b3IoCiAgICAgICAgdGFza19pZD1tYXBwaW5nX25hbWUsCiAgICAgICAgc2NoZW1hPUFETUlOX1ZBUklBQkxFU1snc2NoZW1hJ10sCiAgICAgICAgaHFsPW1hcHBpbmdfbmFtZSArICcuaHFsJywKICAgICAgICBoaXZlX2NsaV9jb25uX2lkPUhJVkVfQ09OTkVDVElPTiwKICAgICAgICBkYWc9ZGFnLAogICAgKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Z2V0X29yZGVycwo=</text>
+        <text encoding="base64">IyBUT0RPOiBLZWVwIHRoaXMgYXMgYSBzaGFyZWQgdmFyaWFibGUgYW5kIHJlbmFtZSB0byBzb21ldGhpbmcgbW9yZSBiYXNpYyBhbGEgImluX21hcmtldF92NCIK</text>
       </register>
-      <register name="9" type="8">
-        <text>222
-333
-444
-555
-666</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cross_shop</last-search>
+      <last-search>conversion_xshop</last-search>
       <last-offset />
-      <last-pattern>cross_shop</last-pattern>
+      <last-pattern>conversion_xshop</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IC4q</last-substitute>
       <last-dir>1</last-dir>
@@ -1429,7 +1429,6 @@
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
         <entry>child</entry>
         <entry>template_se</entry>
         <entry>owner</entry>
@@ -1449,6 +1448,7 @@
         <entry>pd</entry>
         <entry>cross</entry>
         <entry>cross_shop</entry>
+        <entry>conversion_xshop</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
