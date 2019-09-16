@@ -88,12 +88,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4_conversion_xshop.py" timestamp="1568580402533">
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/spark_jobs/score_in_market_v4_conversion_xshop.py" timestamp="1568646469682">
         <mark key="'" line="95" column="100" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="19" />
+        <mark key="[" line="49" column="53" />
+        <mark key="]" line="49" column="53" />
         <mark key="^" line="50" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="." line="49" column="53" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/app.py" timestamp="1566242854482">
         <mark key="[" line="213" column="0" />
@@ -516,6 +516,7 @@
         <mark key="^" line="828" column="68" />
         <mark key="." line="828" column="57" />
       </file>
+      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/download_model.py" timestamp="1568645707905" />
       <file name="$USER_HOME$/repositories/feature-service/docs/training-set-api.md" timestamp="1564681177968">
         <mark key="'" line="141" column="19" />
         <mark key="[" line="5" column="0" />
@@ -1369,14 +1370,14 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, &quot;soid&quot;</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;in_market_v4&quot;</text>
+        <text>, &quot;soid&quot;</text>
       </register>
       <register name="/" type="4">
         <text>450</text>
