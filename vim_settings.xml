@@ -1379,7 +1379,7 @@
         <text>&quot;in_market_v4&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>conversion_xshop</text>
+        <text>450</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Q1JVTkNIX0JVQ0tFVFMgPSBWYXJpYWJsZS5nZXQoIkNSVU5DSF9CVUNLRVRTIikK</text>
@@ -1416,9 +1416,9 @@
       </register>
     </registers>
     <search>
-      <last-search>conversion_xshop</last-search>
+      <last-search>450</last-search>
       <last-offset />
-      <last-pattern>conversion_xshop</last-pattern>
+      <last-pattern>450</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IC4q</last-substitute>
       <last-dir>1</last-dir>
@@ -1426,7 +1426,6 @@
     </search>
     <history>
       <history-search>
-        <entry>child</entry>
         <entry>template_se</entry>
         <entry>owner</entry>
         <entry>hive_params</entry>
@@ -1446,6 +1445,7 @@
         <entry>cross</entry>
         <entry>cross_shop</entry>
         <entry>conversion_xshop</entry>
+        <entry>450</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
