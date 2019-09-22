@@ -51,11 +51,11 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/feature-service/featuresvc/common/validator.py" timestamp="1569187746662">
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="20" column="26" />
-        <mark key="." line="20" column="26" />
-        <mark key="^" line="20" column="26" />
+      <file name="$USER_HOME$/repositories/feature-service/featuresvc/common/validator.py" timestamp="1569192586179">
+        <mark key="[" line="49" column="36" />
+        <mark key="]" line="49" column="35" />
+        <mark key="." line="49" column="35" />
+        <mark key="^" line="49" column="35" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/cross_shop/get_data/3-get_browse_context.hql" timestamp="1568133201657">
         <mark key="[" line="0" column="0" />
@@ -188,6 +188,12 @@
         <mark key="^" line="22" column="16" />
         <mark key="." line="22" column="16" />
       </file>
+      <file name="$USER_HOME$/repositories/feature-service/.python_environment-3.6.7/lib/python3.6/site-packages/atciecommons/modelvalidation/validate.py" timestamp="1569192832171">
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="13" column="39" />
+      </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/cross_shop/get_data/create_cross_shop_feature_table.hql" timestamp="1568146806195">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -314,12 +320,12 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="128" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/feature-service/featuresvc/view/fields.py" timestamp="1569187884553">
+      <file name="$USER_HOME$/repositories/feature-service/featuresvc/view/fields.py" timestamp="1569192170651">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="35" column="43" />
-        <mark key="]" line="35" column="43" />
-        <mark key="." line="35" column="43" />
-        <mark key="^" line="35" column="43" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="51" column="46" />
+        <mark key="." line="51" column="46" />
+        <mark key="^" line="50" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/cross_shop/get_data/get_cross_shop_data.hql" timestamp="1568146632433">
         <mark key="[" line="0" column="0" />
@@ -409,10 +415,11 @@
         <mark key="." line="34" column="58" />
         <mark key="^" line="34" column="57" />
       </file>
-      <file name="$USER_HOME$/repositories/feature-service/featuresvc/view/feature_manager_view.py" timestamp="1569186884087">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="16" column="26" />
-        <mark key="." line="16" column="26" />
+      <file name="$USER_HOME$/repositories/feature-service/featuresvc/view/feature_manager_view.py" timestamp="1569192206210">
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="34" column="62" />
+        <mark key="." line="34" column="62" />
+        <mark key="^" line="34" column="62" />
       </file>
       <file name="$USER_HOME$/repositories/customer-information-library/tests/test_details_forms.py" timestamp="1566228731624">
         <mark key="[" line="530" column="0" />
@@ -1224,47 +1231,47 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICkgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text># TODO: Should we validate that it has a &quot;.&quot; in it specifiying the schema/database? E.g. &quot;scoring.user_level_bidding_seed&quot;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>FEATURE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJWYWxpZGF0ZXMgYSBsaXN0IG9mIFVVSURzIGFuZCBndWFyYW50ZWVzIHRoZXJlIGFyZSBubyBkdXBsaWNhdGVzIiIiCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKAogICAgICAgICAgICB2YWx1ZQogICAgICAgICAgICBhbmQgY2xzLmxpc3QodmFsdWUpCiAgICAgICAgICAgIGFuZCBsZW4oc2V0KHZhbHVlKSkgPT0gbGVuKHZhbHVlKQogICAgICAgICAgICBhbmQgYWxsKChjbHMudXVpZChlbGVtZW50KSBmb3IgZWxlbWVudCBpbiB2YWx1ZSkpCiAgICAgICAgKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICkgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kIGFsbCgoZWxlbWVudFswXSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHQ9bGlzdChWQUxJRF9TVE9SRV9JRFMpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmVkPVRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgaXNpbnN0YW5jZSh2YWx1ZSwgVHlwZXMuTElTVCk6CiAgICAgICAgICAgIHJldHVybiBGYWxzZQoKICAgICAgICByZXR1cm4gYWxsKGNscy5zdHJpbmcoZWxlbWVudCkgZm9yIGVsZW1lbnQgaW4gdmFsdWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvcm1hdHRlcj1Gb3JtYXR0ZXIuc3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgICkgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8gd2hhdCdzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gdGhpcyBtZXRob2QgYW5kIHRoZSBmZWF0dXJlX2d1aWRzIG1ldGhvZD8K</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE1PREVMX1NUT1JBR0VfQ09ORklHID0gewogICAgICAgICdob3N0JzogJzEwLjIyNC4yNTEuMjEwJywKICAgICAgICAncG9ydCc6IDgwLAogICAgfQo=</text>
+        <text encoding="base64">ICAgIGRlZmF1bHQ9bGlzdChWQUxJRF9TVE9SRV9JRFMpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IFdlIHNob3VsZCBhbGxvdyB0aGUgdXNlciB0byBzdWJtaXQgYW4gb3V0cHV0X3RhYmxlX3N1ZmZpeCB0aGF0IGdldHMgYXBwZW5kZWQgdG8gdGhpcyBuYW1lCg==</text>
+        <text encoding="base64">ICAgIHJlcXVpcmVkPVRydWUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV90cmFpbmluZ19zZXRfc3FsID0gYnVpbGRfY3JlYXRlX3RyYWluaW5nX3NldF9zcWwoCiAgICAgICAgZGF0YWJhc2UsIGd1aWRzX3RvX3RhYmxlcywgb3V0cHV0X3RhYmxlLCBzZWVkX2NvbHNfYW5kX3R5cGVzCiAgICApCiAgICBwcmludF9kZWJ1ZygKICAgICAgICAnQ3JlYXRpbmcgdGhlIHRyYWluaW5nIHNldCB0YWJsZSBpZiBpdCBkb2VzIG5vdCBleGlzdCcsIGNyZWF0ZV90cmFpbmluZ19zZXRfc3FsCiAgICApCiAgICBzcGFyay5zcWwoY3JlYXRlX3RyYWluaW5nX3NldF9zcWwpCg==</text>
+        <text encoding="base64">ICAgIGZvcm1hdHRlcj1Gb3JtYXR0ZXIuc3RyaW5nLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1315,13 +1322,13 @@
         <entry>wq</entry>
         <entry>vsplit</entry>
         <entry>q</entry>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>qa</entry>
         <entry>ew</entry>
         <entry>w:w</entry>
         <entry>e</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
