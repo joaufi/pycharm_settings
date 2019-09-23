@@ -230,11 +230,10 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/feature-service/.python_environment-3.6.7/lib/python3.6/site-packages/atciecommons/modelvalidation/models.py" timestamp="1564587395537">
-        <mark key="[" line="31" column="7" />
-        <mark key="]" line="31" column="6" />
-        <mark key="." line="31" column="6" />
-        <mark key="^" line="31" column="6" />
+      <file name="$USER_HOME$/repositories/feature-service/.python_environment-3.6.7/lib/python3.6/site-packages/atciecommons/modelvalidation/models.py" timestamp="1569198248911">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_conversion_xshop/get_mapping/cross_shop_deviceguid_customerguid.hql" timestamp="1568733851137">
         <mark key="[" line="0" column="26" />
@@ -332,11 +331,12 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="128" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/feature-service/featuresvc/view/fields.py" timestamp="1569193604035">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/repositories/feature-service/featuresvc/view/fields.py" timestamp="1569197088062">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/cross_shop/get_data/get_cross_shop_data.hql" timestamp="1568146632433">
         <mark key="[" line="0" column="0" />
@@ -414,11 +414,6 @@
         <mark key="]" line="126" column="32" />
         <mark key="." line="126" column="32" />
         <mark key="^" line="126" column="32" />
-      </file>
-      <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/aggregate_features/jafisher_temp_writing_queries.hql" timestamp="1568896806620">
-        <mark key="]" line="42" column="30" />
-        <mark key="." line="42" column="30" />
-        <mark key="^" line="42" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/user_level_bidding/dao/linear_regression_bidding_dao.py" timestamp="1568997388116">
         <mark key="[" line="34" column="58" />
@@ -1242,14 +1237,14 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>missing their required sibling fields</text>
       </register>
       <register name="/" type="4">
         <text>batch</text>
@@ -1258,31 +1253,31 @@
         <text encoding="base64">ICAgICAgICBzZWVkX3RhYmxlX3JlcXVpcmVkX2NvbHVtbnMgPSByZXF1ZXN0LnNlZWRfdGFibGVfcmVxdWlyZWRfY29sdW1ucwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETzogQWJvdXQgYWJvdmUgVE9ETywgc2hvdWxkbid0IHdlIHVwZGF0ZSB0aGUgdGFibGUgd2l0aCB0aGUgb3V0cHV0IHRhYmxlIG5hbWUgb25jZSB0aGUgYnVpbGQgaXMgZmluaXNoZWQ/Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlc18K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvd25lciA9IHJlcXVlc3Qub3duZXIKICAgICAgICBpbnRlZ3JhdGVkX2RhdGFzb3VyY2VfaWQgPSByZXF1ZXN0LmRhdGFzb3VyY2VfaWQKICAgICAgICBvdXRwdXRfZGF0YXR5cGVfaWQgPSByZXF1ZXN0Lm91dHB1dF9kYXRhdHlwZV9pZAogICAgICAgIGRlZmF1bHRfdmFsdWUgPSByZXF1ZXN0LmRlZmF1bHRfdmFsdWUKICAgICAgICBzdGFydF90aW1lX29mZnNldCA9IHJlcXVlc3Quc3RhcnRfdGltZV9vZmZzZXQKICAgICAgICBzdG9yZV9pZCA9IHJlcXVlc3Quc3RvcmVfaWQKICAgICAgICB0cmFuc2Zvcm1hdGlvbnMgPSByZXF1ZXN0LnRyYW5zZm9ybWF0aW9ucwogICAgICAgIGlkZW50aWZpZXJfaWQgPSByZXF1ZXN0LmlkZW50aWZpZXJfaWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvd25lciA9IHJlcXVlc3Qub3duZXIKICAgICAgICBpbnRlZ3JhdGVkX2RhdGFzb3VyY2VfaWQgPSByZXF1ZXN0LmRhdGFzb3VyY2VfaWQKICAgICAgICBvdXRwdXRfZGF0YXR5cGVfaWQgPSByZXF1ZXN0Lm91dHB1dF9kYXRhdHlwZV9pZAogICAgICAgIGRlZmF1bHRfdmFsdWUgPSByZXF1ZXN0LmRlZmF1bHRfdmFsdWUKICAgICAgICBzdGFydF90aW1lX29mZnNldCA9IHJlcXVlc3Quc3RhcnRfdGltZV9vZmZzZXQKICAgICAgICBzdG9yZV9pZCA9IHJlcXVlc3Quc3RvcmVfaWQKICAgICAgICB0cmFuc2Zvcm1hdGlvbnMgPSByZXF1ZXN0LnRyYW5zZm9ybWF0aW9ucwogICAgICAgIGlkZW50aWZpZXJfaWQgPSByZXF1ZXN0LmlkZW50aWZpZXJfaWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETzogQWJvdXQgYWJvdmUgVE9ETywgc2hvdWxkbid0IHdlIHVwZGF0ZSB0aGUgdGFibGUgd2l0aCB0aGUgb3V0cHV0IHRhYmxlIG5hbWUgb25jZSB0aGUgYnVpbGQgaXMgZmluaXNoZWQ/Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiYXRjaF9mZWF0dXJlX3F1ZXJ5ID0gcmVxdWVzdC5iYXRjaF9mZWF0dXJlX3F1ZXJ5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFJFUVVJUkVEX0hJVkVfQ09MVU1OU19GSUVMRCwK</text>
+        <text encoding="base64">ICAgICAgICBvd25lciA9IHJlcXVlc3Qub3duZXIKICAgICAgICBpbnRlZ3JhdGVkX2RhdGFzb3VyY2VfaWQgPSByZXF1ZXN0LmRhdGFzb3VyY2VfaWQKICAgICAgICBvdXRwdXRfZGF0YXR5cGVfaWQgPSByZXF1ZXN0Lm91dHB1dF9kYXRhdHlwZV9pZAogICAgICAgIGRlZmF1bHRfdmFsdWUgPSByZXF1ZXN0LmRlZmF1bHRfdmFsdWUKICAgICAgICBzdGFydF90aW1lX29mZnNldCA9IHJlcXVlc3Quc3RhcnRfdGltZV9vZmZzZXQKICAgICAgICBzdG9yZV9pZCA9IHJlcXVlc3Quc3RvcmVfaWQKICAgICAgICB0cmFuc2Zvcm1hdGlvbnMgPSByZXF1ZXN0LnRyYW5zZm9ybWF0aW9ucwogICAgICAgIGlkZW50aWZpZXJfaWQgPSByZXF1ZXN0LmlkZW50aWZpZXJfaWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UkVRVUlSRURfSElWRV9DT0xVTU5TX0ZJRUxEID0gRmllbGQoCiAgICBmb3JtYXR0ZXI9Rm9ybWF0dGVyLmxvd2VyLAogICAgdHlwZT1UeXBlcy5MSVNULAogICAgdmFsaWRhdG9yPVZhbGlkYXRvci5saXN0X29mX2hpdmVfY29sdW1uX25hbWUsCiAgICByZXF1aXJlZD1UcnVlLAopCg==</text>
+        <text encoding="base64">ICAgICAgICBvd25lciA9IHJlcXVlc3Qub3duZXIKICAgICAgICBpbnRlZ3JhdGVkX2RhdGFzb3VyY2VfaWQgPSByZXF1ZXN0LmRhdGFzb3VyY2VfaWQKICAgICAgICBvdXRwdXRfZGF0YXR5cGVfaWQgPSByZXF1ZXN0Lm91dHB1dF9kYXRhdHlwZV9pZAogICAgICAgIGRlZmF1bHRfdmFsdWUgPSByZXF1ZXN0LmRlZmF1bHRfdmFsdWUKICAgICAgICBzdGFydF90aW1lX29mZnNldCA9IHJlcXVlc3Quc3RhcnRfdGltZV9vZmZzZXQKICAgICAgICBzdG9yZV9pZCA9IHJlcXVlc3Quc3RvcmVfaWQKICAgICAgICB0cmFuc2Zvcm1hdGlvbnMgPSByZXF1ZXN0LnRyYW5zZm9ybWF0aW9ucwogICAgICAgIGlkZW50aWZpZXJfaWQgPSByZXF1ZXN0LmlkZW50aWZpZXJfaWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">SElWRV9DT0xVTU5TX0ZJRUxEID0gRmllbGQoCiAgICBmb3JtYXR0ZXI9Rm9ybWF0dGVyLmxvd2VyLAogICAgdHlwZT1UeXBlcy5MSVNULAogICAgdmFsaWRhdG9yPVZhbGlkYXRvci5saXN0X29mX2hpdmVfY29sdW1uX25hbWUsCikK</text>
+        <text encoding="base64">ICAgICAgICAjCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1337,9 +1332,9 @@
         <entry>ew</entry>
         <entry>w:w</entry>
         <entry>e</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
