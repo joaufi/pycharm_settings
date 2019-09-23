@@ -80,12 +80,12 @@
         <mark key="." line="110" column="66" />
         <mark key="^" line="110" column="66" />
       </file>
-      <file name="$USER_HOME$/repositories/feature-service/featuresvc/daos/feature_sql_dao.py" timestamp="1569259016209">
-        <mark key="'" line="394" column="55" />
-        <mark key="[" line="445" column="0" />
-        <mark key="]" line="452" column="21" />
-        <mark key="." line="445" column="0" />
-        <mark key="^" line="439" column="3" />
+      <file name="$USER_HOME$/repositories/feature-service/featuresvc/daos/feature_sql_dao.py" timestamp="1569263173234">
+        <mark key="'" line="395" column="20" />
+        <mark key="[" line="378" column="19" />
+        <mark key="]" line="378" column="30" />
+        <mark key="^" line="378" column="30" />
+        <mark key="." line="378" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_conversion_xshop/get_data/get_refined_browse_context.hql" timestamp="1568733835568">
         <mark key="[" line="0" column="26" />
@@ -112,12 +112,12 @@
         <mark key="." line="79" column="63" />
         <mark key="^" line="79" column="63" />
       </file>
-      <file name="$USER_HOME$/repositories/feature-service/featuresvc/models/feature_manager_model.py" timestamp="1569248535676">
+      <file name="$USER_HOME$/repositories/feature-service/featuresvc/models/feature_manager_model.py" timestamp="1569262674433">
         <mark key="'" line="200" column="51" />
-        <mark key="[" line="172" column="213" />
-        <mark key="]" line="172" column="249" />
-        <mark key="." line="172" column="249" />
-        <mark key="^" line="172" column="249" />
+        <mark key="[" line="166" column="20" />
+        <mark key="]" line="165" column="117" />
+        <mark key="." line="165" column="117" />
+        <mark key="^" line="165" column="117" />
       </file>
       <file name="$USER_HOME$/repositories/bidsift/bidsift/settings/dev.py" timestamp="1568997396784">
         <mark key="[" line="119" column="0" />
@@ -448,8 +448,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="8" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/operators/sensors.py" />
-      <jump line="157" column="26" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/operators/sensors.py" />
       <jump line="31" column="13" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/operators/sensors.py" />
       <jump line="39" column="6" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/operators/sensors.py" />
       <jump line="1985" column="6" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
@@ -548,6 +546,8 @@
       <jump line="360" column="55" filename="$USER_HOME$/repositories/feature-service/featuresvc/daos/feature_sql_dao.py" />
       <jump line="375" column="60" filename="$USER_HOME$/repositories/feature-service/featuresvc/daos/feature_sql_dao.py" />
       <jump line="399" column="55" filename="$USER_HOME$/repositories/feature-service/featuresvc/daos/feature_sql_dao.py" />
+      <jump line="424" column="8" filename="$USER_HOME$/repositories/feature-service/featuresvc/daos/feature_sql_dao.py" />
+      <jump line="395" column="20" filename="$USER_HOME$/repositories/feature-service/featuresvc/daos/feature_sql_dao.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1238,64 +1238,63 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBheWxvYWQuYXBwZW5kKCd7Y29sdW1ufSA9IHt2YWx1ZX0nLmZvcm1hdChjb2x1bW49Y29sdW1uLCB2YWx1ZT12YWx1ZSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>batch_feature</text>
+        <text>payload</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UodmFsdWUsIGludCkgb3IgaXNpbnN0YW5jZSh2YWx1ZSwgZmxvYXQpOgogICAgICAgICAgICAgICAgICAgIHBheWxvYWQuYXBwZW5kKAogICAgICAgICAgICAgICAgICAgICAgICAne2NvbHVtbn0gPSB7dmFsdWV9Jy5mb3JtYXQoY29sdW1uPWNvbHVtbiwgdmFsdWU9dmFsdWUpCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgZWxpZiBpc2luc3RhbmNlKHZhbHVlLCBzdHIpOgogICAgICAgICAgICAgICAgICAgIHBheWxvYWQuYXBwZW5kKAogICAgICAgICAgICAgICAgICAgICAgICAne2NvbHVtbn0gPSBcJ3t2YWx1ZX1cJycuZm9ybWF0KGNvbHVtbj1jb2x1bW4sIHZhbHVlPXZhbHVlKQogICAgICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBheWxvYWQuYXBwZW5kKCd7Y29sdW1ufSA9IHt2YWx1ZX0nLmZvcm1hdChjb2x1bW49Y29sdW1uLCB2YWx1ZT12YWx1ZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBheWxvYWQuYXBwZW5kKAogICAgICAgICAgICAgICAgICAgICd7Y29sdW1ufSA9IFwne3ZhbHVlfVwnJy5mb3JtYXQoY29sdW1uPWNvbHVtbiwgdmFsdWU9dmFsdWUpCiAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsaWYgaXNpbnN0YW5jZSh2YWx1ZSwgc3RyKToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZ2V0X2NvbHVtbl92YWx1ZV9wYXlsb2FkKHNlbGYsIGNvbHVtbnMpOgogICAgICAgIHBheWxvYWQgPSBbXQogICAgICAgIGZvciBjb2x1bW4gaW4gY29sdW1uczoKICAgICAgICAgICAgdmFsdWUgPSBjb2x1bW5zW2NvbHVtbl0KICAgICAgICAgICAgaWYgdmFsdWUgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICBwYXlsb2FkLmFwcGVuZCgne2NvbHVtbn0gPSB7dmFsdWV9Jy5mb3JtYXQoY29sdW1uPWNvbHVtbiwgdmFsdWU9dmFsdWUpKQoKICAgICAgICByZXR1cm4gcGF5bG9hZAoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXlsb2FkLmFwcGVuZCgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJQYXNzIGluIGJhdGNoIGZlYXR1cmUgcXVlcnkgYXMgcXVlcnkgYXJndW1lbnQgc28gcHlvZGJjIGxpYnJhcnkgd2lsbCBoYW5kbGUgdGhlIHN0cmluZyBwYXJzaW5nIGZvciB1cwogICAgICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UodmFsdWUsIGludCkgb3IgaXNpbnN0YW5jZSh2YWx1ZSwgZmxvYXQpOgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBCYXRjaEZlYXR1cmVRdWVyeSA9ID8K</text>
+        <text encoding="base64">ICAgICAgICBwYXlsb2FkID0gW10KICAgICAgICBmb3IgY29sdW1uIGluIGZlYXR1cmVfc3VtbWFyeV9jb2x1bW5zOgogICAgICAgICAgICB2YWx1ZSA9IGZlYXR1cmVfc3VtbWFyeV9jb2x1bW5zW2NvbHVtbl0KICAgICAgICAgICAgaWYgdmFsdWUgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICBpZiBpc2luc3RhbmNlKHZhbHVlLCBpbnQpIG9yIGlzaW5zdGFuY2UodmFsdWUsIGZsb2F0KToKICAgICAgICAgICAgICAgICAgICBwYXlsb2FkLmFwcGVuZCgKICAgICAgICAgICAgICAgICAgICAgICAgJ3tjb2x1bW59ID0ge3ZhbHVlfScuZm9ybWF0KGNvbHVtbj1jb2x1bW4sIHZhbHVlPXZhbHVlKQogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIGVsaWYgaXNpbnN0YW5jZSh2YWx1ZSwgc3RyKToKICAgICAgICAgICAgICAgICAgICBwYXlsb2FkLmFwcGVuZCgKICAgICAgICAgICAgICAgICAgICAgICAgJ3tjb2x1bW59ID0gXCd7dmFsdWV9XCcnLmZvcm1hdChjb2x1bW49Y29sdW1uLCB2YWx1ZT12YWx1ZSkKICAgICAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBheWxvYWQuYXBwZW5kKCd7Y29sdW1ufSA9IHt2YWx1ZX0nLmZvcm1hdChjb2x1bW49Y29sdW1uLCB2YWx1ZT12YWx1ZSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgcGF5bG9hZDoKICAgICAgICAgICAgcmV0dXJuIFRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlsb2FkID0gW10KICAgICAgICBmb3IgY29sdW1uIGluIGZlYXR1cmVfc2NoZW1hX2NvbHVtbnM6CiAgICAgICAgICAgIHZhbHVlID0gZmVhdHVyZV9zY2hlbWFfY29sdW1uc1tjb2x1bW5dCiAgICAgICAgICAgIGlmIHZhbHVlIGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgcGF5bG9hZC5hcHBlbmQoJ3tjb2x1bW59ID0ge3ZhbHVlfScuZm9ybWF0KGNvbHVtbj1jb2x1bW4sIHZhbHVlPXZhbHVlKSkK</text>
+        <text encoding="base64">ICAgIGRlZiBfZ2V0X2NvbHVtbl92YWx1ZV9wYXlsb2FkKHNlbGYsIGNvbHVtbnMpOgogICAgICAgIHBheWxvYWQgPSBbXQogICAgICAgIGZvciBjb2x1bW4gaW4gY29sdW1uczoKICAgICAgICAgICAgdmFsdWUgPSBjb2x1bW5zW2NvbHVtbl0KICAgICAgICAgICAgaWYgdmFsdWUgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICBwYXlsb2FkLmFwcGVuZCgne2NvbHVtbn0gPSB7dmFsdWV9Jy5mb3JtYXQoY29sdW1uPWNvbHVtbiwgdmFsdWU9dmFsdWUpKQoKICAgICAgICByZXR1cm4gcGF5bG9hZAoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>batch_feature</last-search>
+      <last-search>payload</last-search>
       <last-offset />
-      <last-pattern>batch_feature</last-pattern>
-      <last-replace />
-      <last-substitute encoding="base64">IC4q</last-substitute>
+      <last-pattern>payload</last-pattern>
+      <last-replace>set_columns</last-replace>
+      <last-substitute>payload</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>hql</entry>
         <entry>para</entry>
         <entry>param</entry>
         <entry>pd</entry>
@@ -1315,9 +1314,9 @@
         <entry>Seed</entry>
         <entry>batch</entry>
         <entry>batch_feature</entry>
+        <entry>payload</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLydhJy8nc2NvcmUnL2ln</entry>
         <entry encoding="base64">JzwsJz5zLyAvL2ln</entry>
         <entry encoding="base64">JzwsJz5zLyAvLisvaWc=</entry>
         <entry encoding="base64">JzwsJz5zLyAvJC9pZw==</entry>
@@ -1336,6 +1335,7 @@
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz5zL3BheWxvYWQvc2V0X2NvbHVtbnMv</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
