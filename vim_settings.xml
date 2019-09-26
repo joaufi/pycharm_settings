@@ -178,11 +178,11 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/feature-service/tests/mock/mock_sql_dao.py" timestamp="1569448418583">
-        <mark key="[" line="194" column="55" />
-        <mark key="]" line="194" column="91" />
-        <mark key="^" line="194" column="91" />
-        <mark key="." line="194" column="91" />
+      <file name="$USER_HOME$/repositories/feature-service/tests/mock/mock_sql_dao.py" timestamp="1569504933315">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="36" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/airflow-dags/customer_scoring_dags/queries/hive/in_market_v4_convert_7_day/cross_shop/get_data/get_cross_shop_final_features.hql" timestamp="1568146798079">
         <mark key="[" line="0" column="0" />
@@ -243,11 +243,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/feature-service/tests/mock/constants.py" timestamp="1569448096139">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="72" column="24" />
-        <mark key="^" line="70" column="59" />
-        <mark key="." line="72" column="24" />
+      <file name="$USER_HOME$/repositories/feature-service/tests/mock/constants.py" timestamp="1569505001819">
+        <mark key="[" line="111" column="43" />
+        <mark key="]" line="112" column="66" />
+        <mark key="^" line="112" column="66" />
+        <mark key="." line="112" column="66" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_38.txt" timestamp="1568817219281">
         <mark key="[" line="1" column="0" />
@@ -368,12 +368,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="127" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/feature-service/tests/unit/test_feature_manager_controller.py" timestamp="1569447858876">
-        <mark key="'" line="108" column="59" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="^" line="139" column="46" />
-        <mark key="." line="140" column="0" />
+      <file name="$USER_HOME$/repositories/feature-service/tests/unit/test_feature_manager_controller.py" timestamp="1569505201848">
+        <mark key="'" line="216" column="30" />
+        <mark key="[" line="205" column="108" />
+        <mark key="]" line="205" column="107" />
+        <mark key="^" line="205" column="107" />
+        <mark key="." line="205" column="107" />
       </file>
       <file name="$USER_HOME$/repositories/feature-service/featuresvc/view/fields.py" timestamp="1569247987022">
         <mark key="'" line="16" column="0" />
@@ -495,8 +495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2874" column="12" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
-      <jump line="2844" column="22" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="2833" column="54" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="2831" column="22" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
       <jump line="2827" column="8" filename="$USER_HOME$/repositories/airflow-dags/.python_environment/lib/python2.7/site-packages/airflow/models.py" />
@@ -595,6 +593,8 @@
       <jump line="372" column="71" filename="$USER_HOME$/repositories/feature-service/training_set_jenkins_job/build_training_set.py" />
       <jump line="435" column="0" filename="$USER_HOME$/repositories/feature-service/featuresvc/daos/feature_sql_dao.py" />
       <jump line="108" column="59" filename="$USER_HOME$/repositories/feature-service/tests/unit/test_feature_manager_controller.py" />
+      <jump line="197" column="16" filename="$USER_HOME$/repositories/feature-service/tests/unit/test_feature_manager_controller.py" />
+      <jump line="216" column="30" filename="$USER_HOME$/repositories/feature-service/tests/unit/test_feature_manager_controller.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1285,65 +1285,63 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>feauture_guid</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdzZWVkX3RhYmxlX3JlcXVpcmVkX2NvbHVtbnMnOiBbJ2N1c3RvbWVyZ3VpZCddLAo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>feauture_guid</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>\&quot;</text>
+        <text>duplicate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZCA9IGNvbW1hX3N0cl9rZXlfdG9fbGlzdChidWlsZCwgWydmZWF0dXJlX2d1aWRzJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdzZWVkX3RhYmxlX3JlcXVpcmVkX2NvbHVtbnMnOiBbJ2N1c3RvbWVyZ3VpZCddLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChiYXRjaF9mZWF0dXJlX3F1ZXJ5KQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRibF9iYXRjaF9mZWF0dXJlLnNob3coKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tYV9zdHJfa2V5X3RvX2xpc3QoYnVpbGQsIFsnZmVhdHVyZV9ndWlkcyddKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChiYXRjaF9mZWF0dXJlX3F1ZXJ5KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxfZmVhdHVyZXMgPSBzZWxmLmZlYXR1cmVfZGFvLmdldF9hbGxfZmVhdHVyZXNfc3VtbWFyeSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb21tYV9zdHJfa2V5X3RvX2xpc3QoYnVpbGQsIFsnZmVhdHVyZV9ndWlkcyddKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdzZWVkX3RhYmxlX3JlcXVpcmVkX2NvbHVtbnMnOiAK</text>
+        <text encoding="base64">ICAgICAgICBhbGxfZmVhdHVyZXMgPSBzZWxmLmZlYXR1cmVfZGFvLmdldF9hbGxfZmVhdHVyZXNfc3VtbWFyeSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBhbnkodHlwZShlbGVtZW50KSBpbiAobGlzdCwgZGljdCwgc2V0LCB0dXBsZSkgZm9yIGVsZW1lbnQgaW4gdmFsdWUpOgogICAgICAgICAgICAgICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oJ0Nhbm5vdCBzYXZlIGxpc3Qgb2YgbGlzdCwgZGljdCwgc2V0LCBvciB0dXBsZSBpbiBTUUwuIE9mZmVuZGluZyB2YWx1ZSB7fSB0eXBlIHt9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdzZWVkX3RhYmxlX3JlcXVpcmVkX2NvbHVtbnMnOiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UodmFsdWUsIGxpc3QpOgogICAgICAgICAgICAgICAgICAgIGlmIGFueSh0eXBlKGVsZW1lbnQpIGluIChsaXN0LCBkaWN0LCBzZXQsIHR1cGxlKSBmb3IgZWxlbWVudCBpbiB2YWx1ZSk6CiAgICAgICAgICAgICAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbignQ2Fubm90IHNhdmUgbGlzdCBvZiBsaXN0LCBkaWN0LCBzZXQsIG9yIHR1cGxlIGluIFNRTC4gT2ZmZW5kaW5nIHZhbHVlIHt9IHR5cGUge30pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBhbnkodHlwZShlbGVtZW50KSBpbiAobGlzdCwgZGljdCwgc2V0LCB0dXBsZSkgZm9yIGVsZW1lbnQgaW4gdmFsdWUpOgogICAgICAgICAgICAgICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oJ0Nhbm5vdCBzYXZlIGxpc3Qgb2YgbGlzdCwgZGljdCwgc2V0LCBvciB0dXBsZSBpbiBTUUwuIE9mZmVuZGluZyB2YWx1ZSB7fSB0eXBlIHt9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UodmFsdWUsIGxpc3QpOgogICAgICAgICAgICAgICAgICAgIGlmIGFueSh0eXBlKGVsZW1lbnQpIGluIChsaXN0LCBkaWN0LCBzZXQsIHR1cGxlKSBmb3IgZWxlbWVudCBpbiB2YWx1ZSk6CiAgICAgICAgICAgICAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbignQ2Fubm90IHNhdmUgbGlzdCBvZiBsaXN0LCBkaWN0LCBzZXQsIG9yIHR1cGxlIGluIFNRTC4gT2ZmZW5kaW5nIHZhbHVlIHt9IHR5cGUge30pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBhbnkoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWx1ZSA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBhbnkoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\&quot;</last-search>
+      <last-search>duplicate</last-search>
       <last-offset />
-      <last-pattern>\&quot;</last-pattern>
+      <last-pattern>duplicate</last-pattern>
       <last-replace>\'</last-replace>
       <last-substitute>\&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pd</entry>
-        <entry>cross</entry>
         <entry>cross_shop</entry>
         <entry>conversion_xshop</entry>
         <entry>450</entry>
@@ -1362,6 +1360,8 @@
         <entry>payload</entry>
         <entry>AER</entry>
         <entry>\&quot;</entry>
+        <entry>modification</entry>
+        <entry>duplicate</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvJC9pZw==</entry>
@@ -1377,12 +1377,12 @@
         <entry>ew</entry>
         <entry>w:w</entry>
         <entry>e</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zL3BheWxvYWQvc2V0X2NvbHVtbnMv</entry>
         <entry encoding="base64">JzwsJz5zL1wiL1wnLw==</entry>
         <entry>W</entry>
         <entry>&quot;w</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
