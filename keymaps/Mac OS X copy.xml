@@ -4,6 +4,13 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorSplitLine" />
   <action id="ExportToTextFile" />
   <action id="FileChooser.NewFolder" />
   <action id="Forward">
@@ -38,6 +45,7 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
+  <action id="ViewSource" />
   <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorOnlyLayoutChangeAction">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
