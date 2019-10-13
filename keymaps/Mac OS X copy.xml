@@ -43,6 +43,7 @@
     <keyboard-shortcut first-keystroke="meta o" />
   </action>
   <action id="OverrideMethods" />
+  <action id="ReformatCode" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="shift meta r" />
@@ -51,6 +52,10 @@
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
+  <action id="Tool_External Tools_Black">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
+  <action id="Vcs.ReformatCommitMessage" />
   <action id="ViewSource" />
   <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorOnlyLayoutChangeAction">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
