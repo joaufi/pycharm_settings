@@ -55,6 +55,9 @@
   <action id="Tool_External Tools_Black">
     <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
+  <action id="Tool_External Tools_Black Single Quotes">
+    <keyboard-shortcut first-keystroke="ctrl meta alt l" />
+  </action>
   <action id="Vcs.ReformatCommitMessage" />
   <action id="ViewSource" />
   <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorOnlyLayoutChangeAction">
