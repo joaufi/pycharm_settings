@@ -45,10 +45,10 @@
         <entry>q</entry>
         <entry>qa</entry>
         <entry>:w</entry>
-        <entry>W</entry>
         <entry>split</entry>
         <entry>we</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -156,6 +156,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="33" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_51.py" timestamp="1589915369908">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="25" />
+      </file>
       <file name="$USER_HOME$/repositories/google-cloud-platform-learning/docker/install_vim_bindings.sh" timestamp="1589887917196">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="40" />
@@ -185,11 +191,6 @@
         <mark key="]" line="1" column="6" />
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="5" />
-      </file>
-      <file name="$USER_HOME$/repositories/k8s-helm/charts/proteus-mutator/values/proteus-mutator/dev.yaml" timestamp="1589481343296">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="15" column="25" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/google-cloud-platform-learning/README.md" timestamp="1589887735554">
         <mark key="[" line="30" column="211" />
@@ -997,47 +998,47 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RU5BQkxFX0pVUFlURVJfVklNX0JJTkRJTkdTPSJ3dGYiCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">a2V5X2V4YW1wbGUg</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">a2V5X2V4YW1wbGUg</text>
       </register>
       <register name="/" type="4">
         <text>bique</text>
       </register>
-      <register name="0" type="4">
-        <text>ENABLE_JUPYTER_VIM_BINDINGS=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJwcm90ZXVzOndhdGNodG93ZXI6dGJsX2tleXdvcmRzZWFyY2giOiB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RU5BQkxFX0pVUFlURVJfVklNX0JJTkRJTkdTPSJ3dGYiCg==</text>
+        <text encoding="base64">bXlfZGljdCA9IHsKICAgICJwcm90ZXVzOndhdGNodG93ZXI6dGJsX2tleXdvcmRzZWFyY2giOiB7CiAgICAgICAgWyJyZXF1ZXN0X3JlZl9pZCIsICJjcmF3bF9pZCIsICJwcm94eSJdOiAic2NoZW1hX211dGF0aW9uX3BlbmRpbmciLAogICAgICAgIFsicmVxdWVzdF9yZWZfaWQiLCAiY3Jhd2xfaWQiLCAicHJveHkiLCAic3BpZGVyX25hbWUiLCAiZ2VvX2xvY2F0aW9uIl06ICJzY2hlbWFfbXV0YXRpb25fZmFpbGVkIiwKICAgICAgICBbInJlcXVlc3RfcmVmX2lkIiwgInNwaWRlcl9uYW1lIiwgImdlb19sb2NhdGlvbiIsICJkaWRfeW91X21lYW4iLCAiZGV2aWNlIl06ICJzY2hlbWFfbXV0YXRpb25fc3VjY2VlZGVkIiwKICAgIH0sCn0KCm5ld19kaWN0ID0gewogICAgInByb3RldXM6d2F0Y2h0b3dlcjp0Ymxfa2V5d29yZHNlYXJjaCI6IHsKCiAgICB9Cn0KZm9yIGtleSBpbiBteV9kaWN0LmtleXMoKToKICAgIG5ld19kaWN0WyIsIi5qb2luKGtleSldID0gbXlfZGljdFtrZXldCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBFTkFCTEVfSlVQWVRFUl9WSU1fQklORElOR1M6ICJTT01TRU9SQUpTREZKQVNES0ZKU0FERktKRFMiCg==</text>
+        <text encoding="base64">cHJpbnQobmV3X2RpY3QpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QVJHIEVOQUJMRV9KVVBZVEVSX1ZJTV9CSU5ESU5HUz10cnVlCg==</text>
+        <text encoding="base64">YnJlYWtwb2ludCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RU5WIEVOQUJMRV9KVVBZVEVSX1ZJTV9CSU5ESU5HUz0ke0VOQUJMRV9KVVBZVEVSX1ZJTV9CSU5ESU5HU30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBFTkFCTEVfSlVQWVRFUl9WSU1fQklORElOR1M6ICJ0cnVlIgo=</text>
+        <text encoding="base64">ICAgICAgICBbInJlcXVlc3RfcmVmX2lkIiwgImNyYXdsX2lkIiwgInByb3h5Il06ICJzY2hlbWFfbXV0YXRpb25fcGVuZGluZyIsCiAgICAgICAgWyJyZXF1ZXN0X3JlZl9pZCIsICJjcmF3bF9pZCIsICJwcm94eSIsICJzcGlkZXJfbmFtZSIsICJnZW9fbG9jYXRpb24iXTogInNjaGVtYV9tdXRhdGlvbl9mYWlsZWQiLAogICAgICAgIFsicmVxdWVzdF9yZWZfaWQiLCAic3BpZGVyX25hbWUiLCAiZ2VvX2xvY2F0aW9uIiwgImRpZF95b3VfbWVhbiIsICJkZXZpY2UiXTogInNjaGVtYV9tdXRhdGlvbl9zdWNjZWVkZWQiLAogICAgfSwKfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkOgogICAgICBkb2NrZXJmaWxlOiAiLi9kb2NrZXIvZGV2Ym94LmRvY2tlcmZpbGUiCiAgICAgIGNvbnRleHQ6ICIuIgogICAgICBhcmdzOgogICAgICAgIDw8OiAqYnVpbGRfYXJncwogICAgICAgIEVOQUJMRV9KVVBZVEVSX1ZJTV9CSU5ESU5HUzogInRydWUiCg==</text>
+        <text encoding="base64">YGBgcHl0aG9uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkOgogICAgICA8PDogKmRldmJveC1idWlsZAo=</text>
+        <text encoding="base64">RU5BQkxFX0pVUFlURVJfVklNX0JJTkRJTkdTPSJ3dGYiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RU5WIEVOQUJMRV9KVVBZVEVSX1ZJTV9CSU5ESU5HUz0ke0VOQUJMRV9KVVBZVEVSX1ZJTV9CSU5ESU5HU30K</text>
+        <text encoding="base64">ICBFTkFCTEVfSlVQWVRFUl9WSU1fQklORElOR1M6ICJTT01TRU9SQUpTREZKQVNES0ZKU0FERktKRFMiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYXJnczoKICAgICAgICA8PDogKmJ1aWxkX2FyZ3MK</text>
+        <text encoding="base64">QVJHIEVOQUJMRV9KVVBZVEVSX1ZJTV9CSU5ESU5HUz10cnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
