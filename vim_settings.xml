@@ -46,8 +46,8 @@
         <entry>q</entry>
         <entry>split</entry>
         <entry>qa</entry>
-        <entry>W</entry>
         <entry>:w</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -103,11 +103,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/docker-compose.yaml" timestamp="1589894871454">
-        <mark key="[" line="16" column="23" />
-        <mark key="]" line="16" column="23" />
-        <mark key="." line="16" column="22" />
-        <mark key="^" line="16" column="23" />
+      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/docker-compose.yaml" timestamp="1589896314469">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/google-cloud-platform-learning/requirements.txt" timestamp="1589852194146">
         <mark key="[" line="3" column="0" />
@@ -138,6 +137,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/docker/bin/enable_vim_bindings.sh" timestamp="1589896584384">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="3" column="34" />
+      </file>
       <file name="$USER_HOME$/repositories/k8s-helm/charts/proteus-mutator/Chart.yaml" timestamp="1589481109204">
         <mark key="[" line="10" column="11" />
         <mark key="]" line="10" column="12" />
@@ -150,11 +155,11 @@
         <mark key="." line="98" column="0" />
         <mark key="^" line="115" column="16" />
       </file>
-      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/docker/devbox.dockerfile" timestamp="1589894628717">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="5" column="67" />
+      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/docker/devbox.dockerfile" timestamp="1589896570420">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="5" column="62" />
+        <mark key="." line="5" column="61" />
+        <mark key="^" line="5" column="62" />
       </file>
       <file name="$USER_HOME$/repositories/jupyter-notebook-docker/docker/server.dockerfile" timestamp="1589888052406">
         <mark key="'" line="41" column="12" />
@@ -174,12 +179,6 @@
         <mark key="]" line="6" column="40" />
         <mark key="^" line="6" column="40" />
         <mark key="." line="6" column="39" />
-      </file>
-      <file name="$USER_HOME$/repositories/acceleration-service/docker-compose.yaml" timestamp="1589289519044">
-        <mark key="[" line="20" column="31" />
-        <mark key="]" line="20" column="32" />
-        <mark key="." line="20" column="32" />
-        <mark key="^" line="20" column="32" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_51.txt" timestamp="1589887788325">
         <mark key="[" line="1" column="78" />
@@ -224,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="36" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/endpoints/templates.py" />
       <jump line="82" column="10" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/endpoints/templates.py" />
       <jump line="104" column="10" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/endpoints/templates.py" />
       <jump line="21" column="58" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/endpoints/templates.py" />
@@ -324,6 +322,7 @@
       <jump line="23" column="12" filename="$USER_HOME$/repositories/jupyter-notebook-docker/docker/server.dockerfile" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/jupyter-notebook-docker/docker/server.dockerfile" />
       <jump line="41" column="12" filename="$USER_HOME$/repositories/jupyter-notebook-docker/docker/server.dockerfile" />
+      <jump line="17" column="8" filename="$USER_HOME$/repositories/google-cloud-platform-learning/docker-compose.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1016,14 +1015,14 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBHT09HTEUK</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Mount</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>VIM</text>
@@ -1032,31 +1031,31 @@
         <text encoding="base64">ICAgIGJ1aWxkOgogICAgICBkb2NrZXJmaWxlOiAiLi9kb2NrZXIvZGV2Ym94LmRvY2tlcmZpbGUiCiAgICAgIGNvbnRleHQ6ICIuIgogICAgICBhcmdzOgogICAgICAgIDw8OiAqYnVpbGRfYXJncwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBHT09HTEUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZG9ja2VyZmlsZTogIi4vZG9ja2VyL2RldmJveC5kb2NrZXJmaWxlIgogICAgICBjb250ZXh0OiAiLiIK</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDg4ODg6ODg4OAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiMgU2V0IEdvb2dsZSBjcmVkZW50aWFscyBpbiBlbnYgZm9yIGFwcHMgaWYgYXNzdW1lZCBjcmVkZW50aWFscyBKU09OIGV4aXN0cwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBHT09HTEVfQVBQTElDQVRJT05fQ1JFREVOVElBTFM6ICIvaG9tZS9qb3Z5YW4vLmNvbmZpZy9nY2xvdWQvYXBwbGljYXRpb25fZGVmYXVsdF9jcmVkZW50aWFscy5qc29uIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiMgSW5zdGFsbCBKdXB5dGVyIFZJTSBiaW5kaW5ncwpSVU4gWyAiZG9ja2VyL2Jpbi9lbmFibGVfdmltX2JpbmRpbmdzLnNoIiBdCg==</text>
+        <text encoding="base64">QVJHIEdPT0dMRV9BUFBMSUNBVElPTl9DUkVERU5USUFMUz0ke0dPT0dMRV9BUFBMSUNBVElPTl9DUkVERU5USUFMU30KRU5WIEdPT0dMRV9BUFBMSUNBVElPTl9DUkVERU5USUFMUz0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBVU0VSX0VNQUlMOiAiamFmaXNoZXJAd2F5ZmFpci5jb20iCg==</text>
+        <text encoding="base64">ICAgICAgICBHT09HTEUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZG9ja2VyZmlsZTogIi4vZG9ja2VyL2RldmJveC5kb2NrZXJmaWxlIgogICAgICBjb250ZXh0OiAiLiIK</text>
       </register>
       <register name="8" type="2">
-        <text>skdjfhds</text>
+        <text encoding="base64">CiMgU2V0IEdvb2dsZSBjcmVkZW50aWFscyBpbiBlbnYgZm9yIGFwcHMgaWYgYXNzdW1lZCBjcmVkZW50aWFscyBKU09OIGV4aXN0cwoK</text>
       </register>
       <register name="9" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
