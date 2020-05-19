@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>wms</entry>
-        <entry>SCHEMA</entry>
         <entry>schema</entry>
         <entry>is_ready</entry>
         <entry>wdn</entry>
@@ -27,6 +25,8 @@
         <entry>wf_config</entry>
         <entry>testing</entry>
         <entry>local</entry>
+        <entry>instal</entry>
+        <entry>VIM</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
@@ -34,7 +34,6 @@
         <entry>vsplit ./docker-compose.yaml</entry>
         <entry>Lw</entry>
         <entry>sort</entry>
-        <entry>:w</entry>
         <entry>s</entry>
         <entry>r</entry>
         <entry>wq</entry>
@@ -48,6 +47,7 @@
         <entry>split</entry>
         <entry>qa</entry>
         <entry>W</entry>
+        <entry>:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -114,11 +114,17 @@
         <mark key="." line="20" column="32" />
         <mark key="^" line="20" column="32" />
       </file>
-      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/docker-compose.yaml" timestamp="1589855259068">
-        <mark key="[" line="12" column="10" />
-        <mark key="]" line="12" column="10" />
-        <mark key="." line="12" column="10" />
-        <mark key="^" line="29" column="78" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_51.txt" timestamp="1589887788325">
+        <mark key="[" line="1" column="78" />
+        <mark key="]" line="0" column="71" />
+        <mark key="^" line="0" column="71" />
+        <mark key="." line="0" column="70" />
+      </file>
+      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/docker-compose.yaml" timestamp="1589887693986">
+        <mark key="[" line="23" column="32" />
+        <mark key="]" line="23" column="43" />
+        <mark key="." line="23" column="42" />
+        <mark key="^" line="23" column="43" />
       </file>
       <file name="$USER_HOME$/repositories/google-cloud-platform-learning/requirements.txt" timestamp="1589852194146">
         <mark key="[" line="3" column="0" />
@@ -126,21 +132,17 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/repositories/acceleration-service/tests/conftest.py" timestamp="1589224246373">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="81" column="69" />
-      </file>
       <file name="$USER_HOME$/repositories/jupyter-notebook-docker/.gitignore" timestamp="1589822276540">
         <mark key="[" line="6" column="11" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/.gitignore" timestamp="1589853961381">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="22" />
+      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/.gitignore" timestamp="1589887793703">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="20" />
         <mark key="^" line="6" column="22" />
-        <mark key="." line="6" column="21" />
+        <mark key="." line="4" column="20" />
       </file>
       <file name="$USER_HOME$/repositories/jupyter-notebook-docker/docker-compose.yaml" timestamp="1589854230926">
         <mark key="[" line="14" column="0" />
@@ -153,12 +155,6 @@
         <mark key="]" line="20" column="5" />
         <mark key="^" line="20" column="5" />
         <mark key="." line="20" column="4" />
-      </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/tests/conftest.py" timestamp="1589224341763">
-        <mark key="[" line="42" column="18" />
-        <mark key="]" line="42" column="24" />
-        <mark key="." line="42" column="24" />
-        <mark key="^" line="42" column="24" />
       </file>
       <file name="$USER_HOME$/repositories/acceleration-service/docker/files/wf-config.ini" timestamp="1589225554864">
         <mark key="'" line="1" column="25" />
@@ -176,12 +172,6 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/endpoints/tasks.py" timestamp="1589223597812">
-        <mark key="[" line="7" column="54" />
-        <mark key="]" line="7" column="61" />
-        <mark key="." line="7" column="61" />
-        <mark key="^" line="7" column="61" />
-      </file>
       <file name="$USER_HOME$/repositories/k8s-helm/charts/proteus-mutator/values/proteus-mutator/dev.yaml" timestamp="1589481343296">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="15" column="25" />
@@ -192,7 +182,7 @@
         <mark key="]" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/README.md" timestamp="1589855549940">
+      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/README.md" timestamp="1589887735554">
         <mark key="[" line="30" column="211" />
         <mark key="]" line="30" column="212" />
         <mark key="^" line="30" column="212" />
@@ -205,19 +195,33 @@
         <mark key="." line="98" column="0" />
         <mark key="^" line="115" column="16" />
       </file>
-      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/docker/devbox.dockerfile" timestamp="1589852553177" />
+      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/docker/devbox.dockerfile" timestamp="1589888027051">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="39" />
+        <mark key="^" line="10" column="39" />
+        <mark key="." line="10" column="38" />
+      </file>
+      <file name="$USER_HOME$/repositories/jupyter-notebook-docker/docker/server.dockerfile" timestamp="1589888052406">
+        <mark key="'" line="41" column="12" />
+        <mark key="[" line="41" column="25" />
+        <mark key="]" line="41" column="29" />
+        <mark key="." line="41" column="28" />
+        <mark key="^" line="41" column="29" />
+      </file>
       <file name="$USER_HOME$/repositories/k8s-helm/charts/proteus-mutator/values/proteus-mutator/bo1c2.yaml" timestamp="1589481356521">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="33" />
       </file>
+      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/docker/install_vim_bindings.sh" timestamp="1589887917196">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="40" />
+        <mark key="^" line="6" column="40" />
+        <mark key="." line="6" column="39" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="9" filename="$USER_HOME$/repositories/acceleration-service/tests/conftest.py" />
-      <jump line="67" column="9" filename="$USER_HOME$/repositories/acceleration-service/tests/conftest.py" />
-      <jump line="5" column="7" filename="$USER_HOME$/repositories/acceleration-service/tests/conftest.py" />
-      <jump line="33" column="8" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/endpoints/templates.py" />
       <jump line="48" column="36" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/endpoints/templates.py" />
       <jump line="82" column="10" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/endpoints/templates.py" />
       <jump line="104" column="10" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/endpoints/templates.py" />
@@ -314,6 +318,10 @@
       <jump line="9" column="5" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/settings.py" />
       <jump line="91" column="59" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/settings.py" />
       <jump line="42" column="0" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/settings.py" />
+      <jump line="9" column="8" filename="$USER_HOME$/repositories/jupyter-notebook-docker/docker/server.dockerfile" />
+      <jump line="23" column="12" filename="$USER_HOME$/repositories/jupyter-notebook-docker/docker/server.dockerfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/jupyter-notebook-docker/docker/server.dockerfile" />
+      <jump line="41" column="12" filename="$USER_HOME$/repositories/jupyter-notebook-docker/docker/server.dockerfile" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1007,19 +1015,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>local</text>
+        <text>VIM</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDg4ODg6ODg4OAo=</text>
+        <text encoding="base64">QVJHIElOU1RBTExfVklNX0JJTkRJTkdTPWZhbHNlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBVU0VSX0VNQUlMOiAiamFmaXNoZXJAd2F5ZmFpci5jb20iCg==</text>
@@ -1055,9 +1063,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>local</last-search>
+      <last-search>VIM</last-search>
       <last-offset />
-      <last-pattern>local</last-pattern>
+      <last-pattern>VIM</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
