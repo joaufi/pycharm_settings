@@ -103,11 +103,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/docker-compose.yaml" timestamp="1589917957725">
-        <mark key="[" line="16" column="23" />
-        <mark key="]" line="17" column="43" />
-        <mark key="^" line="17" column="43" />
-        <mark key="." line="17" column="42" />
+      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/docker-compose.yaml" timestamp="1589936901036">
+        <mark key="[" line="18" column="16" />
+        <mark key="]" line="19" column="80" />
+        <mark key="^" line="19" column="80" />
+        <mark key="." line="19" column="79" />
       </file>
       <file name="$USER_HOME$/repositories/google-cloud-platform-learning/requirements.txt" timestamp="1589852194146">
         <mark key="[" line="3" column="0" />
@@ -126,11 +126,6 @@
         <mark key="]" line="20" column="5" />
         <mark key="^" line="20" column="5" />
         <mark key="." line="20" column="4" />
-      </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/tags.lock" timestamp="1589811540774">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/google-cloud-platform-learning/docker/bin/enable_vim_bindings.sh" timestamp="1589917971370">
         <mark key="[" line="6" column="0" />
@@ -204,6 +199,11 @@
         <mark key="]" line="3" column="34" />
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="34" />
+      </file>
+      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/gcp_learning/utils.py" timestamp="1589985323956">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -1000,7 +1000,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIgoKICAgIDpwYXJhbSBob3dfaGFwcHk6CiAgICA6cGFyYW0gc29tZXRpbWVzX3NhZDoKICAgIDpyZXR1cm46CiAgICAiIiI=</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -1015,31 +1015,31 @@
         <text encoding="base64">ICAgICJwcm90ZXVzOndhdGNodG93ZXI6dGJsX2tleXdvcmRzZWFyY2giOiB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIgoKICAgIDpwYXJhbSBob3dfaGFwcHk6CiAgICA6cGFyYW0gc29tZXRpbWVzX3NhZDoKICAgIDpyZXR1cm46CiAgICAiIiI=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBJbnN0YWxsIEp1cHl0ZXIgVklNIGJpbmRpbmdzCkFSRyBFTkFCTEVfSlVQWVRFUl9WSU1fQklORElOR1M9ImZhbHNlIgpSVU4gIi4vZG9ja2VyL2Jpbi9lbmFibGVfdmltX2JpbmRpbmdzLnNoIgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBleGl0IDEyMwo=</text>
+        <text encoding="base64">IyBJbnN0YWxsIEp1cHl0ZXIgVklNIGJpbmRpbmdzCkFSRyBFTkFCTEVfSlVQWVRFUl9WSU1fQklORElOR1M9ImZhbHNlIgpSVU4gIi4vZG9ja2VyL2Jpbi9lbmFibGVfdmltX2JpbmRpbmdzLnNoIgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QVJHIEVOQUJMRV9KVVBZVEVSX1ZJTV9CSU5ESU5HUz0idHJ1ZSIK</text>
+        <text encoding="base64">ICBleGl0IDEyMwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">QVJHIEVOQUJMRV9KVVBZVEVSX1ZJTV9CSU5ESU5HUz0idHJ1ZSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiAid2F5ZmFpci9nb29nbGUtY2xvdWQtcGxhdGZvcm0tbGVhcm5pbmctc2VydmljZSIK</text>
+        <text encoding="base64">QVJHIEVOQUJMRV9KVVBZVEVSX1ZJTV9CSU5ESU5HUz0idHJ1ZSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDg4ODg6ODg4OAo=</text>
+        <text encoding="base64">ICAgIGltYWdlOiAid2F5ZmFpci9nb29nbGUtY2xvdWQtcGxhdGZvcm0tbGVhcm5pbmctc2VydmljZSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QVJHIEVOQUJMRV9KVVBZVEVSX1ZJTV9CSU5ESU5HUz0ke0VOQUJMRV9KVVBZVEVSX1ZJTV9CSU5ESU5HUzotInRydWUifQo=</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDg4ODg6ODg4OAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
