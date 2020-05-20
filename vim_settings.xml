@@ -39,16 +39,16 @@
         <entry>vsplit</entry>
         <entry>e</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>:w</entry>
         <entry>we</entry>
         <entry>q</entry>
-        <entry encoding="base64">JzwsJz53</entry>
-        <entry>qa</entry>
         <entry>wq</entry>
         <entry>split</entry>
         <entry encoding="base64">JzwsJz5zL3JlcGVhdGVkL2ZhaWxlZC9pZw==</entry>
         <entry>W</entry>
+        <entry>qa</entry>
+        <entry>:w</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -103,11 +103,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/docker-compose.yaml" timestamp="1589936901036">
-        <mark key="[" line="18" column="16" />
-        <mark key="]" line="19" column="80" />
-        <mark key="^" line="19" column="80" />
-        <mark key="." line="19" column="79" />
+      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/docker-compose.yaml" timestamp="1590005707495">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" timestamp="1589995562395">
         <mark key="[" line="79" column="0" />
@@ -167,11 +166,12 @@
         <mark key="^" line="54" column="79" />
         <mark key="." line="54" column="78" />
       </file>
-      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/README.md" timestamp="1589918111679">
-        <mark key="[" line="17" column="44" />
-        <mark key="]" line="17" column="54" />
-        <mark key="^" line="17" column="54" />
-        <mark key="." line="17" column="53" />
+      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/README.md" timestamp="1590006719976">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="106" />
+        <mark key="." line="57" column="105" />
+        <mark key="^" line="57" column="106" />
       </file>
       <file name="$USER_HOME$/repositories/google-cloud-platform-learning/docker/bin/yum_install.sh" timestamp="1589918137333">
         <mark key="[" line="16" column="40" />
@@ -199,7 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1891" column="4" filename="$USER_HOME$/.pyenv/versions/3.8.1/lib/python3.8/datetime.py" />
       <jump line="1557" column="10" filename="$USER_HOME$/.pyenv/versions/3.8.1/lib/python3.8/datetime.py" />
       <jump line="68" column="0" filename="$USER_HOME$/repositories/acceleration-service/docker/run_tests.sh" />
       <jump line="31" column="11" filename="$USER_HOME$/repositories/wf-aerospike/wf_aerospike/helpers.py" />
@@ -299,6 +298,7 @@
       <jump line="11" column="89" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_52.py" />
       <jump line="13" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_52.py" />
       <jump line="99" column="8" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/repositories/google-cloud-platform-learning/README.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -991,50 +991,50 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpbnNlcnRfcm93cyB0byBiaWdxdWVyeQo=</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>PROCESSED</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>repeated</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJvY2Vzc2VkX3JlcGVhdGVkX21zZyA9IHBhcnRpYWwod2Zfc3RhdHMuY291bnQsIElORkxVWF9LRVlfS0VZV09SRF9TRUFSQ0hfTUVTU0FHRV9QUk9DRVNTRUQsIDEsIGZpZWxkcz17InJlcGVhdGVkX21lc3NhZ2UiOiAxfSkKY29uc3VtZWRfcmVwZWF0ZWRfbXNnID0gcGFydGlhbCh3Zl9zdGF0cy5jb3VudCwgSU5GTFVYX0tFWV9LRVlXT1JEX1NFQVJDSF9NRVNTQUdFX0NPTlNVTUVELCAxLCBmaWVsZHM9eyJyZXBlYXRlZF9tZXNzYWdlIjogMX0pCg==</text>
+        <text encoding="base64">YGBgY29tbWFuZGxpbmUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpbnNlcnRfcm93cyB0byBiaWdxdWVyeQo=</text>
+        <text encoding="base64">CkNyZWF0ZWQgd2l0aCA6aGVhcnQ6IGJ5IENvbXBldGl0aXZlIEludGVsbGlnZW5jZSBFbmdpbmVlcmluZy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBfbG9nZ2VyLmluZm8oZiJKQUZJU0hFUiBOdW1iZXIgb2Ygcm93cyBpbnNlcnRlZCB7bGVuKHByb2Nlc3NfbWVzc2FnZXMpfSIpCg==</text>
+        <text encoding="base64">CllvdSBhcmUgbm93IGxvZ2dlZCBpbiBhcyBbZW1haWxAd2F5ZmFpci5jb21dLgpZb3VyIGN1cnJlbnQgcHJvamVjdCBpcyBbd2YtZ2NwLXVzLWFlLWV4YW1wbGUtZmFrZS1wcm9qXS4gIFlvdSBjYW4gY2hhbmdlIHRoaXMgc2V0dGluZyBieSBydW5uaW5nOgogICQgZ2Nsb3VkIGNvbmZpZyBzZXQgcHJvamVjdCBQUk9KRUNUX0lECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIERFQlVHIEpBRklTSEVSCg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudF9tc2dfcHJvY2Vzc2VkKGZpZWxkcz17ImZhaWxlZF90b19wcm9jZXNzIjogbGVuKHJlc3BvbnNlKX0pCg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudF9tc2dfcHJvY2Vzc2VkKAogICAgICAgICAgICBmaWVsZHM9eyJzdWNjZXNzZnVsbHlfcHJvY2Vzc2VkIjogbGVuKHByb2Nlc3NfbWVzc2FnZXMpIC0gbGVuKHJlc3BvbnNlKX0KICAgICAgICApCg==</text>
+        <text encoding="base64">IyAgICBlbnZpcm9ubWVudDoKIyAgICAgICMgVXBkYXRlIHRoaXMgd2l0aCBwYXRoIHRvIEdvb2dsZSBjcmVkZW50aWFscyBqc29uIGlmIGRpZmZlcmVudCBmcm9tIGJlbG93CiMgICAgICBHT09HTEVfQVBQTElDQVRJT05fQ1JFREVOVElBTFM6ICIvaG9tZS9qb3Z5YW4vLmNvbmZpZy9nY2xvdWQvYXBwbGljYXRpb25fZGVmYXVsdF9jcmVkZW50aWFscy5qc29uIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBpbnNlcnRfcm93cyB0byBiaWdxdWVyeQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBfbG9nZ2VyLmluZm8oZiJKQUZJU0hFUiBOdW1iZXIgb2Ygcm93cyBpbnNlcnRlZCB7bGVuKHByb2Nlc3NfbWVzc2FnZXMpfSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZXNwb25zZToKICAgICAgICAgICAgX2xvZ2dlci5pbmZvKCJFcnJvciBpbiBpbnNlcnRpbmcgZGF0YSB0byBrZXl3b3JkIHNlYXJjaCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIERFQlVHIEpBRklTSEVSCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
   </component>
