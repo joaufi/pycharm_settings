@@ -35,7 +35,6 @@
         <entry>sort</entry>
         <entry>s</entry>
         <entry>r</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9pZw==</entry>
         <entry>wk</entry>
         <entry>vsplit</entry>
@@ -47,8 +46,9 @@
         <entry>W</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>qa</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -109,23 +109,11 @@
         <mark key="^" line="19" column="80" />
         <mark key="." line="19" column="79" />
       </file>
-      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/requirements.txt" timestamp="1589852194146">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="14" />
-        <mark key="^" line="3" column="14" />
-        <mark key="." line="3" column="13" />
-      </file>
       <file name="$USER_HOME$/repositories/jupyter-notebook-docker/docker-compose.yaml" timestamp="1589854230926">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="17" />
         <mark key="^" line="13" column="9" />
         <mark key="." line="13" column="9" />
-      </file>
-      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/docker/yum_install.sh" timestamp="1589852394131">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="5" />
-        <mark key="^" line="20" column="5" />
-        <mark key="." line="20" column="4" />
       </file>
       <file name="$USER_HOME$/repositories/google-cloud-platform-learning/docker/bin/enable_vim_bindings.sh" timestamp="1589917971370">
         <mark key="[" line="6" column="0" />
@@ -164,12 +152,6 @@
         <mark key="^" line="0" column="71" />
         <mark key="." line="0" column="70" />
       </file>
-      <file name="$USER_HOME$/repositories/jupyter-notebook-docker/.gitignore" timestamp="1589822276540">
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/google-cloud-platform-learning/.gitignore" timestamp="1589887793703">
         <mark key="[" line="4" column="20" />
         <mark key="]" line="4" column="20" />
@@ -181,6 +163,12 @@
         <mark key="]" line="1" column="6" />
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="5" />
+      </file>
+      <file name="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/utils.py" timestamp="1589994485482">
+        <mark key="[" line="52" column="79" />
+        <mark key="]" line="52" column="79" />
+        <mark key="^" line="52" column="79" />
+        <mark key="." line="52" column="78" />
       </file>
       <file name="$USER_HOME$/repositories/google-cloud-platform-learning/README.md" timestamp="1589918111679">
         <mark key="[" line="17" column="44" />
@@ -1000,14 +988,14 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlci5lcnJvcigK</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
         <text>bique</text>
@@ -1016,34 +1004,34 @@
         <text encoding="base64">ICAgICJwcm90ZXVzOndhdGNodG93ZXI6dGJsX2tleXdvcmRzZWFyY2giOiB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Uk9PVF9ESVIgPSBQYXRoKF9fZmlsZV9fKS5wYXJlbnQucGFyZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlci5lcnJvcigK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmRlZiBoYXBweV9mdW5jKGhvd19oYXBweTogaW50LCBzb21ldGltZXNfc2FkOiBib29sID0gRmFsc2UpIC0+IE5vbmU6CiAgICAiIiIKICAgIEZ1bmMgdG8gcHJpbnQgaG93IGhhcHB5IHNvbWVvbmUgaXMuCgogICAgOnBhcmFtIGhvd19oYXBweTogSGFwcGluZXNzIGZyb20gMSAtIDEwLgogICAgOnBhcmFtIHNvbWV0aW1lc19zYWQ6IElzIHRoZSBwZXJzb24gc29tZXRpbWVzIHNhZC4KICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGYiUmVxdWlyZWQgZmllbGRzIGFyZSBtaXNzaW5nLiBNaXNzaW5nIGZpZWxkczoge3JlcXVpcmVkX2ZpZWxkcy5kaWZmZXJlbmNlKGtleV9saXN0KX0gXG4gIgogICAgICAgICAgICAgICAgZiJtZXNzYWdlOiB7ZW5yaWNoX21lc3NhZ2V9Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICIiIgoKICAgIDpwYXJhbSBob3dfaGFwcHk6CiAgICA6cGFyYW0gc29tZXRpbWVzX3NhZDoKICAgIDpyZXR1cm46CiAgICAiIiI=</text>
+        <text encoding="base64">ICAgICAgICBfbG9nZ2VyLmluZm8oCiAgICAgICAgICAgIGYiUmVxdWlyZWQgZmllbGRzIGFyZSBtaXNzaW5nLiBNaXNzaW5nIGZpZWxkczoge3JlcXVpcmVkX2ZpZWxkcy5kaWZmZXJlbmNlKGtleV9saXN0KX0gXG4gIgogICAgICAgICAgICBmIm1lc3NhZ2U6IHtlbnJpY2hfbWVzc2FnZX0iCiAgICAgICAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlci4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGEgPSBsbGxsbGxsbGxsbGwgaWYgVHJ1ZSBlbHNlIDIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBJbnN0YWxsIEp1cHl0ZXIgVklNIGJpbmRpbmdzCkFSRyBFTkFCTEVfSlVQWVRFUl9WSU1fQklORElOR1M9ImZhbHNlIgpSVU4gIi4vZG9ja2VyL2Jpbi9lbmFibGVfdmltX2JpbmRpbmdzLnNoIgoK</text>
+        <text encoding="base64">Uk9PVF9ESVIgPSBQYXRoKF9fZmlsZV9fKS5wYXJlbnQucGFyZW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBleGl0IDEyMwo=</text>
+        <text encoding="base64">CmRlZiBoYXBweV9mdW5jKGhvd19oYXBweTogaW50LCBzb21ldGltZXNfc2FkOiBib29sID0gRmFsc2UpIC0+IE5vbmU6CiAgICAiIiIKICAgIEZ1bmMgdG8gcHJpbnQgaG93IGhhcHB5IHNvbWVvbmUgaXMuCgogICAgOnBhcmFtIGhvd19oYXBweTogSGFwcGluZXNzIGZyb20gMSAtIDEwLgogICAgOnBhcmFtIHNvbWV0aW1lc19zYWQ6IElzIHRoZSBwZXJzb24gc29tZXRpbWVzIHNhZC4KICAgICIiIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QVJHIEVOQUJMRV9KVVBZVEVSX1ZJTV9CSU5ESU5HUz0idHJ1ZSIK</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
