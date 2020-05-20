@@ -29,7 +29,6 @@
         <entry>repeated</entry>
       </history-search>
       <history-cmd>
-        <entry>vsplit ./docker-compose.yaml</entry>
         <entry>Lw</entry>
         <entry>sort</entry>
         <entry>s</entry>
@@ -44,11 +43,12 @@
         <entry>wq</entry>
         <entry>split</entry>
         <entry encoding="base64">JzwsJz5zL3JlcGVhdGVkL2ZhaWxlZC9pZw==</entry>
-        <entry>W</entry>
         <entry>qa</entry>
         <entry>:w</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>ew</entry>
+        <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -103,10 +103,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/docker-compose.yaml" timestamp="1590005707495">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/docker-compose.yaml" timestamp="1590009430555">
+        <mark key="[" line="17" column="38" />
+        <mark key="]" line="17" column="43" />
+        <mark key="." line="17" column="42" />
+        <mark key="^" line="17" column="43" />
       </file>
       <file name="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" timestamp="1589995562395">
         <mark key="[" line="79" column="0" />
@@ -148,11 +149,11 @@
         <mark key="^" line="6" column="40" />
         <mark key="." line="6" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/.gitignore" timestamp="1589887793703">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="20" />
-        <mark key="^" line="6" column="22" />
-        <mark key="." line="4" column="20" />
+      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/.gitignore" timestamp="1590010143319">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+        <mark key="." line="9" column="23" />
       </file>
       <file name="$USER_HOME$/repositories/jupyter-notebook-docker/docker/bin/install_vim_bindings.sh" timestamp="1589888074598">
         <mark key="[" line="0" column="19" />
@@ -166,12 +167,12 @@
         <mark key="^" line="54" column="79" />
         <mark key="." line="54" column="78" />
       </file>
-      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/README.md" timestamp="1590006719976">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="106" />
-        <mark key="." line="57" column="105" />
-        <mark key="^" line="57" column="106" />
+      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/README.md" timestamp="1590009403835">
+        <mark key="'" line="100" column="2" />
+        <mark key="[" line="2" column="99" />
+        <mark key="]" line="2" column="99" />
+        <mark key="." line="2" column="99" />
+        <mark key="^" line="46" column="64" />
       </file>
       <file name="$USER_HOME$/repositories/google-cloud-platform-learning/docker/bin/yum_install.sh" timestamp="1589918137333">
         <mark key="[" line="16" column="40" />
@@ -199,7 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1557" column="10" filename="$USER_HOME$/.pyenv/versions/3.8.1/lib/python3.8/datetime.py" />
       <jump line="68" column="0" filename="$USER_HOME$/repositories/acceleration-service/docker/run_tests.sh" />
       <jump line="31" column="11" filename="$USER_HOME$/repositories/wf-aerospike/wf_aerospike/helpers.py" />
       <jump line="29" column="11" filename="$USER_HOME$/repositories/wf-aerospike/wf_aerospike/helpers.py" />
@@ -299,6 +299,7 @@
       <jump line="13" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_52.py" />
       <jump line="99" column="8" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
       <jump line="3" column="0" filename="$USER_HOME$/repositories/google-cloud-platform-learning/README.md" />
+      <jump line="92" column="2" filename="$USER_HOME$/repositories/google-cloud-platform-learning/README.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -992,49 +993,49 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>gbq_popular_names_example.ipynb</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>gbq_popular_names_example.ipynb</text>
       </register>
       <register name="/" type="4">
         <text>repeated</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YGBgY29tbWFuZGxpbmUK</text>
+        <text encoding="base64">IWRvY2tlci9maWxlcy9ub3RlYm9va3MvZ2JxX3BvcHVsYXJfbmFtZXNfZXhhbXBsZS5pcHluYgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CkNyZWF0ZWQgd2l0aCA6aGVhcnQ6IGJ5IENvbXBldGl0aXZlIEludGVsbGlnZW5jZSBFbmdpbmVlcmluZy4K</text>
+        <text encoding="base64">ZG9ja2VyL2ZpbGVzL25vdGVib29rcy8qCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CllvdSBhcmUgbm93IGxvZ2dlZCBpbiBhcyBbZW1haWxAd2F5ZmFpci5jb21dLgpZb3VyIGN1cnJlbnQgcHJvamVjdCBpcyBbd2YtZ2NwLXVzLWFlLWV4YW1wbGUtZmFrZS1wcm9qXS4gIFlvdSBjYW4gY2hhbmdlIHRoaXMgc2V0dGluZyBieSBydW5uaW5nOgogICQgZ2Nsb3VkIGNvbmZpZyBzZXQgcHJvamVjdCBQUk9KRUNUX0lECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">ZG9ja2VyL2ZpbGVzL25vdGVib29rcwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">CkFuZCB2ZXJpZnlpbmcgdGhhdCB5b3UgcmVjZWl2ZSBvdXRwdXQgc2ltaWxhciB0bzoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgICBlbnZpcm9ubWVudDoKIyAgICAgICMgVXBkYXRlIHRoaXMgd2l0aCBwYXRoIHRvIEdvb2dsZSBjcmVkZW50aWFscyBqc29uIGlmIGRpZmZlcmVudCBmcm9tIGJlbG93CiMgICAgICBHT09HTEVfQVBQTElDQVRJT05fQ1JFREVOVElBTFM6ICIvaG9tZS9qb3Z5YW4vLmNvbmZpZy9nY2xvdWQvYXBwbGljYXRpb25fZGVmYXVsdF9jcmVkZW50aWFscy5qc29uIgo=</text>
+        <text encoding="base64">CkNoZWNrIG91dCB0aGUgZXhhbXBsZXMgaW4gYGdjcF9sZWFybmluZy9iaWdfcXVlcnlgIGZvciBtb3JlIGV4YW1wbGVzIG9mIGludGVyYWN0aW5nIHdpdGggR29vZ2xlIEJpZyBRdWVyeS4gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpbnNlcnRfcm93cyB0byBiaWdxdWVyeQo=</text>
+        <text encoding="base64">aHR0cDovLzEyNy4wLjAuMTo4ODg4Lz90b2tlbj04NjQxMGEzMDdiZjMzZTFlZDY3ZGUxMDlkZGVkZGFjMTkwM2E2ODY2MGE5NWY4MzAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBfbG9nZ2VyLmluZm8oZiJKQUZJU0hFUiBOdW1iZXIgb2Ygcm93cyBpbnNlcnRlZCB7bGVuKHByb2Nlc3NfbWVzc2FnZXMpfSIpCg==</text>
+        <text encoding="base64">CkNoZWNrIG91dCB0aGUgZXhhbXBsZXMgaW4gYGdjcF9sZWFybmluZy9iaWdfcXVlcnlgIGZvciBtb3JlIGV4YW1wbGVzIG9mIGludGVyYWN0aW5nIHdpdGggR29vZ2xlIEJpZyBRdWVyeS4gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIERFQlVHIEpBRklTSEVSCg==</text>
+        <text encoding="base64">Q2hlY2sgb3V0IHRoZSBbRGF0YSBJbmZyYXN0cnVjdHVyZSBXb3JraW5nIHdpdGggQmlnIFF1ZXJ5IERvY3VtZW50YXRpb25dKGh0dHBzOi8vZG9jcy5jc256b28uY29tL3NoYXJlZC9kYXRhLWluZnJhc3RydWN0dXJlLWRvY3VtZW50YXRpb24vZGF0YS1lbnYvZ29vZ2xlLXNlcnZpY2VzL3dvcmtpbmctd2l0aC1iaWdxdWVyeS8pLgo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
