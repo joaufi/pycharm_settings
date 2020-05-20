@@ -7,15 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>is_ready</entry>
-        <entry>wdn</entry>
-        <entry>settings</entry>
-        <entry>parse_raw</entry>
-        <entry>cimply</entry>
-        <entry>cimpl</entry>
-        <entry>proteus</entry>
-        <entry>netowrks</entry>
-        <entry>retu</entry>
         <entry>aero</entry>
         <entry>WF_HOST</entry>
         <entry>POD</entry>
@@ -27,9 +18,17 @@
         <entry>instal</entry>
         <entry>VIM</entry>
         <entry>bique</entry>
+        <entry>message</entry>
+        <entry>_message</entry>
+        <entry>influx</entry>
+        <entry>Inf</entry>
+        <entry>INF</entry>
+        <entry>co</entry>
+        <entry>PRO</entry>
+        <entry>re</entry>
+        <entry>repeated</entry>
       </history-search>
       <history-cmd>
-        <entry>vsplit docker-compose.yaml</entry>
         <entry>vsplit ./docker-compose.yaml</entry>
         <entry>Lw</entry>
         <entry>sort</entry>
@@ -41,13 +40,14 @@
         <entry>e</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>:w</entry>
-        <entry>split</entry>
         <entry>we</entry>
-        <entry>W</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qa</entry>
         <entry>wq</entry>
+        <entry>split</entry>
+        <entry encoding="base64">JzwsJz5zL3JlcGVhdGVkL2ZhaWxlZC9pZw==</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -109,11 +109,11 @@
         <mark key="^" line="19" column="80" />
         <mark key="." line="19" column="79" />
       </file>
-      <file name="$USER_HOME$/repositories/jupyter-notebook-docker/docker-compose.yaml" timestamp="1589854230926">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="17" />
-        <mark key="^" line="13" column="9" />
-        <mark key="." line="13" column="9" />
+      <file name="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" timestamp="1589995562395">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="77" column="51" />
       </file>
       <file name="$USER_HOME$/repositories/google-cloud-platform-learning/docker/bin/enable_vim_bindings.sh" timestamp="1589917971370">
         <mark key="[" line="6" column="0" />
@@ -126,6 +126,9 @@
         <mark key="]" line="12" column="7" />
         <mark key="." line="12" column="7" />
         <mark key="^" line="12" column="45" />
+      </file>
+      <file name="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/pipeline.py" timestamp="1589994742531">
+        <mark key="'" line="250" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/jupyter-notebook-docker/docker/server.dockerfile" timestamp="1589920707770">
         <mark key="'" line="41" column="12" />
@@ -145,12 +148,6 @@
         <mark key="]" line="6" column="40" />
         <mark key="^" line="6" column="40" />
         <mark key="." line="6" column="39" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_51.txt" timestamp="1589887788325">
-        <mark key="[" line="1" column="78" />
-        <mark key="]" line="0" column="71" />
-        <mark key="^" line="0" column="71" />
-        <mark key="." line="0" column="70" />
       </file>
       <file name="$USER_HOME$/repositories/google-cloud-platform-learning/.gitignore" timestamp="1589887793703">
         <mark key="[" line="4" column="20" />
@@ -194,36 +191,14 @@
         <mark key="." line="2" column="38" />
         <mark key="^" line="2" column="39" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_52.py" timestamp="1589995263219">
+        <mark key="[" line="12" column="124" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="18" column="30" />
+        <mark key="." line="15" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="10" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/endpoints/templates.py" />
-      <jump line="104" column="10" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/endpoints/templates.py" />
-      <jump line="21" column="58" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/endpoints/templates.py" />
-      <jump line="31" column="10" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/endpoints/templates.py" />
-      <jump line="46" column="10" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/endpoints/templates.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/repositories/wf-aerospike/README.md" />
-      <jump line="84" column="0" filename="$USER_HOME$/repositories/wf-aerospike/README.md" />
-      <jump line="62" column="46" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/accel_aerospike.py" />
-      <jump line="7" column="35" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/accel_aerospike.py" />
-      <jump line="69" column="72" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/accel_aerospike.py" />
-      <jump line="68" column="4" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/settings.py" />
-      <jump line="74" column="0" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/settings.py" />
-      <jump line="80" column="8" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/settings.py" />
-      <jump line="66" column="46" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/settings.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/settings.py" />
-      <jump line="107" column="18" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/settings.py" />
-      <jump line="123" column="44" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/settings.py" />
-      <jump line="0" column="21" filename="$USER_HOME$/repositories/acceleration-service/tests_integration/test_action_errors.py" />
-      <jump line="818" column="8" filename="$USER_HOME$/.pyenv/versions/3.8.1/lib/python3.8/datetime.py" />
-      <jump line="875" column="12" filename="$USER_HOME$/.pyenv/versions/3.8.1/lib/python3.8/datetime.py" />
-      <jump line="876" column="52" filename="$USER_HOME$/.pyenv/versions/3.8.1/lib/python3.8/datetime.py" />
-      <jump line="878" column="33" filename="$USER_HOME$/.pyenv/versions/3.8.1/lib/python3.8/datetime.py" />
-      <jump line="882" column="31" filename="$USER_HOME$/.pyenv/versions/3.8.1/lib/python3.8/datetime.py" />
-      <jump line="884" column="39" filename="$USER_HOME$/.pyenv/versions/3.8.1/lib/python3.8/datetime.py" />
-      <jump line="788" column="8" filename="$USER_HOME$/.pyenv/versions/3.8.1/lib/python3.8/datetime.py" />
-      <jump line="964" column="4" filename="$USER_HOME$/.pyenv/versions/3.8.1/lib/python3.8/datetime.py" />
-      <jump line="1413" column="4" filename="$USER_HOME$/.pyenv/versions/3.8.1/lib/python3.8/datetime.py" />
       <jump line="1891" column="4" filename="$USER_HOME$/.pyenv/versions/3.8.1/lib/python3.8/datetime.py" />
       <jump line="1557" column="10" filename="$USER_HOME$/.pyenv/versions/3.8.1/lib/python3.8/datetime.py" />
       <jump line="68" column="0" filename="$USER_HOME$/repositories/acceleration-service/docker/run_tests.sh" />
@@ -296,6 +271,34 @@
       <jump line="0" column="0" filename="$USER_HOME$/repositories/jupyter-notebook-docker/docker/server.dockerfile" />
       <jump line="41" column="12" filename="$USER_HOME$/repositories/jupyter-notebook-docker/docker/server.dockerfile" />
       <jump line="17" column="8" filename="$USER_HOME$/repositories/google-cloud-platform-learning/docker-compose.yaml" />
+      <jump line="66" column="54" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
+      <jump line="67" column="53" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
+      <jump line="68" column="15" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
+      <jump line="69" column="23" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
+      <jump line="70" column="39" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
+      <jump line="71" column="52" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
+      <jump line="75" column="18" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
+      <jump line="77" column="57" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
+      <jump line="79" column="70" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
+      <jump line="84" column="62" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
+      <jump line="89" column="34" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
+      <jump line="102" column="63" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
+      <jump line="104" column="61" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
+      <jump line="28" column="6" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/pipeline.py" />
+      <jump line="105" column="8" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/pipeline.py" />
+      <jump line="107" column="8" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/pipeline.py" />
+      <jump line="108" column="17" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/pipeline.py" />
+      <jump line="113" column="8" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/pipeline.py" />
+      <jump line="115" column="8" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/pipeline.py" />
+      <jump line="116" column="17" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/pipeline.py" />
+      <jump line="143" column="17" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/pipeline.py" />
+      <jump line="247" column="32" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/pipeline.py" />
+      <jump line="250" column="32" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/pipeline.py" />
+      <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_52.py" />
+      <jump line="10" column="39" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_52.py" />
+      <jump line="11" column="89" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_52.py" />
+      <jump line="13" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_52.py" />
+      <jump line="99" column="8" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -989,46 +992,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlci5lcnJvcigK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBpbnNlcnRfcm93cyB0byBiaWdxdWVyeQo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>PROCESSED</text>
       </register>
       <register name="/" type="4">
-        <text>bique</text>
+        <text>repeated</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJwcm90ZXVzOndhdGNodG93ZXI6dGJsX2tleXdvcmRzZWFyY2giOiB7Cg==</text>
+        <text encoding="base64">cHJvY2Vzc2VkX3JlcGVhdGVkX21zZyA9IHBhcnRpYWwod2Zfc3RhdHMuY291bnQsIElORkxVWF9LRVlfS0VZV09SRF9TRUFSQ0hfTUVTU0FHRV9QUk9DRVNTRUQsIDEsIGZpZWxkcz17InJlcGVhdGVkX21lc3NhZ2UiOiAxfSkKY29uc3VtZWRfcmVwZWF0ZWRfbXNnID0gcGFydGlhbCh3Zl9zdGF0cy5jb3VudCwgSU5GTFVYX0tFWV9LRVlXT1JEX1NFQVJDSF9NRVNTQUdFX0NPTlNVTUVELCAxLCBmaWVsZHM9eyJyZXBlYXRlZF9tZXNzYWdlIjogMX0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlci5lcnJvcigK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBpbnNlcnRfcm93cyB0byBiaWdxdWVyeQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBfbG9nZ2VyLmluZm8oZiJKQUZJU0hFUiBOdW1iZXIgb2Ygcm93cyBpbnNlcnRlZCB7bGVuKHByb2Nlc3NfbWVzc2FnZXMpfSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGYiUmVxdWlyZWQgZmllbGRzIGFyZSBtaXNzaW5nLiBNaXNzaW5nIGZpZWxkczoge3JlcXVpcmVkX2ZpZWxkcy5kaWZmZXJlbmNlKGtleV9saXN0KX0gXG4gIgogICAgICAgICAgICAgICAgZiJtZXNzYWdlOiB7ZW5yaWNoX21lc3NhZ2V9Igo=</text>
+        <text encoding="base64">ICAgICAgICAjIERFQlVHIEpBRklTSEVSCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBfbG9nZ2VyLmluZm8oCiAgICAgICAgICAgIGYiUmVxdWlyZWQgZmllbGRzIGFyZSBtaXNzaW5nLiBNaXNzaW5nIGZpZWxkczoge3JlcXVpcmVkX2ZpZWxkcy5kaWZmZXJlbmNlKGtleV9saXN0KX0gXG4gIgogICAgICAgICAgICBmIm1lc3NhZ2U6IHtlbnJpY2hfbWVzc2FnZX0iCiAgICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlci4K</text>
+        <text encoding="base64">ICAgICAgICBjb3VudF9tc2dfcHJvY2Vzc2VkKGZpZWxkcz17ImZhaWxlZF90b19wcm9jZXNzIjogbGVuKHJlc3BvbnNlKX0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGEgPSBsbGxsbGxsbGxsbGwgaWYgVHJ1ZSBlbHNlIDIK</text>
+        <text encoding="base64">ICAgICAgICBjb3VudF9tc2dfcHJvY2Vzc2VkKAogICAgICAgICAgICBmaWVsZHM9eyJzdWNjZXNzZnVsbHlfcHJvY2Vzc2VkIjogbGVuKHByb2Nlc3NfbWVzc2FnZXMpIC0gbGVuKHJlc3BvbnNlKX0KICAgICAgICApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Uk9PVF9ESVIgPSBQYXRoKF9fZmlsZV9fKS5wYXJlbnQucGFyZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmRlZiBoYXBweV9mdW5jKGhvd19oYXBweTogaW50LCBzb21ldGltZXNfc2FkOiBib29sID0gRmFsc2UpIC0+IE5vbmU6CiAgICAiIiIKICAgIEZ1bmMgdG8gcHJpbnQgaG93IGhhcHB5IHNvbWVvbmUgaXMuCgogICAgOnBhcmFtIGhvd19oYXBweTogSGFwcGluZXNzIGZyb20gMSAtIDEwLgogICAgOnBhcmFtIHNvbWV0aW1lc19zYWQ6IElzIHRoZSBwZXJzb24gc29tZXRpbWVzIHNhZC4KICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiByZXNwb25zZToKICAgICAgICAgICAgX2xvZ2dlci5pbmZvKCJFcnJvciBpbiBpbnNlcnRpbmcgZGF0YSB0byBrZXl3b3JkIHNlYXJjaCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1037,11 +1040,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>bique</last-search>
+      <last-search>repeated</last-search>
       <last-offset />
-      <last-pattern>bique</last-pattern>
-      <last-replace>&quot;</last-replace>
-      <last-substitute>'</last-substitute>
+      <last-pattern>repeated</last-pattern>
+      <last-replace>failed</last-replace>
+      <last-substitute>repeated</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
