@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>aero</entry>
         <entry>WF_HOST</entry>
         <entry>POD</entry>
         <entry>TELEG</entry>
@@ -27,6 +26,7 @@
         <entry>PRO</entry>
         <entry>re</entry>
         <entry>repeated</entry>
+        <entry>clone_repo</entry>
       </history-search>
       <history-cmd>
         <entry>Lw</entry>
@@ -153,7 +153,9 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/repositories/acceleration-service/acceleration_service/util/git.py" timestamp="1590508161040" />
+      <file name="$USER_HOME$/repositories/acceleration-service/acceleration_service/util/git.py" timestamp="1590509446998">
+        <mark key="'" line="21" column="18" />
+      </file>
       <file name="$USER_HOME$/repositories/google-cloud-platform-learning/.gitignore" timestamp="1590497401075">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -194,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/repositories/acceleration-service/docker/run_tests.sh" />
       <jump line="31" column="11" filename="$USER_HOME$/repositories/wf-aerospike/wf_aerospike/helpers.py" />
       <jump line="29" column="11" filename="$USER_HOME$/repositories/wf-aerospike/wf_aerospike/helpers.py" />
       <jump line="65" column="8" filename="$USER_HOME$/repositories/wf-aerospike/README.md" />
@@ -294,6 +295,7 @@
       <jump line="99" column="8" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
       <jump line="3" column="0" filename="$USER_HOME$/repositories/google-cloud-platform-learning/README.md" />
       <jump line="92" column="2" filename="$USER_HOME$/repositories/google-cloud-platform-learning/README.md" />
+      <jump line="21" column="18" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/util/git.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -996,7 +998,7 @@
         <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>repeated</text>
+        <text>clone_repo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QGRhdGFjbGFzcwpjbGFzcyBNeUNvbmZpZzoKICAgIGRlYnVnOiBib29sID0gRmFsc2UKICAgIHRlc3Rpbmc6IGJvb2wgPSBGYWxzZQogICAgbG9nX2xldmVsOiBpbnQgPSBsb2dnaW5nLkRFQlVHCiAgICBhZXJvc3Bpa2VfdXNlcjogc3RyID0gIndheWZhaXItZGV2IgogICAgYWVyb3NwaWtlX2NyZWRlbnRpYWw6IHN0ciA9ICIiCiAgICBhZXJvc3Bpa2VfaG9zdHM6IE9wdGlvbmFsW0xpc3Rbc3RyXV0gPSBOb25lCg==</text>
@@ -1035,9 +1037,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>repeated</last-search>
+      <last-search>clone_repo</last-search>
       <last-offset />
-      <last-pattern>repeated</last-pattern>
+      <last-pattern>clone_repo</last-pattern>
       <last-replace>failed</last-replace>
       <last-substitute>repeated</last-substitute>
       <last-dir>1</last-dir>
