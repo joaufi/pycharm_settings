@@ -46,8 +46,8 @@
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>we</entry>
         <entry>ew</entry>
-        <entry>W</entry>
         <entry>e</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -156,10 +156,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="18" column="47" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/models.py" timestamp="1590530590012">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/models.py" timestamp="1590530920091">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="62" column="40" />
+        <mark key="]" line="62" column="47" />
+        <mark key="^" line="62" column="47" />
+        <mark key="." line="62" column="46" />
       </file>
       <file name="$USER_HOME$/repositories/acceleration-service/acceleration_service/util/git.py" timestamp="1590522829009">
         <mark key="'" line="21" column="18" />
@@ -208,7 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="12" filename="$USER_HOME$/repositories/python-platforms-project-templates/templates/flask-service/{{cookiecutter.package_distribution_name}}/requirements.txt" />
       <jump line="45" column="58" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="58" column="4" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="115" column="4" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
@@ -308,6 +309,7 @@
       <jump line="9" column="28" filename="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/models.py" />
       <jump line="3" column="17" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/abc/action.py" />
       <jump line="26" column="15" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/abc/action.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/models.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1000,14 +1002,14 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZmllbGRzIA==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, validator</text>
+        <text encoding="base64">ZmllbGRzIA==</text>
       </register>
       <register name="/" type="4">
         <text>Enum</text>
@@ -1019,28 +1021,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIF9fZ2V0X3ZhbGlkYXRvcnNfXyhjbHMpOgogICAgICAgIHlpZWxkIGNscy52YWxpZGF0ZQoKICAgIEBjbGFzc21ldGhvZAogICAgZGVmIHZhbGlkYXRlKGNscywgdik6CiAgICAgICAgcmV0dXJuIGNscyh2KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHR5cGluZwpmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBVc2VyTGlzdAo=</text>
+        <text encoding="base64">CiAgICBAcHJvcGVydHkKICAgIGRlZiBmaWVsZHMoc2VsZikgLT4gTGlzdFtTY2hlbWFGaWVsZEpTT05dOgogICAgICAgICIiIkFsaWFzIGZvciB0aGUgbGlzdCBwcm9wZXJ0eSB0aGF0IFVzZXJMaXN0IHVzZXMgdG8gc3RvcmUgZGF0YS4KCiAgICAgICAgOnJldHVybjogTGlzdCBvZiBmaWVsZHMuCiAgICAgICAgIiIiCiAgICAgICAgcmV0dXJuIHNlbGYuZGF0YQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIHJlcXVpcmVkX2ZpZWxkcyhzZWxmKSAtPiBMaXN0W1NjaGVtYUZpZWxkSlNPTl06CiAgICAgICAgIiIiR2V0IGFsbCB0aGUgcmVxdWlyZWQgZmllbGRzIGZyb20gdGhpcyBzY2hlbWEuCgogICAgICAgIDpyZXR1cm46IExpc3Qgb2YgUkVRVUlSRUQgZmllbGRzLgogICAgICAgICIiIgogICAgICAgIHJldHVybiBbZmllbGQgZm9yIGZpZWxkIGluIHNlbGYuZmllbGRzIGlmIGZpZWxkLm1vZGUgPT0gTW9kZS5SRVFVSVJFRC5uYW1lXQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIG51bGxhYmxlX2ZpZWxkcyhzZWxmKSAtPiBMaXN0W1NjaGVtYUZpZWxkSlNPTl06CiAgICAgICAgIiIiR2V0IGFsbCB0aGUgbnVsbGFibGUgZmllbGRzIGZyb20gdGhpcyBzY2hlbWEuCgogICAgICAgIDpyZXR1cm46IExpc3Qgb2YgTlVMTEFCTEUgZmllbGRzLgogICAgICAgICIiIgogICAgICAgIHJldHVybiBbZmllbGQgZm9yIGZpZWxkIGluIHNlbGYuZmllbGRzIGlmIGZpZWxkLm1vZGUgPT0gTW9kZS5OVUxMQUJMRS5uYW1lXQo=</text>
+        <text encoding="base64">CgpjbGFzcyBTY2hlbWFGaWVsZEpTT04oQmFzZU1vZGVsKToKICAgICIiIgogICAgSlNPTiByZXByZXNlbnRhdGlvbiBvZiBhIGZpZWxkIHNjaGVtYSBpbiBHQlEuIFNlZToKICAgICAgICBnb29nbGUuY2xvdWQuYmlncXVlcnkuU2NoZW1hRmllbGQKCiAgICA6YXR0ciBkZXNjcmlwdGlvbjogVGhlIGNvbHVtbidzIGRlc2NyaXB0aW9uLgogICAgOmF0dHIgbmFtZTogVGhlIGNvbHVtbiBuYW1lLgogICAgOmF0dHIgdHlwZTogVGhlIGNvbHVtbiBkYXRhIHR5cGUuCiAgICA6YXR0ciBtb2RlOiBUaGUgY29sdW1uJ3MgbW9kZS4KICAgICIiIgoKICAgIGRlc2NyaXB0aW9uOiBPcHRpb25hbFtzdHJdID0gTm9uZQogICAgbW9kZTogc3RyID0gTW9kZS5OVUxMQUJMRS5uYW1lCiAgICBuYW1lOiBzdHIKICAgIHR5cGU6IHN0cgoKICAgIEBwcm9wZXJ0eQogICAgZGVmIGZpZWxkcyhzZWxmKSAtPiBMaXN0W1NjaGVtYUZpZWxkSlNPTl06CiAgICAgICAgIiIiQWxpYXMgZm9yIHRoZSBsaXN0IHByb3BlcnR5IHRoYXQgVXNlckxpc3QgdXNlcyB0byBzdG9yZSBkYXRhLgoKICAgICAgICA6cmV0dXJuOiBMaXN0IG9mIGZpZWxkcy4KICAgICAgICAiIiIKICAgICAgICByZXR1cm4gc2VsZi5kYXRhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIHJlcXVpcmVkX2ZpZWxkcyhzZWxmKSAtPiBMaXN0W1NjaGVtYUZpZWxkSlNPTl06CiAgICAgICAgIiIiR2V0IGFsbCB0aGUgcmVxdWlyZWQgZmllbGRzIGZyb20gdGhpcyBzY2hlbWEuCgogICAgICAgIDpyZXR1cm46IExpc3Qgb2YgUkVRVUlSRUQgZmllbGRzLgogICAgICAgICIiIgogICAgICAgIHJldHVybiBbZmllbGQgZm9yIGZpZWxkIGluIHNlbGYuZmllbGRzIGlmIGZpZWxkLm1vZGUgPT0gTW9kZS5SRVFVSVJFRC5uYW1lXQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIG51bGxhYmxlX2ZpZWxkcyhzZWxmKSAtPiBMaXN0W1NjaGVtYUZpZWxkSlNPTl06CiAgICAgICAgIiIiR2V0IGFsbCB0aGUgbnVsbGFibGUgZmllbGRzIGZyb20gdGhpcyBzY2hlbWEuCgogICAgICAgIDpyZXR1cm46IExpc3Qgb2YgTlVMTEFCTEUgZmllbGRzLgogICAgICAgICIiIgogICAgICAgIHJldHVybiBbZmllbGQgZm9yIGZpZWxkIGluIHNlbGYuZmllbGRzIGlmIGZpZWxkLm1vZGUgPT0gTW9kZS5OVUxMQUJMRS5uYW1lXQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgU2NoZW1hVGFibGVKU09OKFVzZXJMaXN0KToKICAgICIiIgogICAgQ29sbGVjdGlvbiByZXByZXNlbnRpbmcgSlNPTiBvZiBhIHRhYmxlIHNjaGVtYSBpbiBHQlEuIFByb3ZpZGVzIGNvbnZlbmllbmNlCiAgICBtZXRob2RzIGZvciBjb21wYXJpbmcgc2NoZW1hcy4KICAgICIiIgogICAgZGF0YTogTGlzdFtTY2hlbWFGaWVsZEpTT05dCgogICAgQGNsYXNzbWV0aG9kCiAgICBkZWYgX19nZXRfdmFsaWRhdG9yc19fKGNscyk6CiAgICAgICAgeWllbGQgY2xzLnZhbGlkYXRlCgogICAgQGNsYXNzbWV0aG9kCiAgICBkZWYgdmFsaWRhdGUoY2xzLCB2KToKICAgICAgICByZXR1cm4gY2xzKHYpCgogICAgQHByb3BlcnR5CiAgICBkZWYgZmllbGRzKHNlbGYpIC0+IExpc3RbU2NoZW1hRmllbGRKU09OXToKICAgICAgICAiIiJBbGlhcyBmb3IgdGhlIGxpc3QgcHJvcGVydHkgdGhhdCBVc2VyTGlzdCB1c2VzIHRvIHN0b3JlIGRhdGEuCgogICAgICAgIDpyZXR1cm46IExpc3Qgb2YgZmllbGRzLgogICAgICAgICIiIgogICAgICAgIHJldHVybiBzZWxmLmRhdGEK</text>
+        <text encoding="base64">Y2xhc3MgU2NoZW1hVGFibGVKU09OKFVzZXJMaXN0W1NjaGVtYUZpZWxkSlNPTl0pOgogICAgIiIiCiAgICBDb2xsZWN0aW9uIHJlcHJlc2VudGluZyBKU09OIG9mIGEgdGFibGUgc2NoZW1hIGluIEdCUS4gUHJvdmlkZXMgY29udmVuaWVuY2UKICAgIG1ldGhvZHMgZm9yIGNvbXBhcmluZyBzY2hlbWFzLgogICAgIiIiCiAgICBkYXRhOiBMaXN0W1NjaGVtYUZpZWxkSlNPTl0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
