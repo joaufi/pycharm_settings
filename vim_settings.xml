@@ -40,13 +40,13 @@
         <entry>ew</entry>
         <entry>E</entry>
         <entry>e</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>we</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>vsplit</entry>
         <entry>q</entry>
         <entry>qa</entry>
         <entry>split</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
@@ -103,11 +103,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/proteus_mutator/tests/endpoints/test_schema.py" timestamp="1590597484116">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/repositories/proteus_mutator/tests/endpoints/test_schema.py" timestamp="1590599164956">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="46" />
+        <mark key="^" line="4" column="46" />
+        <mark key="." line="4" column="45" />
       </file>
       <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/util/schema_hash_generator.py" timestamp="1590547087924">
         <mark key="[" line="0" column="0" />
@@ -127,22 +127,23 @@
         <mark key="." line="50" column="16" />
         <mark key="^" line="50" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/tests/mocks.py" timestamp="1590598622149">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="1" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/repositories/proteus_mutator/tests/mocks.py" timestamp="1590599143944">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="12" column="101" />
+        <mark key="." line="12" column="100" />
+        <mark key="^" line="12" column="101" />
       </file>
       <file name="$USER_HOME$/repositories/proteus_mutator/docker-compose.yaml" timestamp="1590546281153">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/models.py" timestamp="1590598480379">
+      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/models.py" timestamp="1590599774943">
         <mark key="'" line="185" column="0" />
-        <mark key="[" line="25" column="39" />
-        <mark key="]" line="25" column="46" />
-        <mark key="." line="25" column="45" />
-        <mark key="^" line="25" column="46" />
+        <mark key="[" line="40" column="4" />
+        <mark key="]" line="40" column="10" />
+        <mark key="." line="40" column="9" />
+        <mark key="^" line="40" column="10" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1464875147/-64550866/git/repo/base.py" timestamp="1590509050836" />
       <file name="$USER_HOME$/repositories/proteus_mutator/docker/entrypoints/run_tests.sh" timestamp="1590545657626">
@@ -185,11 +186,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" timestamp="1590598748301">
-        <mark key="[" line="17" column="53" />
-        <mark key="]" line="17" column="58" />
-        <mark key="." line="17" column="57" />
-        <mark key="^" line="17" column="58" />
+      <file name="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" timestamp="1590600234852">
+        <mark key="[" line="29" column="11" />
+        <mark key="]" line="29" column="39" />
+        <mark key="." line="29" column="38" />
+        <mark key="^" line="29" column="39" />
       </file>
       <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/endpoints/schema.py" timestamp="1590544487405">
         <mark key="[" line="24" column="7" />
@@ -996,46 +997,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>mode</text>
+        <text>.dict(by_alias=True) == SOME_SCHEMA_TABLE_JSON</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>mode</text>
+        <text>.dict(by_alias=True) == SOME_SCHEMA_TABLE_JSON</text>
       </register>
       <register name="/" type="4">
         <text>PROTEUS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U09NRV9TQ0hFTUFfRklFTERfSlNPTiA9IHsKICAgICJuYW1lIjogInNvbWVfZmllbGQiLAogICAgImRlc2NyaXB0aW9uIjogIlNvbWUgZmllbGQgdGhhdCBzdG9yZXMgc29tZSBkYXRhLiIsCiAgICAidHlwZSI6ICJTVFJJTkciLAogICAgIm1vZGUiOiAiUkVRVUlSRUQiLAp9Cg==</text>
+        <text encoding="base64">ZGVmIHRlc3Rfc2NoZW1hX3RhYmxlX2pzb25fX3ZhbGlkX3NjaGVtYV90YWJsZV9qc29uX3ZhcmlhYmxlX21vZGVzX19yZXF1aXJlZF9maWVsZHNfcmV0dXJuc19vbmx5X3JlcXVpcmVkKCk6CiAgICBleHBlY3RlZF9yZXF1aXJlZF9maWVsZHMgPSBbU2NoZW1hRmllbGRKU09OKCoqU09NRV9SRVFVSVJFRF9TQ0hFTUFfRklFTERfSlNPTildCgogICAgYWN0dWFsX3JlcXVpcmVkX2ZpZWxkcyA9IFNjaGVtYVRhYmxlSlNPTigqKlNPTUVfU0NIRU1BX1RBQkxFX0pTT04pLnJlcXVpcmVkX2ZpZWxkcwoKICAgIGFzc2VydCBhY3R1YWxfcmVxdWlyZWRfZmllbGRzID09IGV4cGVjdGVkX3JlcXVpcmVkX2ZpZWxkcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiZGVzY3JpcHRpb24iOiAiU29tZSBmaWVsZCB0aGF0IHN0b3JlcyBzb21lIGRhdGEuIiwK</text>
+        <text encoding="base64">ICAgIFNjaGVtYVRhYmxlSlNPTigqKlNPTUVfU0NIRU1BX1RBQkxFX0pTT04pCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICMgcHJvcGVydHkgbmFtZSAiZmllbGRzIiBzaGFkb3dzIGEgQmFzZU1vZGVsIHByb3BlcnR5IHRodXMgdGhlIG5lZWQgdG8gdXNlCiAgICAjIGEgRmllbGQgYWxpYXMga3dhcmcuIEVsbGlwc2lzIGAuLi5gIGluZGljYXRlcyB0aGUgRmllbGQgaXMgcmVxdWlyZWQuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgpkZWYgdGVzdF9zY2hlbWFfZmllbGRfanNvbl9faW52YWxpZF9zY2hlbWFfZmllbGRfZGljdF9fcmFpc2VzX2Vycm9yKCk6CiAgICBpbnZhbGlkX3NjaGVtYV9maWVsZCA9IHsicG90YXRvZSI6ICJzYW5kd2ljaGVzIn0KCiAgICBTY2hlbWFGaWVsZEpTT04oKippbnZhbGlkX3NjaGVtYV9maWVsZCkK</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBicmVha3BvaW50KCkK</text>
+        <text encoding="base64">ICAgICAgICAiZmllbGRzIjogW1NPTUVfU0NIRU1BX0ZJRUxEX0pTT04sIFNPTUVfT1RIRVJfU0NIRU1BX0ZJRUxEX0pTT05dCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpdGggcHl0ZXN0LnJhaXNlcygpCg==</text>
+        <text encoding="base64">U09NRV9TQ0hFTUFfVEFCTEVfSlNPTiA9IHsgImZpZWxkcyI6IFtTT01FX1NDSEVNQV9GSUVMRF9KU09OLCBTT01FX09USEVSX1NDSEVNQV9GSUVMRF9KU09OXSB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhWYWxpZGF0aW9uRXJyb3IpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RlZC5kaWN0KCkgPT0gU09NRV9TQ0hFTUFfRklFTERfSlNPTgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U09NRV9TQ0hFTUFfRklFTERfSlNPTiA9IHsKICAgICJuYW1lIjogInNvbWVfZmllbGQiLAogICAgImRlc2NyaXB0aW9uIjogIlNvbWUgZmllbGQgdGhhdCBzdG9yZXMgc29tZSBkYXRhLiIsCiAgICAidHlwZSI6ICJTVFJJTkciLAogICAgIm1vZGUiOiAiUkVRVUlSRUQiLAp9ClNPTUVfT1RIRVJfU0NIRU1BX0ZJRUxEX0pTT04gPSB7CiAgICAibmFtZSI6ICJzb21lX290aGVyX2ZpZWxkIiwKICAgICJkZXNjcmlwdGlvbiI6ICJTb21lIG90aGVyIGZpZWxkIHRoYXQgc3RvcmVzIHNvbWUgZGF0YS4iLAogICAgInR5cGUiOiAiU1RSSU5HIiwKICAgICJtb2RlIjogIk5VTExBQkxFIiwKfQo=</text>
+        <text encoding="base64">ICAgIFNjaGVtYUZpZWxkSlNPTigqKmludmFsaWRfbW9kZV9zY2hlbWFfZmllbGQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
