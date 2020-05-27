@@ -29,7 +29,6 @@
         <entry>Enum</entry>
       </history-search>
       <history-cmd>
-        <entry>Lw</entry>
         <entry>sort</entry>
         <entry>s</entry>
         <entry>r</entry>
@@ -48,6 +47,7 @@
         <entry>ew</entry>
         <entry>e</entry>
         <entry>W</entry>
+        <entry>E</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -103,17 +103,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/proteus_mutator/tests/endpoints/test_schema.py" timestamp="1590529184408">
-        <mark key="[" line="11" column="46" />
-        <mark key="]" line="11" column="46" />
-        <mark key="." line="11" column="46" />
+      <file name="$USER_HOME$/repositories/proteus_mutator/tests/endpoints/test_schema.py" timestamp="1590537396038">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
         <mark key="^" line="41" column="16" />
-      </file>
-      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/docker-compose.yaml" timestamp="1590493992516">
-        <mark key="[" line="25" column="65" />
-        <mark key="]" line="26" column="52" />
-        <mark key="." line="26" column="51" />
-        <mark key="^" line="26" column="52" />
       </file>
       <file name="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" timestamp="1589995562395">
         <mark key="[" line="79" column="0" />
@@ -130,38 +124,55 @@
         <mark key="." line="50" column="16" />
         <mark key="^" line="50" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/docker/devbox.dockerfile" timestamp="1589986027790">
-        <mark key="[" line="12" column="7" />
-        <mark key="]" line="12" column="7" />
-        <mark key="." line="12" column="7" />
-        <mark key="^" line="12" column="45" />
+      <file name="$USER_HOME$/repositories/proteus_mutator/docker-compose.yaml" timestamp="1590537903688">
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="22" column="40" />
+        <mark key="^" line="22" column="40" />
+        <mark key="." line="22" column="39" />
+      </file>
+      <file name="$USER_HOME$/repositories/proteus_mutator/docker/entrypoints/entrypoint.sh" timestamp="1590537626419">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/pipeline.py" timestamp="1589994742531">
+        <mark key="'" line="250" column="32" />
+      </file>
+      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/settings.py" timestamp="1590493877750">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="18" column="47" />
+      </file>
+      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/models.py" timestamp="1590538674570">
+        <mark key="'" line="34" column="32" />
+        <mark key="[" line="64" column="57" />
+        <mark key="]" line="64" column="58" />
+        <mark key="^" line="64" column="58" />
+        <mark key="." line="64" column="57" />
+      </file>
+      <file name="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/utils.py" timestamp="1589994485482">
+        <mark key="[" line="54" column="79" />
+        <mark key="]" line="54" column="79" />
+        <mark key="^" line="54" column="79" />
+        <mark key="." line="54" column="78" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1464875147/-64550866/git/repo/base.py" timestamp="1590509050836" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_52.py" timestamp="1589995263219">
+        <mark key="[" line="12" column="124" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="18" column="30" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/docker-compose.yaml" timestamp="1590493992516">
+        <mark key="[" line="25" column="65" />
+        <mark key="]" line="26" column="52" />
+        <mark key="." line="26" column="51" />
+        <mark key="^" line="26" column="52" />
       </file>
       <file name="$USER_HOME$/repositories/google-cloud-platform-learning/sample_data/seo_schema.json" timestamp="1590495952504">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="4" column="20" />
         <mark key="." line="4" column="20" />
         <mark key="^" line="7" column="30" />
-      </file>
-      <file name="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/pipeline.py" timestamp="1589994742531">
-        <mark key="'" line="250" column="32" />
-      </file>
-      <file name="$USER_HOME$/repositories/jupyter-notebook-docker/docker/server.dockerfile" timestamp="1589920707770">
-        <mark key="'" line="41" column="12" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="41" column="29" />
-      </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/settings.py" timestamp="1590493877750">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="18" column="47" />
-      </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/models.py" timestamp="1590530920091">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="62" column="40" />
-        <mark key="]" line="62" column="47" />
-        <mark key="^" line="62" column="47" />
-        <mark key="." line="62" column="46" />
       </file>
       <file name="$USER_HOME$/repositories/acceleration-service/acceleration_service/util/git.py" timestamp="1590522829009">
         <mark key="'" line="21" column="18" />
@@ -176,11 +187,11 @@
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/utils.py" timestamp="1589994485482">
-        <mark key="[" line="54" column="79" />
-        <mark key="]" line="54" column="79" />
-        <mark key="^" line="54" column="79" />
-        <mark key="." line="54" column="78" />
+      <file name="$USER_HOME$/repositories/proteus_mutator/docker/devbox.dockerfile" timestamp="1590538814919">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/google-cloud-platform-learning/README.md" timestamp="1590009403835">
         <mark key="'" line="100" column="2" />
@@ -189,28 +200,14 @@
         <mark key="." line="2" column="99" />
         <mark key="^" line="46" column="64" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1464875147/-64550866/git/repo/base.py" timestamp="1590509050836" />
-      <file name="$USER_HOME$/repositories/google-cloud-platform-learning/gcp_learning/utils.py" timestamp="1589986012997">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="39" />
-        <mark key="." line="2" column="38" />
-        <mark key="^" line="2" column="39" />
-      </file>
       <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/endpoints/schema.py" timestamp="1590527453489">
         <mark key="[" line="24" column="7" />
         <mark key="]" line="25" column="16" />
         <mark key="^" line="25" column="16" />
         <mark key="." line="25" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_52.py" timestamp="1589995263219">
-        <mark key="[" line="12" column="124" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="18" column="30" />
-        <mark key="." line="15" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="58" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="58" column="4" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="115" column="4" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="127" column="4" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
@@ -310,6 +307,7 @@
       <jump line="3" column="17" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/abc/action.py" />
       <jump line="26" column="15" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/abc/action.py" />
       <jump line="51" column="0" filename="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/models.py" />
+      <jump line="34" column="32" filename="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/models.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1003,13 +1001,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZmllbGRzIA==</text>
+        <text>}</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmllbGRzIA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>Enum</text>
@@ -1018,31 +1016,31 @@
         <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIHJlcXVpcmVkX2ZpZWxkcyhzZWxmKToKICAgICAgICByZXR1cm4gW2ZpZWxkIGZvciBmaWVsZCBpbiBzZWxmLmZpZWxkcyBpZiBmaWVsZC5tb2RlID09IE1vZGUuUkVRVUlSRUQubmFtZV0KCiAgICBAcHJvcGVydHkKICAgIGRlZiBudWxsYWJsZV9maWVsZHMoc2VsZik6CiAgICAgICAgcmV0dXJuIFtmaWVsZCBmb3IgZmllbGQgaW4gc2VsZi5maWVsZHMgaWYgZmllbGQubW9kZSA9PSBNb2RlLk5VTExBQkxFLm5hbWVdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHR5cGluZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBweXRlc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBAcHJvcGVydHkKICAgIGRlZiBmaWVsZHMoc2VsZikgLT4gTGlzdFtTY2hlbWFGaWVsZEpTT05dOgogICAgICAgICIiIkFsaWFzIGZvciB0aGUgbGlzdCBwcm9wZXJ0eSB0aGF0IFVzZXJMaXN0IHVzZXMgdG8gc3RvcmUgZGF0YS4KCiAgICAgICAgOnJldHVybjogTGlzdCBvZiBmaWVsZHMuCiAgICAgICAgIiIiCiAgICAgICAgcmV0dXJuIHNlbGYuZGF0YQo=</text>
+        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBfX2dldF92YWxpZGF0b3JzX18oY2xzKToKICAgICAgICB5aWVsZCBjbHMudmFsaWRhdGUKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiB2YWxpZGF0ZShjbHMsIHYpOgogICAgICAgIHJldHVybiBjbHModikKCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgpjbGFzcyBTY2hlbWFGaWVsZEpTT04oQmFzZU1vZGVsKToKICAgICIiIgogICAgSlNPTiByZXByZXNlbnRhdGlvbiBvZiBhIGZpZWxkIHNjaGVtYSBpbiBHQlEuIFNlZToKICAgICAgICBnb29nbGUuY2xvdWQuYmlncXVlcnkuU2NoZW1hRmllbGQKCiAgICA6YXR0ciBkZXNjcmlwdGlvbjogVGhlIGNvbHVtbidzIGRlc2NyaXB0aW9uLgogICAgOmF0dHIgbmFtZTogVGhlIGNvbHVtbiBuYW1lLgogICAgOmF0dHIgdHlwZTogVGhlIGNvbHVtbiBkYXRhIHR5cGUuCiAgICA6YXR0ciBtb2RlOiBUaGUgY29sdW1uJ3MgbW9kZS4KICAgICIiIgoKICAgIGRlc2NyaXB0aW9uOiBPcHRpb25hbFtzdHJdID0gTm9uZQogICAgbW9kZTogc3RyID0gTW9kZS5OVUxMQUJMRS5uYW1lCiAgICBuYW1lOiBzdHIKICAgIHR5cGU6IHN0cgoKICAgIEBwcm9wZXJ0eQogICAgZGVmIGZpZWxkcyhzZWxmKSAtPiBMaXN0W1NjaGVtYUZpZWxkSlNPTl06CiAgICAgICAgIiIiQWxpYXMgZm9yIHRoZSBsaXN0IHByb3BlcnR5IHRoYXQgVXNlckxpc3QgdXNlcyB0byBzdG9yZSBkYXRhLgoKICAgICAgICA6cmV0dXJuOiBMaXN0IG9mIGZpZWxkcy4KICAgICAgICAiIiIKICAgICAgICByZXR1cm4gc2VsZi5kYXRhCg==</text>
+        <text encoding="base64">CiAgICAgICAgU2NoZW1hRmllbGRKU09OKCoqdikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIHJlcXVpcmVkX2ZpZWxkcyhzZWxmKSAtPiBMaXN0W1NjaGVtYUZpZWxkSlNPTl06CiAgICAgICAgIiIiR2V0IGFsbCB0aGUgcmVxdWlyZWQgZmllbGRzIGZyb20gdGhpcyBzY2hlbWEuCgogICAgICAgIDpyZXR1cm46IExpc3Qgb2YgUkVRVUlSRUQgZmllbGRzLgogICAgICAgICIiIgogICAgICAgIHJldHVybiBbZmllbGQgZm9yIGZpZWxkIGluIHNlbGYuZmllbGRzIGlmIGZpZWxkLm1vZGUgPT0gTW9kZS5SRVFVSVJFRC5uYW1lXQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIG51bGxhYmxlX2ZpZWxkcyhzZWxmKSAtPiBMaXN0W1NjaGVtYUZpZWxkSlNPTl06CiAgICAgICAgIiIiR2V0IGFsbCB0aGUgbnVsbGFibGUgZmllbGRzIGZyb20gdGhpcyBzY2hlbWEuCgogICAgICAgIDpyZXR1cm46IExpc3Qgb2YgTlVMTEFCTEUgZmllbGRzLgogICAgICAgICIiIgogICAgICAgIHJldHVybiBbZmllbGQgZm9yIGZpZWxkIGluIHNlbGYuZmllbGRzIGlmIGZpZWxkLm1vZGUgPT0gTW9kZS5OVUxMQUJMRS5uYW1lXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgU2NoZW1hVGFibGVKU09OKFVzZXJMaXN0W1NjaGVtYUZpZWxkSlNPTl0pOgogICAgIiIiCiAgICBDb2xsZWN0aW9uIHJlcHJlc2VudGluZyBKU09OIG9mIGEgdGFibGUgc2NoZW1hIGluIEdCUS4gUHJvdmlkZXMgY29udmVuaWVuY2UKICAgIG1ldGhvZHMgZm9yIGNvbXBhcmluZyBzY2hlbWFzLgogICAgIiIiCiAgICBkYXRhOiBMaXN0W1NjaGVtYUZpZWxkSlNPTl0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
