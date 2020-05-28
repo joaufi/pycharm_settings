@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>testing</entry>
-        <entry>local</entry>
-        <entry>instal</entry>
         <entry>VIM</entry>
         <entry>bique</entry>
         <entry>message</entry>
@@ -27,6 +24,9 @@
         <entry>NULLABLE</entry>
         <entry>Enum</entry>
         <entry>PROTEUS</entry>
+        <entry>actual.</entry>
+        <entry>actual\.</entry>
+        <entry>actual</entry>
       </history-search>
       <history-cmd>
         <entry>sort</entry>
@@ -138,12 +138,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/models.py" timestamp="1590619596148">
+      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/models.py" timestamp="1590619692599">
         <mark key="'" line="185" column="0" />
-        <mark key="[" line="73" column="55" />
-        <mark key="]" line="73" column="60" />
-        <mark key="." line="73" column="59" />
-        <mark key="^" line="73" column="60" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="68" column="96" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1464875147/-64550866/git/repo/base.py" timestamp="1590509050836" />
       <file name="$USER_HOME$/repositories/proteus_mutator/docker/entrypoints/run_tests.sh" timestamp="1590545657626">
@@ -186,12 +186,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" timestamp="1590619413477">
-        <mark key="'" line="78" column="65" />
-        <mark key="[" line="57" column="23" />
-        <mark key="]" line="57" column="23" />
-        <mark key="." line="57" column="23" />
-        <mark key="^" line="55" column="20" />
+      <file name="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" timestamp="1590620396491">
+        <mark key="'" line="45" column="11" />
+        <mark key="[" line="16" column="36" />
+        <mark key="]" line="16" column="49" />
+        <mark key="." line="16" column="48" />
+        <mark key="^" line="16" column="49" />
       </file>
       <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/endpoints/schema.py" timestamp="1590544487405">
         <mark key="[" line="24" column="7" />
@@ -205,20 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="4" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
-      <jump line="158" column="4" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/pyplats-automation/docker-compose.yaml" />
-      <jump line="223" column="8" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
-      <jump line="19" column="49" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
-      <jump line="79" column="7" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
-      <jump line="21" column="33" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_48.py" />
-      <jump line="9" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_48.py" />
-      <jump line="44" column="30" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_48.py" />
-      <jump line="74" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_48.py" />
-      <jump line="73" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_48.py" />
-      <jump line="76" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_48.py" />
-      <jump line="71" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_48.py" />
-      <jump line="5" column="10" filename="$USER_HOME$/repositories/docker-devbox/build/devbox/test.dockerfile" />
       <jump line="172" column="29" filename="$USER_HOME$/repositories/dynamic-data-loader/dynamic_data_loader/kafka.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/dynamic-data-loader/dynamic_data_loader/kafka.py" />
       <jump line="7" column="34" filename="$USER_HOME$/repositories/dynamic-data-loader/manage.py" />
@@ -304,7 +290,21 @@
       <jump line="34" column="32" filename="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/models.py" />
       <jump line="22" column="27" filename="$USER_HOME$/repositories/proteus_mutator/docker/entrypoints/run_tests.sh" />
       <jump line="128" column="0" filename="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/models.py" />
-      <jump line="63" column="65" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" />
+      <jump line="83" column="26" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" />
+      <jump line="49" column="4" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" />
+      <jump line="51" column="11" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" />
+      <jump line="63" column="4" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" />
+      <jump line="65" column="11" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" />
+      <jump line="78" column="4" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" />
+      <jump line="80" column="11" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" />
+      <jump line="93" column="4" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" />
+      <jump line="95" column="11" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" />
+      <jump line="14" column="4" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" />
+      <jump line="16" column="11" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" />
+      <jump line="33" column="4" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" />
+      <jump line="35" column="11" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" />
+      <jump line="41" column="4" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" />
+      <jump line="43" column="11" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -998,46 +998,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGljdCA=</text>
+        <text>SOME_REQUIRED_SCHEMA_FIELD_JSON</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGljdCA=</text>
+        <text>SOME_REQUIRED_SCHEMA_FIELD_JSON</text>
       </register>
       <register name="/" type="4">
-        <text>PROTEUS</text>
+        <text>actual</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiIiJFbnN1cmUgZmllbGQgYWxpYXMgaXMgYWx3YXlzIHVzZWQgYXMga2V5IGluIGRpY3QgdW5sZXNzIHNwZWNpZmllZC4iIiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJPdmVycmlkZSBweWRhbnRpYy5CYXNlTW9kZWwuZGljdCBzbyBmaWVsZCBhbGlhcyBpcyBhbHdheXMgdXNlZCBhcyBrZXkKICAgICAgICB1bmxlc3MgZXhwbGljaXRseSBzcGVjaWZpZWQgbm90IHRvLgogICAgICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBLV0FSR19CWV9BTElBUyBub3QgaW4ga3dhcmdzLmtleXMoKToKICAgICAgICAgICAga3dhcmdzW0tXQVJHX0JZX0FMSUFTXSA9IFRydWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdGVkX2pzb24gPSAneyJzY2hlbWFfZmllbGRzIjogW3siZGVzY3JpcHRpb24iOiAiU29tZSBmaWVsZCB0aGF0IHN0b3JlcyBzb21lIGRhdGEuIiwgIm1vZGUiOiAiUkVRVUlSRUQiLCAibmFtZSI6ICJzb21lX2ZpZWxkIiwgInR5cGUiOiAiU1RSSU5HIn0sIHsiZGVzY3JpcHRpb24iOiAiU29tZSBvdGhlciBmaWVsZCB0aGF0IHN0b3JlcyBzb21lIGRhdGEuIiwgIm1vZGUiOiAiTlVMTEFCTEUiLCAibmFtZSI6ICJzb21lX290aGVyX2ZpZWxkIiwgInR5cGUiOiAiU1RSSU5HIn1dfScK</text>
+        <text encoding="base64">ICAgICAgICAiIiJPdmVycmlkZSBweWRhbnRpYy5CYXNlTW9kZWwuZGljdCBzbyBmaWVsZCBhbGlhcyBpcyBhbHdheXMgdXNlZCBhcyBrZXkKICAgICAgICB1bmxlc3MgZXhwbGljaXRseSBzcGVjaWZpZWQgbm90IHRvLgogICAgICAgICIiIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1vZGVsX2F0dHJpYnV0ZV9hbGlhcyA9ICJmaWVsZHMiCg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdGVkX2pzb24gPSAneyJzY2hlbWFfZmllbGRzIjogW3siZGVzY3JpcHRpb24iOiAiU29tZSBmaWVsZCB0aGF0IHN0b3JlcyBzb21lIGRhdGEuIiwgIm1vZGUiOiAiUkVRVUlSRUQiLCAibmFtZSI6ICJzb21lX2ZpZWxkIiwgInR5cGUiOiAiU1RSSU5HIn0sIHsiZGVzY3JpcHRpb24iOiAiU29tZSBvdGhlciBmaWVsZCB0aGF0IHN0b3JlcyBzb21lIGRhdGEuIiwgIm1vZGUiOiAiTlVMTEFCTEUiLCAibmFtZSI6ICJzb21lX290aGVyX2ZpZWxkIiwgInR5cGUiOiAiU1RSSU5HIn1dfScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdGVkX2RpY3QgPSBTT01FX1NDSEVNQV9UQUJMRV9KU09OCg==</text>
+        <text encoding="base64">ICAgIG1vZGVsX2F0dHJpYnV0ZV9hbGlhcyA9ICJmaWVsZHMiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdGVkX2RpY3QgPSBTT01FX1NDSEVNQV9UQUJMRV9KU09OCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEtXQVJHX0JZX0FMSUFTID0gImJ5X2FsaWFzIiAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJWYWxpZGF0ZSB0aGF0IHZhbHVlIGlzIGEgdmFsaWQgbW9kZS4iIiIK</text>
+        <text encoding="base64">ICAgIEtXQVJHX0JZX0FMSUFTID0gImJ5X2FsaWFzIiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNjaGVtYVRhYmxlSlNPTigqKlNPTUVfU0NIRU1BX1RBQkxFX0pTT04pCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiJWYWxpZGF0ZSB0aGF0IHZhbHVlIGlzIGEgdmFsaWQgbW9kZS4iIiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1046,9 +1046,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>PROTEUS</last-search>
+      <last-search>actual</last-search>
       <last-offset />
-      <last-pattern>PROTEUS</last-pattern>
+      <last-pattern>actual</last-pattern>
       <last-replace>failed</last-replace>
       <last-substitute>repeated</last-substitute>
       <last-dir>1</last-dir>
