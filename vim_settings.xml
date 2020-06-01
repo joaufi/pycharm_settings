@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>INF</entry>
         <entry>co</entry>
         <entry>PRO</entry>
         <entry>re</entry>
@@ -25,8 +24,9 @@
         <entry>WARNING</entry>
         <entry>&quot;</entry>
         <entry>req</entry>
-        <entry>service</entry>
         <entry>SERVICE</entry>
+        <entry>service</entry>
+        <entry>net</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
@@ -47,8 +47,8 @@
         <entry>vsplit</entry>
         <entry>Lw</entry>
         <entry>split</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -159,10 +159,12 @@
         <mark key="^" line="41" column="11" />
         <mark key="." line="41" column="10" />
       </file>
-      <file name="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/manage.py" timestamp="1590970945523">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
+      <file name="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/manage.py" timestamp="1590972002151">
+        <mark key="'" line="18" column="33" />
+        <mark key="[" line="88" column="62" />
+        <mark key="]" line="88" column="62" />
+        <mark key="." line="88" column="62" />
+        <mark key="^" line="88" column="64" />
       </file>
       <file name="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/requirements.txt" timestamp="1590784017107">
         <mark key="[" line="0" column="0" />
@@ -194,8 +196,8 @@
         <mark key="." line="29" column="12" />
         <mark key="^" line="29" column="13" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/392668346/-930342159/ddtrace/tracer.py" timestamp="1590965494417">
-        <mark key="'" line="664" column="60" />
+      <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/392668346/-930342159/ddtrace/tracer.py" timestamp="1590971601228">
+        <mark key="'" line="124" column="23" />
       </file>
       <file name="$USER_HOME$/repositories/k8s-helm/charts/wdn-carrier-interface/values.yaml" timestamp="1590769663245">
         <mark key="[" line="38" column="41" />
@@ -205,12 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="17" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/gbq_helper.py" />
-      <jump line="27" column="50" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/settings.py" />
-      <jump line="18" column="6" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/settings.py" />
-      <jump line="21" column="55" filename="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/endpoints/schema.py" />
-      <jump line="23" column="4" filename="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/endpoints/schema.py" />
-      <jump line="1" column="25" filename="$USER_HOME$/repositories/acceleration-service/docker/files/wf-config.ini" />
       <jump line="39" column="0" filename="$USER_HOME$/repositories/proteus_mutator/docker/files/wf-config.ini" />
       <jump line="1" column="0" filename="$USER_HOME$/repositories/proteus_mutator/docker/files/wf-config.ini" />
       <jump line="4" column="7" filename="$USER_HOME$/repositories/proteus_mutator/docker/files/wf-config.ini" />
@@ -305,6 +301,12 @@
       <jump line="660" column="48" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/392668346/-930342159/ddtrace/tracer.py" />
       <jump line="664" column="60" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/392668346/-930342159/ddtrace/tracer.py" />
       <jump line="58" column="20" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/docker-compose.yaml" />
+      <jump line="70" column="41" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/392668346/-930342159/ddtrace/tracer.py" />
+      <jump line="76" column="8" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/392668346/-930342159/ddtrace/tracer.py" />
+      <jump line="124" column="23" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/392668346/-930342159/ddtrace/tracer.py" />
+      <jump line="86" column="11" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/manage.py" />
+      <jump line="4" column="23" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/manage.py" />
+      <jump line="18" column="33" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/manage.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -997,29 +999,29 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFjZXIuCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cnVuIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>SERVICE</text>
+        <text>net</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QHRyYWNlci53cmFwKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFjZXIuCg==</text>
+        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIF9sb2dnZXIuZGVidWcoIlN0YXJ0IHF1ZXJ5aW5nIFByb3RldXMgTXV0YXRvci4iKQoKICAgIHVybCA9ICJodHRwOi8va3ViZS1wcm90ZXVzLW11dGF0b3Iuc2VydmljZS5pbnRyYWRldmJvMS5jb25zdWwuY3Nuem9vLmNvbS8iCiAgICBjbGljay5lY2hvKGYiR0VUIHJlcXVlc3QgdG8ge3VybH0iKQogICAgcmVzcG9uc2UgPSByZXF1ZXN0cy5yZXF1ZXN0KCJHRVQiLCB1cmwpCiAgICBjbGljay5lY2hvKCJSZXNwb25zZToiKQogICAgY2xpY2suZWNobyhyZXNwb25zZS5qc29uKCkpCiAgICBjbGljay5lY2hvKCkKCiAgICB1cmwgPSAiaHR0cDovL2t1YmUtcHJvdGV1cy1tdXRhdG9yLnNlcnZpY2UuaW50cmFkZXZibzEuY29uc3VsLmNzbnpvby5jb20vc2NoZW1hL3YxL3N1Ym1pdCIKICAgIGNsaWNrLmVjaG8oZiJQT1NUIHJlcXVlc3QgdG8ge3VybH0iKQogICAgcGF5bG9hZCA9ICJ7XG4gICAgXCJwcm9qZWN0X2lkXCI6IFwic29tZV9wcm9qZWN0XCIsXG4gICAgXCJkYXRhc2V0X2lkXCI6IFwic29tZV9kYXRhc2V0XCIsXG4gICAgXCJ0YWJsZV9pZFwiOiBcInNvbWVfdGFibGVcIixcbiAgICBcInNjaGVtYVwiOiB7XG4gICAgICAgIFwiZmllbGRzXCI6IFtcbiAgICAgICAgICAgIHtcbiAgICAgICAgICAgICAgICBcIm5hbWVcIjogXCJzb21lX2ZpZWxkXCIsXG4gICAgICAgICAgICAgICAgXCJkZXNjcmlwdGlvblwiOiBcIlNvbWUgZmllbGQgdGhhdCBzdG9yZXMgc29tZSBkYXRhLlwiLFxuICAgICAgICAgICAgICAgIFwidHlwZVwiOiBcIlNUUklOR1wiLFxuICAgICAgICAgICAgICAgIFwibW9kZVwiOiBcIlJFUVVJUkVEXCJcbiAgICAgICAgICAgIH1cbiAgICAgICAgXVxuICAgIH1cbn0iCiAgICBoZWFkZXJzID0gewogICAgICAgICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicKICAgIH0KICAgIHJlc3BvbnNlID0gcmVxdWVzdHMucmVxdWVzdCgiUE9TVCIsIHVybCwgaGVhZGVycz1oZWFkZXJzLCBkYXRhPXBheWxvYWQpCiAgICBjbGljay5lY2hvKCJSZXNwb25zZToiKQogICAgY2xpY2suZWNobyhyZXNwb25zZS5qc29uKCkpCiAgICBjbGljay5lY2hvKCkKCiAgICBfbG9nZ2VyLmRlYnVnKCJGaW5pc2ggcXVlcnlpbmcgUHJvdGV1cyBNdXRhdG9yLiIpCiAgICBjbGljay5lY2hvCg==</text>
+        <text encoding="base64">ICAgICAgICB0cmFjZXIuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHRyYWNlci53cmFwKCkK</text>
+        <text encoding="base64">ICAgIF9sb2dnZXIuZGVidWcoIlN0YXJ0IHF1ZXJ5aW5nIFByb3RldXMgTXV0YXRvci4iKQoKICAgIHVybCA9ICJodHRwOi8va3ViZS1wcm90ZXVzLW11dGF0b3Iuc2VydmljZS5pbnRyYWRldmJvMS5jb25zdWwuY3Nuem9vLmNvbS8iCiAgICBjbGljay5lY2hvKGYiR0VUIHJlcXVlc3QgdG8ge3VybH0iKQogICAgcmVzcG9uc2UgPSByZXF1ZXN0cy5yZXF1ZXN0KCJHRVQiLCB1cmwpCiAgICBjbGljay5lY2hvKCJSZXNwb25zZToiKQogICAgY2xpY2suZWNobyhyZXNwb25zZS5qc29uKCkpCiAgICBjbGljay5lY2hvKCkKCiAgICB1cmwgPSAiaHR0cDovL2t1YmUtcHJvdGV1cy1tdXRhdG9yLnNlcnZpY2UuaW50cmFkZXZibzEuY29uc3VsLmNzbnpvby5jb20vc2NoZW1hL3YxL3N1Ym1pdCIKICAgIGNsaWNrLmVjaG8oZiJQT1NUIHJlcXVlc3QgdG8ge3VybH0iKQogICAgcGF5bG9hZCA9ICJ7XG4gICAgXCJwcm9qZWN0X2lkXCI6IFwic29tZV9wcm9qZWN0XCIsXG4gICAgXCJkYXRhc2V0X2lkXCI6IFwic29tZV9kYXRhc2V0XCIsXG4gICAgXCJ0YWJsZV9pZFwiOiBcInNvbWVfdGFibGVcIixcbiAgICBcInNjaGVtYVwiOiB7XG4gICAgICAgIFwiZmllbGRzXCI6IFtcbiAgICAgICAgICAgIHtcbiAgICAgICAgICAgICAgICBcIm5hbWVcIjogXCJzb21lX2ZpZWxkXCIsXG4gICAgICAgICAgICAgICAgXCJkZXNjcmlwdGlvblwiOiBcIlNvbWUgZmllbGQgdGhhdCBzdG9yZXMgc29tZSBkYXRhLlwiLFxuICAgICAgICAgICAgICAgIFwidHlwZVwiOiBcIlNUUklOR1wiLFxuICAgICAgICAgICAgICAgIFwibW9kZVwiOiBcIlJFUVVJUkVEXCJcbiAgICAgICAgICAgIH1cbiAgICAgICAgXVxuICAgIH1cbn0iCiAgICBoZWFkZXJzID0gewogICAgICAgICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicKICAgIH0KICAgIHJlc3BvbnNlID0gcmVxdWVzdHMucmVxdWVzdCgiUE9TVCIsIHVybCwgaGVhZGVycz1oZWFkZXJzLCBkYXRhPXBheWxvYWQpCiAgICBjbGljay5lY2hvKCJSZXNwb25zZToiKQogICAgY2xpY2suZWNobyhyZXNwb25zZS5qc29uKCkpCiAgICBjbGljay5lY2hvKCkKCiAgICBfbG9nZ2VyLmRlYnVnKCJGaW5pc2ggcXVlcnlpbmcgUHJvdGV1cyBNdXRhdG9yLiIpCiAgICBjbGljay5lY2hvCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">QHRyYWNlci53cmFwKCkK</text>
@@ -1028,16 +1030,16 @@
         <text encoding="base64">QHRyYWNlci53cmFwKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNwYW4gPSB0cmFjZXIudHJhY2UoIikK</text>
+        <text encoding="base64">QHRyYWNlci53cmFwKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgREFUQURPR19TRVJWSUNFX05BTUU6IGphZmlzaGVyLWRkLWFwbS1jbGktaW50ZWdyYXRpb24K</text>
+        <text encoding="base64">ICAgIHNwYW4gPSB0cmFjZXIudHJhY2UoIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QHRyYWNlci53cmFwKCd0cmFjaW5nX3dpdGhfcGFzc2lvbicpCg==</text>
+        <text encoding="base64">ICAgICAgREFUQURPR19TRVJWSUNFX05BTUU6IGphZmlzaGVyLWRkLWFwbS1jbGktaW50ZWdyYXRpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVybCA9ICJodHRwOi8va3ViZS1wcm90ZXVzLW11dGF0b3Iuc2VydmljZS5pbnRyYWRldmJvMS5jb25zdWwuY3Nuem9vLmNvbS8iCiAgICBjbGljay5lY2hvKGYiR0VUIHJlcXVlc3QgdG8ge3VybH0iKQogICAgcmVzcG9uc2UgPSByZXF1ZXN0cy5yZXF1ZXN0KCJHRVQiLCB1cmwpCiAgICBjbGljay5lY2hvKCJSZXNwb25zZToiKQogICAgY2xpY2suZWNobyhyZXNwb25zZS5qc29uKCkpCiAgICBjbGljay5lY2hvKCkK</text>
+        <text encoding="base64">QHRyYWNlci53cmFwKCd0cmFjaW5nX3dpdGhfcGFzc2lvbicpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1046,9 +1048,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>SERVICE</last-search>
+      <last-search>net</last-search>
       <last-offset />
-      <last-pattern>SERVICE</last-pattern>
+      <last-pattern>net</last-pattern>
       <last-replace>failed</last-replace>
       <last-substitute>repeated</last-substitute>
       <last-dir>1</last-dir>
