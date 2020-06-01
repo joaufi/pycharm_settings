@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>clone_repo</entry>
-        <entry>MODE</entry>
         <entry>mode</entry>
         <entry>NULLABLE</entry>
         <entry>Enum</entry>
@@ -27,6 +25,8 @@
         <entry>Arg</entry>
         <entry>re</entry>
         <entry>lock</entry>
+        <entry>dd</entry>
+        <entry>dd-tra</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
@@ -124,10 +124,11 @@
       <file name="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/requirements.lock" timestamp="1590975347772">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/docker-compose.yaml" timestamp="1591022505889">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/docker-compose.yaml" timestamp="1591024909773">
+        <mark key="'" line="45" column="27" />
+        <mark key="[" line="59" column="17" />
+        <mark key="]" line="59" column="17" />
+        <mark key="." line="59" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/manage.py" timestamp="1590976230066">
         <mark key="'" line="138" column="0" />
@@ -202,8 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="59" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/settings.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/settings.py" />
       <jump line="9" column="8" filename="$USER_HOME$/repositories/jupyter-notebook-docker/docker/server.dockerfile" />
       <jump line="23" column="12" filename="$USER_HOME$/repositories/jupyter-notebook-docker/docker/server.dockerfile" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/jupyter-notebook-docker/docker/server.dockerfile" />
@@ -302,6 +301,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/requirements.lock" />
       <jump line="59" column="50" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/docker-compose.yaml" />
       <jump line="137" column="0" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/manage.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/docker-compose.yaml" />
+      <jump line="45" column="27" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/docker-compose.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -994,17 +995,17 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgREFUQURPR19UUkFDRV9FTkFCTEVEOiBmYWxzZQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGR0cmFjZS1ydW4g</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">ZGR0cmFjZS1ydW4g</text>
       </register>
       <register name="/" type="4">
-        <text>lock</text>
+        <text>dd-tra</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVudHJ5cG9pbnQ6ICIvcHllbnYvdmVyc2lvbnMvZGQtYXBtLWNsaS1pbnRlZ3JhdGlvbi9iaW4vZGR0cmFjZS1ydW4gcHl0aG9uIG1hbmFnZS5weSIK</text>
@@ -1043,9 +1044,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>lock</last-search>
+      <last-search>dd-tra</last-search>
       <last-offset />
-      <last-pattern>lock</last-pattern>
+      <last-pattern>dd-tra</last-pattern>
       <last-replace>failed</last-replace>
       <last-substitute>repeated</last-substitute>
       <last-dir>1</last-dir>
