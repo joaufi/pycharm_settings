@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>mode</entry>
         <entry>NULLABLE</entry>
         <entry>Enum</entry>
         <entry>PROTEUS</entry>
@@ -27,6 +26,7 @@
         <entry>lock</entry>
         <entry>dd</entry>
         <entry>dd-tra</entry>
+        <entry>https</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
@@ -35,17 +35,17 @@
         <entry>wk</entry>
         <entry encoding="base64">JzwsJz5zL3JlcGVhdGVkL2ZhaWxlZC9pZw==</entry>
         <entry>:w</entry>
-        <entry>ew</entry>
         <entry>E</entry>
         <entry>e</entry>
         <entry>we</entry>
         <entry>q</entry>
         <entry>qa</entry>
         <entry>wq</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>vsplit</entry>
-        <entry>Lw</entry>
         <entry>split</entry>
+        <entry>ew</entry>
+        <entry>Lw</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>w</entry>
@@ -121,28 +121,27 @@
         <mark key="^" line="13" column="14" />
         <mark key="." line="36" column="14" />
       </file>
-      <file name="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/pytest.ini" timestamp="1591058074367">
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="1" column="26" />
-        <mark key="." line="1" column="25" />
-        <mark key="^" line="1" column="26" />
+      <file name="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/pytest.ini" timestamp="1591059458348">
+        <mark key="[" line="1" column="89" />
+        <mark key="]" line="1" column="94" />
+        <mark key="." line="1" column="93" />
+        <mark key="^" line="1" column="94" />
       </file>
       <file name="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/requirements.lock" timestamp="1590975347772">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/docker-compose.yaml" timestamp="1591025027977">
-        <mark key="'" line="45" column="27" />
-        <mark key="[" line="59" column="17" />
-        <mark key="]" line="59" column="17" />
-        <mark key="." line="59" column="17" />
-        <mark key="^" line="59" column="29" />
+      <file name="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/docker-compose.yaml" timestamp="1591060559288">
+        <mark key="'" line="77" column="3" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="40" column="45" />
+        <mark key="." line="40" column="45" />
+        <mark key="^" line="38" column="36" />
       </file>
-      <file name="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/manage.py" timestamp="1590976230066">
-        <mark key="'" line="138" column="0" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="68" column="0" />
+      <file name="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/manage.py" timestamp="1591061635113">
+        <mark key="[" line="137" column="36" />
+        <mark key="]" line="137" column="36" />
+        <mark key="." line="137" column="36" />
+        <mark key="^" line="138" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/requirements.txt" timestamp="1590975636699">
         <mark key="[" line="0" column="0" />
@@ -151,13 +150,6 @@
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/392668346/-930342159/click/decorators.py" timestamp="1590975222451">
         <mark key="'" line="166" column="8" />
-      </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/models.py" timestamp="1590689433082">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="41" column="17" />
-        <mark key="]" line="41" column="21" />
-        <mark key="." line="41" column="20" />
-        <mark key="^" line="41" column="21" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/392668346/-930342159/ddtrace/tracer.py" timestamp="1590971601228">
         <mark key="'" line="124" column="23" />
@@ -173,20 +165,29 @@
         <mark key="]" line="102" column="14" />
         <mark key="." line="102" column="14" />
       </file>
+      <file name="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/requirements-test.txt" timestamp="1591061554301">
+        <mark key="'" line="9" column="5" />
+      </file>
       <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/common/aerospike_wrapper.py" timestamp="1590692937870">
         <mark key="[" line="123" column="30" />
         <mark key="]" line="123" column="31" />
         <mark key="." line="123" column="31" />
       </file>
-      <file name="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/docker/devbox.dockerfile" timestamp="1591022619443">
-        <mark key="a" line="10" column="0" />
+      <file name="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/docker/devbox.dockerfile" timestamp="1591061534752">
         <mark key="[" line="10" column="0" />
-        <mark key="]" line="9" column="13" />
-        <mark key="." line="9" column="12" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
         <mark key="^" line="9" column="13" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/392668346/-930342159/click/__init__.py" timestamp="1590975087156">
         <mark key="'" line="19" column="29" />
+      </file>
+      <file name="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/tests/test_network_request.py" timestamp="1591061443488">
+        <mark key="'" line="4" column="14" />
+        <mark key="[" line="12" column="62" />
+        <mark key="]" line="13" column="33" />
+        <mark key="." line="13" column="32" />
+        <mark key="^" line="13" column="33" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_52.txt" timestamp="1590712178155">
         <mark key="[" line="0" column="0" />
@@ -194,22 +195,9 @@
         <mark key="^" line="41" column="11" />
         <mark key="." line="41" column="10" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/endpoints/schema.py" timestamp="1590692842127">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/endpoints/sandbox/aerospike.py" timestamp="1590692931683">
-        <mark key="[" line="29" column="10" />
-        <mark key="]" line="29" column="13" />
-        <mark key="." line="29" column="12" />
-        <mark key="^" line="29" column="13" />
-      </file>
+      <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/392668346/-930342159/click/testing.py" timestamp="1591060488935" />
     </filemarks>
     <jumps>
-      <jump line="9" column="8" filename="$USER_HOME$/repositories/jupyter-notebook-docker/docker/server.dockerfile" />
-      <jump line="23" column="12" filename="$USER_HOME$/repositories/jupyter-notebook-docker/docker/server.dockerfile" />
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/jupyter-notebook-docker/docker/server.dockerfile" />
       <jump line="41" column="12" filename="$USER_HOME$/repositories/jupyter-notebook-docker/docker/server.dockerfile" />
       <jump line="17" column="8" filename="$USER_HOME$/repositories/google-cloud-platform-learning/docker-compose.yaml" />
       <jump line="66" column="54" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
@@ -307,6 +295,9 @@
       <jump line="137" column="0" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/manage.py" />
       <jump line="40" column="0" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/docker-compose.yaml" />
       <jump line="45" column="27" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/docker-compose.yaml" />
+      <jump line="76" column="3" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/docker-compose.yaml" />
+      <jump line="23" column="14" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/tests/test_network_request.py" />
+      <jump line="9" column="5" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/requirements-test.txt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1000,46 +991,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">IGFzIHNwYW4=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IGFzIHNwYW4=</text>
       </register>
       <register name="/" type="4">
-        <text>dd-tra</text>
+        <text>https</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVudHJ5cG9pbnQ6ICIvcHllbnYvdmVyc2lvbnMvZGQtYXBtLWNsaS1pbnRlZ3JhdGlvbi9iaW4vZGR0cmFjZS1ydW4gcHl0aG9uIG1hbmFnZS5weSIK</text>
+        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaCgibWFuYWdlLnJlcXVlc3RzIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWRkb3B0cyA9IC0tdmVyYm9zZSAtLWNvdj1tYW5hZ2UucHkgLS1jb3YtcmVwb3J0IHhtbDovdG1wL2NvdmVyYWdlLnhtbCAtLWNvdi1yZXBvcnQgdGVybS1taXNzaW5nCg==</text>
+        <text encoding="base64">cmVxdWVzdHMtbW9jaz09MS44LjAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgREFUQURPR19UUkFDRV9FTkFCTEVEOiBmYWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgRERfQUdFTlRfSE9TVDogImhhcHJveHktYXBtcHJveHkuc2VydmljZS5pbnRyYWRldmJvMS5jb25zdWwuY3Nuem9vLmNvbSIK</text>
+        <text encoding="base64">ICAgIGdldF9tb2NrID0gbW9ja2VyLnBhdGNoKCJtYW5hZ2UucmVxdWVzdHMuZ2V0IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgRERfQUdFTlRfSE9TVDogImhhcHJveHktYXBtcHJveHkuc2VydmljZS5pbnRyYWRldmJvMS5jb25zdWwuY3Nuem9vLmNvbSIKICAgICAgRERfU0VSVklDRTogImRkLWFwbS1jbGktaW50ZWdyYXRpb24iCg==</text>
+        <text encoding="base64">ICAgIGdldF9tb2NrLmFzc2VydF9jYWxsZWRfd2l0aChzb21lX3VybCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgREFUQURPR19UUkFDRV9ERUJVRzogInRydWUiCg==</text>
+        <text encoding="base64">ICAgIGdldF9tb2NrLmFzc2VydF9jYWxsZWRfd2l0aChzb21lX3VybCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGR0cmFjZQpyZXF1ZXN0cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAjIyBERCBBUE0KICAgICMgZnJvbSBpbnNwZWN0IGltcG9ydCBnZXRtZW1iZXJzLCBnZXRtb2R1bGVuYW1lLCBpc2Z1bmN0aW9uCiAgICAjIG1lbWJlcnMgPSBnZXRtZW1iZXJzKF9faW1wb3J0X18oZ2V0bW9kdWxlbmFtZShfX2ZpbGVfXykpKQogICAgIyBjbGljay5lY2hvKGYie21lbWJlcnM9fSIpCiAgICAjIGZ1bmNzID0gW29bMF0gZm9yIG8gaW4gbWVtYmVycyBpZiBpc2Z1bmN0aW9uKG9bMV0pXQogICAgIyBjbGljay5lY2hvKGYie2Z1bmNzPX0iKQogICAgIyBjbGljay5lY2hvKGYie19fZmlsZV9fPX0iKQoK</text>
+        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVybCA9ICJodHRwczovL3d3dy53YXlmYWlyLmNvbSIK</text>
+        <text encoding="base64">ICAgIHJlcXVlc3RzX21vY2sgPSBtb2NrZXIucGF0Y2goIm1hbmFnZS5yZXF1ZXN0cyIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1048,9 +1039,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>dd-tra</last-search>
+      <last-search>https</last-search>
       <last-offset />
-      <last-pattern>dd-tra</last-pattern>
+      <last-pattern>https</last-pattern>
       <last-replace>failed</last-replace>
       <last-substitute>repeated</last-substitute>
       <last-dir>1</last-dir>
