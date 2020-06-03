@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>actual</entry>
-        <entry>schema_info</entry>
         <entry>WARNING</entry>
         <entry>&quot;</entry>
         <entry>req</entry>
@@ -27,6 +25,8 @@
         <entry>DD_SERVICE</entry>
         <entry>tracer</entry>
         <entry>test_clone_repo</entry>
+        <entry>commit</entry>
+        <entry>commit_h</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
@@ -139,7 +139,8 @@
         <mark key="^" line="80" column="59" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/acceleration-service/acceleration_service/util/git.py" timestamp="1591142725021">
+      <file name="$USER_HOME$/repositories/acceleration-service/acceleration_service/util/git.py" timestamp="1591144809663">
+        <mark key="'" line="187" column="14" />
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="138" />
       </file>
@@ -187,8 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="57" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
-      <jump line="79" column="70" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
       <jump line="84" column="62" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
       <jump line="89" column="34" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
       <jump line="102" column="63" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
@@ -287,6 +286,8 @@
       <jump line="80" column="6" filename="$USER_HOME$/repositories/python-platforms-project-templates/templates/cli-application/{{cookiecutter.package_distribution_name}}/docker-compose.yaml" />
       <jump line="10" column="25" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/manage.py" />
       <jump line="15" column="4" filename="$USER_HOME$/repositories/acceleration-service/tests/util/test_git.py" />
+      <jump line="181" column="0" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/util/git.py" />
+      <jump line="187" column="14" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/util/git.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -989,7 +990,7 @@
         <text>upper</text>
       </register>
       <register name="/" type="4">
-        <text>test_clone_repo</text>
+        <text>commit_h</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBvciBmImh0dHBzOi8ve3NldHRpbmdzLmdpdGh1Yl9nZW5lcmF0aW9uX25hbWVzcGFjZX06e3NldHRpbmdzLmdpdGh1Yl9hY2Nlc3NfdG9rZW59QGdpdGh1Yi5jc256b28uY29tL3tyZXBvX293bmVyfS97cmVwb19uYW1lfS5naXQiCg==</text>
@@ -1028,9 +1029,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>test_clone_repo</last-search>
+      <last-search>commit_h</last-search>
       <last-offset />
-      <last-pattern>test_clone_repo</last-pattern>
+      <last-pattern>commit_h</last-pattern>
       <last-replace>failed</last-replace>
       <last-substitute>repeated</last-substitute>
       <last-dir>1</last-dir>
