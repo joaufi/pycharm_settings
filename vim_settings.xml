@@ -42,12 +42,12 @@
         <entry>qa</entry>
         <entry>wq</entry>
         <entry>vsplit</entry>
-        <entry>split</entry>
         <entry>ew</entry>
         <entry>Lw</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
+        <entry>split</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -106,12 +106,6 @@
       <file name="$USER_HOME$/repositories/acceleration-service/tests/util/test_git.py" timestamp="1591143675313">
         <mark key="'" line="15" column="4" />
       </file>
-      <file name="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/pytest.ini" timestamp="1591059458348">
-        <mark key="[" line="1" column="89" />
-        <mark key="]" line="1" column="94" />
-        <mark key="." line="1" column="93" />
-        <mark key="^" line="1" column="94" />
-      </file>
       <file name="$USER_HOME$/repositories/python-platforms-project-templates/templates/cli-application/click-spec.py" timestamp="1591125056446" />
       <file name="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/docker-compose.yaml" timestamp="1591119005195">
         <mark key="'" line="77" column="3" />
@@ -131,6 +125,12 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/settings.py" timestamp="1591149377092">
+        <mark key="[" line="80" column="33" />
+        <mark key="]" line="80" column="34" />
+        <mark key="^" line="80" column="34" />
+        <mark key="." line="80" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/python-platforms-project-templates/templates/cli-application/{{cookiecutter.package_distribution_name}}/docker-compose.yaml" timestamp="1591125119981">
         <mark key="'" line="80" column="6" />
@@ -173,7 +173,6 @@
         <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/python-platforms-project-templates/docker-compose.yaml" timestamp="1591133753136" />
-      <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/392668346/-930342159/click/testing.py" timestamp="1591060488935" />
       <file name="$USER_HOME$/repositories/python-platforms-project-templates/templates/cli-application/{{cookiecutter.package_distribution_name}}/requirements.lock" timestamp="1591125141203">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="58" />
@@ -981,46 +980,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvciBmImh0dHBzOi8ve3NldHRpbmdzLmdpdGh1Yl9nZW5lcmF0aW9uX25hbWVzcGFjZX06e3NldHRpbmdzLmdpdGh1Yl9hY2Nlc3NfdG9rZW59QGdpdGh1Yi5jc256b28uY29tL3tyZXBvX293bmVyfS97cmVwb19uYW1lfS5naXQiCg==</text>
+        <text encoding="base64">ICAgICAgICBnaXRodWI9R2l0SHViQ29uZmlnKAogICAgICAgICAgICBhdXRoX3Rva2VuPXdmX3NlY3JldHMuZ2V0KCJzYS1wcm90ZXVzLWdpdHViIiksCiAgICAgICAgICAgIHVzZXI9InNhLXByb3RldXMiLAogICAgICAgICkK</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>upper</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>commit_h</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvciBmImh0dHBzOi8ve3NldHRpbmdzLmdpdGh1Yl9nZW5lcmF0aW9uX25hbWVzcGFjZX06e3NldHRpbmdzLmdpdGh1Yl9hY2Nlc3NfdG9rZW59QGdpdGh1Yi5jc256b28uY29tL3tyZXBvX293bmVyfS97cmVwb19uYW1lfS5naXQiCg==</text>
+        <text encoding="base64">ICAgICAgICBnaXRodWI9R2l0SHViQ29uZmlnKAogICAgICAgICAgICBhdXRoX3Rva2VuPXdmX3NlY3JldHMuZ2V0KCJzYS1wcm90ZXVzLWdpdHViIiksCiAgICAgICAgICAgIHVzZXI9InNhLXByb3RldXMiLAogICAgICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgRERfU0VSVklDRTogInt7Y29va2llY3V0dGVyLnBhY2thZ2VfaW1wb3J0X25hbWV8dXBwZXJ9fSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgREFUQURPR19UUkFDRV9FTkFCTEVEOiAiZmFsc2UiCiAgICAgIFBZRU5WX1ZFUlNJT046ICJ7e2Nvb2tpZWN1dHRlci5wYWNrYWdlX2Rpc3RyaWJ1dGlvbl9uYW1lfX0iCg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRoX3Rva2VuOiBzdHIgPSB3Zl9zZWNyZXRzLmdldCgic2EtcHJvdGV1cy1naXRodWIiKQogICAgICAgIHVzZXJuYW1lOiBzdHIgPSAic2EtcHJvdGV1cy1kZXYiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgUFlFTlZfVkVSU0lPTjogInt7Y29va2llY3V0dGVyLnBhY2thZ2VfZGlzdHJpYnV0aW9uX25hbWV9fSIK</text>
+        <text encoding="base64">ICAgIEBkYXRhY2xhc3MKICAgIGNsYXNzIERldjoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAge3tjb29raWVjdXR0ZXIucGFja2FnZV9pbXBvcnRfbmFtZXx1cHBlcn19X0NPTkZJRzogImxvY2FsIgo=</text>
+        <text encoding="base64">ICAgIEBkYXRhY2xhc3MKICAgIGNsYXNzIFByb2Q6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSB7e2Nvb2tpZWN1dHRlci5wYWNrYWdlX2ltcG9ydF9uYW1lfX0ubWVzc2FnZXMgaW1wb3J0IHNheV9oZWxsbywgc2F5X2dvb2RieWUK</text>
+        <text encoding="base64">ICAgIEBkYXRhY2xhc3MKICAgIGNsYXNzIFByb2Q6CiAgICAgICAgYXV0aF90b2tlbjogc3RyID0gd2Zfc2VjcmV0cy5nZXQoInNhLXByb3RldXMtZ2l0aHViIikKICAgICAgICB1c2VybmFtZTogc3RyID0gInNhLXByb3RldXMtZGV2Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB7e2Nvb2tpZWN1dHRlci5wYWNrYWdlX2ltcG9ydF9uYW1lfX0ua3ViZXJuZXRlcyBpbXBvcnQgYXBwbGljYXRpb25fbGl2ZW5lc3NfcHJvYmUsIGFwcGxpY2F0aW9uX3JlYWRpbmVzc19wcm9iZQo=</text>
+        <text encoding="base64">QGRhdGFjbGFzcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHdmX3N0YXRzCg==</text>
+        <text encoding="base64">CgpAZGF0YWNsYXNzCmNsYXNzIEdpdEh1YjoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
