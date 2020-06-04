@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>WARNING</entry>
         <entry>&quot;</entry>
         <entry>req</entry>
         <entry>SERVICE</entry>
@@ -27,6 +26,7 @@
         <entry>test_clone_repo</entry>
         <entry>commit</entry>
         <entry>commit_h</entry>
+        <entry>def push</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
@@ -103,6 +103,41 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/util/git.py" timestamp="1591274278863">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="13" />
+        <mark key="^" line="6" column="13" />
+        <mark key="." line="6" column="12" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1464875147/-64550866/git/remote.py" timestamp="1591268460389">
+        <mark key="'" line="402" column="34" />
+      </file>
+      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/settings.py" timestamp="1591274164914">
+        <mark key="'" line="56" column="43" />
+        <mark key="[" line="76" column="56" />
+        <mark key="]" line="76" column="56" />
+        <mark key="." line="76" column="56" />
+        <mark key="^" line="76" column="39" />
+      </file>
+      <file name="$USER_HOME$/repositories/python-platforms-project-templates/templates/cli-application/{{cookiecutter.package_distribution_name}}/docker-compose.yaml" timestamp="1591125119981">
+        <mark key="'" line="80" column="6" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="62" />
+        <mark key="^" line="80" column="59" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/python-platforms-project-templates/templates/cli-application/{{cookiecutter.package_distribution_name}}/requirements.lock" timestamp="1591125141203">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="58" />
+        <mark key="^" line="0" column="58" />
+        <mark key="." line="0" column="57" />
+      </file>
+      <file name="$USER_HOME$/repositories/python-platforms-project-templates/templates/cli-application/{{cookiecutter.package_distribution_name}}/pytest.ini" timestamp="1591120414077">
+        <mark key="[" line="1" column="63" />
+        <mark key="]" line="1" column="76" />
+        <mark key="^" line="1" column="76" />
+        <mark key="." line="1" column="75" />
+      </file>
       <file name="$USER_HOME$/repositories/acceleration-service/tests/util/test_git.py" timestamp="1591143675313">
         <mark key="'" line="15" column="4" />
       </file>
@@ -128,25 +163,12 @@
         <mark key="." line="137" column="36" />
         <mark key="^" line="138" column="13" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/settings.py" timestamp="1591199558104">
-        <mark key="[" line="76" column="56" />
-        <mark key="]" line="76" column="56" />
-        <mark key="." line="76" column="56" />
-        <mark key="^" line="76" column="39" />
-      </file>
-      <file name="$USER_HOME$/repositories/python-platforms-project-templates/templates/cli-application/{{cookiecutter.package_distribution_name}}/docker-compose.yaml" timestamp="1591125119981">
-        <mark key="'" line="80" column="6" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="62" />
-        <mark key="^" line="80" column="59" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/acceleration-service/acceleration_service/util/git.py" timestamp="1591268328212">
+      <file name="$USER_HOME$/repositories/acceleration-service/acceleration_service/util/git.py" timestamp="1591268453250">
         <mark key="'" line="105" column="17" />
-        <mark key="[" line="269" column="47" />
-        <mark key="]" line="271" column="27" />
-        <mark key="^" line="271" column="27" />
-        <mark key="." line="271" column="26" />
+        <mark key="[" line="13" column="47" />
+        <mark key="]" line="13" column="55" />
+        <mark key="^" line="13" column="55" />
+        <mark key="." line="13" column="54" />
       </file>
       <file name="$USER_HOME$/repositories/python-platforms-project-templates/templates/cli-application/{{cookiecutter.package_distribution_name}}/requirements.txt" timestamp="1591118649160">
         <mark key="[" line="2" column="15" />
@@ -163,22 +185,8 @@
         <mark key="^" line="15" column="1" />
       </file>
       <file name="$USER_HOME$/repositories/python-platforms-project-templates/docker-compose.yaml" timestamp="1591133753136" />
-      <file name="$USER_HOME$/repositories/python-platforms-project-templates/templates/cli-application/{{cookiecutter.package_distribution_name}}/requirements.lock" timestamp="1591125141203">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="58" />
-        <mark key="^" line="0" column="58" />
-        <mark key="." line="0" column="57" />
-      </file>
-      <file name="$USER_HOME$/repositories/python-platforms-project-templates/templates/cli-application/{{cookiecutter.package_distribution_name}}/pytest.ini" timestamp="1591120414077">
-        <mark key="[" line="1" column="63" />
-        <mark key="]" line="1" column="76" />
-        <mark key="^" line="1" column="76" />
-        <mark key="." line="1" column="75" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="63" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
-      <jump line="104" column="61" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
       <jump line="28" column="6" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/pipeline.py" />
       <jump line="105" column="8" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/pipeline.py" />
       <jump line="107" column="8" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/pipeline.py" />
@@ -277,6 +285,8 @@
       <jump line="187" column="14" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/util/git.py" />
       <jump line="30" column="0" filename="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/models.py" />
       <jump line="105" column="17" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/util/git.py" />
+      <jump line="402" column="34" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1464875147/-64550866/git/remote.py" />
+      <jump line="56" column="43" filename="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/settings.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -979,7 +989,7 @@
         <text>(BaseModel)</text>
       </register>
       <register name="/" type="4">
-        <text>commit_h</text>
+        <text>def push</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBnaXRodWI9R2l0SHViQ29uZmlnKAogICAgICAgICAgICBhdXRoX3Rva2VuPXdmX3NlY3JldHMuZ2V0KCJzYS1wcm90ZXVzLWdpdHViIiksCiAgICAgICAgICAgIHVzZXI9InNhLXByb3RldXMiLAogICAgICAgICkK</text>
@@ -1018,9 +1028,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>commit_h</last-search>
+      <last-search>def push</last-search>
       <last-offset />
-      <last-pattern>commit_h</last-pattern>
+      <last-pattern>def push</last-pattern>
       <last-replace>failed</last-replace>
       <last-substitute>repeated</last-substitute>
       <last-dir>1</last-dir>
