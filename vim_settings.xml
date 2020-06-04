@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>SERVICE</entry>
         <entry>service</entry>
         <entry>net</entry>
         <entry>option</entry>
@@ -27,6 +26,7 @@
         <entry>def push</entry>
         <entry>Owner</entry>
         <entry>Employee</entry>
+        <entry>raise</entry>
       </history-search>
       <history-cmd>
         <entry>r</entry>
@@ -103,11 +103,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/util/git.py" timestamp="1591284453879">
-        <mark key="[" line="24" column="24" />
-        <mark key="]" line="24" column="50" />
-        <mark key="." line="24" column="49" />
-        <mark key="^" line="24" column="50" />
+      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/util/git.py" timestamp="1591291883653">
+        <mark key="[" line="82" column="75" />
+        <mark key="]" line="84" column="58" />
+        <mark key="." line="84" column="57" />
+        <mark key="^" line="84" column="58" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1464875147/-64550866/git/remote.py" timestamp="1591268460389">
         <mark key="'" line="402" column="34" />
@@ -142,6 +142,12 @@
         <mark key="'" line="15" column="4" />
       </file>
       <file name="$USER_HOME$/repositories/python-platforms-project-templates/templates/cli-application/click-spec.py" timestamp="1591125056446" />
+      <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1881416252/-1386590301/git/util.py" timestamp="1591291594995">
+        <mark key="[" line="540" column="8" />
+        <mark key="]" line="540" column="8" />
+        <mark key="^" line="540" column="8" />
+        <mark key="." line="540" column="7" />
+      </file>
       <file name="$USER_HOME$/repositories/acceleration-service/acceleration_service/util/github.py" timestamp="1591266770666" />
       <file name="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/docker-compose.yaml" timestamp="1591119005195">
         <mark key="'" line="77" column="3" />
@@ -172,24 +178,17 @@
       <file name="$USER_HOME$/repositories/acceleration-service/acceleration_service/models.py" timestamp="1591286915123">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/acceleration-service/acceleration_service/util/git.py" timestamp="1591275871304">
-        <mark key="'" line="105" column="17" />
+      <file name="$USER_HOME$/repositories/acceleration-service/acceleration_service/util/git.py" timestamp="1591291217216">
+        <mark key="'" line="72" column="18" />
         <mark key="[" line="13" column="47" />
         <mark key="]" line="13" column="55" />
         <mark key="^" line="13" column="55" />
         <mark key="." line="13" column="54" />
       </file>
-      <file name="$USER_HOME$/repositories/python-platforms-project-templates/templates/cli-application/{{cookiecutter.package_distribution_name}}/requirements.txt" timestamp="1591118649160">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="3" column="16" />
-        <mark key="^" line="3" column="16" />
-        <mark key="." line="3" column="15" />
-      </file>
       <file name="$USER_HOME$/repositories/proteus_mutator/docker/files/secrets/dek/credentials.aes128" timestamp="1591199477457" />
       <file name="$USER_HOME$/repositories/python-platforms-project-templates/docker-compose.yaml" timestamp="1591133753136" />
     </filemarks>
     <jumps>
-      <jump line="107" column="8" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/pipeline.py" />
       <jump line="108" column="17" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/pipeline.py" />
       <jump line="113" column="8" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/pipeline.py" />
       <jump line="115" column="8" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/pipeline.py" />
@@ -289,6 +288,7 @@
       <jump line="56" column="43" filename="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/settings.py" />
       <jump line="219" column="9" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/models.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/models.py" />
+      <jump line="72" column="18" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/util/git.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -982,46 +982,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhY3RvciA9IEFjdG9yKG5hbWUsIGVtYWlsKQo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IGlmIHB1c2hfaW5mbyBlbHNlIEZhbHNl</text>
       </register>
       <register name="/" type="4">
-        <text>Employee</text>
+        <text>raise</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDpwYXJhbSB1c2VybmFtZTogVXNlcm5hbWUgY29tbWl0dGluZyB0aGUgZmlsZXMuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhY3RvciA9IEFjdG9yKG5hbWUsIGVtYWlsKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb21taXRfaGFzaCA9IHJlcG8uaGVhZC5vYmplY3QuaGV4c2hhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1c2hfaW5mbyA9IHJlc3VsdFswXQo=</text>
+        <text encoding="base64">ICAgICAgICBjb21taXRfaGFzaCA9IHJlcG8uaGVhZC5vYmplY3QuaGV4c2hhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeTpkCg==</text>
+        <text encoding="base64">ICAgIGNvbW1pdF9oYXNoID0gcmVwby5oZWFkLm9iamVjdC5oZXhzaGEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1c2hfaW5mbyA9IE5vbmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">R0lUSFVCX1VSTCA9IGYiaHR0cHM6Ly97c2V0dGluZ3MuZ2l0aHViLnVzZXJ9OntzZXR0aW5ncy5naXRodWIuYXV0aF90b2tlbn1Ae3NldHRpbmdzLmdpdGh1Yi51cmx9Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIENoZWNrIGZvciBwcmVzZW5jZSBvZiB0aGUgZXJyb3IgZmxhZyBpbiB0aGUgcmV0dXJuZWQgZmxhZ3MgYml0bWFzay4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFNlZToK</text>
+        <text encoding="base64">ICAgIDpyYWlzZXMgR2l0VXRpbEVycm9yOiBFcnJvciBjbG9uaW5nIHJlcG9zaXRvcnkuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEdpdFB5dGhvbidzIHJlbW90ZSBvcGVyYXRpb25zIHVzZSBiaXRmbGFncyB0byBpbmRpY2F0ZSBzdGF0dXMgb2Ygb3BlcmF0aW9ucy4K</text>
+        <text encoding="base64">ICAgIHJlcG8gPSBOb25lCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1030,9 +1030,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Employee</last-search>
+      <last-search>raise</last-search>
       <last-offset />
-      <last-pattern>Employee</last-pattern>
+      <last-pattern>raise</last-pattern>
       <last-replace>failed</last-replace>
       <last-substitute>repeated</last-substitute>
       <last-dir>1</last-dir>
