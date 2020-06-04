@@ -133,13 +133,6 @@
         <mark key="." line="76" column="56" />
         <mark key="^" line="76" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/models.py" timestamp="1591203148539">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="32" column="21" />
-        <mark key="]" line="32" column="21" />
-        <mark key="." line="32" column="21" />
-        <mark key="^" line="31" column="23" />
-      </file>
       <file name="$USER_HOME$/repositories/python-platforms-project-templates/templates/cli-application/{{cookiecutter.package_distribution_name}}/docker-compose.yaml" timestamp="1591125119981">
         <mark key="'" line="80" column="6" />
         <mark key="[" line="45" column="0" />
@@ -147,8 +140,8 @@
         <mark key="^" line="80" column="59" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/acceleration-service/acceleration_service/util/git.py" timestamp="1591144809663">
-        <mark key="'" line="187" column="14" />
+      <file name="$USER_HOME$/repositories/acceleration-service/acceleration_service/util/git.py" timestamp="1591266500161">
+        <mark key="'" line="105" column="17" />
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="138" />
       </file>
@@ -187,7 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="34" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
       <jump line="102" column="63" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
       <jump line="104" column="61" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/pipeline/keyword_search.py" />
       <jump line="28" column="6" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/pipeline.py" />
@@ -287,6 +279,7 @@
       <jump line="181" column="0" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/util/git.py" />
       <jump line="187" column="14" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/util/git.py" />
       <jump line="30" column="0" filename="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/models.py" />
+      <jump line="105" column="17" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/util/git.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -979,8 +972,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>(BaseModel)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG5hbWU6IHN0cgogICAgdHlwZTogc3RyCg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -995,31 +988,31 @@
         <text encoding="base64">ICAgICAgICBnaXRodWI9R2l0SHViQ29uZmlnKAogICAgICAgICAgICBhdXRoX3Rva2VuPXdmX3NlY3JldHMuZ2V0KCJzYS1wcm90ZXVzLWdpdHViIiksCiAgICAgICAgICAgIHVzZXI9InNhLXByb3RldXMiLAogICAgICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5hbWU6IHN0cgogICAgdHlwZTogc3RyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoX3Rva2VuOiBzdHIgPSB3Zl9zZWNyZXRzLmdldCgic2EtcHJvdGV1cy1naXRodWIiKQogICAgICAgIHVzZXJuYW1lOiBzdHIgPSAic2EtcHJvdGV1cy1kZXYiCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBkYXRhY2xhc3MKICAgIGNsYXNzIERldjoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBkYXRhY2xhc3MKICAgIGNsYXNzIFByb2Q6Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBkYXRhY2xhc3MKICAgIGNsYXNzIFByb2Q6CiAgICAgICAgYXV0aF90b2tlbjogc3RyID0gd2Zfc2VjcmV0cy5nZXQoInNhLXByb3RldXMtZ2l0aHViIikKICAgICAgICB1c2VybmFtZTogc3RyID0gInNhLXByb3RldXMtZGV2Igo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">QGRhdGFjbGFzcwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhdXRoX3Rva2VuOiBzdHIgPSB3Zl9zZWNyZXRzLmdldCgic2EtcHJvdGV1cy1naXRodWIiKQogICAgICAgIHVzZXJuYW1lOiBzdHIgPSAic2EtcHJvdGV1cy1kZXYiCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBkYXRhY2xhc3MKICAgIGNsYXNzIERldjoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBkYXRhY2xhc3MKICAgIGNsYXNzIFByb2Q6Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBkYXRhY2xhc3MKICAgIGNsYXNzIFByb2Q6CiAgICAgICAgYXV0aF90b2tlbjogc3RyID0gd2Zfc2VjcmV0cy5nZXQoInNhLXByb3RldXMtZ2l0aHViIikKICAgICAgICB1c2VybmFtZTogc3RyID0gInNhLXByb3RldXMtZGV2Igo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">QGRhdGFjbGFzcwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CgpAZGF0YWNsYXNzCmNsYXNzIEdpdEh1YjoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
