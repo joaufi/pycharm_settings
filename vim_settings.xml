@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>&quot;</entry>
-        <entry>req</entry>
         <entry>SERVICE</entry>
         <entry>service</entry>
         <entry>net</entry>
@@ -27,6 +25,8 @@
         <entry>commit</entry>
         <entry>commit_h</entry>
         <entry>def push</entry>
+        <entry>Owner</entry>
+        <entry>Employee</entry>
       </history-search>
       <history-cmd>
         <entry>r</entry>
@@ -169,6 +169,9 @@
         <mark key="^" line="0" column="43" />
         <mark key="." line="0" column="42" />
       </file>
+      <file name="$USER_HOME$/repositories/acceleration-service/acceleration_service/models.py" timestamp="1591286915123">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/acceleration-service/acceleration_service/util/git.py" timestamp="1591275871304">
         <mark key="'" line="105" column="17" />
         <mark key="[" line="13" column="47" />
@@ -183,18 +186,9 @@
         <mark key="." line="3" column="15" />
       </file>
       <file name="$USER_HOME$/repositories/proteus_mutator/docker/files/secrets/dek/credentials.aes128" timestamp="1591199477457" />
-      <file name="$USER_HOME$/repositories/python-platforms-project-templates/templates/cli-application/{{cookiecutter.package_distribution_name}}/manage.py" timestamp="1591118491657">
-        <mark key="'" line="78" column="9" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="80" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="15" column="1" />
-      </file>
       <file name="$USER_HOME$/repositories/python-platforms-project-templates/docker-compose.yaml" timestamp="1591133753136" />
     </filemarks>
     <jumps>
-      <jump line="28" column="6" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/pipeline.py" />
-      <jump line="105" column="8" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/pipeline.py" />
       <jump line="107" column="8" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/pipeline.py" />
       <jump line="108" column="17" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/pipeline.py" />
       <jump line="113" column="8" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/common/pipeline.py" />
@@ -293,6 +287,8 @@
       <jump line="105" column="17" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/util/git.py" />
       <jump line="402" column="34" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1464875147/-64550866/git/remote.py" />
       <jump line="56" column="43" filename="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/settings.py" />
+      <jump line="219" column="9" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/models.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -995,7 +991,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>def push</text>
+        <text>Employee</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDpwYXJhbSB1c2VybmFtZTogVXNlcm5hbWUgY29tbWl0dGluZyB0aGUgZmlsZXMuCg==</text>
@@ -1034,9 +1030,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>def push</last-search>
+      <last-search>Employee</last-search>
       <last-offset />
-      <last-pattern>def push</last-pattern>
+      <last-pattern>Employee</last-pattern>
       <last-replace>failed</last-replace>
       <last-substitute>repeated</last-substitute>
       <last-dir>1</last-dir>
