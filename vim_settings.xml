@@ -103,12 +103,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/util/git.py" timestamp="1591375758208">
+      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/util/git.py" timestamp="1591375787292">
         <mark key="'" line="61" column="29" />
-        <mark key="[" line="49" column="73" />
-        <mark key="]" line="49" column="74" />
-        <mark key="^" line="49" column="74" />
-        <mark key="." line="49" column="73" />
+        <mark key="[" line="42" column="14" />
+        <mark key="]" line="42" column="40" />
+        <mark key="^" line="42" column="40" />
+        <mark key="." line="42" column="39" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1464875147/-64550866/git/remote.py" timestamp="1591268460389">
         <mark key="'" line="402" column="34" />
@@ -978,14 +978,14 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3Blbihzb21lX2ZpbGVfcGF0aCwgInciKSBhcyBzb21lX2ZpbGU6CiAgICAgICAgc29tZV9maWxlLndyaXRlKCJzb21lIGZpbGUgY29udGVudCIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>staged</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>add</text>
+        <text>staged</text>
       </register>
       <register name="/" type="4">
         <text>def s</text>
