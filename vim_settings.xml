@@ -42,12 +42,12 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>&quot;w</entry>
         <entry>wq</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>vsplit</entry>
         <entry>q</entry>
         <entry>qa</entry>
         <entry>split</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -149,11 +149,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/tests/git/test_git.py" timestamp="1591360482491">
-        <mark key="[" line="20" column="43" />
-        <mark key="]" line="20" column="44" />
-        <mark key="." line="20" column="44" />
-        <mark key="^" line="23" column="18" />
+      <file name="$USER_HOME$/repositories/proteus_mutator/tests/git/test_git.py" timestamp="1591361913994">
+        <mark key="'" line="33" column="27" />
+        <mark key="[" line="33" column="41" />
+        <mark key="]" line="33" column="42" />
+        <mark key="." line="33" column="41" />
+        <mark key="^" line="33" column="42" />
       </file>
       <file name="$USER_HOME$/repositories/acceleration-service/acceleration_service/models.py" timestamp="1591286915123">
         <mark key="'" line="0" column="0" />
@@ -178,8 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="28" filename="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/models.py" />
-      <jump line="3" column="17" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/abc/action.py" />
       <jump line="26" column="15" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/abc/action.py" />
       <jump line="51" column="0" filename="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/models.py" />
       <jump line="34" column="32" filename="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/models.py" />
@@ -278,6 +277,8 @@
       <jump line="169" column="0" filename="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/common/modules/aerospike_wrapper.py" />
       <jump line="132" column="38" filename="$USER_HOME$/repositories/acceleration-service/tests/util/test_git.py" />
       <jump line="255" column="23" filename="$USER_HOME$/repositories/acceleration-service/tests/util/test_git.py" />
+      <jump line="30" column="14" filename="$USER_HOME$/repositories/proteus_mutator/tests/git/test_git.py" />
+      <jump line="33" column="27" filename="$USER_HOME$/repositories/proteus_mutator/tests/git/test_git.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -971,13 +972,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>url</text>
+        <text>)</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>clone</text>
@@ -986,31 +987,31 @@
         <text encoding="base64">ICAgIGFjdHVhbF9yZXBvID0gZ2l0LmNsb25lKFNPTUVfUkVQT19PV05FUiwgU09NRV9SRVBPX05BTUUsIFNPTUVfUEFUSCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnaXQuY2xvbmUoKQo=</text>
+        <text encoding="base64">aW1wb3J0IHBhdGhsaWIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBwcm90ZXVzX211dGF0b3IudXRpbC5naXQgaW1wb3J0IEdpdFV0aWxFcnJvcgo=</text>
+        <text encoding="base64">ICAgICAgICByZXBvLmluZGV4LmFkZCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHJlcG8uaW5kZXguYWRkKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNvbWVfZmlsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICYmIHl1bSBybSAtcmYgCg==</text>
+        <text encoding="base64">ICAgICAgICBnaXQuY2xvbmUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBwcm90ZXVzX211dGF0b3IudXRpbC5naXQgaW1wb3J0IEdpdFV0aWxFcnJvcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBwcm90ZXVzX211dGF0b3IuZ2l0IGltcG9ydCBjbG9uZQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdpdC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
