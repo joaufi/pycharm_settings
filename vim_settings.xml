@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>https</entry>
         <entry>__main__</entry>
         <entry>network_request</entry>
         <entry>DD_SERVICE</entry>
@@ -27,6 +26,7 @@
         <entry>read_schema_status</entry>
         <entry>def write</entry>
         <entry>clone</entry>
+        <entry>def s</entry>
       </history-search>
       <history-cmd>
         <entry>r</entry>
@@ -44,10 +44,10 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>vsplit</entry>
-        <entry>q</entry>
         <entry>qa</entry>
         <entry>split</entry>
         <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -103,11 +103,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/util/git.py" timestamp="1591360505923">
-        <mark key="[" line="34" column="88" />
-        <mark key="]" line="34" column="92" />
-        <mark key="." line="34" column="91" />
-        <mark key="^" line="34" column="92" />
+      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/util/git.py" timestamp="1591369919241">
+        <mark key="'" line="59" column="29" />
+        <mark key="^" line="46" column="34" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1464875147/-64550866/git/remote.py" timestamp="1591268460389">
         <mark key="'" line="402" column="34" />
@@ -143,18 +141,23 @@
         <mark key="." line="540" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/acceleration-service/acceleration_service/util/github.py" timestamp="1591266770666" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_53.txt" timestamp="1591368880073">
+        <mark key="[" line="9" column="156" />
+        <mark key="]" line="9" column="157" />
+        <mark key="^" line="9" column="156" />
+        <mark key="." line="9" column="157" />
+      </file>
       <file name="$USER_HOME$/repositories/proteus_mutator/docker/files/secrets/credentials/sa-proteus-github.aes128" timestamp="1591199483386">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/tests/git/test_git.py" timestamp="1591361913994">
+      <file name="$USER_HOME$/repositories/proteus_mutator/tests/git/test_git.py" timestamp="1591369350366">
         <mark key="'" line="33" column="27" />
-        <mark key="[" line="33" column="41" />
-        <mark key="]" line="33" column="42" />
-        <mark key="." line="33" column="41" />
-        <mark key="^" line="33" column="42" />
+        <mark key="[" line="28" column="74" />
+        <mark key="]" line="28" column="74" />
+        <mark key="." line="28" column="74" />
       </file>
       <file name="$USER_HOME$/repositories/acceleration-service/acceleration_service/models.py" timestamp="1591286915123">
         <mark key="'" line="0" column="0" />
@@ -179,7 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="15" filename="$USER_HOME$/repositories/acceleration-service/acceleration_service/abc/action.py" />
       <jump line="51" column="0" filename="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/models.py" />
       <jump line="34" column="32" filename="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/models.py" />
       <jump line="22" column="27" filename="$USER_HOME$/repositories/proteus_mutator/docker/entrypoints/run_tests.sh" />
@@ -279,6 +281,7 @@
       <jump line="255" column="23" filename="$USER_HOME$/repositories/acceleration-service/tests/util/test_git.py" />
       <jump line="30" column="14" filename="$USER_HOME$/repositories/proteus_mutator/tests/git/test_git.py" />
       <jump line="33" column="27" filename="$USER_HOME$/repositories/proteus_mutator/tests/git/test_git.py" />
+      <jump line="59" column="29" filename="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/util/git.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -971,47 +974,47 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFjdG9yID0gQWN0b3IobmFtZSwgZW1haWwpCg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>clone</text>
+        <text>def s</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFjdHVhbF9yZXBvID0gZ2l0LmNsb25lKFNPTUVfUkVQT19PV05FUiwgU09NRV9SRVBPX05BTUUsIFNPTUVfUEFUSCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHBhdGhsaWIK</text>
+        <text encoding="base64">ICAgIGFjdG9yID0gQWN0b3IobmFtZSwgZW1haWwpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvLmluZGV4LmFkZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlcG8uaW5kZXguYWRkKCkK</text>
+        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNvbWVfZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICBicmVha3BvaW50KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBicmVhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnaXQuY2xvbmUoKQo=</text>
+        <text encoding="base64">ICAgIHdpdGggb3Blbihzb21lX2ZpbGVfcGF0aCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBwcm90ZXVzX211dGF0b3IudXRpbC5naXQgaW1wb3J0IEdpdFV0aWxFcnJvcgo=</text>
+        <text encoding="base64">Rm9yIHRoZSBsYXN0IDMuNSB5ZWFycyBJJ3ZlIGJlZW4gd29ya2luZyB3aXRoaW4gdGhlIEFkIFRlY2ggZS1jb21tZXJjZSBpbmR1c3RyeSBidWlsZGluZyBmZWVkcyBzeXN0ZW1zIGFuZCBldmVudC1kcml2ZW4gZGF0YSBsYWtlIHBsYXRmb3Jtcy4gVGhlc2UgZXhwZXJpZW5jZXMgaGF2ZSBiYXR0bGUtaGFyZGVuZWQgbWUgYW5kIEknbSBleGNpdGVkIHRvIGpvaW4gQW1hem9uIEFsZXhhIEFJIHRvICB3b3JrIHdpdGggc29tZSBvZiB0aGUgaW5kdXN0cmllcyBiZXN0IHRhbGVudHMhICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">aW1wb3J0IHBhdGhsaWIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXBvLmluZGV4LmFkZCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1020,9 +1023,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>clone</last-search>
+      <last-search>def s</last-search>
       <last-offset />
-      <last-pattern>clone</last-pattern>
+      <last-pattern>def s</last-pattern>
       <last-replace>failed</last-replace>
       <last-substitute>repeated</last-substitute>
       <last-dir>1</last-dir>
