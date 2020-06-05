@@ -36,7 +36,6 @@
         <entry>:w</entry>
         <entry>E</entry>
         <entry>e</entry>
-        <entry>we</entry>
         <entry>ew</entry>
         <entry>Lw</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -49,6 +48,7 @@
         <entry>q</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>we</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -103,12 +103,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/util/git.py" timestamp="1591375787292">
-        <mark key="'" line="61" column="29" />
-        <mark key="[" line="42" column="14" />
-        <mark key="]" line="42" column="40" />
-        <mark key="^" line="42" column="40" />
-        <mark key="." line="42" column="39" />
+      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/util/git.py" timestamp="1591381901952">
+        <mark key="'" line="63" column="29" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1464875147/-64550866/git/remote.py" timestamp="1591268460389">
         <mark key="'" line="402" column="34" />
@@ -156,12 +155,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/tests/git/test_git.py" timestamp="1591375634372">
-        <mark key="'" line="41" column="27" />
-        <mark key="[" line="33" column="38" />
-        <mark key="]" line="33" column="39" />
-        <mark key="." line="33" column="38" />
-        <mark key="^" line="33" column="39" />
+      <file name="$USER_HOME$/repositories/proteus_mutator/tests/git/test_git.py" timestamp="1591382200234">
+        <mark key="[" line="50" column="34" />
+        <mark key="]" line="50" column="54" />
+        <mark key="." line="50" column="53" />
+        <mark key="^" line="50" column="54" />
       </file>
       <file name="$USER_HOME$/repositories/acceleration-service/acceleration_service/models.py" timestamp="1591286915123">
         <mark key="'" line="0" column="0" />
@@ -979,46 +977,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>staged</text>
+        <text>GitError</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>staged</text>
+        <text>GitError</text>
       </register>
       <register name="/" type="4">
         <text>def s</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3Blbihzb21lX2ZpbGVfcGF0aCwgInciKSBhcyBzb21lX2ZpbGU6CiAgICAgICAgc29tZV9maWxlLndyaXRlKCJzb21lIGZpbGUgY29udGVudCIpCg==</text>
+        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaCgicHJvdGV1c19tdXRhdG9yLnV0aWwuZ2l0LlJlcG8uY2xvbmVfZnJvbSIsIHNpZGVfZWZmZWN0PUdpdEVycm9yKQoKICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhnaXQuR2l0VXRpbEVycm9yKToK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvLmluZGV4Lgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">KCkKICAgIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRkCg==</text>
+        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaCgicHJvdGV1c19tdXRhdG9yLnV0aWwuZ2l0LlJlcG8iLCBzaWRlX2VmZmVjdD1HaXRFcnJvcikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFjdG9yID0gQWN0b3IobmFtZSwgZW1haWwpCg==</text>
+        <text encoding="base64">ICAgIHJlcG8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBicmVha3BvaW50KCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhCg==</text>
+        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3Blbihzb21lX2ZpbGVfcGF0aCkK</text>
+        <text encoding="base64">ICAgICAgICBicmVha3BvaW50KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Rm9yIHRoZSBsYXN0IDMuNSB5ZWFycyBJJ3ZlIGJlZW4gd29ya2luZyB3aXRoaW4gdGhlIEFkIFRlY2ggZS1jb21tZXJjZSBpbmR1c3RyeSBidWlsZGluZyBmZWVkcyBzeXN0ZW1zIGFuZCBldmVudC1kcml2ZW4gZGF0YSBsYWtlIHBsYXRmb3Jtcy4gVGhlc2UgZXhwZXJpZW5jZXMgaGF2ZSBiYXR0bGUtaGFyZGVuZWQgbWUgYW5kIEknbSBleGNpdGVkIHRvIGpvaW4gQW1hem9uIEFsZXhhIEFJIHRvICB3b3JrIHdpdGggc29tZSBvZiB0aGUgaW5kdXN0cmllcyBiZXN0IHRhbGVudHMhICAK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
