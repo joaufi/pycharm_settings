@@ -103,10 +103,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/proteus_mutator/tests/endpoints/test_schema.py" timestamp="1591635876295">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/repositories/proteus_mutator/tests/endpoints/test_schema.py" timestamp="1591727090318">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1881416252/-1386590301/git/index/base.py" timestamp="1591384271805">
         <mark key="'" line="713" column="77" />
@@ -122,9 +122,6 @@
         <mark key="'" line="761" column="74" />
       </file>
       <file name="$USER_HOME$/repositories/proteus_mutator/tests/mocks.py" timestamp="1591722063367">
-        <mark key="[" line="24" column="15" />
-        <mark key="]" line="24" column="15" />
-        <mark key="." line="24" column="15" />
         <mark key="^" line="23" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/proteus_mutator/tests/conftest.py" timestamp="1591636033799">
@@ -132,10 +129,12 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/tasks.py" timestamp="1591717505234">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/tasks.py" timestamp="1591727592120">
+        <mark key="'" line="44" column="32" />
+        <mark key="[" line="44" column="34" />
+        <mark key="]" line="44" column="34" />
+        <mark key="^" line="44" column="55" />
+        <mark key="." line="44" column="34" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1881416252/-1386590301/gitdb/util.py" timestamp="1591383445313">
         <mark key="'" line="46" column="0" />
@@ -157,11 +156,12 @@
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1881416252/-1386590301/git/db.py" timestamp="1591384744989">
         <mark key="'" line="36" column="61" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/tests/test_tasks.py" timestamp="1591722227864">
-        <mark key="[" line="206" column="33" />
-        <mark key="]" line="207" column="69" />
+      <file name="$USER_HOME$/repositories/proteus_mutator/tests/test_tasks.py" timestamp="1591722284801">
+        <mark key="'" line="181" column="19" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
         <mark key="^" line="207" column="69" />
-        <mark key="." line="207" column="68" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1881416252/-1386590301/git/repo/base.py" timestamp="1591384275883">
         <mark key="'" line="308" column="20" />
@@ -200,8 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="74" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/manage.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/manage.py" />
       <jump line="67" column="30" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/manage.py" />
       <jump line="68" column="15" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/manage.py" />
       <jump line="72" column="21" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/manage.py" />
@@ -300,6 +298,8 @@
       <jump line="14" column="4" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_tasks.py" />
       <jump line="15" column="27" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_tasks.py" />
       <jump line="160" column="0" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_tasks.py" />
+      <jump line="181" column="19" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_tasks.py" />
+      <jump line="44" column="32" filename="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/tasks.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -993,46 +993,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>SOME_VALID_REQUEST</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>SOME_VALID_REQUEST</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>project</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlcG9fbW9jayA9IF9nZXRfdXBkYXRlX3NjaGVtYV9yZWdpc3RyeV9yZXBvX21vY2sodG1wX3BhdGgsIFNPTUVfVkFMSURfUkVRVUVTVCkKICAgIF9zZXR1cF91dGlsX2dpdF9sb2NhbF9tb2NrKG1vY2tlciwgcmVwb19tb2NrKQo=</text>
+        <text encoding="base64">ICAgIDpwYXJhbSByZXF1ZXN0OiBSZXF1ZXN0IGNvbnRhaW5pbmcgdGhlIHNjaGVtYSBhbmQgdGFibGUgbWV0YWRhdGEuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgT25seSBtb2NrIGdpdCBmdW5jcyB0aGF0IGludGVyYWN0IG5vbi1sb2NhbGx5CiAgICBnaXRfbW9jayA9IG1vY2tlci5wYXRjaCgicHJvdGV1c19tdXRhdG9yLnRhc2tzLmdpdCIpCiAgICBnaXRfbW9jay5jbG9uZSA9IG1vY2tlci5Nb2NrKHJldHVybl92YWx1ZT1yZXBvX21vY2spCiAgICBnaXRfbW9jay5zdGFnZSA9IGdpdC5zdGFnZQogICAgZ2l0X21vY2suY29tbWl0ID0gZ2l0LmNvbW1pdAogICAgZ2l0X21vY2sucHVzaCA9IG1vY2tlci5Nb2NrKCkK</text>
+        <text encoding="base64">ICAgIDpwYXJhbSByZXF1ZXN0OiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U09NRV9WQUxJRF9TQ0hFTUFfTUlTU0lOR19SRVFVSVJFRF9GSUVMRFNfSlNPTiA9IGYiIiIKe3sKICAgICJmaWVsZHMiOiBbCiAgICAgICAge2pzb24uZHVtcHMoU09NRV9OVUxMQUJMRV9TQ0hFTUFfRklFTERfUkFXX0pTT04sIGluZGVudD00KX0KICAgIF0KfX0KIiIiCg==</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgU2V0dXAgYSByZXBvIHdpdGggYSBzaW5nbGUgY29tbWl0dGVkIGZpbGUKICAgIHNvbWVfcmVwbyA9IFJlcG8uaW5pdCh0bXBfcGF0aCkKICAgIHNjaGVtYV9wYXRoID0gUGF0aChmInt0bXBfcGF0aH0vcHJvdGV1c19zY2hlbWFfcmVnaXN0cnkve1NPTUVfVkFMSURfUkVRVUVTVC5zY2hlbWFfc2x1Z30vIikKICAgIHNjaGVtYV9wYXRoLm1rZGlyKHBhcmVudHM9VHJ1ZSwgZXhpc3Rfb2s9VHJ1ZSkKICAgIHNjaGVtYV9maWxlX3BhdGggPSBzY2hlbWFfcGF0aCAvICJzY2hlbWEuanNvbiIKICAgIHdpdGggb3BlbihzY2hlbWFfZmlsZV9wYXRoLCAidyIpIGFzIHNjaGVtYV9maWxlOgogICAgICAgIHNjaGVtYV9maWxlLndyaXRlKFNPTUVfVkFMSURfU0NIRU1BX0pTT04pCiAgICBzb21lX3JlcG8uaW5kZXguYWRkKHN0cihzY2hlbWFfZmlsZV9wYXRoKSkKICAgIHNvbWVfcmVwby5pbmRleC5jb21taXQoInNvbWUgZmlyc3QgY29tbWl0IG1lc3NhZ2UiKQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KZGVmIHRlc3Rfc3VibWl0X192YWxpZF9yZXF1ZXN0X19iYWNrZ3JvdW5kX3Rhc2tfbG9nc19tZXNzYWdlKAogICAgYXBwLCBtb2NrZXIsIG1vY2tfYWVyb3NwaWtlCik6CiAgICBsb2dnZXJfbW9jayA9IG1vY2tlci5wYXRjaCgicHJvdGV1c19tdXRhdG9yLnRhc2tzLl9sb2dnZXIiKQoKICAgIG1lc3NhZ2UgPSBmIkJhY2tncm91bmQgdGFzayBoYXMgY29tcGxldGVkIGZvciBzY2hlbWEgYmVsb25naW5nIHRvIHtTT01FX1ZBTElEX1JFUVVFU1RfUEFZTE9BRC5nZXQoJ2RhdGFzZXRfaWQnKX0ue1NPTUVfVkFMSURfUkVRVUVTVF9QQVlMT0FELmdldCgndGFibGVfaWQnKX0hIgogICAgc2Vjb25kcyA9IDUKICAgIGV4cGVjdGVkX21lc3NhZ2UgPSBmIlNsZXB0IHtzZWNvbmRzfSBzZWNvbmRzISBNZXNzYWdlIGlzOiB7bWVzc2FnZX0iCgogICAgcmVzcG9uc2UgPSBhcHAuY2xpZW50LnBvc3QodXJsPVNVQk1JVF9FTkRQT0lOVCwganNvbj1TT01FX1ZBTElEX1JFUVVFU1RfUEFZTE9BRCkKCiAgICBhc3NlcnQgcmVzcG9uc2Uuc3RhdHVzX2NvZGUgPT0gc3RhdHVzLkhUVFBfMjAyX0FDQ0VQVEVECiAgICBsb2dnZXJfbW9jay5pbmZvLmFzc2VydF9jYWxsZWRfd2l0aChleHBlY3RlZF9tZXNzYWdlKQoKCj4+Pj4+Pj4gbWFzdGVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KZGVmIHRlc3Rfc3VibWl0X192YWxpZF9yZXF1ZXN0X19iYWNrZ3JvdW5kX3Rhc2tfbG9nc19tZXNzYWdlKAogICAgYXBwLCBtb2NrZXIsIG1vY2tfYWVyb3NwaWtlCik6CiAgICBsb2dnZXJfbW9jayA9IG1vY2tlci5wYXRjaCgicHJvdGV1c19tdXRhdG9yLnRhc2tzLl9sb2dnZXIiKQoKICAgIG1lc3NhZ2UgPSBmIkJhY2tncm91bmQgdGFzayBoYXMgY29tcGxldGVkIGZvciBzY2hlbWEgYmVsb25naW5nIHRvIHtTT01FX1ZBTElEX1JFUVVFU1RfUEFZTE9BRC5nZXQoJ2RhdGFzZXRfaWQnKX0ue1NPTUVfVkFMSURfUkVRVUVTVF9QQVlMT0FELmdldCgndGFibGVfaWQnKX0hIgogICAgc2Vjb25kcyA9IDUKICAgIGV4cGVjdGVkX21lc3NhZ2UgPSBmIlNsZXB0IHtzZWNvbmRzfSBzZWNvbmRzISBNZXNzYWdlIGlzOiB7bWVzc2FnZX0iCgogICAgcmVzcG9uc2UgPSBhcHAuY2xpZW50LnBvc3QodXJsPVNVQk1JVF9FTkRQT0lOVCwganNvbj1TT01FX1ZBTElEX1JFUVVFU1RfUEFZTE9BRCkKCiAgICBhc3NlcnQgcmVzcG9uc2Uuc3RhdHVzX2NvZGUgPT0gc3RhdHVzLkhUVFBfMjAyX0FDQ0VQVEVECiAgICBsb2dnZXJfbW9jay5pbmZvLmFzc2VydF9jYWxsZWRfd2l0aChleHBlY3RlZF9tZXNzYWdlKQoKCj4+Pj4+Pj4gbWFzdGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdpdF9tb2NrLnN0YWdlID0gZ2l0LnN0YWdlCg==</text>
+        <text encoding="base64">ICAgIFNPTUVfTlVMTEFCTEVfU0NIRU1BX0ZJRUxEX1JBV19KU09OLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7anNvbi5kdW1wcyhTT01FX05VTExBQkxFX1NDSEVNQV9GSUVMRF9SQVdfSlNPTiwgaW5kZW50PTQpfQo=</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgT25seSBtb2NrIGdpdCBmdW5jcyB0aGF0IGludGVyYWN0IG5vbi1sb2NhbGx5CiAgICBnaXRfbW9jayA9IG1vY2tlci5wYXRjaCgicHJvdGV1c19tdXRhdG9yLnRhc2tzLmdpdCIpCiAgICBnaXRfbW9jay5jbG9uZSA9IG1vY2tlci5Nb2NrKHJldHVybl92YWx1ZT1yZXBvX21vY2spCiAgICBnaXRfbW9jay5zdGFnZSA9IGdpdC5zdGFnZQogICAgZ2l0X21vY2suY29tbWl0ID0gZ2l0LmNvbW1pdAogICAgZ2l0X21vY2sucHVzaCA9IG1vY2tlci5Nb2NrKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U09NRV9WQUxJRF9TQ0hFTUFfTUlTU0lOR19SRVFVSVJFRF9GSUVMRFNfSlNPTiA9IGYiIiIKe3sKICAgICJmaWVsZHMiOiBbCiAgICAgICAge2pzb24uZHVtcHMoU09NRV9OVUxMQUJMRV9TQ0hFTUFfRklFTERfUkFXX0pTT04sIGluZGVudD00KX0KICAgIF0KfX0KIiIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgU2V0dXAgYSByZXBvIHdpdGggYSBzaW5nbGUgY29tbWl0dGVkIGZpbGUKICAgIHNvbWVfcmVwbyA9IFJlcG8uaW5pdCh0bXBfcGF0aCkKICAgIHNjaGVtYV9wYXRoID0gUGF0aChmInt0bXBfcGF0aH0vcHJvdGV1c19zY2hlbWFfcmVnaXN0cnkve1NPTUVfVkFMSURfUkVRVUVTVC5zY2hlbWFfc2x1Z30vIikKICAgIHNjaGVtYV9wYXRoLm1rZGlyKHBhcmVudHM9VHJ1ZSwgZXhpc3Rfb2s9VHJ1ZSkKICAgIHNjaGVtYV9maWxlX3BhdGggPSBzY2hlbWFfcGF0aCAvICJzY2hlbWEuanNvbiIKICAgIHdpdGggb3BlbihzY2hlbWFfZmlsZV9wYXRoLCAidyIpIGFzIHNjaGVtYV9maWxlOgogICAgICAgIHNjaGVtYV9maWxlLndyaXRlKFNPTUVfVkFMSURfU0NIRU1BX0pTT04pCiAgICBzb21lX3JlcG8uaW5kZXguYWRkKHN0cihzY2hlbWFfZmlsZV9wYXRoKSkKICAgIHNvbWVfcmVwby5pbmRleC5jb21taXQoInNvbWUgZmlyc3QgY29tbWl0IG1lc3NhZ2UiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
