@@ -46,8 +46,8 @@
         <entry encoding="base64">JzwsJz5zL3Byb2plY3QvZGF0YXNldA==</entry>
         <entry encoding="base64">JzwsJz4lcy9wcm9qZWN0L3RhYmxl</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -121,11 +121,11 @@
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1881416252/-1386590301/git/remote.py" timestamp="1591385250993">
         <mark key="'" line="761" column="74" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/tests/mocks.py" timestamp="1591718946747">
+      <file name="$USER_HOME$/repositories/proteus_mutator/tests/mocks.py" timestamp="1591722063367">
         <mark key="[" line="24" column="15" />
-        <mark key="]" line="24" column="49" />
-        <mark key="." line="12" column="100" />
-        <mark key="^" line="12" column="101" />
+        <mark key="]" line="24" column="15" />
+        <mark key="." line="24" column="15" />
+        <mark key="^" line="23" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/proteus_mutator/tests/conftest.py" timestamp="1591636033799">
         <mark key="[" line="74" column="0" />
@@ -157,11 +157,11 @@
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1881416252/-1386590301/git/db.py" timestamp="1591384744989">
         <mark key="'" line="36" column="61" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/tests/test_tasks.py" timestamp="1591721457723">
-        <mark key="[" line="173" column="33" />
-        <mark key="]" line="178" column="11" />
-        <mark key="^" line="178" column="11" />
-        <mark key="." line="178" column="10" />
+      <file name="$USER_HOME$/repositories/proteus_mutator/tests/test_tasks.py" timestamp="1591722227864">
+        <mark key="[" line="206" column="33" />
+        <mark key="]" line="207" column="69" />
+        <mark key="^" line="207" column="69" />
+        <mark key="." line="207" column="68" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1881416252/-1386590301/git/repo/base.py" timestamp="1591384275883">
         <mark key="'" line="308" column="20" />
@@ -993,46 +993,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>things</text>
+        <text>SOME_VALID_REQUEST</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>things</text>
+        <text>SOME_VALID_REQUEST</text>
       </register>
       <register name="/" type="4">
         <text>project</text>
       </register>
-      <register name="0" type="4">
-        <text>SOME_REQUIRED_SCHEMA_FIELD_RAW_JSON</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJlcG9fbW9jayA9IF9nZXRfdXBkYXRlX3NjaGVtYV9yZWdpc3RyeV9yZXBvX21vY2sodG1wX3BhdGgsIFNPTUVfVkFMSURfUkVRVUVTVCkKICAgIF9zZXR1cF91dGlsX2dpdF9sb2NhbF9tb2NrKG1vY2tlciwgcmVwb19tb2NrKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdpdF9tb2NrLnN0YWdlID0gZ2l0LnN0YWdlCg==</text>
+        <text encoding="base64">ICAgICMgT25seSBtb2NrIGdpdCBmdW5jcyB0aGF0IGludGVyYWN0IG5vbi1sb2NhbGx5CiAgICBnaXRfbW9jayA9IG1vY2tlci5wYXRjaCgicHJvdGV1c19tdXRhdG9yLnRhc2tzLmdpdCIpCiAgICBnaXRfbW9jay5jbG9uZSA9IG1vY2tlci5Nb2NrKHJldHVybl92YWx1ZT1yZXBvX21vY2spCiAgICBnaXRfbW9jay5zdGFnZSA9IGdpdC5zdGFnZQogICAgZ2l0X21vY2suY29tbWl0ID0gZ2l0LmNvbW1pdAogICAgZ2l0X21vY2sucHVzaCA9IG1vY2tlci5Nb2NrKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7anNvbi5kdW1wcyhTT01FX05VTExBQkxFX1NDSEVNQV9GSUVMRF9SQVdfSlNPTiwgaW5kZW50PTQpfQo=</text>
+        <text encoding="base64">U09NRV9WQUxJRF9TQ0hFTUFfTUlTU0lOR19SRVFVSVJFRF9GSUVMRFNfSlNPTiA9IGYiIiIKe3sKICAgICJmaWVsZHMiOiBbCiAgICAgICAge2pzb24uZHVtcHMoU09NRV9OVUxMQUJMRV9TQ0hFTUFfRklFTERfUkFXX0pTT04sIGluZGVudD00KX0KICAgIF0KfX0KIiIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgU2V0dXAgYSByZXBvIHdpdGggYSBzaW5nbGUgY29tbWl0dGVkIGZpbGUKICAgIHNvbWVfcmVwbyA9IFJlcG8uaW5pdCh0bXBfcGF0aCkKICAgIHNjaGVtYV9wYXRoID0gUGF0aChmInt0bXBfcGF0aH0vcHJvdGV1c19zY2hlbWFfcmVnaXN0cnkve1NPTUVfVkFMSURfUkVRVUVTVC5zY2hlbWFfc2x1Z30vIikKICAgIHNjaGVtYV9wYXRoLm1rZGlyKHBhcmVudHM9VHJ1ZSwgZXhpc3Rfb2s9VHJ1ZSkKICAgIHNjaGVtYV9maWxlX3BhdGggPSBzY2hlbWFfcGF0aCAvICJzY2hlbWEuanNvbiIKICAgIHdpdGggb3BlbihzY2hlbWFfZmlsZV9wYXRoLCAidyIpIGFzIHNjaGVtYV9maWxlOgogICAgICAgIHNjaGVtYV9maWxlLndyaXRlKFNPTUVfVkFMSURfU0NIRU1BX0pTT04pCiAgICBzb21lX3JlcG8uaW5kZXguYWRkKHN0cihzY2hlbWFfZmlsZV9wYXRoKSkKICAgIHNvbWVfcmVwby5pbmRleC5jb21taXQoInNvbWUgZmlyc3QgY29tbWl0IG1lc3NhZ2UiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdpdF9tb2NrLnN0YWdlID0gZ2l0LnN0YWdlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7anNvbi5kdW1wcyhTT01FX05VTExBQkxFX1NDSEVNQV9GSUVMRF9SQVdfSlNPTiwgaW5kZW50PTQpfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YnJlYWtwb2ludCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm1vZGUiOiAiTlVMTEFCTEUiLAogICAgICAgICAgICAibmFtZSI6ICJTb21lTnVsbGFibGVGaWVsZCIsCiAgICAgICAgICAgICJ0eXBlIjogIlNUUklORyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
