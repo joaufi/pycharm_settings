@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">c2V0XCA=</entry>
         <entry>aero</entry>
         <entry>aero_</entry>
         <entry>read_schema_status</entry>
@@ -27,6 +26,7 @@
         <entry>SUCCEE</entry>
         <entry>\.value</entry>
         <entry>value</entry>
+        <entry>read</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3JlcGVhdGVkL2ZhaWxlZC9pZw==</entry>
@@ -46,8 +46,8 @@
         <entry encoding="base64">JzwsJz4lcy9wcm9qZWN0L3RhYmxl</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wq</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -103,11 +103,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/proteus_mutator/tests/endpoints/test_schema.py" timestamp="1591729145907">
-        <mark key="[" line="64" column="41" />
-        <mark key="]" line="64" column="43" />
-        <mark key="." line="64" column="42" />
-        <mark key="^" line="64" column="43" />
+      <file name="$USER_HOME$/repositories/proteus_mutator/tests/endpoints/test_schema.py" timestamp="1591802888411">
+        <mark key="[" line="83" column="21" />
+        <mark key="]" line="83" column="25" />
+        <mark key="." line="83" column="24" />
+        <mark key="^" line="83" column="25" />
       </file>
       <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/exceptions.py" timestamp="1591659496421">
         <mark key="[" line="1" column="43" />
@@ -140,9 +140,10 @@
         <mark key="^" line="39" column="20" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/common/modules/aerospike_wrapper.py" timestamp="1591792076546">
-        <mark key="[" line="158" column="20" />
-        <mark key="]" line="158" column="29" />
+      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/common/modules/aerospike_wrapper.py" timestamp="1591802391583">
+        <mark key="'" line="135" column="4" />
+        <mark key="[" line="163" column="4" />
+        <mark key="]" line="163" column="21" />
         <mark key="." line="158" column="28" />
         <mark key="^" line="158" column="29" />
       </file>
@@ -181,11 +182,11 @@
         <mark key="^" line="7" column="43" />
         <mark key="." line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/endpoints/schema.py" timestamp="1591792334306">
-        <mark key="[" line="38" column="6" />
-        <mark key="]" line="38" column="7" />
-        <mark key="." line="38" column="6" />
-        <mark key="^" line="38" column="7" />
+      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/endpoints/schema.py" timestamp="1591803030714">
+        <mark key="[" line="39" column="5" />
+        <mark key="]" line="39" column="95" />
+        <mark key="." line="39" column="94" />
+        <mark key="^" line="39" column="95" />
       </file>
       <file name="$USER_HOME$/repositories/proteus_mutator/tests/test_tasks.py" timestamp="1591801957963">
         <mark key="'" line="61" column="40" />
@@ -206,7 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="660" column="48" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/392668346/-930342159/ddtrace/tracer.py" />
       <jump line="664" column="60" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/392668346/-930342159/ddtrace/tracer.py" />
       <jump line="58" column="20" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/docker-compose.yaml" />
       <jump line="70" column="41" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/392668346/-930342159/ddtrace/tracer.py" />
@@ -306,6 +306,7 @@
       <jump line="96" column="69" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_tasks.py" />
       <jump line="105" column="69" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_tasks.py" />
       <jump line="61" column="40" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_tasks.py" />
+      <jump line="135" column="4" filename="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/common/modules/aerospike_wrapper.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -999,46 +1000,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>value</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>value</text>
+        <text>read</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">VVNFUiByb290ClJVTiB5dW0gLXkgaW5zdGFsbCBnaXQtY29yZSAmJiB5dW0gY2xlYW4gYWxsClVTRVIgam92eWFuCg==</text>
+        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaCgicHJvdGV1c19tdXRhdG9yLmVuZHBvaW50cy5zY2hlbWEucmVhZF9zY2hlbWFfc3RhdHVzIiwgcmV0dXJuX3ZhbHVlPVN0YXR1c1N0YWdlLlBFTkRJTkcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBicmVha3BvaW50KCkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">UlVOIHl1bSAteSBpbnN0YWxsIGdpdC1jb3JlICYmIHl1bSBjbGVhbiBhbGwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">VVNFUiByb290Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">VVNFUiBqb3Z5YW4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBicmVha3BvaW50KCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">UlVOIHl1bSAteSBpbnN0YWxsIGdpdC1jb3JlICYmIHl1bSBjbGVhbiBhbGwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">VVNFUiByb290Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">VVNFUiBqb3Z5YW4K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaCgicHJvdGV1c19tdXRhdG9yLnRhc2tzLnVwZGF0ZV9nYnFfdGFibGVfc2NoZW1hIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdGVkX3NjaGVtYV9maWVsZHMgPSBbCiAgICAgICAgKGZpZWxkLm5hbWUsIGZpZWxkLnR5cGUsIGZpZWxkLm1vZGUpCiAgICAgICAgZm9yIGZpZWxkIGluIFNPTUVfVkFMSURfUkVRVUVTVC5zY2hlbWFfdGFibGVfanNvbi5zY2hlbWFfZmllbGRzCiAgICBdCg==</text>
+        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaCgicHJvdGV1c19tdXRhdG9yLnRhc2tzLnVwZGF0ZV9nYnFfdGFibGVfc2NoZW1hIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdGVkX3NjaGVtYV9maWVsZHMgPSAK</text>
+        <text encoding="base64">ICAgIGV4cGVjdGVkX3NjaGVtYV9maWVsZHMgPSBbCiAgICAgICAgKGZpZWxkLm5hbWUsIGZpZWxkLnR5cGUsIGZpZWxkLm1vZGUpCiAgICAgICAgZm9yIGZpZWxkIGluIFNPTUVfVkFMSURfUkVRVUVTVC5zY2hlbWFfdGFibGVfanNvbi5zY2hlbWFfZmllbGRzCiAgICBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1047,9 +1048,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>value</last-search>
+      <last-search>read</last-search>
       <last-offset />
-      <last-pattern>value</last-pattern>
+      <last-pattern>read</last-pattern>
       <last-replace>table</last-replace>
       <last-substitute>project</last-substitute>
       <last-dir>1</last-dir>
