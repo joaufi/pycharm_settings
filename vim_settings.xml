@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>aero</entry>
         <entry>aero_</entry>
         <entry>read_schema_status</entry>
         <entry>def write</entry>
@@ -27,6 +26,7 @@
         <entry>\.value</entry>
         <entry>value</entry>
         <entry>read</entry>
+        <entry>def name</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3JlcGVhdGVkL2ZhaWxlZC9pZw==</entry>
@@ -109,17 +109,26 @@
         <mark key="." line="83" column="24" />
         <mark key="^" line="83" column="25" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1881416252/-1386590301/google/cloud/bigquery/schema.py" timestamp="1591816215919">
+        <mark key="'" line="66" column="8" />
+      </file>
+      <file name="$USER_HOME$/repositories/proteus_mutator/tests/common/test_gbq.py" timestamp="1591817834992">
+        <mark key="'" line="138" column="24" />
+        <mark key="[" line="130" column="5" />
+        <mark key="]" line="132" column="81" />
+        <mark key="." line="132" column="80" />
+        <mark key="^" line="132" column="81" />
+      </file>
       <file name="$USER_HOME$/repositories/garbage-dump/proteus_schema_registry_dev/proteus_schema_registry/wf-gcp-us-ae-vmedia-ci-dev/ci_junk/tbl_search_engine_optimization/schema.json" timestamp="1591814958446">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="4" />
         <mark key="^" line="1" column="14" />
         <mark key="." line="37" column="4" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/exceptions.py" timestamp="1591659496421">
-        <mark key="[" line="1" column="43" />
-        <mark key="]" line="5" column="62" />
-        <mark key="^" line="5" column="62" />
-        <mark key="." line="5" column="61" />
+      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/common/gbq.py" timestamp="1591816582082">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/garbage-dump/proteus_schema_registry_dev/proteus_schema_registry/wf-gcp-us-ae-vmedia-ci-dev/ci_junk/tbl_search_engine_marketing/schema.json" timestamp="1591815392287">
         <mark key="[" line="31" column="9" />
@@ -192,12 +201,6 @@
         <mark key="." line="166" column="26" />
         <mark key="^" line="146" column="14" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/models.py" timestamp="1591716693947">
-        <mark key="[" line="86" column="45" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-        <mark key="^" line="86" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/proteus_mutator/docker/service.dockerfile" timestamp="1591794263232">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="44" />
@@ -210,9 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="664" column="60" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/392668346/-930342159/ddtrace/tracer.py" />
-      <jump line="58" column="20" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/docker-compose.yaml" />
-      <jump line="70" column="41" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/392668346/-930342159/ddtrace/tracer.py" />
       <jump line="76" column="8" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/392668346/-930342159/ddtrace/tracer.py" />
       <jump line="124" column="23" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/392668346/-930342159/ddtrace/tracer.py" />
       <jump line="86" column="11" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/manage.py" />
@@ -310,6 +310,9 @@
       <jump line="105" column="69" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_tasks.py" />
       <jump line="61" column="40" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_tasks.py" />
       <jump line="135" column="4" filename="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/common/modules/aerospike_wrapper.py" />
+      <jump line="66" column="8" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1881416252/-1386590301/google/cloud/bigquery/schema.py" />
+      <jump line="120" column="59" filename="$USER_HOME$/repositories/proteus_mutator/tests/common/test_gbq.py" />
+      <jump line="124" column="24" filename="$USER_HOME$/repositories/proteus_mutator/tests/common/test_gbq.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1003,152 +1006,49 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>\</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
-        <text>read</text>
+        <text>def name</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaCgicHJvdGV1c19tdXRhdG9yLmVuZHBvaW50cy5zY2hlbWEucmVhZF9zY2hlbWFfc3RhdHVzIiwgcmV0dXJuX3ZhbHVlPVN0YXR1c1N0YWdlLlBFTkRJTkcpCg==</text>
+      <register name="0" type="4">
+        <text>[
+            bigquery.SchemaField(field_a_name, &quot;STRING&quot;, mode=&quot;REQUIRED&quot;),
+            bigquery.SchemaField(field_b_name, &quot;INT64&quot;, mode=&quot;NULLABLE&quot;),
+        ]</text>
       </register>
       <register name="1" type="2">
-        <text>[
-    {
-      &quot;name&quot;: &quot;company&quot;,
-      &quot;mode&quot;: &quot;NO&quot;,
-      &quot;type&quot;: &quot;STRING&quot;
-    },
-    {
-      &quot;name&quot;: &quot;crawl_id&quot;,
-      &quot;mode&quot;: &quot;NO&quot;,
-      &quot;type&quot;: &quot;STRING&quot;
-    },
-    {
-      &quot;name&quot;: &quot;rank&quot;,
-      &quot;mode&quot;: &quot;NO&quot;,
-      &quot;type&quot;: &quot;INT64&quot;
-    },
-    {
-      &quot;name&quot;: &quot;type&quot;,
-      &quot;mode&quot;: &quot;NO&quot;,
-      &quot;type&quot;: &quot;STRING&quot;
-    },
-    {
-      &quot;name&quot;: &quot;currency&quot;,
-      &quot;mode&quot;: &quot;YES&quot;,
-      &quot;type&quot;: &quot;STRING&quot;
-    },
-    {
-      &quot;name&quot;: &quot;google_brand_id&quot;,
-      &quot;mode&quot;: &quot;YES&quot;,
-      &quot;type&quot;: &quot;STRING&quot;
-    },
-    {
-      &quot;name&quot;: &quot;google_catalog_id&quot;,
-      &quot;mode&quot;: &quot;YES&quot;,
-      &quot;type&quot;: &quot;STRING&quot;
-    },
-    {
-      &quot;name&quot;: &quot;google_merchant_id&quot;,
-      &quot;mode&quot;: &quot;YES&quot;,
-      &quot;type&quot;: &quot;STRING&quot;
-    },
-    {
-      &quot;name&quot;: &quot;google_ved_parameter&quot;,
-      &quot;mode&quot;: &quot;YES&quot;,
-      &quot;type&quot;: &quot;STRING&quot;
-    },
-    {
-      &quot;name&quot;: &quot;is_free_shipping&quot;,
-      &quot;mode&quot;: &quot;YES&quot;,
-      &quot;type&quot;: &quot;BOOL&quot;
-    },
-    {
-      &quot;name&quot;: &quot;is_special_offer&quot;,
-      &quot;mode&quot;: &quot;YES&quot;,
-      &quot;type&quot;: &quot;BOOL&quot;
-    },
-    {
-      &quot;name&quot;: &quot;has_google_shopping_link&quot;,
-      &quot;mode&quot;: &quot;YES&quot;,
-      &quot;type&quot;: &quot;BOOL&quot;
-    },
-    {
-      &quot;name&quot;: &quot;percent_off&quot;,
-      &quot;mode&quot;: &quot;YES&quot;,
-      &quot;type&quot;: &quot;NUMERIC&quot;
-    },
-    {
-      &quot;name&quot;: &quot;price&quot;,
-      &quot;mode&quot;: &quot;YES&quot;,
-      &quot;type&quot;: &quot;NUMERIC&quot;
-    },
-    {
-      &quot;name&quot;: &quot;price_drop&quot;,
-      &quot;mode&quot;: &quot;YES&quot;,
-      &quot;type&quot;: &quot;STRING&quot;
-    },
-    {
-      &quot;name&quot;: &quot;product_id&quot;,
-      &quot;mode&quot;: &quot;YES&quot;,
-      &quot;type&quot;: &quot;STRING&quot;
-    },
-    {
-      &quot;name&quot;: &quot;product_name&quot;,
-      &quot;mode&quot;: &quot;YES&quot;,
-      &quot;type&quot;: &quot;STRING&quot;
-    },
-    {
-      &quot;name&quot;: &quot;reviews&quot;,
-      &quot;mode&quot;: &quot;YES&quot;,
-      &quot;type&quot;: &quot;INT64&quot;
-    },
-    {
-      &quot;name&quot;: &quot;stars&quot;,
-      &quot;mode&quot;: &quot;YES&quot;,
-      &quot;type&quot;: &quot;NUMERIC&quot;
-    },
-    {
-      &quot;name&quot;: &quot;url&quot;,
-      &quot;mode&quot;: &quot;YES&quot;,
-      &quot;type&quot;: &quot;STRING&quot;
-    },
-    {
-      &quot;name&quot;: &quot;_PARTITIONTIME&quot;,
-      &quot;mode&quot;: &quot;NO&quot;,
-      &quot;type&quot;: &quot;TIMESTAMP&quot;
-    }
-]</text>
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmlncXVlcnkuU2NoZW1hRmllbGQoZmllbGRfYV9uYW1lLCBzb21lX3N0cmluZ190eXBlLCBtb2RlPSJSRVFVSVJFRCIpLAogICAgICAgICAgICBiaWdxdWVyeS5TY2hlbWFGaWVsZChmaWVsZF9iX25hbWUsIHNvbWVfc3RyaW5nX3R5cGUpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBicmVha3BvaW50KCkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRhYmxlX21vY2sK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIHl1bSAteSBpbnN0YWxsIGdpdC1jb3JlICYmIHl1bSBjbGVhbiBhbGwK</text>
+        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VVNFUiByb290Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHRvIGVxdWFsaXR5IGJldHdlZW4gU2NoZW1hRmllbGQgbm90IGFsd2F5cyBiZWluZyBleHBlY3RlZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VVNFUiBqb3Z5YW4K</text>
+        <text encoding="base64">ICAgICMgY3JlYXRlIGEgY29weSBvZiB0aGUgY3VycmVudCB0YWJsZSBzY2hlbWEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1157,9 +1057,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>read</last-search>
+      <last-search>def name</last-search>
       <last-offset />
-      <last-pattern>read</last-pattern>
+      <last-pattern>def name</last-pattern>
       <last-replace>table</last-replace>
       <last-substitute>project</last-substitute>
       <last-dir>1</last-dir>
