@@ -47,8 +47,8 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>qa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -103,12 +103,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/proteus_mutator/tests/endpoints/test_schema.py" timestamp="1591802888411">
-        <mark key="[" line="83" column="21" />
-        <mark key="]" line="83" column="25" />
-        <mark key="." line="83" column="24" />
-        <mark key="^" line="83" column="25" />
-      </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1881416252/-1386590301/google/cloud/bigquery/schema.py" timestamp="1591816215919">
         <mark key="'" line="66" column="8" />
       </file>
@@ -136,11 +130,12 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/tasks.py" timestamp="1591819488195">
-        <mark key="[" line="46" column="68" />
-        <mark key="]" line="46" column="85" />
-        <mark key="^" line="46" column="85" />
-        <mark key="." line="46" column="84" />
+      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/tasks.py" timestamp="1592248188571">
+        <mark key="'" line="119" column="27" />
+        <mark key="[" line="47" column="12" />
+        <mark key="]" line="48" column="44" />
+        <mark key="^" line="48" column="44" />
+        <mark key="." line="48" column="43" />
       </file>
       <file name="$USER_HOME$/repositories/garbage-dump/proteus_schema_registry_dev/proteus_schema_registry/wf-gcp-us-ae-vmedia-ci-dev/ci_junk/tbl_product_listing_ads/schema.json" timestamp="1591814594616">
         <mark key="^" line="1" column="14" />
@@ -151,12 +146,6 @@
         <mark key="^" line="40" column="6" />
         <mark key="." line="40" column="5" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/endpoints/schema.py" timestamp="1591819446750">
-        <mark key="[" line="42" column="4" />
-        <mark key="]" line="42" column="4" />
-        <mark key="." line="42" column="3" />
-        <mark key="^" line="42" column="4" />
-      </file>
       <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/settings.py" timestamp="1591831467012">
         <mark key="'" line="47" column="98" />
         <mark key="[" line="5" column="0" />
@@ -166,8 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="8" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/392668346/-930342159/ddtrace/tracer.py" />
-      <jump line="124" column="23" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/392668346/-930342159/ddtrace/tracer.py" />
       <jump line="86" column="11" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/manage.py" />
       <jump line="4" column="23" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/manage.py" />
       <jump line="18" column="33" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/manage.py" />
@@ -266,6 +253,8 @@
       <jump line="66" column="8" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1881416252/-1386590301/google/cloud/bigquery/schema.py" />
       <jump line="120" column="59" filename="$USER_HOME$/repositories/proteus_mutator/tests/common/test_gbq.py" />
       <jump line="124" column="24" filename="$USER_HOME$/repositories/proteus_mutator/tests/common/test_gbq.py" />
+      <jump line="65" column="57" filename="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/tasks.py" />
+      <jump line="118" column="27" filename="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/tasks.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1004,7 +993,7 @@
         <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
