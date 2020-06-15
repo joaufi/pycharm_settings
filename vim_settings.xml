@@ -35,7 +35,6 @@
         <entry>e</entry>
         <entry>ew</entry>
         <entry>Lw</entry>
-        <entry>&quot;w</entry>
         <entry>we</entry>
         <entry>wa</entry>
         <entry>vsplit</entry>
@@ -48,6 +47,7 @@
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>W</entry>
         <entry>qa</entry>
+        <entry>&quot;w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -130,12 +130,12 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/tasks.py" timestamp="1592248188571">
-        <mark key="'" line="119" column="27" />
-        <mark key="[" line="47" column="12" />
-        <mark key="]" line="48" column="44" />
-        <mark key="^" line="48" column="44" />
-        <mark key="." line="48" column="43" />
+      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/tasks.py" timestamp="1592248424706">
+        <mark key="'" line="112" column="27" />
+        <mark key="[" line="63" column="20" />
+        <mark key="]" line="63" column="30" />
+        <mark key="^" line="63" column="30" />
+        <mark key="." line="63" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/garbage-dump/proteus_schema_registry_dev/proteus_schema_registry/wf-gcp-us-ae-vmedia-ci-dev/ci_junk/tbl_product_listing_ads/schema.json" timestamp="1591814594616">
         <mark key="^" line="1" column="14" />
@@ -947,14 +947,14 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>error</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text>def name</text>
@@ -966,31 +966,31 @@
         ]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4dHJhPXsiZXJyb3IiOiBzdHIoZSksICJ0cmFjZWJhY2siOiB0cmFjZWJhY2suZm9ybWF0X2V4YygpfSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgdHJhY2ViYWNrCiAgICAgICAgcHJpbnQodHJhY2ViYWNrLmZvcm1hdF9leGMoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVGFza0Vycm9yKCJXZSB0ZXN0aW5nIG5hbyIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4dHJhPXsiZXJyb3IiOiBzdHIoZSksICJ0cmFjZWJhY2siOiB0cmFjZWJhY2suZm9ybWF0X2V4YygpfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmlncXVlcnkuU2NoZW1hRmllbGQoZmllbGRfYV9uYW1lLCBzb21lX3N0cmluZ190eXBlLCBtb2RlPSJSRVFVSVJFRCIpLAogICAgICAgICAgICBiaWdxdWVyeS5TY2hlbWFGaWVsZChmaWVsZF9iX25hbWUsIHNvbWVfc3RyaW5nX3R5cGUpLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgdHJhY2ViYWNrCiAgICAgICAgcHJpbnQodHJhY2ViYWNrLmZvcm1hdF9leGMoKSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBdCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYmlncXVlcnkuU2NoZW1hRmllbGQoZmllbGRfYV9uYW1lLCBzb21lX3N0cmluZ190eXBlLCBtb2RlPSJSRVFVSVJFRCIpLAogICAgICAgICAgICBiaWdxdWVyeS5TY2hlbWFGaWVsZChmaWVsZF9iX25hbWUsIHNvbWVfc3RyaW5nX3R5cGUpLAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRhYmxlX21vY2sK</text>
+        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
