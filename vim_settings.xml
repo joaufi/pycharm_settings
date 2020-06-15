@@ -47,8 +47,8 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>W</entry>
-        <entry>qa</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,6 +112,19 @@
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1881416252/-1386590301/google/cloud/bigquery/schema.py" timestamp="1591816215919">
         <mark key="'" line="66" column="8" />
       </file>
+      <file name="$USER_HOME$/repositories/k8s-helm/charts/proteus-loader/values/proteus-loader/bo1c2.yaml" timestamp="1591883664822">
+        <mark key="[" line="30" column="21" />
+        <mark key="]" line="30" column="22" />
+        <mark key="." line="30" column="21" />
+        <mark key="^" line="30" column="22" />
+      </file>
+      <file name="$USER_HOME$/repositories/proteus_mutator/tests/common/test_gbq.py" timestamp="1591817834992">
+        <mark key="'" line="138" column="24" />
+        <mark key="[" line="130" column="5" />
+        <mark key="]" line="132" column="81" />
+        <mark key="." line="132" column="80" />
+        <mark key="^" line="132" column="81" />
+      </file>
       <file name="$USER_HOME$/repositories/garbage-dump/proteus_schema_registry_dev/proteus_schema_registry/wf-gcp-us-ae-vmedia-ci-dev/ci_junk/tbl_search_engine_optimization/schema.json" timestamp="1591814958446">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="4" />
@@ -129,35 +142,27 @@
         <mark key="^" line="46" column="85" />
         <mark key="." line="46" column="84" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/settings.py" timestamp="1591831467012">
-        <mark key="'" line="47" column="98" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="20" column="40" />
-      </file>
-      <file name="$USER_HOME$/repositories/k8s-helm/charts/proteus-loader/values/proteus-loader/bo1c2.yaml" timestamp="1591883664822">
-        <mark key="[" line="30" column="21" />
-        <mark key="]" line="30" column="22" />
-        <mark key="." line="30" column="21" />
-        <mark key="^" line="30" column="22" />
-      </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/tests/common/test_gbq.py" timestamp="1591817834992">
-        <mark key="'" line="138" column="24" />
-        <mark key="[" line="130" column="5" />
-        <mark key="]" line="132" column="81" />
-        <mark key="." line="132" column="80" />
-        <mark key="^" line="132" column="81" />
-      </file>
-      <file name="$USER_HOME$/repositories/garbage-dump/proteus_schema_registry_dev/proteus_schema_registry/wf-gcp-us-ae-vmedia-ci-dev/ci_junk/tbl_search_engine_marketing/schema.json" timestamp="1591815392287" />
       <file name="$USER_HOME$/repositories/garbage-dump/proteus_schema_registry_dev/proteus_schema_registry/wf-gcp-us-ae-vmedia-ci-dev/ci_junk/tbl_product_listing_ads/schema.json" timestamp="1591814594616">
         <mark key="^" line="1" column="14" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_63.json" timestamp="1592246889786">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="40" column="6" />
+        <mark key="^" line="40" column="6" />
+        <mark key="." line="40" column="5" />
       </file>
       <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/endpoints/schema.py" timestamp="1591819446750">
         <mark key="[" line="42" column="4" />
         <mark key="]" line="42" column="4" />
         <mark key="." line="42" column="3" />
         <mark key="^" line="42" column="4" />
+      </file>
+      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/settings.py" timestamp="1591831467012">
+        <mark key="'" line="47" column="98" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="20" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -999,7 +1004,7 @@
         <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
   </component>
