@@ -45,9 +45,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>W</entry>
-        <entry>qa</entry>
         <entry>&quot;w</entry>
+        <entry>qa</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -112,6 +112,12 @@
         <mark key="." line="30" column="21" />
         <mark key="^" line="30" column="22" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_54.py" timestamp="1592266734880">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="0" column="35" />
+        <mark key="^" line="0" column="35" />
+        <mark key="." line="0" column="34" />
+      </file>
       <file name="$USER_HOME$/repositories/proteus_mutator/tests/common/test_gbq.py" timestamp="1591817834992">
         <mark key="'" line="138" column="24" />
         <mark key="[" line="130" column="5" />
@@ -131,12 +137,31 @@
         <mark key="." line="88" column="67" />
         <mark key="^" line="88" column="68" />
       </file>
+      <file name="$USER_HOME$/repositories/proteus_mutator/testpad.py" timestamp="1592266813583">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/repositories/proteus_mutator/tests/mocks.py" timestamp="1592266967201">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="18" column="1" />
+      </file>
+      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/testpad.py" timestamp="1592267910154">
+        <mark key="[" line="14" column="56" />
+        <mark key="]" line="14" column="56" />
+        <mark key="^" line="14" column="19" />
+        <mark key="." line="14" column="56" />
+      </file>
       <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/tasks.py" timestamp="1592249568319">
         <mark key="'" line="111" column="27" />
         <mark key="[" line="62" column="58" />
         <mark key="]" line="62" column="58" />
         <mark key="^" line="62" column="30" />
         <mark key="." line="62" column="58" />
+      </file>
+      <file name="/" timestamp="1592266848920">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/garbage-dump/proteus_schema_registry_dev/proteus_schema_registry/wf-gcp-us-ae-vmedia-ci-dev/ci_junk/tbl_product_listing_ads/schema.json" timestamp="1591814594616">
         <mark key="^" line="1" column="14" />
@@ -949,49 +974,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>(</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>def name</text>
       </register>
-      <register name="0" type="4">
-        <text>[
-            bigquery.SchemaField(field_a_name, &quot;STRING&quot;, mode=&quot;REQUIRED&quot;),
-            bigquery.SchemaField(field_b_name, &quot;INT64&quot;, mode=&quot;NULLABLE&quot;),
-        ]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHsKICAgICAgICAibmFtZSI6ICJzb21lX3JlcXVpcmVkX2ZpZWxkIiwKICAgICAgICAiZGVzY3JpcHRpb24iOiAiU29tZSBmaWVsZCB0aGF0IHN0b3JlcyBzb21lIGRhdGEuIiwKICAgICAgICAidHlwZSI6ICJTVFJJTkciLAogICAgICAgICJtb2RlIjogIlJFUVVJUkVEIiwKICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXh0cmE9eyJlcnJvciI6IHN0cihlKX0sCg==</text>
+        <text encoding="base64">ICAgIHNjaGVtYV9maWVsZHMgPSB0YWJsZS5zY2hlbWEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYWNlYmFjawo=</text>
+        <text encoding="base64">ICAgICAgICAiZGVzY3JpcHRpb24iOiAiU29tZSBmaWVsZCB0aGF0IHN0b3JlcyBzb21lIGRhdGEuIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4dHJhPXsiZXJyb3IiOiBzdHIoZSksICJ0cmFjZWJhY2siOiB0cmFjZWJhY2suZm9ybWF0X2V4YygpfSwK</text>
+        <text encoding="base64">ICAgICAgICAiZGVzY3JpcHRpb24iOiAiU29tZSBmaWVsZCB0aGF0IHN0b3JlcyBzb21lIGRhdGEuIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVGFza0Vycm9yKCJXZSB0ZXN0aW5nIG5hbyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAiZGVzY3JpcHRpb24iOiAiU29tZSBvdGhlciBmaWVsZCB0aGF0IHN0b3JlcyBzb21lIGRhdGEuIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4dHJhPXsiZXJyb3IiOiBzdHIoZSksICJ0cmFjZWJhY2siOiB0cmFjZWJhY2suZm9ybWF0X2V4YygpfSwK</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U09NRV9OVUxMQUJMRV9TQ0hFTUFfRklFTERfUkFXX0pTT04gPSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgdHJhY2ViYWNrCiAgICAgICAgcHJpbnQodHJhY2ViYWNrLmZvcm1hdF9leGMoKSkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgIFNPTUVfUkVRVUlSRURfU0NIRU1BX0ZJRUxEX1JBV19KU09OID0gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmlncXVlcnkuU2NoZW1hRmllbGQoZmllbGRfYV9uYW1lLCBzb21lX3N0cmluZ190eXBlLCBtb2RlPSJSRVFVSVJFRCIpLAogICAgICAgICAgICBiaWdxdWVyeS5TY2hlbWFGaWVsZChmaWVsZF9iX25hbWUsIHNvbWVfc3RyaW5nX3R5cGUpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXh0cmE9eyJlcnJvciI6IHN0cihlKX0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
