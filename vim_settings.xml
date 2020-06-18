@@ -38,7 +38,6 @@
         <entry>we</entry>
         <entry>wa</entry>
         <entry>vsplit</entry>
-        <entry>q</entry>
         <entry>split</entry>
         <entry encoding="base64">JzwsJz5zL3Byb2plY3QvZGF0YXNldA==</entry>
         <entry encoding="base64">JzwsJz4lcy9wcm9qZWN0L3RhYmxl</entry>
@@ -47,8 +46,9 @@
         <entry>qa</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>&quot;w</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -156,15 +156,17 @@
         <mark key="^" line="109" column="15" />
         <mark key="." line="110" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" timestamp="1592492167456">
-        <mark key="'" line="112" column="0" />
-        <mark key="[" line="128" column="70" />
-        <mark key="]" line="128" column="70" />
-        <mark key="^" line="126" column="76" />
-        <mark key="." line="128" column="70" />
+      <file name="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" timestamp="1592492294098">
+        <mark key="[" line="135" column="104" />
+        <mark key="]" line="135" column="104" />
+        <mark key="." line="135" column="104" />
+        <mark key="^" line="124" column="105" />
       </file>
       <file name="/" timestamp="1592266848920">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/proteus_loader/docker-compose.yaml" timestamp="1592504696239">
+        <mark key="'" line="29" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/proteus_mutator/tests/git/test_git.py" timestamp="1592337057746">
         <mark key="'" line="44" column="82" />
@@ -209,7 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="46" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/392668346/-930342159/click/decorators.py" />
       <jump line="162" column="24" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/392668346/-930342159/click/decorators.py" />
       <jump line="166" column="8" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/392668346/-930342159/click/decorators.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/requirements.lock" />
@@ -309,6 +310,7 @@
       <jump line="97" column="4" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" />
       <jump line="92" column="0" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" />
+      <jump line="29" column="7" filename="$USER_HOME$/repositories/proteus_loader/docker-compose.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1002,19 +1004,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, SOME_REQUIRED_FIELD_A</text>
+        <text>_</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, SOME_REQUIRED_FIELD_A</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>def name</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CmRlZiB0ZXN0X3NjaGVtYV90YWJsZV9qc29uX19vdGhlcl90YWJsZV9zY2hlbWFfaGFzX2FkZGl0aW9uYWxfcmVxdWlyZWRfZmllbGRfX3JlcXVpcmVkX2ZpZWxkc19hcmVfZXF1YWxfcmV0dXJuc19mYWxzZSgpOgogICAgdGFibGVfc2NoZW1hID0gU2NoZW1hVGFibGVKU09OKGZpZWxkcz1bU09NRV9SRVFVSVJFRF9GSUVMRF9BLCBTT01FX1JFUVVJUkVEX0ZJRUxEX0JdKQogICAgb3RoZXJfdGFibGVfc2NoZW1hID0gU2NoZW1hVGFibGVKU09OKGZpZWxkcz1bU09NRV9SRVFVSVJFRF9GSUVMRF9CLCBTT01FX1JFUVVJUkVEX0ZJRUxEX0EsIFNPTUVfUkVRVUlSRURfRklFTERfQ10pCgogICAgYXNzZXJ0IG5vdCB0YWJsZV9zY2hlbWEucmVxdWlyZWRfZmllbGRzX2FyZV9lcXVhbChvdGhlcl90YWJsZV9zY2hlbWEpCg==</text>
+      <register name="0" type="4">
+        <text>test_schema_table_json_required_fields_are_equal</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1044,7 +1046,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
