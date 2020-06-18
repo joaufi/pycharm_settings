@@ -126,10 +126,6 @@
         <mark key="." line="9" column="34" />
         <mark key="^" line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/repositories/garbage-dump/jafisher-example-new-kafka/tests/integration/test_producer_consumer.py" timestamp="1592505238962">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="18" column="57" />
-      </file>
       <file name="$USER_HOME$/repositories/garbage-dump/jafisher-example-new-kafka/docker/entrypoints/entrypoint.sh" timestamp="1592505588240">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="14" column="52" />
@@ -145,6 +141,12 @@
         <mark key="]" line="135" column="416" />
         <mark key="." line="135" column="416" />
         <mark key="^" line="135" column="295" />
+      </file>
+      <file name="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" timestamp="1592508545032">
+        <mark key="[" line="169" column="28" />
+        <mark key="]" line="169" column="30" />
+        <mark key="^" line="169" column="30" />
+        <mark key="." line="169" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/proteus_loader/pytest.ini" timestamp="1592507679885">
         <mark key="[" line="2" column="0" />
@@ -165,12 +167,12 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_loader/docker-compose.yaml" timestamp="1592506718492">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="27" column="52" />
-        <mark key="]" line="29" column="24" />
-        <mark key="^" line="29" column="24" />
-        <mark key="." line="29" column="23" />
+      <file name="$USER_HOME$/repositories/proteus_loader/docker-compose.yaml" timestamp="1592508427879">
+        <mark key="'" line="138" column="14" />
+        <mark key="[" line="39" column="25" />
+        <mark key="]" line="39" column="36" />
+        <mark key="^" line="39" column="36" />
+        <mark key="." line="39" column="35" />
       </file>
       <file name="$USER_HOME$/repositories/garbage-dump/jafisher-example-new-kafka/README.md" timestamp="1592505456339">
         <mark key="[" line="28" column="0" />
@@ -196,7 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="21" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/manage.py" />
       <jump line="6" column="25" filename="$USER_HOME$/repositories/python-platforms-project-templates/templates/cli-application/{{cookiecutter.package_distribution_name}}/manage.py" />
       <jump line="64" column="9" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/manage.py" />
       <jump line="75" column="9" filename="$USER_HOME$/repositories/python-platforms-project-templates/templates/cli-application/{{cookiecutter.package_distribution_name}}/manage.py" />
@@ -296,6 +297,7 @@
       <jump line="13" column="16" filename="$USER_HOME$/repositories/garbage-dump/jafisher-example-new-kafka/docker/entrypoints/run_tests.sh" />
       <jump line="38" column="13" filename="$USER_HOME$/repositories/garbage-dump/jafisher-example-new-kafka/docker/entrypoints/run_tests.sh" />
       <jump line="150" column="76" filename="$USER_HOME$/repositories/garbage-dump/jafisher-example-new-kafka/docker/entrypoints/run_tests.sh" />
+      <jump line="132" column="14" filename="$USER_HOME$/repositories/proteus_loader/docker-compose.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -988,20 +990,20 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0LWRpcjogIi4vdGVzdHMvdW5pdCIK</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>[DEFAULT_TOPIC]</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>pytest</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0LWRpcjogIi4vdGVzdHMvdW5pdCIK</text>
+        <text encoding="base64">ICBlY2hvICIgLS1hbGwgICAgICAgICAgICA6IFJ1biBib3RoIHRoZSB1bml0IHRlc3QgYW5kIGxpbnRpbmcgc3VpdGVzIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dGVzdHBhdGhzID0KICAgIHRlc3RzCg==</text>
