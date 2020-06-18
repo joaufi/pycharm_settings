@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>def s</entry>
-        <entry>bin</entry>
         <entry>commit</entry>
         <entry>def com</entry>
         <entry>bin_to_hex</entry>
@@ -27,6 +25,8 @@
         <entry># Devbox</entry>
         <entry>#\ Devbox</entry>
         <entry>Devbox</entry>
+        <entry>networks</entry>
+        <entry>flush</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3JlcGVhdGVkL2ZhaWxlZC9pZw==</entry>
@@ -115,21 +115,20 @@
         <mark key="." line="17" column="52" />
         <mark key="^" line="17" column="53" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_loader/tests/integration/__init__.py" timestamp="1592505145264">
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="10" column="25" />
-        <mark key="^" line="5" column="23" />
-        <mark key="." line="10" column="25" />
+      <file name="$USER_HOME$/repositories/proteus_loader/tests/integration/__init__.py" timestamp="1592506833339">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/garbage-dump/jafisher-example-new-kafka/tests/integration/conftest.py" timestamp="1592505032798">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/util/git.py" timestamp="1592351080994">
-        <mark key="[" line="36" column="20" />
-        <mark key="]" line="36" column="71" />
-        <mark key="." line="36" column="70" />
-        <mark key="^" line="36" column="71" />
+      <file name="$USER_HOME$/repositories/proteus_loader/tests_integration/conftest.py" timestamp="1592506988684">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="35" />
+        <mark key="." line="10" column="34" />
+        <mark key="^" line="10" column="35" />
       </file>
       <file name="$USER_HOME$/repositories/proteus_mutator/tests/mocks.py" timestamp="1592491709605">
         <mark key="[" line="7" column="0" />
@@ -173,17 +172,11 @@
         <mark key="^" line="73" column="33" />
         <mark key="." line="73" column="32" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_55.py" timestamp="1592351592266">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="64" />
-        <mark key="." line="0" column="63" />
-        <mark key="^" line="0" column="64" />
-      </file>
-      <file name="$USER_HOME$/repositories/proteus_mutator/proteus_mutator/testpad.py" timestamp="1592341440480">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="5" />
+      <file name="$USER_HOME$/repositories/proteus_loader/tests_integration/test_producer_consumer.py" timestamp="1592506959695">
+        <mark key="[" line="17" column="41" />
+        <mark key="]" line="17" column="41" />
+        <mark key="." line="17" column="41" />
+        <mark key="^" line="0" column="31" />
       </file>
       <file name="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" timestamp="1592492294098">
         <mark key="[" line="135" column="104" />
@@ -191,37 +184,33 @@
         <mark key="." line="135" column="104" />
         <mark key="^" line="124" column="105" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_loader/docker-compose.yaml" timestamp="1592504940880">
-        <mark key="'" line="29" column="7" />
-        <mark key="[" line="172" column="6" />
-        <mark key="]" line="172" column="27" />
-        <mark key="." line="172" column="26" />
-        <mark key="^" line="172" column="27" />
+      <file name="$USER_HOME$/repositories/proteus_loader/docker-compose.yaml" timestamp="1592506718492">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="27" column="52" />
+        <mark key="]" line="29" column="24" />
+        <mark key="^" line="29" column="24" />
+        <mark key="." line="29" column="23" />
       </file>
       <file name="$USER_HOME$/repositories/garbage-dump/jafisher-example-new-kafka/README.md" timestamp="1592505456339">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="34" column="540" />
       </file>
-      <file name="$USER_HOME$/repositories/garbage-dump/jafisher-example-new-kafka/docker-compose.yaml" timestamp="1592504925135">
+      <file name="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests_integration.sh" timestamp="1592506892035">
+        <mark key="[" line="2" column="49" />
+        <mark key="]" line="2" column="66" />
+        <mark key="." line="2" column="65" />
+        <mark key="^" line="2" column="66" />
+      </file>
+      <file name="$USER_HOME$/repositories/proteus_loader/proteus_loader/kafka.py" timestamp="1592507035930">
+        <mark key="'" line="178" column="35" />
+      </file>
+      <file name="$USER_HOME$/repositories/garbage-dump/jafisher-example-new-kafka/docker-compose.yaml" timestamp="1592506731586">
+        <mark key="'" line="135" column="4" />
         <mark key="[" line="85" column="0" />
         <mark key="]" line="93" column="13" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_56.py" timestamp="1592396414902">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="8" />
-        <mark key="^" line="2" column="22" />
-        <mark key="." line="5" column="8" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="24" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/392668346/-930342159/click/decorators.py" />
-      <jump line="166" column="8" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/392668346/-930342159/click/decorators.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/requirements.lock" />
-      <jump line="59" column="50" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/docker-compose.yaml" />
-      <jump line="137" column="0" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/manage.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/docker-compose.yaml" />
-      <jump line="45" column="27" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/docker-compose.yaml" />
-      <jump line="76" column="3" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/docker-compose.yaml" />
       <jump line="23" column="14" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/tests/test_network_request.py" />
       <jump line="9" column="5" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/requirements-test.txt" />
       <jump line="1" column="12" filename="$USER_HOME$/repositories/garbage-dump/jafisher-dd-apm-cli-integration/docker/files/wf-config.ini" />
@@ -314,6 +303,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" />
       <jump line="92" column="0" filename="$USER_HOME$/repositories/proteus_mutator/tests/test_models.py" />
       <jump line="29" column="7" filename="$USER_HOME$/repositories/proteus_loader/docker-compose.yaml" />
+      <jump line="62" column="0" filename="$USER_HOME$/repositories/proteus_loader/docker-compose.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/proteus_loader/docker-compose.yaml" />
+      <jump line="66" column="19" filename="$USER_HOME$/repositories/garbage-dump/jafisher-example-new-kafka/docker-compose.yaml" />
+      <jump line="71" column="4" filename="$USER_HOME$/repositories/garbage-dump/jafisher-example-new-kafka/docker-compose.yaml" />
+      <jump line="122" column="4" filename="$USER_HOME$/repositories/garbage-dump/jafisher-example-new-kafka/docker-compose.yaml" />
+      <jump line="135" column="4" filename="$USER_HOME$/repositories/garbage-dump/jafisher-example-new-kafka/docker-compose.yaml" />
+      <jump line="147" column="8" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/kafka.py" />
+      <jump line="178" column="35" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/kafka.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1006,47 +1003,47 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>batch_size=5</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>PYTHON_PLATFORMS_DEMO_KAFKA_APPLICATION_CONFIG=testing</text>
+        <text>batch_size=5</text>
       </register>
       <register name="/" type="4">
-        <text>Devbox</text>
+        <text>flush</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LSB3YWl0Ci0gbGFiZWw6ICJJbnRlZ3JhdGlvbiBUZXN0cyIKICBwbHVnaW5zOgogICAgLSBzc2g6Ly9naXRAZ2l0aHViLmNzbnpvby5jb20vc2VjdXJlL2RvY2tlci1jb21wb3NlLWJ1aWxka2l0ZS1wbHVnaW4uZ2l0I3YzLjAuMzoKICAgICAgICBydW46IHRlc3QtaW50ZWdyYXRpb24KICAgICAgICBjb25maWc6IGRvY2tlci1jb21wb3NlLnlhbWwKICAgICAgICBlbnY6CiAgICAgICAgICAtICJQWVRIT05fUExBVEZPUk1TX0RFTU9fS0FGS0FfQVBQTElDQVRJT05fQ09ORklHPXRlc3RpbmciCiAgICAgICAgICAtICJQSVBfSU5ERVhfVVJMPWh0dHBzOi8vYXJ0aWZhY3Rvcnkuc2VydmljZS5ibzEuY3Nuem9vLmNvbS9hcnRpZmFjdG9yeS9hcGkvcHlwaS9weXRob24vc2ltcGxlIgogIGFnZW50czoKICAgIHF1ZXVlOiAiZG9ja2VyIgoK</text>
+        <text encoding="base64">ICBrYWZrYV91aToKICAgIGltYWdlOiAic291cmNlbGFib3JnL2thZmthLXdlYnZpZXc6Mi41LjAiCiAgICBwb3J0czoKICAgICAgLSAiODA4MDo4MDgwIgogICAgdm9sdW1lczoKICAgICAgLSAiLi9rYWZrYXdlYnZpZXdfZGF0YTovYXBwL2RhdGEiCiAgICBuZXR3b3JrczoKICAgICAgLSAicHJvdGV1cy1sb2FkZXIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHB5dGVzdAoKZnJvbSBwcm90ZXVzX2xvYWRlci5rYWZrYSBpbXBvcnQgS2Fma2FDb25zdW1lciwgS2Fma2FQcm9kdWNlcgoKClRPUElDUyA9IFsidGVzdF90b3BpYyJdCgoKQHB5dGVzdC5maXh0dXJlCmRlZiBwcm9kdWNlcigpOgogICAgcmV0dXJuIEthZmthUHJvZHVjZXIoKQoKCkBweXRlc3QuZml4dHVyZQpkZWYgY29uc3VtZXIoKToKICAgIHJldHVybiBLYWZrYUNvbnN1bWVyKFRPUElDUykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBrYWZrYToKICAgIGltYWdlOiAiZXh0ZXJuYWwtc3RhZ2luZy9jb25mbHVlbnRpbmMvY3Ata2Fma2E6NS4xLjIiCiAgICBlbnZpcm9ubWVudDoKICAgICAgLSAiS0FGS0FfQlJPS0VSX0lEPTAiCiAgICAgIC0gIktBRktBX1pPT0tFRVBFUl9DT05ORUNUPXpvb2tlZXBlcjoyMTgxIgogICAgICAtICJLQUZLQV9MSVNURU5FUlM9TElTVEVORVJfTE9DQUw6Ly8wLjAuMC4wOjU5MDkyLExJU1RFTkVSX0RPQ0tFUjovLzAuMC4wLjA6MjkwOTIsUExBSU5URVhUOi8vMC4wLjAuMDo5MDkzIgogICAgICAtICJLQUZLQV9BRFZFUlRJU0VEX0xJU1RFTkVSUz1MSVNURU5FUl9MT0NBTDovL2xvY2FsaG9zdDo1OTA5MixMSVNURU5FUl9ET0NLRVI6Ly9rYWZrYToyOTA5MixQTEFJTlRFWFQ6Ly9rYWZrYTo5MDkzIgogICAgICAtICJLQUZLQV9MSVNURU5FUl9TRUNVUklUWV9QUk9UT0NPTF9NQVA9TElTVEVORVJfTE9DQUw6UExBSU5URVhULExJU1RFTkVSX0RPQ0tFUjpQTEFJTlRFWFQsUExBSU5URVhUOlBMQUlOVEVYVCIKICAgICAgLSAiS0FGS0FfSU5URVJfQlJPS0VSX0xJU1RFTkVSX05BTUU9TElTVEVORVJfRE9DS0VSIgogICAgICAtICJLQUZLQV9BVVRPX0NSRUFURV9UT1BJQ1NfRU5BQkxFPXRydWUiCiAgICAgIC0gIktBRktBX09GRlNFVFNfVE9QSUNfUkVQTElDQVRJT05fRkFDVE9SPTEiCiAgICAgIC0gIktBRktBX0dST1VQX0lOSVRJQUxfUkVCQUxBTkNFX0RFTEFZX01TPTEwMCIKICAgIHBvcnRzOgogICAgICAtICI1OTA5Mjo1OTA5MiIKICAgIG5ldHdvcmtzOgogICAgICAtICJwcm90ZXVzLWxvYWRlciIKICAgIGRlcGVuZHNfb246CiAgICAgIC0ga2Fma2FfdWkKICAgICAgLSB6b29rZWVwZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBJZiBhcmd1bWVudHMgYXJlIHBhc3NlZCBhbmQgdGhlIGZpcnN0IGFyZ3VtZW50IGlzICJpbnRlZ3JhdGlvbiIsIHJ1biB0aGUgaW50ZWdyYXRpb24gdGVzdCBzdWl0ZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBrYWZrYV91aToKICAgIGltYWdlOiAic291cmNlbGFib3JnL2thZmthLXdlYnZpZXc6Mi41LjAiCiAgICBwb3J0czoKICAgICAgLSAiODA4MDo4MDgwIgogICAgdm9sdW1lczoKICAgICAgLSAiLi9rYWZrYXdlYnZpZXdfZGF0YTovYXBwL2RhdGEiCiAgICBuZXR3b3JrczoKICAgICAgLSAicHJvdGV1cy1sb2FkZXIiCgogIGthZmthOgogICAgaW1hZ2U6ICJleHRlcm5hbC1zdGFnaW5nL2NvbmZsdWVudGluYy9jcC1rYWZrYTo1LjEuMiIKICAgIGRlcGVuZHNfb246CiAgICAgIC0gem9va2VlcGVyCiAgICAgIC0gc2NoZW1hX3JlZ2lzdHJ5CiAgICAgIC0ga2Fma2FfdWkKICAgIGVudmlyb25tZW50OgogICAgICAtICJLQUZLQV9CUk9LRVJfSUQ9MCIKICAgICAgLSAiS0FGS0FfWk9PS0VFUEVSX0NPTk5FQ1Q9em9va2VlcGVyOjIxODEiCiAgICAgIC0gIktBRktBX0xJU1RFTkVSUz1MSVNURU5FUl9MT0NBTDovLzAuMC4wLjA6NTkwOTIsTElTVEVORVJfRE9DS0VSOi8vMC4wLjAuMDoyOTA5MixQTEFJTlRFWFQ6Ly8wLjAuMC4wOjkwOTMiCiAgICAgIC0gIktBRktBX0FEVkVSVElTRURfTElTVEVORVJTPUxJU1RFTkVSX0xPQ0FMOi8vbG9jYWxob3N0OjU5MDkyLExJU1RFTkVSX0RPQ0tFUjovL2thZmthOjI5MDkyLFBMQUlOVEVYVDovL2thZmthOjkwOTMiCiAgICAgIC0gIktBRktBX0xJU1RFTkVSX1NFQ1VSSVRZX1BST1RPQ09MX01BUD1MSVNURU5FUl9MT0NBTDpQTEFJTlRFWFQsTElTVEVORVJfRE9DS0VSOlBMQUlOVEVYVCxQTEFJTlRFWFQ6UExBSU5URVhUIgogICAgICAtICJLQUZLQV9JTlRFUl9CUk9LRVJfTElTVEVORVJfTkFNRT1MSVNURU5FUl9ET0NLRVIiCiAgICAgIC0gIktBRktBX0FVVE9fQ1JFQVRFX1RPUElDU19FTkFCTEU9dHJ1ZSIKICAgICAgLSAiS0FGS0FfT0ZGU0VUU19UT1BJQ19SRVBMSUNBVElPTl9GQUNUT1I9MSIKICAgICAgLSAiS0FGS0FfR1JPVVBfSU5JVElBTF9SRUJBTEFOQ0VfREVMQVlfTVM9MTAwIgogICAgcG9ydHM6CiAgICAgIC0gIjU5MDkyOjU5MDkyIgogICAgbmV0d29ya3M6CiAgICAgIC0gInByb3RldXMtbG9hZGVyIgoKICB6b29rZWVwZXI6CiAgICBpbWFnZTogImV4dGVybmFsLXN0YWdpbmcvY29uZmx1ZW50aW5jL2NwLXpvb2tlZXBlcjo1LjEuMiIKICAgIGVudmlyb25tZW50OgogICAgICAtICJaT09LRUVQRVJfQ0xJRU5UX1BPUlQ9MjE4MSIKICAgICAgLSAiWk9PS0VFUEVSX1RJQ0tfVElNRT0yMDAwIgogICAgcG9ydHM6CiAgICAgIC0gIjUyMTgxOjIxODEiCiAgICBuZXR3b3JrczoKICAgICAgLSAicHJvdGV1cy1sb2FkZXIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cnVuX3Rlc3RzX2ludGVncmF0aW9uLnNoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ClNPTUVfUkVRVUlSRURfRklFTERfQSA9IHsKICAgICJuYW1lIjogInNvbWVfcmVxdWlyZWRfZmllbGRfYSIsCiAgICAiZGVzY3JpcHRpb24iOiAiU29tZSByZXF1aXJlZCBmaWVsZCB0aGF0IHN0b3JlcyBzb21lIGRhdGEuIiwKICAgICJ0eXBlIjogIlNUUklORyIsCiAgICAibW9kZSI6ICJSRVFVSVJFRCIsCn0KU09NRV9SRVFVSVJFRF9GSUVMRF9CID0gewogICAgIm5hbWUiOiAic29tZV9yZXF1aXJlZF9maWVsZF9iIiwKICAgICJkZXNjcmlwdGlvbiI6ICJTb21lIE9USEVSIHJlcXVpcmVkIGZpZWxkIHRoYXQgc3RvcmVzIHNvbWUgZGF0YS4iLAogICAgInR5cGUiOiAiSU5URUdFUiIsCiAgICAibW9kZSI6ICJSRVFVSVJFRCIsCn0KU09NRV9SRVFVSVJFRF9GSUVMRF9DID0gewogICAgIm5hbWUiOiAic29tZV9yZXF1aXJlZF9maWVsZF9jIiwKICAgICJkZXNjcmlwdGlvbiI6ICJTb21lIE9USEVSIHJlcXVpcmVkIGZpZWxkIHRoYXQgc3RvcmVzIHNvbWUgZGF0YS4iLAogICAgInR5cGUiOiAiQk9PTCIsCiAgICAibW9kZSI6ICJSRVFVSVJFRCIsCn0K</text>
+        <text encoding="base64">IyBJZiBhcmd1bWVudHMgYXJlIHBhc3NlZCBhbmQgdGhlIGZpcnN0IGFyZ3VtZW50IGlzICJpbnRlZ3JhdGlvbiIsIHJ1biB0aGUgaW50ZWdyYXRpb24gdGVzdCBzdWl0ZS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRhYmxlX3NjaGVtYSA9IFNjaGVtYVRhYmxlSlNPTihmaWVsZHM9W3JlcXVpcmVkX2ZpZWxkX2EsIHJlcXVpcmVkX2ZpZWxkX2JdKQogICAgb3RoZXJfdGFibGVfc2NoZW1hID0gU2NoZW1hVGFibGVKU09OKGZpZWxkcz1bcmVxdWlyZWRfZmllbGRfYiwgcmVxdWlyZWRfZmllbGRfYV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmVkX2ZpZWxkX2EgPSB7CiAgICAgICAgIm5hbWUiOiAic29tZV9yZXF1aXJlZF9maWVsZF9hIiwKICAgICAgICAiZGVzY3JpcHRpb24iOiAiU29tZSByZXF1aXJlZCBmaWVsZCB0aGF0IHN0b3JlcyBzb21lIGRhdGEuIiwKICAgICAgICAidHlwZSI6ICJTVFJJTkciLAogICAgICAgICJtb2RlIjogIlJFUVVJUkVEIiwKICAgIH0KICAgIHJlcXVpcmVkX2ZpZWxkX2IgPSB7CiAgICAgICAgIm5hbWUiOiAic29tZV9yZXF1aXJlZF9maWVsZF9iIiwKICAgICAgICAiZGVzY3JpcHRpb24iOiAiU29tZSBPVEhFUiByZXF1aXJlZCBmaWVsZCB0aGF0IHN0b3JlcyBzb21lIGRhdGEuIiwKICAgICAgICAidHlwZSI6ICJJTlRFR0VSIiwKICAgICAgICAibW9kZSI6ICJSRVFVSVJFRCIsCiAgICB9CiAgICByZXF1aXJlZF9maWVsZF9jID0K</text>
+        <text encoding="base64">cnVuX3Rlc3RzX2ludGVncmF0aW9uLnNoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1055,9 +1052,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Devbox</last-search>
+      <last-search>flush</last-search>
       <last-offset />
-      <last-pattern>Devbox</last-pattern>
+      <last-pattern>flush</last-pattern>
       <last-replace>table</last-replace>
       <last-substitute>project</last-substitute>
       <last-dir>1</last-dir>
