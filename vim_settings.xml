@@ -7,12 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>dep</entry>
-        <entry>filter</entry>
-        <entry>consume</entry>
-        <entry>def c</entry>
-        <entry>ALL_STEP</entry>
-        <entry>GERON</entry>
         <entry>GIRL</entry>
         <entry>we</entry>
         <entry>echo</entry>
@@ -27,6 +21,12 @@
         <entry>FixtureRequest</entry>
         <entry>FixtureR</entry>
         <entry>simulate</entry>
+        <entry>cli</entry>
+        <entry>allocate</entry>
+        <entry>lock-req</entry>
+        <entry>ddtrace</entry>
+        <entry>dd</entry>
+        <entry>fs</entry>
       </history-search>
       <history-cmd>
         <entry>E</entry>
@@ -38,15 +38,15 @@
         <entry encoding="base64">JzwsJz4lcy9wcm9qZWN0L3RhYmxl</entry>
         <entry>wq</entry>
         <entry>ew</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>2</entry>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>We</entry>
         <entry>we</entry>
         <entry>split</entry>
         <entry>qa</entry>
         <entry>q</entry>
         <entry>&quot;w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
@@ -103,23 +103,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1592533253439">
-        <mark key="[" line="0" column="1" />
-      </file>
       <file name="$USER_HOME$/repositories/proteus_loader/docker/clear-topics.sh" timestamp="1592534050809">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="1" column="10" />
         <mark key="." line="1" column="10" />
-      </file>
-      <file name="$USER_HOME$/repositories/garbage-dump/jafisher-example-new-kafka/tests/integration/test_producer_consumer.py" timestamp="1592524225223">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="18" column="57" />
-      </file>
-      <file name="$USER_HOME$/repositories/proteus_loader/tests/test_kafka.py" timestamp="1592524614942">
-        <mark key="[" line="301" column="10" />
-        <mark key="]" line="301" column="11" />
-        <mark key="." line="301" column="10" />
-        <mark key="^" line="301" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" timestamp="1592534044563">
         <mark key="'" line="202" column="8" />
@@ -127,13 +114,23 @@
         <mark key="]" line="258" column="0" />
         <mark key="." line="258" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/python_stubs/-989151341/confluent_kafka/cimpl.py" timestamp="1592524206680">
-        <mark key="'" line="126" column="4" />
+      <file name="$USER_HOME$/repositories/fulfillment_service/docker/fulfillment-service.dockerfile" timestamp="1592584341693">
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="1" column="42" />
+        <mark key="." line="1" column="41" />
+        <mark key="^" line="1" column="42" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_loader/tests_integration/test_keyword_search_consumer.py" timestamp="1592526072339">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/repositories/fulfillment_service/requirements.txt" timestamp="1592581948037">
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="25" column="15" />
+        <mark key="^" line="25" column="15" />
+        <mark key="." line="25" column="14" />
+      </file>
+      <file name="$USER_HOME$/repositories/fulfillment_service/docker/fulfillment-service-web.dockerfile" timestamp="1592584347865">
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="1" column="42" />
+        <mark key="." line="1" column="41" />
+        <mark key="^" line="1" column="42" />
       </file>
       <file name="$USER_HOME$/repositories/garbage-dump/jafisher-example-new-kafka/clear-topics" timestamp="1592533547292">
         <mark key="[" line="0" column="0" />
@@ -158,12 +155,18 @@
         <mark key="^" line="281" column="8" />
         <mark key="." line="281" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/README.md" timestamp="1592532318999">
-        <mark key="'" line="37" column="63" />
-        <mark key="[" line="65" column="271" />
-        <mark key="]" line="65" column="271" />
-        <mark key="." line="65" column="271" />
-        <mark key="^" line="57" column="136" />
+      <file name="$USER_HOME$/repositories/fulfillment_service/docker-compose.yaml" timestamp="1592584451867">
+        <mark key="'" line="90" column="9" />
+        <mark key="[" line="124" column="20" />
+        <mark key="]" line="124" column="22" />
+        <mark key="." line="124" column="21" />
+        <mark key="^" line="124" column="22" />
+      </file>
+      <file name="$USER_HOME$/repositories/fulfillment_service/docker/lock_requirements.sh" timestamp="1592583492583">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="10" />
+        <mark key="^" line="2" column="10" />
+        <mark key="." line="2" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/proteus_loader/.bandit" timestamp="1592533471223">
         <mark key="[" line="1" column="16" />
@@ -174,6 +177,12 @@
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/-1489129347/-1509498550/confluent_kafka/admin/__init__.py" timestamp="1592536232986">
         <mark key="[" line="330" column="0" />
         <mark key="]" line="330" column="61" />
+      </file>
+      <file name="$USER_HOME$/repositories/fulfillment_service/docker/devbox.dockerfile" timestamp="1592582757166">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="58" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="1" />
       </file>
       <file name="$USER_HOME$/repositories/proteus_loader/tests_integration/constants.py" timestamp="1592537229196">
         <mark key="[" line="2" column="78" />
@@ -188,7 +197,13 @@
         <mark key="^" line="42" column="53" />
         <mark key="." line="42" column="52" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/python_stubs/-1489129347/confluent_kafka/cimpl.py" timestamp="1592524455889" />
+      <file name="$USER_HOME$/repositories/fulfillment_service/infrastructure/cli.py" timestamp="1592585331526">
+        <mark key="'" line="22" column="5" />
+        <mark key="[" line="326" column="21" />
+        <mark key="]" line="326" column="34" />
+        <mark key="." line="326" column="33" />
+        <mark key="^" line="326" column="34" />
+      </file>
       <file name="$USER_HOME$/repositories/proteus_loader/tests_integration/test_kafka.py" timestamp="1592537326415">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="24" column="0" />
@@ -197,12 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/proteus_loader/docker-compose.yaml" />
-      <jump line="66" column="19" filename="$USER_HOME$/repositories/garbage-dump/jafisher-example-new-kafka/docker-compose.yaml" />
-      <jump line="71" column="4" filename="$USER_HOME$/repositories/garbage-dump/jafisher-example-new-kafka/docker-compose.yaml" />
-      <jump line="122" column="4" filename="$USER_HOME$/repositories/garbage-dump/jafisher-example-new-kafka/docker-compose.yaml" />
-      <jump line="135" column="4" filename="$USER_HOME$/repositories/garbage-dump/jafisher-example-new-kafka/docker-compose.yaml" />
-      <jump line="147" column="8" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/kafka.py" />
       <jump line="178" column="35" filename="$USER_HOME$/repositories/proteus_loader/proteus_loader/kafka.py" />
       <jump line="13" column="16" filename="$USER_HOME$/repositories/garbage-dump/jafisher-example-new-kafka/docker/entrypoints/run_tests.sh" />
       <jump line="38" column="13" filename="$USER_HOME$/repositories/garbage-dump/jafisher-example-new-kafka/docker/entrypoints/run_tests.sh" />
@@ -297,6 +306,12 @@
       <jump line="624" column="17" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/-1489129347/-1509498550/_pytest/fixtures.py" />
       <jump line="431" column="8" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/-1489129347/-1509498550/_pytest/fixtures.py" />
       <jump line="42" column="52" filename="$USER_HOME$/repositories/proteus_loader/docker-compose.yaml" />
+      <jump line="20" column="5" filename="$USER_HOME$/repositories/fulfillment_service/infrastructure/cli.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/repositories/fulfillment_service/docker-compose.yaml" />
+      <jump line="41" column="22" filename="$USER_HOME$/repositories/fulfillment_service/docker-compose.yaml" />
+      <jump line="71" column="12" filename="$USER_HOME$/repositories/fulfillment_service/docker-compose.yaml" />
+      <jump line="89" column="11" filename="$USER_HOME$/repositories/fulfillment_service/docker-compose.yaml" />
+      <jump line="90" column="9" filename="$USER_HOME$/repositories/fulfillment_service/docker-compose.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -989,47 +1004,47 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>cli</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW5kIA==</text>
+        <text>cli</text>
       </register>
       <register name="/" type="4">
-        <text>simulate</text>
+        <text>fs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlci5pbmZvKCJGYWlsZWQgdG8gZGVsZXRlIHRvcGljIHt9OiB7fSIuZm9ybWF0KHRvcGljLCBlKSkK</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlID0gcmVxdWVzdHMuZ2V0KHVybCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiaW5zaWRlX2NsaSIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBjb25mbHVlbnRfa2Fma2EuY2ltcGwgaW1wb3J0IEthZmthRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJ5byIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgS2Fma2FFeGNlcHRpb246CiAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIndlX2hpdF9jbGkoKSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1Zygid2VfaGl0X2NsaSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIE5PVEU6IHByb2plY3RfbmFtZSBpcyByZXF1aXJlZCB0byBiZSBpbmZyYXN0cnVjdHVyZS5hcHAgYXMgdGhpcyBpcyB1c2VkCiAgICAgICAgIyBieSBndW5pY29ybiB0byBpbXBvcnQgdGhlIG1vZHVsZSB0aGF0IGRlZmluZXMgdGhlIGNyZWF0ZV9hcHAgZmFjdG9yeQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGVfZGVsZXRlX3RvcGljcygpCg==</text>
+        <text encoding="base64">QVJHIEJBU0VfT1M9JHtCQVNFX09TOi1jZW50b3M3NX0KQVJHIFBZVEhPTl9WRVJTSU9OPSR7UFlUSE9OX1ZFUlNJT046LXB5dGhvbjMuN30KQVJHIERPQ0tFUl9QWVRIT05fVkVSU0lPTj0ke0RPQ0tFUl9QWVRIT05fVkVSU0lPTjotcHl0aG9uMzd9CkFSRyBERVZCT1hfVkVSU0lPTj0ke0RFVkJPWF9WRVJTSU9OOi0wLjQuMH0KRlJPTSB3YXlmYWlyL3B5dGhvbi8ke0JBU0VfT1N9LSR7RE9DS0VSX1BZVEhPTl9WRVJTSU9OfS1zZXJ2aWNlOjAuNC4wCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBkdXJpbmcgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ZnJvbSBkZHRyYQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIF9sb2dnZXIuaW5mbygiRmFpbGVkIHRvIGRlbGV0ZSB0b3BpYyB7fToge30iLmZvcm1hdCh0b3BpYywgZSkpCg==</text>
+        <text encoding="base64">ZnJvbSBkZHRyYWNlaW1wb3J0IHRyYWNlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1038,9 +1053,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>simulate</last-search>
+      <last-search>fs</last-search>
       <last-offset />
-      <last-pattern>simulate</last-pattern>
+      <last-pattern>fs</last-pattern>
       <last-replace>table</last-replace>
       <last-substitute>project</last-substitute>
       <last-dir>1</last-dir>
