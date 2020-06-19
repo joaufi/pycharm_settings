@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>UI</entry>
         <entry>dep</entry>
         <entry>filter</entry>
         <entry>consume</entry>
@@ -27,6 +26,7 @@
         <entry>a.</entry>
         <entry>FixtureRequest</entry>
         <entry>FixtureR</entry>
+        <entry>simulate</entry>
       </history-search>
       <history-cmd>
         <entry>E</entry>
@@ -181,8 +181,8 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_loader/docker-compose.yaml" timestamp="1592532809128">
-        <mark key="'" line="50" column="10" />
+      <file name="$USER_HOME$/repositories/proteus_loader/docker-compose.yaml" timestamp="1592578397239">
+        <mark key="'" line="42" column="52" />
         <mark key="[" line="42" column="44" />
         <mark key="]" line="42" column="53" />
         <mark key="^" line="42" column="53" />
@@ -197,7 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="0" filename="$USER_HOME$/repositories/proteus_loader/docker-compose.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/proteus_loader/docker-compose.yaml" />
       <jump line="66" column="19" filename="$USER_HOME$/repositories/garbage-dump/jafisher-example-new-kafka/docker-compose.yaml" />
       <jump line="71" column="4" filename="$USER_HOME$/repositories/garbage-dump/jafisher-example-new-kafka/docker-compose.yaml" />
@@ -297,6 +296,7 @@
       <jump line="621" column="17" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/-1489129347/-1509498550/_pytest/fixtures.py" />
       <jump line="624" column="17" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/-1489129347/-1509498550/_pytest/fixtures.py" />
       <jump line="431" column="8" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/-1489129347/-1509498550/_pytest/fixtures.py" />
+      <jump line="42" column="52" filename="$USER_HOME$/repositories/proteus_loader/docker-compose.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -999,7 +999,7 @@
         <text encoding="base64">YW5kIA==</text>
       </register>
       <register name="/" type="4">
-        <text>FixtureR</text>
+        <text>simulate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlci5pbmZvKCJGYWlsZWQgdG8gZGVsZXRlIHRvcGljIHt9OiB7fSIuZm9ybWF0KHRvcGljLCBlKSkK</text>
@@ -1038,9 +1038,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>FixtureR</last-search>
+      <last-search>simulate</last-search>
       <last-offset />
-      <last-pattern>FixtureR</last-pattern>
+      <last-pattern>simulate</last-pattern>
       <last-replace>table</last-replace>
       <last-substitute>project</last-substitute>
       <last-dir>1</last-dir>
