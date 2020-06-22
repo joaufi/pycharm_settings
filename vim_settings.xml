@@ -33,7 +33,6 @@
         <entry>e</entry>
         <entry>Lw</entry>
         <entry>wa</entry>
-        <entry>vsplit</entry>
         <entry encoding="base64">JzwsJz5zL3Byb2plY3QvZGF0YXNldA==</entry>
         <entry encoding="base64">JzwsJz4lcy9wcm9qZWN0L3RhYmxl</entry>
         <entry>wq</entry>
@@ -41,12 +40,13 @@
         <entry>2</entry>
         <entry>We</entry>
         <entry>we</entry>
-        <entry>split</entry>
         <entry>qa</entry>
-        <entry>q</entry>
         <entry>&quot;w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>vsplit</entry>
+        <entry>q</entry>
+        <entry>split</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
@@ -103,50 +103,38 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/proteus_loader/docker/clear-topics.sh" timestamp="1592534050809">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="10" />
-        <mark key="." line="1" column="10" />
+      <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/-1489129347/-1509498550/confluent_kafka/admin/__init__.py" timestamp="1592536232986">
+        <mark key="[" line="330" column="0" />
+        <mark key="]" line="330" column="61" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" timestamp="1592534044563">
-        <mark key="'" line="202" column="8" />
-        <mark key="[" line="258" column="0" />
-        <mark key="]" line="258" column="0" />
-        <mark key="." line="258" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/fulfillment_service/docker/fulfillment-service.dockerfile" timestamp="1592584341693">
-        <mark key="[" line="1" column="37" />
-        <mark key="]" line="1" column="42" />
-        <mark key="." line="1" column="41" />
-        <mark key="^" line="1" column="42" />
-      </file>
-      <file name="$USER_HOME$/repositories/fulfillment_service/requirements.txt" timestamp="1592581948037">
-        <mark key="[" line="23" column="18" />
-        <mark key="]" line="25" column="15" />
-        <mark key="^" line="25" column="15" />
-        <mark key="." line="25" column="14" />
-      </file>
-      <file name="$USER_HOME$/repositories/fulfillment_service/docker/fulfillment-service-web.dockerfile" timestamp="1592584347865">
-        <mark key="[" line="1" column="37" />
-        <mark key="]" line="1" column="42" />
-        <mark key="." line="1" column="41" />
-        <mark key="^" line="1" column="42" />
-      </file>
-      <file name="$USER_HOME$/repositories/garbage-dump/jafisher-example-new-kafka/clear-topics" timestamp="1592533547292">
+      <file name="$USER_HOME$/repositories/fulfillment_service/docker/devbox.dockerfile" timestamp="1592582757166">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="16" />
-      </file>
-      <file name="$USER_HOME$/repositories/proteus_loader/proteus_loader/kafka.py" timestamp="1592534436254">
-        <mark key="'" line="39" column="8" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="65" />
-        <mark key="^" line="215" column="37" />
-        <mark key="." line="215" column="36" />
+        <mark key="]" line="3" column="58" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="1" />
       </file>
       <file name="$USER_HOME$/repositories/proteus_loader/tests_integration/conftest.py" timestamp="1592536879740">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/proteus_loader/docker/clear-topics.sh" timestamp="1592534050809">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+      </file>
+      <file name="$USER_HOME$/repositories/garbage-dump/jafisher-fastapi-lunch-and-learn-demo/fastapi_lunch_and_learn_demo/endpoints/home.py" timestamp="1592847455833" />
+      <file name="$USER_HOME$/repositories/proteus_loader/tests_integration/constants.py" timestamp="1592537229196">
+        <mark key="[" line="2" column="78" />
+        <mark key="]" line="3" column="2" />
+        <mark key="." line="3" column="1" />
+        <mark key="^" line="3" column="2" />
+      </file>
+      <file name="$USER_HOME$/repositories/garbage-dump/jafisher-fastapi-lunch-and-learn-demo/fastapi_lunch_and_learn_demo/endpoints/demo.py" timestamp="1592847447428">
+        <mark key="[" line="7" column="47" />
+        <mark key="]" line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="8" column="16" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/-1489129347/-1509498550/_pytest/fixtures.py" timestamp="1592536030653">
         <mark key="'" line="431" column="8" />
@@ -162,40 +150,31 @@
         <mark key="." line="124" column="21" />
         <mark key="^" line="124" column="22" />
       </file>
-      <file name="$USER_HOME$/repositories/fulfillment_service/docker/lock_requirements.sh" timestamp="1592583492583">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="10" />
-        <mark key="^" line="2" column="10" />
-        <mark key="." line="2" column="9" />
-      </file>
-      <file name="$USER_HOME$/repositories/proteus_loader/.bandit" timestamp="1592533471223">
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="17" />
-        <mark key="^" line="1" column="17" />
-        <mark key="." line="1" column="16" />
-      </file>
-      <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/-1489129347/-1509498550/confluent_kafka/admin/__init__.py" timestamp="1592536232986">
-        <mark key="[" line="330" column="0" />
-        <mark key="]" line="330" column="61" />
-      </file>
-      <file name="$USER_HOME$/repositories/fulfillment_service/docker/devbox.dockerfile" timestamp="1592582757166">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="58" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="1" />
-      </file>
-      <file name="$USER_HOME$/repositories/proteus_loader/tests_integration/constants.py" timestamp="1592537229196">
-        <mark key="[" line="2" column="78" />
-        <mark key="]" line="3" column="2" />
-        <mark key="." line="3" column="1" />
-        <mark key="^" line="3" column="2" />
-      </file>
       <file name="$USER_HOME$/repositories/proteus_loader/docker-compose.yaml" timestamp="1592578397239">
         <mark key="'" line="42" column="52" />
         <mark key="[" line="42" column="44" />
         <mark key="]" line="42" column="53" />
         <mark key="^" line="42" column="53" />
         <mark key="." line="42" column="52" />
+      </file>
+      <file name="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" timestamp="1592534044563">
+        <mark key="'" line="202" column="8" />
+        <mark key="[" line="258" column="0" />
+        <mark key="]" line="258" column="0" />
+        <mark key="." line="258" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/proteus_loader/proteus_loader/kafka.py" timestamp="1592534436254">
+        <mark key="'" line="39" column="8" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="65" />
+        <mark key="^" line="215" column="37" />
+        <mark key="." line="215" column="36" />
+      </file>
+      <file name="$USER_HOME$/repositories/fulfillment_service/docker/fulfillment-service.dockerfile" timestamp="1592584341693">
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="1" column="42" />
+        <mark key="." line="1" column="41" />
+        <mark key="^" line="1" column="42" />
       </file>
       <file name="$USER_HOME$/repositories/fulfillment_service/infrastructure/cli.py" timestamp="1592585408458">
         <mark key="'" line="22" column="5" />
@@ -204,11 +183,41 @@
         <mark key="." line="319" column="4" />
         <mark key="^" line="323" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/garbage-dump/jafisher-fastapi-lunch-and-learn-demo/fastapi_lunch_and_learn_demo/app.py" timestamp="1592847754133">
+        <mark key="[" line="19" column="51" />
+        <mark key="]" line="19" column="51" />
+        <mark key="^" line="19" column="61" />
+        <mark key="." line="19" column="51" />
+      </file>
+      <file name="$USER_HOME$/repositories/fulfillment_service/requirements.txt" timestamp="1592581948037">
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="25" column="15" />
+        <mark key="^" line="25" column="15" />
+        <mark key="." line="25" column="14" />
+      </file>
       <file name="$USER_HOME$/repositories/proteus_loader/tests_integration/test_kafka.py" timestamp="1592537326415">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/fulfillment_service/docker/fulfillment-service-web.dockerfile" timestamp="1592584347865">
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="1" column="42" />
+        <mark key="." line="1" column="41" />
+        <mark key="^" line="1" column="42" />
+      </file>
+      <file name="$USER_HOME$/repositories/fulfillment_service/docker/lock_requirements.sh" timestamp="1592583492583">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="10" />
+        <mark key="^" line="2" column="10" />
+        <mark key="." line="2" column="9" />
+      </file>
+      <file name="$USER_HOME$/repositories/garbage-dump/jafisher-fastapi-lunch-and-learn-demo/fastapi_lunch_and_learn_demo/models.py" timestamp="1592847270799">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="12" />
+        <mark key="^" line="19" column="12" />
+        <mark key="." line="19" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -1005,13 +1014,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>fs</text>
