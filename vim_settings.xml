@@ -45,10 +45,10 @@
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>vsplit</entry>
         <entry>q</entry>
-        <entry>split</entry>
         <entry>qa</entry>
-        <entry>w</entry>
+        <entry>split</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -122,11 +122,21 @@
         <mark key="." line="124" column="21" />
         <mark key="^" line="124" column="22" />
       </file>
+      <file name="$USER_HOME$/repositories/pyplats-automation/tests/main/test_publish_usage_count.py" timestamp="1593655124521">
+        <mark key="[" line="51" column="83" />
+        <mark key="]" line="51" column="84" />
+        <mark key="^" line="51" column="84" />
+        <mark key="." line="51" column="83" />
+      </file>
       <file name="$USER_HOME$/repositories/fulfillment_service/docker/fulfillment-service.dockerfile" timestamp="1592584341693">
         <mark key="[" line="1" column="37" />
         <mark key="]" line="1" column="42" />
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="42" />
+      </file>
+      <file name="$USER_HOME$/repositories/pyplats-automation/tests/main/test_what_uses.py" timestamp="1593653467230">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="43" />
       </file>
       <file name="$USER_HOME$/repositories/garbage-dump/jafisher-fastapi-lunch-and-learn-demo/fastapi_lunch_and_learn_demo/app.py" timestamp="1592847754133">
         <mark key="[" line="19" column="51" />
@@ -164,20 +174,7 @@
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1104829162/1027869409/click/decorators.py" timestamp="1593637106835">
         <mark key="'" line="166" column="8" />
       </file>
-      <file name="$USER_HOME$/repositories/proteus_loader/docker-compose.yaml" timestamp="1592578397239">
-        <mark key="'" line="42" column="52" />
-        <mark key="[" line="42" column="44" />
-        <mark key="]" line="42" column="53" />
-        <mark key="^" line="42" column="53" />
-        <mark key="." line="42" column="52" />
-      </file>
-      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" timestamp="1593652159945">
-        <mark key="'" line="61" column="24" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
-        <mark key="^" line="138" column="40" />
-      </file>
+      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" timestamp="1593655061533" />
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1104829162/1027869409/click/core.py" timestamp="1593638577171">
         <mark key="'" line="1676" column="66" />
       </file>
@@ -187,12 +184,6 @@
         <mark key="]" line="319" column="4" />
         <mark key="." line="319" column="4" />
         <mark key="^" line="323" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/proteus_loader/tests_integration/test_kafka.py" timestamp="1592537326415">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/garbage-dump/jafisher-fastapi-lunch-and-learn-demo/fastapi_lunch_and_learn_demo/models.py" timestamp="1592847270799">
         <mark key="[" line="19" column="4" />
@@ -995,46 +986,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNsaWNrCmltcG9ydCBweXRlc3QKCg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>bad_parameter_error_raised</text>
       </register>
       <register name="/" type="4">
         <text>debug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG5vcm1hbGl6ZWRfbmFtZXMuYWRkKGRlcGVuZGVuY3lfbmFtZS5yZXBsYWNlKCItIiwgIl8iKSkKICAgIG5vcm1hbGl6ZWRfbmFtZXMuYWRkKGRlcGVuZGVuY3lfbmFtZS5yZXBsYWNlKCJfIiwgIi0iKSkK</text>
+        <text encoding="base64">CgpkZWYgdGVzdF9wdWJsaXNoX3VzYWdlX2NvdW50X19saW5lX3JlZ2V4X21hdGNoaW5nX21ham9yX3ZlcnNpb25fMl9fdXNhZ2VfY291bnRfb2Zfb25lX3B1Ymxpc2hlZChtb2NrZXIsIGNsaV9ydW5uZXIpOgogICAgbWFyYmxlX3NuYWtlX21vY2sgPSBtb2NrZXIucGF0Y2goInB5cGxhdHNfYXV0b21hdGlvbi5fX21haW5fXy5tYXJibGVfc25ha2UiKQogICAgbW9ja2VyLnBhdGNoKCJweXBsYXRzX2F1dG9tYXRpb24uX19tYWluX18ud2hhdF91c2VzX2pvYi5nZXRfcmVwb3NpdG9yaWVzX3RoYXRfdXNlIiwgcmV0dXJuX3ZhbHVlPVNPTUVfUEFDS0FHRV9VU0FHRVMpCgogICAgY2xpX3J1bm5lci5pbnZva2UoY2xpLCBhcmdzPVsicHVibGlzaC11c2FnZS1jb3VudCIsICJzb21lX3BhY2thZ2UiLCAiLS1saW5lLXJlZ2V4IiwgIj09MlwuLitcLi4rIl0pCgogICAgbWFyYmxlX3NuYWtlX21vY2sucHVibGlzaF9pbnQuYXNzZXJ0X2NhbGxlZF93aXRoKCJzb21lLXBhY2thZ2UtdXNhZ2UtY291bnQiLCAxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNsaWNrCmltcG9ydCBweXRlc3QKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjYW5vbmljYWxfbmFtZSwKICAgICAgICBjYW5vbmljYWxfbmFtZS5yZXBsYWNlKCItIiwgIl8iKSwK</text>
+        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5vcm1hbGl6ZWRfbmFtZXMuYWRkKGNhbm9uaWNhbF9uYW1lLnJlcGxhY2UoIi0iLCAiXyIpKQogICAgbm9ybWFsaXplZF9uYW1lcy5hZGQoZGVwZW5kZW5jeV9uYW1lLnJlcGxhY2UoIi0iLCAiXyIpKQogICAgbm9ybWFsaXplZF9uYW1lcy5hZGQoZGVwZW5kZW5jeV9uYW1lLnJlcGxhY2UoIl8iLCAiLSIpKQo=</text>
+        <text encoding="base64">ICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhjbGljay5CYWRQYXJhbWV0ZXIpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5vcm1hbGl6ZWRfbmFtZXMuYWRkKGNhbm9uaWNhbF9uYW1lLnJlcGxhY2UoIi0iLCAiXyIpKQo=</text>
+        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjbGljay5lY2hvKGYie3VzYWdlX2NvdW50PX0iKQo=</text>
+        <text encoding="base64">CiAgICBtYXJibGVfc25ha2VfbW9jay5wdWJsaXNoX2ludC5hc3NlcnRfY2FsbGVkX3dpdGgoInNvbWUtcGFja2FnZS11c2FnZS1jb3VudCIsIDEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbGljay5lY2hvKGYie3VzYWdlLmxpbmU9fSIpCg==</text>
+        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaCgicHlwbGF0c19hdXRvbWF0aW9uLl9fbWFpbl9fLndoYXRfdXNlc19qb2IuZ2V0X3JlcG9zaXRvcmllc190aGF0X3VzZSIsIHJldHVybl92YWx1ZT1TT01FX1BBQ0tBR0VfVVNBR0VTKQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xpY2suZWNobyhmInt1c2FnZS5saW5lfSIpCg==</text>
+        <text encoding="base64">ICAgIG1hcmJsZV9zbmFrZV9tb2NrID0gbW9ja2VyLnBhdGNoKCJweXBsYXRzX2F1dG9tYXRpb24uX19tYWluX18ubWFyYmxlX3NuYWtlIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGNsaWNrLnBhc3NfY29udGV4dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5vcm1hbGl6ZWRfbmFtZXMuYWRkKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
