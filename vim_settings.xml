@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>BLACK_AC</entry>
-        <entry>a</entry>
-        <entry>a.</entry>
         <entry>FixtureRequest</entry>
         <entry>FixtureR</entry>
         <entry>simulate</entry>
@@ -27,6 +24,9 @@
         <entry>Arg</entry>
         <entry>influx</entry>
         <entry>call</entry>
+        <entry>can</entry>
+        <entry>_us</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry>E</entry>
@@ -171,12 +171,12 @@
         <mark key="^" line="42" column="53" />
         <mark key="." line="42" column="52" />
       </file>
-      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" timestamp="1593639212366">
-        <mark key="'" line="112" column="33" />
-        <mark key="[" line="141" column="59" />
-        <mark key="]" line="141" column="71" />
-        <mark key="." line="141" column="70" />
-        <mark key="^" line="141" column="71" />
+      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" timestamp="1593640611104">
+        <mark key="'" line="61" column="24" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
+        <mark key="^" line="145" column="48" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1104829162/1027869409/click/core.py" timestamp="1593638577171">
         <mark key="'" line="1676" column="66" />
@@ -202,15 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="54" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/python_stubs/-989151341/confluent_kafka/cimpl.py" />
-      <jump line="99" column="44" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/python_stubs/-989151341/confluent_kafka/cimpl.py" />
-      <jump line="109" column="4" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/python_stubs/-989151341/confluent_kafka/cimpl.py" />
-      <jump line="126" column="4" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/python_stubs/-989151341/confluent_kafka/cimpl.py" />
-      <jump line="182" column="28" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
-      <jump line="44" column="15" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
-      <jump line="193" column="0" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
-      <jump line="96" column="20" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
-      <jump line="109" column="52" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
       <jump line="160" column="2" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
       <jump line="161" column="2" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
       <jump line="162" column="2" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
@@ -302,6 +293,15 @@
       <jump line="61" column="55" filename="$USER_HOME$/repositories/pyplats-automation/docker-compose.yaml" />
       <jump line="1652" column="16" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1104829162/1027869409/click/core.py" />
       <jump line="1676" column="66" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1104829162/1027869409/click/core.py" />
+      <jump line="82" column="21" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
+      <jump line="144" column="10" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
+      <jump line="102" column="32" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
+      <jump line="138" column="16" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
+      <jump line="51" column="17" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
+      <jump line="54" column="13" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
+      <jump line="56" column="23" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
+      <jump line="60" column="7" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
+      <jump line="61" column="24" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -995,46 +995,48 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGljay5lY2hvKGYie3VzYWdlX2NvdW50PX0iKQo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>json</text>
       </register>
       <register name="/" type="4">
-        <text>call</text>
+        <text>debug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRhc2hfZGVwZW5kZW5jeV9uYW1lcyA9IHNldCgpCiAgICBmb3IgbmFtZSBpbiBkZXBlbmRlbmN5X25hbWVzOgogICAgICAgIGRhc2hfZGVwZW5kZW5jeV9uYW1lcy5hZGQobmFtZS5yZXBsYWNlKCItIiwgIl8iKSkKICAgICAgICBkYXNoX2RlcGVuZGVuY3lfbmFtZXMuYWRkKG5hbWUucmVwbGFjZSgiXyIsICItIikpCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGljay5lY2hvKGYie3VzYWdlLmxpbmV9IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGljay5lY2hvKGYie3VzYWdlX2NvdW50PX0iKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBjbGljay5lY2hvKGYie3VzYWdlLmxpbmU9fSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xpY2suZWNobyhmInt1c2FnZS5saW5lfSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGNsaWNrLnBhc3NfY29udGV4dAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1c2FnZXMgPSBbCiAgICAgICAgICAgIHJlLnNlYXJjaCgpCiAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgIG5vcm1hbGl6ZWRfbmFtZXMuYWRkKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIHJlc3VsdHMgPSBbXSAK</text>
+        <text encoding="base64">ICAgIGNhbm9uaWNhbAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBuYW1lIGluIGRlcGVuZGVuY3lfbmFtZXM6Cg==</text>
+      <register name="7" type="8">
+        <text>dependency_
+dependency_
+dependency_</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRhc2hfZGVwZW5kZW5jeV9uYW1lcyA9IHNldCgpCg==</text>
+        <text encoding="base64">ICAgIGNhbm9uaWNhbGl6ZV9uYW1lKGRlcGVuZGVuY3lfbmFtZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRhc2hfZGVwZW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1043,9 +1045,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>call</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>call</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-replace>table</last-replace>
       <last-substitute>project</last-substitute>
       <last-dir>1</last-dir>
