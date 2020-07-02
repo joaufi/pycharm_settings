@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>FixtureRequest</entry>
         <entry>FixtureR</entry>
         <entry>simulate</entry>
         <entry>cli</entry>
@@ -27,6 +26,7 @@
         <entry>can</entry>
         <entry>_us</entry>
         <entry>debug</entry>
+        <entry>help</entry>
       </history-search>
       <history-cmd>
         <entry>E</entry>
@@ -47,8 +47,8 @@
         <entry>q</entry>
         <entry>qa</entry>
         <entry>split</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -122,11 +122,11 @@
         <mark key="." line="124" column="21" />
         <mark key="^" line="124" column="22" />
       </file>
-      <file name="$USER_HOME$/repositories/pyplats-automation/tests/main/test_publish_usage_count.py" timestamp="1593655124521">
-        <mark key="[" line="51" column="83" />
-        <mark key="]" line="51" column="84" />
-        <mark key="^" line="51" column="84" />
-        <mark key="." line="51" column="83" />
+      <file name="$USER_HOME$/repositories/pyplats-automation/tests/main/test_publish_usage_count.py" timestamp="1593656370422">
+        <mark key="[" line="41" column="66" />
+        <mark key="]" line="41" column="70" />
+        <mark key="^" line="41" column="70" />
+        <mark key="." line="41" column="69" />
       </file>
       <file name="$USER_HOME$/repositories/fulfillment_service/docker/fulfillment-service.dockerfile" timestamp="1592584341693">
         <mark key="[" line="1" column="37" />
@@ -174,7 +174,13 @@
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1104829162/1027869409/click/decorators.py" timestamp="1593637106835">
         <mark key="'" line="166" column="8" />
       </file>
-      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" timestamp="1593655061533" />
+      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" timestamp="1593656323205">
+        <mark key="'" line="28" column="43" />
+        <mark key="[" line="130" column="231" />
+        <mark key="]" line="130" column="232" />
+        <mark key="." line="130" column="231" />
+        <mark key="^" line="130" column="232" />
+      </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1104829162/1027869409/click/core.py" timestamp="1593638577171">
         <mark key="'" line="1676" column="66" />
       </file>
@@ -193,7 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="2" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
       <jump line="161" column="2" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
       <jump line="162" column="2" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
       <jump line="163" column="2" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
@@ -293,6 +298,7 @@
       <jump line="56" column="23" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="60" column="7" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="61" column="24" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
+      <jump line="28" column="43" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -985,47 +991,47 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNsaWNrCmltcG9ydCBweXRlc3QKCg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>bad_parameter_error_raised</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>debug</text>
+        <text>help</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CgpkZWYgdGVzdF9wdWJsaXNoX3VzYWdlX2NvdW50X19saW5lX3JlZ2V4X21hdGNoaW5nX21ham9yX3ZlcnNpb25fMl9fdXNhZ2VfY291bnRfb2Zfb25lX3B1Ymxpc2hlZChtb2NrZXIsIGNsaV9ydW5uZXIpOgogICAgbWFyYmxlX3NuYWtlX21vY2sgPSBtb2NrZXIucGF0Y2goInB5cGxhdHNfYXV0b21hdGlvbi5fX21haW5fXy5tYXJibGVfc25ha2UiKQogICAgbW9ja2VyLnBhdGNoKCJweXBsYXRzX2F1dG9tYXRpb24uX19tYWluX18ud2hhdF91c2VzX2pvYi5nZXRfcmVwb3NpdG9yaWVzX3RoYXRfdXNlIiwgcmV0dXJuX3ZhbHVlPVNPTUVfUEFDS0FHRV9VU0FHRVMpCgogICAgY2xpX3J1bm5lci5pbnZva2UoY2xpLCBhcmdzPVsicHVibGlzaC11c2FnZS1jb3VudCIsICJzb21lX3BhY2thZ2UiLCAiLS1saW5lLXJlZ2V4IiwgIj09MlwuLitcLi4rIl0pCgogICAgbWFyYmxlX3NuYWtlX21vY2sucHVibGlzaF9pbnQuYXNzZXJ0X2NhbGxlZF93aXRoKCJzb21lLXBhY2thZ2UtdXNhZ2UtY291bnQiLCAxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNsaWNrCmltcG9ydCBweXRlc3QKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZXBlbmRlbmN5X25hbWUsCiAgICAgICAgZGVwZW5kZW5jeV9uYW1lLnJlcGxhY2UoIl8iLCAiLSIpLAogICAgICAgIGRlcGVuZGVuY3lfbmFtZS5yZXBsYWNlKCItIiwgIl8iKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhjbGljay5CYWRQYXJhbWV0ZXIpOgo=</text>
+        <text encoding="base64">ICAgICMgdGhpcyBzaG91bGQgY292ZXIgYWxsIHBlcm11dGF0aW9ucyBvZiAiLSIgb3IgIl8iIGUuZy4gcGEtY2stYWdlLCBwYV9jay1hZ2UsIGV0Yy4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNsaWNrCmltcG9ydCBweXRlc3QKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBtYXJibGVfc25ha2VfbW9jay5wdWJsaXNoX2ludC5hc3NlcnRfY2FsbGVkX3dpdGgoInNvbWUtcGFja2FnZS11c2FnZS1jb3VudCIsIDEpCg==</text>
+        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaCgicHlwbGF0c19hdXRvbWF0aW9uLl9fbWFpbl9fLndoYXRfdXNlc19qb2IuZ2V0X3JlcG9zaXRvcmllc190aGF0X3VzZSIsIHJldHVybl92YWx1ZT1TT01FX1BBQ0tBR0VfVVNBR0VTKQoK</text>
+        <text encoding="base64">ICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhjbGljay5CYWRQYXJhbWV0ZXIpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcmJsZV9zbmFrZV9tb2NrID0gbW9ja2VyLnBhdGNoKCJweXBsYXRzX2F1dG9tYXRpb24uX19tYWluX18ubWFyYmxlX3NuYWtlIikK</text>
+        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBtYXJibGVfc25ha2VfbW9jay5wdWJsaXNoX2ludC5hc3NlcnRfY2FsbGVkX3dpdGgoInNvbWUtcGFja2FnZS11c2FnZS1jb3VudCIsIDEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaCgicHlwbGF0c19hdXRvbWF0aW9uLl9fbWFpbl9fLndoYXRfdXNlc19qb2IuZ2V0X3JlcG9zaXRvcmllc190aGF0X3VzZSIsIHJldHVybl92YWx1ZT1TT01FX1BBQ0tBR0VfVVNBR0VTKQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1034,9 +1040,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>debug</last-search>
+      <last-search>help</last-search>
       <last-offset />
-      <last-pattern>debug</last-pattern>
+      <last-pattern>help</last-pattern>
       <last-replace>table</last-replace>
       <last-substitute>project</last-substitute>
       <last-dir>1</last-dir>
