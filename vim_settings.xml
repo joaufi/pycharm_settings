@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>dd</entry>
         <entry>fs</entry>
         <entry>what-uses</entry>
         <entry>what</entry>
@@ -27,6 +26,7 @@
         <entry>json</entry>
         <entry>de</entry>
         <entry>usage</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd>
         <entry>E</entry>
@@ -162,17 +162,17 @@
       <file name="$USER_HOME$/repositories/pyplats-automation/docker-compose.yaml" timestamp="1593638280644">
         <mark key="'" line="61" column="55" />
       </file>
-      <file name="$USER_HOME$/repositories/pyplats-automation/tests/main/test_publish_usage_metrics.py" timestamp="1593996457422">
-        <mark key="[" line="65" column="23" />
-        <mark key="]" line="65" column="24" />
-        <mark key="^" line="62" column="33" />
-        <mark key="." line="65" column="24" />
+      <file name="$USER_HOME$/repositories/pyplats-automation/tests/main/test_publish_usage_metrics.py" timestamp="1594043090800">
+        <mark key="[" line="62" column="33" />
+        <mark key="]" line="62" column="34" />
+        <mark key="^" line="62" column="34" />
+        <mark key="." line="62" column="33" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1104829162/1027869409/click/decorators.py" timestamp="1593637106835">
         <mark key="'" line="166" column="8" />
       </file>
-      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" timestamp="1593996482756">
-        <mark key="'" line="115" column="20" />
+      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" timestamp="1593996582689">
+        <mark key="'" line="153" column="4" />
         <mark key="[" line="171" column="0" />
         <mark key="]" line="171" column="0" />
         <mark key="." line="171" column="0" />
@@ -196,9 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="2" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
-      <jump line="213" column="0" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
-      <jump line="218" column="0" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
       <jump line="233" column="8" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
       <jump line="257" column="4" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
       <jump line="267" column="4" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
@@ -289,13 +286,16 @@
       <jump line="125" column="322" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="119" column="32" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="162" column="23" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
-      <jump line="153" column="53" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="40" column="20" filename="$USER_HOME$/repositories/pyplats-automation/tests/main/test_publish_usage_count.py" />
       <jump line="495" column="39" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="564" column="18" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="100" column="4" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="111" column="18" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="115" column="20" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
+      <jump line="176" column="0" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
+      <jump line="554" column="0" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
+      <jump line="3" column="9" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
+      <jump line="153" column="4" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -998,7 +998,7 @@
         <text>\</text>
       </register>
       <register name="/" type="4">
-        <text>usage</text>
+        <text>class</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2xpY2suZWNobyhmImZpbHRlcmVkOiB7dXNhZ2UubGluZX0iKQo=</text>
@@ -1037,9 +1037,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>usage</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern>usage</last-pattern>
+      <last-pattern>class</last-pattern>
       <last-replace>table</last-replace>
       <last-substitute>project</last-substitute>
       <last-dir>1</last-dir>
