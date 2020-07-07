@@ -35,7 +35,6 @@
         <entry encoding="base64">JzwsJz5zL3Byb2plY3QvZGF0YXNldA==</entry>
         <entry encoding="base64">JzwsJz4lcy9wcm9qZWN0L3RhYmxl</entry>
         <entry>wq</entry>
-        <entry>ew</entry>
         <entry>2</entry>
         <entry>We</entry>
         <entry>vsplit</entry>
@@ -45,9 +44,10 @@
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>q</entry>
         <entry>split</entry>
-        <entry>W</entry>
         <entry>we</entry>
         <entry>&quot;w</entry>
+        <entry>ew</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -124,9 +124,9 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/utils/utils.py" timestamp="1594140116307">
+      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/utils/utils.py" timestamp="1594143556031">
         <mark key="'" line="81" column="32" />
-        <mark key="[" line="63" column="41" />
+        <mark key="[" line="3" column="45" />
         <mark key="]" line="63" column="44" />
         <mark key="." line="63" column="43" />
         <mark key="^" line="63" column="44" />
@@ -154,11 +154,11 @@
         <mark key="." line="93" column="28" />
         <mark key="^" line="93" column="29" />
       </file>
-      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" timestamp="1594142990040">
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
-        <mark key="^" line="134" column="72" />
+      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" timestamp="1594145083696">
+        <mark key="[" line="146" column="21" />
+        <mark key="]" line="146" column="21" />
+        <mark key="." line="146" column="21" />
+        <mark key="^" line="146" column="22" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1104829162/1027869409/click/core.py" timestamp="1593638577171">
         <mark key="'" line="1676" column="66" />
@@ -280,7 +280,6 @@
       <jump line="66" column="10" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1104829162/517439597/typing.py" />
       <jump line="55" column="5" filename="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1104829162/517439597/typing.py" />
       <jump line="148" column="8" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
-      <jump line="151" column="12" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="159" column="15" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="146" column="21" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="181" column="18" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
@@ -294,6 +293,7 @@
       <jump line="81" column="32" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/utils/utils.py" />
       <jump line="139" column="23" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="142" column="37" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
+      <jump line="151" column="4" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -986,14 +986,14 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdmX3N0YXRzX25hbWVzID0gbm9ybWFsaXplKFsnd2Ytc3RhdHMnXSkKCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>all</text>
@@ -1002,31 +1002,31 @@
         <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdmX3N0YXRzX25hbWVzID0gbm9ybWFsaXplKFsnd2Ytc3RhdHMnXSkKCg==</text>
+        <text encoding="base64">ICAgIGlmIHJlcG9fbmFtZXM6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZyb20gcHByaW50IGltcG90IHBwcmludCBhcyBwcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgbGVuKHJlc3VsdHMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgZm9yIHVzYWdlIGluIHVzYWdlczoKICAgICMgICAgIGlmIGxpbmVfcmVnZXggYW5kIGFsbCgKICAgICMgICAgICAgICByZS5zZWFyY2gobGluZV9yZWdleCwgbWF0Y2gubGluZSkgZm9yIG1hdGNoIGluIHVzYWdlLm1hdGNoZXMKICAgICMgICAgICk6CiAgICAjICAgICAgICAgbWV0cmljc1siZmlsdGVyX2NvdW50Il0gKz0gMQogICAgIyAgICAgICAgIGNvbnRpbnVlCiAgICAjICAgICBtZXRyaWNzWyJ1c2FnZV9jb3VudCJdICs9IDEKICAgICMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBAY2xpY2sub3B0aW9uKAojICAgICAiLS11c2VkLXdpdGgiLAojICAgICB0eXBlPXN0ciwKIyAgICAgY2FsbGJhY2s9c3BsaXRfY29tbWFfZGVsaW1pdGVkX3N0cgojICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1ldHJpY19uYW1lOiBzdHIsCiAgICBkZXBlbmRlbmN5X25hbWVzOiBUdXBsZVtzdHJdLAogICAgbGluZV9yZWdleDogT3B0aW9uYWxbc3RyXSwK</text>
+        <text encoding="base64">CiAgICBmb3IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGhlbHA9J1B1Ymxpc2hlcyB1c2FnZSBtZXRyaWNzIGZvciBlbnRlcmVkIERFUEVOREVOQ1ktTkFNRVMgYnkgc2VhcmNoaW5nIHJlcG9zaXRvcnkgcmVxdWlyZW1lbnRzIGZpbGVzLiBXaWxsIHNlYXJjaCBmb3IgYWxsIGRhc2ggIi0iIGFuZCB1bmRlcnNjb3JlICJfIiB2ZXJzaW9ucyBvZiB0aGUgbmFtZXMgZW50ZXJlZCBlLmcuICJzb21lLXBhY2thZ2UiIHdpbGwgYWxzbyBzZWFyY2ggZm9yICJzb21lX3BhY2thZ2UiIGFuZCBpbmNsdWRlIGl0IHRvd2FyZHMgdGhlIHRvdGFsIHVzYWdlIGNvdW50LiBNZXRyaWNzIHdpbGwgYmUgcHVibGlzaGVkIHdpdGggdGhlIGVudGVyZWQgTUVUUklDLU5BTUUuJwopCkBjbGljay5hcmd1bWVudCgibWV0cmljLW5hbWUiLCB0eXBlPXN0cikKQGNsaWNrLmFyZ3VtZW50KCJkZXBlbmRlbmN5LW5hbWVzIiwgbmFyZ3M9LTEpCkBjbGljay5vcHRpb24oCiAgICAiLS1saW5lLXJlZ2V4IiwKICAgIHR5cGU9c3RyLAogICAgY2FsbGJhY2s9dmFsaWRhdGVfc3RyaW5nX3JlZ2V4LAogICAgaGVscD0nUmVndWxhciBleHByZXNzaW9uIHVzZWQgdG8gc2VhcmNoIGV2ZXJ5IHJlcXVpcmVtZW50cyBsaW5lIHRoYXQgREVQRU5ERU5DWS1OQU1FUyBhcmUgZm91bmQgb24uIElmIHRoZSByZWdleCBkb2VzIG5vdCBmaW5kIGEgbWF0Y2ggaW4gdGhlIHJlcXVpcmVtZW50cyBsaW5lcyB0aGVuIHRoZSB1c2FnZSBpcyAqbm90KiBpbmNsdWRlZCBpbiB0aGUgdG90YWwgdXNhZ2VfY291bnQuIGUuZy4gYCBwdWJsaXNoLXVzYWdlLW1ldHJpY3Mgc29tZS1wYWNrYWdlIC0tbGluZS1yZWdleCAiXiMuKz09MlxcLi4rXFwuLisiIGAgd291bGQgcHVibGlzaCB0aGUgdXNhZ2UgY291bnQgZm9yIGV2ZXJ5IHJlcG8gdGhhdCB1c2VzIG1ham9yIHZlcnNpb24gMiwgYW55IG1pbm9yIHZlcnNpb24sIGFuZCBhbnkgcGF0Y2ggdmVyc2lvbiBvZiBzb21lLXBhY2thZ2Ugc3VjaCBhcyAyLjEuMCBvciAyLjAuMTEtYWxwaGEgdGhhdCBpcyBub3QgY29tbWVudGVkIG91dCBpbiB0aGUgcmVxdWlyZW1lbnRzIGZpbGUuIEFueSBsaW5lcyB0aGF0IGEgbWF0Y2ggaXMgbm90IGZvdW5kIG9uIHdpbGwgaW5jcmVtZW50IGZpbHRlcl9jb3VudCBpbiB0aGUgcHVibGlzaGVkIG1ldHJpY3MuJywKKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bV91c2VzICs9IDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGhlbHA9J1B1Ymxpc2hlcyB1c2FnZSBtZXRyaWNzIGZvciBlbnRlcmVkIERFUEVOREVOQ1ktTkFNRVMgYnkgc2VhcmNoaW5nIHJlcG9zaXRvcnkgcmVxdWlyZW1lbnRzIGZpbGVzLiBXaWxsIHNlYXJjaCBmb3IgYWxsIGRhc2ggIi0iIGFuZCB1bmRlcnNjb3JlICJfIiB2ZXJzaW9ucyBvZiB0aGUgbmFtZXMgZW50ZXJlZCBlLmcuICJzb21lLXBhY2thZ2UiIHdpbGwgYWxzbyBzZWFyY2ggZm9yICJzb21lX3BhY2thZ2UiIGFuZCBpbmNsdWRlIGl0IHRvd2FyZHMgdGhlIHRvdGFsIHVzYWdlIGNvdW50LiBNZXRyaWNzIHdpbGwgYmUgcHVibGlzaGVkIHdpdGggdGhlIGVudGVyZWQgTUVUUklDLU5BTUUuJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBudW1fZmlsdGVyZWRfdXNlcyArPSAxCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGNsaWNrLmFyZ3VtZW50KCJtZXRyaWMtbmFtZSIsIHR5cGU9c3RyKQpAY2xpY2suYXJndW1lbnQoImRlcGVuZGVuY3ktbmFtZXMiLCBuYXJncz0tMSkK</text>
+        <text encoding="base64">ICAgIG51bV91c2VzID0gMAogICAgbnVtX2ZpbHRlcmVkX3VzZXMgPSAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
