@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Arg</entry>
         <entry>influx</entry>
         <entry>call</entry>
         <entry>can</entry>
@@ -27,6 +26,7 @@
         <entry>what_uses_job</entry>
         <entry>Packa</entry>
         <entry>nargs</entry>
+        <entry>all</entry>
       </history-search>
       <history-cmd>
         <entry>E</entry>
@@ -106,11 +106,11 @@
       <file name="/Python Console" timestamp="1594084259613">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/jobs/what_uses.py" timestamp="1594086356213">
-        <mark key="[" line="61" column="47" />
-        <mark key="]" line="62" column="4" />
-        <mark key="." line="62" column="3" />
-        <mark key="^" line="62" column="4" />
+      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/jobs/what_uses.py" timestamp="1594087058475">
+        <mark key="[" line="68" column="42" />
+        <mark key="]" line="68" column="48" />
+        <mark key="." line="68" column="47" />
+        <mark key="^" line="68" column="48" />
       </file>
       <file name="/a.dummy" timestamp="1593995844158">
         <mark key="[" line="0" column="0" />
@@ -156,12 +156,12 @@
         <mark key="." line="93" column="28" />
         <mark key="^" line="93" column="29" />
       </file>
-      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" timestamp="1594085382965">
-        <mark key="'" line="125" column="52" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="149" column="8" />
-        <mark key="." line="149" column="7" />
-        <mark key="^" line="149" column="8" />
+      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" timestamp="1594087351090">
+        <mark key="'" line="159" column="90" />
+        <mark key="[" line="141" column="69" />
+        <mark key="]" line="141" column="69" />
+        <mark key="." line="141" column="69" />
+        <mark key="^" line="122" column="294" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1104829162/1027869409/click/core.py" timestamp="1593638577171">
         <mark key="'" line="1676" column="66" />
@@ -197,8 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="33" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
-      <jump line="45" column="0" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
       <jump line="159" column="24" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
       <jump line="180" column="28" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
       <jump line="290" column="7" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
@@ -276,7 +274,6 @@
       <jump line="40" column="20" filename="$USER_HOME$/repositories/pyplats-automation/tests/main/test_publish_usage_count.py" />
       <jump line="495" column="39" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="564" column="18" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
-      <jump line="100" column="4" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="111" column="18" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="176" column="0" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="554" column="0" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
@@ -296,7 +293,10 @@
       <jump line="34" column="49" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="92" column="7" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="115" column="14" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
-      <jump line="125" column="52" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
+      <jump line="72" column="13" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
+      <jump line="100" column="36" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
+      <jump line="125" column="36" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
+      <jump line="164" column="90" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -990,46 +990,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>matches</text>
+        <text>, topic_filter=topic</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>matches</text>
+        <text>, topic_filter=topic</text>
       </register>
       <register name="/" type="4">
-        <text>nargs</text>
+        <text>all</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3Bvc3RfaW5pdF9fKHNlbGYpOgogICAgICAgIHNlbGYuY2Fub25pY2FsX25hbWUgPSBjYW5vbmljYWxpemVfbmFtZShzZWxmLm1hdGNoZWRfbmFtZSkK</text>
+        <text encoding="base64">ICAgIG1hdGNoZWRfbmFtZTogc3RyCiAgICBjYW5vbmljYWxfbmFtZTogc3RyID0gZmllbGQoaW5pdD1GYWxzZSkKICAgIGxpbmU6IHN0cgoKICAgIGRlZiBfX3Bvc3RfaW5pdF9fKHNlbGYpOgogICAgICAgIHNlbGYuY2Fub25pY2FsX25hbWUgPSBjYW5vbmljYWxpemVfbmFtZShzZWxmLm1hdGNoZWRfbmFtZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CkBkYXRhY2xhc3MKY2xhc3MgVXNhZ2VNYXRjaDoKICAgIGxpbmU6IHN0cgogICAgbWF0Y2hlZF9uYW1lOiBzdHIKICAgIGNhbm9uaWNhbF9uYW1lOiBzdHIgPSBmaWVsZChpbml0PUZhbHNlKQoKICAgIGRlZiBfX3Bvc3RfaW5pdF9fKHNlbGYpOgogICAgICAgIHNlbGYuY2Fub25pY2FsX25hbWUgPSBjYW5vbmljYWxpemVfbmFtZShzZWxmLm1hdGNoZWRfbmFtZSkK</text>
+        <text encoding="base64">QGNsaWNrLm9wdGlvbigKICAgICItLXRvcGljIiwKICAgIHR5cGU9c3RyLAogICAgaGVscD0nTmFtZSBvZiBhIHRvcGljIHRvIGZpbHRlciByZXBvc2l0b3JpZXMgc2VhcmNoZWQgZm9yIHRoZSBkZXBlbmRlbmN5IG5hbWUuIGUuZy4gInB5dGhvbi1wbGF0Zm9ybS10ZWFtIiBvciAidGVzdGluZyIuIFdpbGwgc2VhcmNoIGFsbCByZXBvc2l0b3JpZXMgYnkgZGVmYXVsdC4nLAopCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgpkZWYgX19wb3N0X2luaXRfXyhzZWxmKToKICAgIHNlbGYuY2Fub25pY2FsX25hbWUgPSBjYW5vbmljYWxpemVfbmFtZShzZWxmLm1hdGNoZWRfbmFtZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
+        <text encoding="base64">ICAgIGNhbm9uaWNhbF9uYW1lOiBzdHIgPSBmaWVsZChpbml0PUZhbHNlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hdGNoZWRfbmFtZTogc3RyCg==</text>
+        <text encoding="base64">ICAgIHJlcG9fdG9fbGluZXMgPSB7fQogICAgZm9yCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxpbmU6IHN0cgo=</text>
+        <text encoding="base64">CkBkYXRhY2xhc3MKY2xhc3MgVXNhZ2VNYXRjaDoKICAgIGxpbmU6IHN0cgogICAgbWF0Y2hlZF9uYW1lOiBzdHIKICAgIGNhbm9uaWNhbF9uYW1lOiBzdHIgPSBmaWVsZChpbml0PUZhbHNlKQoKICAgIGRlZiBfX3Bvc3RfaW5pdF9fKHNlbGYpOgogICAgICAgIHNlbGYuY2Fub25pY2FsX25hbWUgPSBjYW5vbmljYWxpemVfbmFtZShzZWxmLm1hdGNoZWRfbmFtZSkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hdGNoZWRfbmFtZXM6IExpc3Rbc3RyXSwKICAgIGNhbm9uaWNhbF9uYW1lczogTGlzdFtzdHJdID0gZmllbGQoaW5pdD1GYWxzZSkgCg==</text>
+        <text encoding="base64">ICAgIGRlZiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxpbmVzOiBMaXN0W3N0cl0gPSBmaWVsZChkZWZhdWx0X2ZhY3Rvcnk9bGlzdCkK</text>
+        <text encoding="base64">ICAgIG1hdGNoZWRfbmFtZTogc3RyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxpbmU6IHN0cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1038,12 +1038,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>nargs</last-search>
+      <last-search>all</last-search>
       <last-offset />
-      <last-pattern>nargs</last-pattern>
+      <last-pattern>all</last-pattern>
       <last-replace>table</last-replace>
       <last-substitute>project</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
