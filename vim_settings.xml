@@ -45,9 +45,9 @@
         <entry>we</entry>
         <entry>&quot;w</entry>
         <entry>ew</entry>
-        <entry>W</entry>
         <entry>e</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -147,11 +147,12 @@
         <mark key="." line="93" column="28" />
         <mark key="^" line="93" column="29" />
       </file>
-      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" timestamp="1594146728281">
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
-        <mark key="^" line="140" column="80" />
+      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" timestamp="1594299580229">
+        <mark key="'" line="136" column="27" />
+        <mark key="[" line="138" column="21" />
+        <mark key="]" line="138" column="21" />
+        <mark key="." line="138" column="21" />
+        <mark key="^" line="132" column="5" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1104829162/1027869409/click/core.py" timestamp="1593638577171">
         <mark key="'" line="1676" column="66" />
@@ -186,7 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="0" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
       <jump line="26" column="9" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
       <jump line="34" column="38" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
       <jump line="146" column="58" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
@@ -286,6 +286,7 @@
       <jump line="120" column="35" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="12" column="13" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
+      <jump line="136" column="27" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -978,14 +979,14 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46Cg==</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGluZSA=</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>github</text>
