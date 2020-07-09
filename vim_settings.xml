@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>can</entry>
         <entry>_us</entry>
         <entry>debug</entry>
         <entry>help</entry>
@@ -27,9 +26,9 @@
         <entry>all</entry>
         <entry>github</entry>
         <entry>batching=</entry>
+        <entry>batching</entry>
       </history-search>
       <history-cmd>
-        <entry>E</entry>
         <entry>wa</entry>
         <entry encoding="base64">JzwsJz5zL3Byb2plY3QvZGF0YXNldA==</entry>
         <entry encoding="base64">JzwsJz4lcy9wcm9qZWN0L3RhYmxl</entry>
@@ -44,9 +43,10 @@
         <entry>e</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>split</entry>
-        <entry>vsplit</entry>
         <entry>q</entry>
         <entry>qa</entry>
+        <entry>vspliyt</entry>
+        <entry>vsplit</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
@@ -123,11 +123,12 @@
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1104829162/517439597/typing.py" timestamp="1594082875386">
         <mark key="'" line="55" column="5" />
       </file>
-      <file name="$USER_HOME$/repositories/pyplats-automation/tests/jobs/test_wf_stats_batching_usage.py" timestamp="1594317956646">
+      <file name="$USER_HOME$/repositories/pyplats-automation/tests/jobs/test_wf_stats_batching_usage.py" timestamp="1594320501671">
         <mark key="'" line="3" column="7" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="8" column="32" />
+        <mark key="]" line="8" column="32" />
+        <mark key="." line="8" column="31" />
+        <mark key="^" line="8" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/pyplats-automation/tests/main/test_publish_usage_count.py" timestamp="1593993200173">
         <mark key="[" line="91" column="34" />
@@ -163,12 +164,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/jobs/wf_stats_batching_usage.py" timestamp="1594319829236">
-        <mark key="'" line="91" column="17" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="68" column="63" />
+      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/jobs/wf_stats_batching_usage.py" timestamp="1594320453449">
+        <mark key="'" line="96" column="17" />
+        <mark key="[" line="50" column="12" />
+        <mark key="]" line="50" column="71" />
+        <mark key="." line="50" column="70" />
+        <mark key="^" line="50" column="71" />
       </file>
       <file name="$USER_HOME$/repositories/pyplats-automation/docker-compose.yaml" timestamp="1593638280644">
         <mark key="'" line="61" column="55" />
@@ -179,19 +180,18 @@
         <mark key="^" line="62" column="18" />
         <mark key="." line="62" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" timestamp="1594318165416">
-        <mark key="'" line="154" column="0" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
-        <mark key="^" line="218" column="35" />
+      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" timestamp="1594320238014">
+        <mark key="'" line="50" column="4" />
+        <mark key="[" line="144" column="43" />
+        <mark key="]" line="144" column="48" />
+        <mark key="." line="144" column="47" />
+        <mark key="^" line="144" column="48" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1104829162/1027869409/click/core.py" timestamp="1593638577171">
         <mark key="'" line="1676" column="66" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="12" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
       <jump line="149" column="28" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
       <jump line="154" column="10" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
       <jump line="37" column="63" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/README.md" />
@@ -291,6 +291,7 @@
       <jump line="69" column="17" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/jobs/wf_stats_batching_usage.py" />
       <jump line="3" column="7" filename="$USER_HOME$/repositories/pyplats-automation/tests/jobs/test_wf_stats_batching_usage.py" />
       <jump line="165" column="0" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
+      <jump line="50" column="4" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -984,46 +985,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGUgcHVycG9zZXMgb2YgZmlsdGVyaW5nIG91dCB2ZXJzaW9ucyBvZiB3Zi1zdGF0cyBub3QgYmVpbmcgc2VhcmNoZWQgZm9yLgo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gTm9uZQo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zm9yIA==</text>
+        <text>Collection</text>
       </register>
       <register name="/" type="4">
-        <text>batching=</text>
+        <text>batching</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlci5lcnJvcigKICAgICAgICAgICAgICAgIGYiSXNzdWUgZ2V0dGluZyAne3Jlc3VsdC5wYXRofScgZm9yIHtyZXN1bHQucmVwby5uYW1lfToge2V9IgogICAgICAgICAgICApCiAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGUgcHVycG9zZXMgb2YgZmlsdGVyaW5nIG91dCB2ZXJzaW9ucyBvZiB3Zi1zdGF0cyBub3QgYmVpbmcgc2VhcmNoZWQgZm9yLgo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gTm9uZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiZWluZyBzZWFyY2hlZCBmb3IuCg==</text>
+        <text encoding="base64">ICAgICAgICBsYW5ndWFnZT0iUHl0aG9uIiwKICAgICkKICAgIGJhdGNoaW5nX3JlcG9zID0gWwogICAgICAgIFdGU3RhdHNSZXBvKAogICAgICAgICAgICBuYW1lPXJlc3VsdFsicmVwb3NpdG9yeSJdWyJmdWxsX25hbWUiXSwgcmVxdWlyZW1lbnRzX3VybD1yZXN1bHRbInVybCJdCiAgICAgICAgKQogICAgICAgIGZvciByZXN1bHQgaW4gcmVzdWx0cwogICAgXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgc2VhcmNoX3Rlcm09Zgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnQgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlYXJjaF90ZXJtPWYiZmxhc2sgT1IgZmFzdGFwaSBBTkQgd2Zfc3RhdHMgT1IgZmxhc2sgT1IgZmFzdGFwaSBBTkQgd2Ytc3RhdHMgb3JnOnNoYXJlZCBmaWxlbmFtZTpyZXF1aXJlbWVudHMgZXh0ZW5zaW9uOmxvY2siLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgcmVzcG9uc2Uub2s6Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGUgcHVycG9zZXMgb2YgZmlsdGVyaW5nIG91dCB2ZXJzaW9ucyBvZiB3Zi1zdGF0cyBub3QgYmVpbmcgc2VhcmNoZWQgZm9yLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlci5lcnJvcigKICAgICAgICAgICAgICAgIGYiSXNzdWUgZ2V0dGluZyAne3Jlc3VsdC5wYXRofScgZm9yIHtyZXN1bHQucmVwby5uYW1lfToge3Jlc3BvbnNlLnRleHR9IgogICAgICAgICAgICApCiAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBiZWluZyBzZWFyY2hlZCBmb3IuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgcmVzcG9uc2Uub2s6Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnRlbnQgPSBOb25lCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJlcG9EYXRhKG5hbWU9cmVzdWx0WyJyZXBvc2l0b3J5Il1bIm5hbWUiXSwgb3duZXI9cmVzdWx0WyJvd25lciJdWyJsb2dpbiJdKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgcmVzcG9uc2Uub2s6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1032,9 +1033,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>batching=</last-search>
+      <last-search>batching</last-search>
       <last-offset />
-      <last-pattern>batching=</last-pattern>
+      <last-pattern>batching</last-pattern>
       <last-replace>table</last-replace>
       <last-substitute>project</last-substitute>
       <last-dir>1</last-dir>
