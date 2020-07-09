@@ -38,7 +38,6 @@
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>we</entry>
         <entry>&quot;w</entry>
-        <entry>ew</entry>
         <entry>e</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qa</entry>
@@ -46,8 +45,9 @@
         <entry>split</entry>
         <entry>q</entry>
         <entry>vsplit</entry>
-        <entry>W</entry>
         <entry>wq</entry>
+        <entry>ew</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -123,12 +123,12 @@
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1104829162/517439597/typing.py" timestamp="1594082875386">
         <mark key="'" line="55" column="5" />
       </file>
-      <file name="$USER_HOME$/repositories/pyplats-automation/tests/jobs/test_wf_stats_batching_usage.py" timestamp="1594325579607">
+      <file name="$USER_HOME$/repositories/pyplats-automation/tests/jobs/test_wf_stats_batching_usage.py" timestamp="1594327602508">
         <mark key="'" line="57" column="0" />
-        <mark key="[" line="62" column="85" />
-        <mark key="]" line="62" column="95" />
-        <mark key="." line="62" column="94" />
-        <mark key="^" line="62" column="95" />
+        <mark key="[" line="40" column="67" />
+        <mark key="]" line="40" column="68" />
+        <mark key="." line="40" column="67" />
+        <mark key="^" line="40" column="68" />
       </file>
       <file name="$USER_HOME$/repositories/pyplats-automation/tests/main/test_publish_usage_count.py" timestamp="1593993200173">
         <mark key="[" line="91" column="34" />
@@ -164,18 +164,18 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/pyplats-automation/tests/main/test_wf_stats_batching_usage.py" timestamp="1594326274484">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="8" />
-        <mark key="." line="10" column="7" />
-        <mark key="^" line="10" column="8" />
+      <file name="$USER_HOME$/repositories/pyplats-automation/tests/main/test_wf_stats_batching_usage.py" timestamp="1594327900079">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="15" column="30" />
+        <mark key="." line="15" column="30" />
+        <mark key="^" line="19" column="46" />
       </file>
-      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/jobs/wf_stats_batching_usage.py" timestamp="1594325591307">
+      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/jobs/wf_stats_batching_usage.py" timestamp="1594327988587">
         <mark key="'" line="96" column="17" />
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="19" />
-        <mark key="." line="3" column="19" />
-        <mark key="^" line="57" column="100" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="62" column="61" />
       </file>
       <file name="$USER_HOME$/repositories/pyplats-automation/tests/main/test_publish_usage_metrics.py" timestamp="1594326142489">
         <mark key="[" line="32" column="0" />
@@ -183,12 +183,10 @@
         <mark key="^" line="62" column="18" />
         <mark key="." line="62" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" timestamp="1594326052933">
-        <mark key="'" line="50" column="4" />
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
-        <mark key="." line="142" column="0" />
-        <mark key="^" line="142" column="0" />
+      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" timestamp="1594328077075">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1104829162/1027869409/click/core.py" timestamp="1593638577171">
         <mark key="'" line="1676" column="66" />
@@ -988,46 +986,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBweXBsYXRzX2F1dG9tYXRpb24uZ2l0aHViLnJlcG9zaXRvcmllcyBpbXBvcnQgZ2V0X2dpdGh1Yl9yZXBvc2l0b3JpZXNfY29udGFpbmluZwo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>def</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1hcmJsZV9zbmFrZV9tb2NrID0gbW9ja2VyLnBhdGNoKCJweXBsYXRzX2F1dG9tYXRpb24uX19tYWluX18ubWFyYmxlX3NuYWtlIikKICAgIG1vY2tlci5wYXRjaCgKICAgICAgICAicHlwbGF0c19hdXRvbWF0aW9uLl9fbWFpbl9fLndoYXRfdXNlc19qb2IuZ2V0X3JlcG9zaXRvcmllc190aGF0X3VzZSIsCiAgICAgICAgcmV0dXJuX3ZhbHVlPVNPTUVfUEFDS0FHRV9VU0FHRVMsCiAgICApCiAgICBleHBlY3RlZF9tZXRyaWNzID0gewogICAgICAgICJkZXBlbmRlbmN5X25hbWUiOiBTT01FX0RFUEVOREVOQ1lfTkFNRSwKICAgICAgICAidXNhZ2VfY291bnQiOiA0LAogICAgICAgICJmaWx0ZXJlZF9jb3VudCI6IDAsCiAgICAgICAgImxpbmVfcmVnZXgiOiBOb25lLAogICAgICAgICJ0b3BpYyI6IE5vbmUsCiAgICB9CgogICAgY2xpX3J1bm5lci5pbnZva2UoCiAgICAgICAgY2xpLCBhcmdzPVsicHVibGlzaC11c2FnZS1tZXRyaWNzIiwgU09NRV9ERVBFTkRFTkNZX05BTUUsIFNPTUVfTUVUUklDX05BTUVdCiAgICApCgogICAgbWFyYmxlX3NuYWtlX21vY2sucHVibGlzaF9qc29uLmFzc2VydF9jYWxsZWRfd2l0aCgKICAgICAgICBTT01FX01FVFJJQ19OQU1FLCBleHBlY3RlZF9tZXRyaWNzCiAgICApCg==</text>
+        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaCgKICAgICAgICAicHlwbGF0c19hdXRvbWF0aW9uLl9fbWFpbl9fLmdldF9jb2RlX3NlYXJjaF9yZXN1bHRzIiwKICAgICAgICByZXR1cm5fdmFsdWU9U09NRV9DT0RFX1NFQVJDSF9SRVNVTFRTLAogICAgKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBweXBsYXRzX2F1dG9tYXRpb24uZ2l0aHViLnJlcG9zaXRvcmllcyBpbXBvcnQgZ2V0X2dpdGh1Yl9yZXBvc2l0b3JpZXNfY29udGFpbmluZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBweXBsYXRzX2F1dG9tYXRpb24uam9icy53Zl9zdGF0c19iYXRjaGluZ191c2FnZSBpbXBvcnQgV0ZTdGF0c01ldHJpY3MK</text>
+        <text encoding="base64">CiAgICB5aWVsZCAoQ29kZVNlYXJjaFJlc3VsdCgKICAgICAgICByZXBvPVJlcG9EYXRhKAogICAgICAgICksCiAgICAgICAgcGF0aD1yZXN1bHRbInBhdGgiXSwKICAgICkgZm9yIHJlc3VsdCBpbiByZXN1bHRzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiZGVwZW5kZW5jeV9uYW1lIjogU09NRV9ERVBFTkRFTkNZX05BTUUsCiAgICAgICAgInVzYWdlX2NvdW50IjogNCwKICAgICAgICAiZmlsdGVyZWRfY291bnQiOiAwLAogICAgICAgICJsaW5lX3JlZ2V4IjogTm9uZSwKICAgICAgICAidG9waWMiOiBOb25lLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZT1yZXN1bHRbInJlcG9zaXRvcnkiXVsibmFtZSJdLAogICAgICAgICAgICBvd25lcj1yZXN1bHRbInJlcG9zaXRvcnkiXVsib3duZXIiXVsibG9naW4iXSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaCgKICAgICAgICAicHlwbGF0c19hdXRvbWF0aW9uLl9fbWFpbl9fLndoYXRfdXNlc19qb2IuZ2V0X3JlcG9zaXRvcmllc190aGF0X3VzZSIsCiAgICAgICAgcmV0dXJuX3ZhbHVlPVNPTUVfUEFDS0FHRV9VU0FHRVMsCiAgICApCg==</text>
+        <text encoding="base64">ICAgIG1vY2tlci5wYXRjaCgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IG5leHQoaXRlcihyZXN1bHRzKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlYXJjaF9yZXN1bHRzID0gWwogICAgICAgIGZvciByZXN1bHQgaW4gcmVzdWx0cwogICAgXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBweXBsYXRzX2F1dG9tYXRpb24uZ2l0aHViIGltcG9ydCBnaXRodWJfZ2V0X2JhY2tvZmYK</text>
+        <text encoding="base64">ICAgIHlpZWxkIENvZGVTZWFyY2hSZXN1bHQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBDb2RlU2VhcmNoUmVzdWx0KHJlcG89UmVwb0RhdGEobmFtZT1yZXN1bHRbInJlcG9zaXRvcnkiXVsibmFtZSJdLCBvd25lcj1yZXN1bHRbInJlcG9zaXRvcnkiXVsib3duZXIiXVsibG9naW4iXSwgKSwgcGF0aD1yZXN1bHRbInBhdGgiXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q29kZVNlYXJjaFJlc3VsdChyZXBvPVJlcG9EYXRhKG5hbWU9U09NRV9PVEhFUl9SRVBPX05BTUUsIG93bmVyPVNPTUVfT1RIRVJfUkVQT19PV05FUiksIHBhdGg9U09NRV9PVEhFUl9QQVRIKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
