@@ -43,11 +43,11 @@
         <entry>vspliyt</entry>
         <entry>wq</entry>
         <entry>ew</entry>
-        <entry>W</entry>
         <entry>qa</entry>
         <entry>split</entry>
         <entry>q</entry>
         <entry>vsplit</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -114,12 +114,12 @@
         <mark key="]" line="228" column="0" />
         <mark key="." line="228" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/pyplats-automation/tests/jobs/test_wf_stats_batching_usage.py" timestamp="1594327602508">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="40" column="67" />
-        <mark key="]" line="40" column="68" />
-        <mark key="." line="40" column="67" />
-        <mark key="^" line="40" column="68" />
+      <file name="$USER_HOME$/repositories/pyplats-automation/tests/jobs/test_wf_stats_batching_usage.py" timestamp="1594403598450">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="57" column="37" />
+        <mark key="." line="57" column="36" />
+        <mark key="^" line="57" column="37" />
       </file>
       <file name="$USER_HOME$/repositories/acceleration-service/docker/files/secrets/dek/credentials.aes128" timestamp="1594398377040" />
       <file name="$USER_HOME$/repositories/finance-general-ledger/finance_general_ledger/util/decorators.py" timestamp="1594397709513">
@@ -144,11 +144,11 @@
         <mark key="^" line="65" column="23" />
         <mark key="." line="65" column="22" />
       </file>
-      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/github/_utils.py" timestamp="1594313787723">
-        <mark key="[" line="31" column="36" />
-        <mark key="]" line="31" column="41" />
+      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/github/_utils.py" timestamp="1594401614675">
+        <mark key="[" line="32" column="13" />
+        <mark key="]" line="32" column="13" />
         <mark key="^" line="31" column="41" />
-        <mark key="." line="31" column="40" />
+        <mark key="." line="32" column="13" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_57.py" timestamp="1594145753694">
         <mark key="[" line="0" column="0" />
@@ -175,12 +175,11 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/acceleration-service/docker/files/secrets/credentials/aerospike-wfdev.aes128" timestamp="1594398366454" />
-      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/jobs/wf_stats_batching_usage.py" timestamp="1594327988587">
-        <mark key="'" line="96" column="17" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="62" column="61" />
+      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/jobs/wf_stats_batching_usage.py" timestamp="1594402945528">
+        <mark key="'" line="99" column="17" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/pyplats-automation/tests/main/test_publish_usage_metrics.py" timestamp="1594326142489">
         <mark key="[" line="32" column="0" />
@@ -188,11 +187,12 @@
         <mark key="^" line="62" column="18" />
         <mark key="." line="62" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" timestamp="1594395722399">
+      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" timestamp="1594403282527">
         <mark key="'" line="33" column="50" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+        <mark key="[" line="145" column="5" />
+        <mark key="]" line="145" column="5" />
+        <mark key="." line="145" column="4" />
+        <mark key="^" line="145" column="5" />
       </file>
       <file name="$USER_HOME$/repositories/finance-general-ledger/tests/util/test_decorators.py" timestamp="1594396688069">
         <mark key="[" line="0" column="0" />
@@ -994,47 +994,47 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbXQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>WF_TELE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGVuZHBvaW50X3N0YXRzKCkK</text>
+        <text encoding="base64">U09NRV9HSVRIVUJfUkVQT1NJVE9SSUVTX0NPTlRBSU5JTkdfUkVTVUxUID0gewogICAgInJlcG9zaXRvcnkiOiB7Im5hbWUiOiBTT01FX1JFUE9fTkFNRSwgIm93bmVyIjogeyJsb2dpbiI6IFNPTUVfUkVQT19PV05FUn19LAogICAgInBhdGgiOiBTT01FX1BBVEgsCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbXQo=</text>
+        <text encoding="base64">U09NRV9NQUxGT1JNRURfR0lUSFVCX1JFUE9TSVRPUklFU19DT05UQUlOSU5HX1JFU1VMVCA9IHsKICAgICJyZXBvc2l0b3J5IjogeyJuYW1lIjogU09NRV9SRVBPX05BTUUsICJvd25lciI6IHsibG9naW4iOiBTT01FX1JFUE9fT1dORVJ9fSwKICAgICJwYXRoIjogU09NRV9QQVRILAp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrcG9pbnQoKQo=</text>
+        <text encoding="base64">U09NRV9NQUxGT1JNRURfR0lUSFVCX1JFUE9TSVRPUklFU19DT05UQUlOSU5HX1JFU1VMVCA9IHsKICAgICJyZXBvc2l0b3J5IjogeyJuYW1lIjogU09NRV9SRVBPX05BTUUsICJvd25lciI6IHsibG9naW4iOiBTT01FX1JFUE9fT1dORVJ9fSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWtwb2ludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBbXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrcG9pbnQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QHdmX3N0YXRzLnRpbWVkKCkKQHdmX3N0YXRzLmNvdW50ZWQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWtwb2ludCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGVuZHBvaW50X3N0YXRzKCkK</text>
+        <text encoding="base64">ICAgIGJyZWFrcG9pbnQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGVuZHBvaW50X3N0YXRzKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBweXBsYXRzX2F1dG9tYXRpb24uZ2l0aHViLnJlcG9zaXRvcmllcyBpbXBvcnQgZ2V0X2dpdGh1Yl9yZXBvc2l0b3JpZXNfY29udGFpbmluZwo=</text>
+        <text encoding="base64">QHdmX3N0YXRzLnRpbWVkKCkKQHdmX3N0YXRzLmNvdW50ZWQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
