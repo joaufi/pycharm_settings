@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>json</entry>
         <entry>de</entry>
         <entry>usage</entry>
         <entry>class</entry>
@@ -27,6 +26,7 @@
         <entry>WF_TELEGRA</entry>
         <entry>WF_TEl</entry>
         <entry>WF_TELE</entry>
+        <entry>Github</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
@@ -103,16 +103,34 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repositories/finance-general-ledger/wf-config.ini" timestamp="1594397727961">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/jobs/what_uses.py" timestamp="1594139681704">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
         <mark key="^" line="68" column="48" />
       </file>
+      <file name="$USER_HOME$/repositories/finance-general-ledger/docker/files/wf-config.ini" timestamp="1594397508874">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/jobs/wf_stats_batching_usage.py" timestamp="1594650200269">
+        <mark key="'" line="64" column="25" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/github/repositories.py" timestamp="1594142390007">
         <mark key="[" line="228" column="0" />
         <mark key="]" line="228" column="0" />
         <mark key="." line="228" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/pyplats-automation/tests/main/test_publish_usage_metrics.py" timestamp="1594326142489">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="51" column="5" />
+        <mark key="^" line="62" column="18" />
+        <mark key="." line="62" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/pyplats-automation/tests/jobs/test_wf_stats_batching_usage.py" timestamp="1594403700508">
         <mark key="'" line="78" column="0" />
@@ -121,7 +139,6 @@
         <mark key="." line="62" column="41" />
         <mark key="^" line="62" column="54" />
       </file>
-      <file name="$USER_HOME$/repositories/acceleration-service/docker/files/secrets/dek/credentials.aes128" timestamp="1594398377040" />
       <file name="$USER_HOME$/repositories/finance-general-ledger/finance_general_ledger/util/decorators.py" timestamp="1594397709513">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -138,6 +155,13 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="12" />
       </file>
+      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" timestamp="1594403282527">
+        <mark key="'" line="33" column="50" />
+        <mark key="[" line="145" column="5" />
+        <mark key="]" line="145" column="5" />
+        <mark key="." line="145" column="4" />
+        <mark key="^" line="145" column="5" />
+      </file>
       <file name="$USER_HOME$/repositories/finance-general-ledger/k8s.yaml" timestamp="1594398173931">
         <mark key="[" line="63" column="12" />
         <mark key="]" line="65" column="23" />
@@ -149,6 +173,12 @@
         <mark key="]" line="22" column="36" />
         <mark key="^" line="31" column="41" />
         <mark key="." line="22" column="36" />
+      </file>
+      <file name="$USER_HOME$/repositories/finance-general-ledger/tests/util/test_decorators.py" timestamp="1594396688069">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="49" column="5" />
+        <mark key="^" line="49" column="5" />
+        <mark key="." line="49" column="4" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_57.py" timestamp="1594145753694">
         <mark key="[" line="0" column="0" />
@@ -168,41 +198,8 @@
         <mark key="^" line="51" column="116" />
         <mark key="." line="51" column="115" />
       </file>
-      <file name="$USER_HOME$/repositories/finance-general-ledger/wf-config.ini" timestamp="1594397727961">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/finance-general-ledger/docker/files/wf-config.ini" timestamp="1594397508874">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/acceleration-service/docker/files/secrets/credentials/aerospike-wfdev.aes128" timestamp="1594398366454" />
-      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/jobs/wf_stats_batching_usage.py" timestamp="1594402945528">
-        <mark key="'" line="99" column="17" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/pyplats-automation/tests/main/test_publish_usage_metrics.py" timestamp="1594326142489">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="51" column="5" />
-        <mark key="^" line="62" column="18" />
-        <mark key="." line="62" column="17" />
-      </file>
-      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" timestamp="1594403282527">
-        <mark key="'" line="33" column="50" />
-        <mark key="[" line="145" column="5" />
-        <mark key="]" line="145" column="5" />
-        <mark key="." line="145" column="4" />
-        <mark key="^" line="145" column="5" />
-      </file>
-      <file name="$USER_HOME$/repositories/finance-general-ledger/tests/util/test_decorators.py" timestamp="1594396688069">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="49" column="5" />
-        <mark key="^" line="49" column="5" />
-        <mark key="." line="49" column="4" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="54" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
       <jump line="259" column="0" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
       <jump line="262" column="18" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
       <jump line="195" column="8" filename="$USER_HOME$/repositories/proteus_loader/docker/entrypoints/run_tests.sh" />
@@ -302,6 +299,7 @@
       <jump line="33" column="50" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/finance-general-ledger/docker/files/wf-config.ini" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/finance-general-ledger/wf-config.ini" />
+      <jump line="64" column="25" filename="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/jobs/wf_stats_batching_usage.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1004,7 +1002,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>WF_TELE</text>
+        <text>Github</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">U09NRV9HSVRIVUJfUkVQT1NJVE9SSUVTX0NPTlRBSU5JTkdfUkVTVUxUID0gewogICAgInJlcG9zaXRvcnkiOiB7Im5hbWUiOiBTT01FX1JFUE9fTkFNRSwgIm93bmVyIjogeyJsb2dpbiI6IFNPTUVfUkVQT19PV05FUn19LAogICAgInBhdGgiOiBTT01FX1BBVEgsCn0K</text>
@@ -1043,9 +1041,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>WF_TELE</last-search>
+      <last-search>Github</last-search>
       <last-offset />
-      <last-pattern>WF_TELE</last-pattern>
+      <last-pattern>Github</last-pattern>
       <last-replace>table</last-replace>
       <last-substitute>project</last-substitute>
       <last-dir>1</last-dir>
