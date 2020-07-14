@@ -115,11 +115,11 @@
       <file name="$USER_HOME$/repositories/finance-general-ledger/docker/files/wf-config.ini" timestamp="1594397508874">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/jobs/wf_stats_batching_usage.py" timestamp="1594743802642">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-        <mark key="^" line="103" column="46" />
+      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/jobs/wf_stats_batching_usage.py" timestamp="1594743996230">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="124" column="104" />
       </file>
       <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/github/repositories.py" timestamp="1594142390007">
         <mark key="[" line="228" column="0" />
@@ -155,10 +155,10 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" timestamp="1594743040059">
-        <mark key="[" line="154" column="36" />
-        <mark key="]" line="154" column="37" />
-        <mark key="." line="154" column="36" />
+      <file name="$USER_HOME$/repositories/pyplats-automation/pyplats_automation/__main__.py" timestamp="1594744000565">
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="." line="146" column="0" />
         <mark key="^" line="154" column="37" />
       </file>
       <file name="$USER_HOME$/repositories/finance-general-ledger/k8s.yaml" timestamp="1594398173931">
@@ -991,13 +991,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIntsaW5lPX0gaGFzIHRvIG1hdGNoIHttYXRjaGVzPX0iKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmIntyZXN1bHQ9fSIpCg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>TEST</text>
@@ -1006,31 +1006,31 @@
         <text encoding="base64">ICAgICAgICBwcmludChmIntyZXN1bHQ9fSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIntsaW5lPX0gaGFzIHRvIG1hdGNoIHttYXRjaGVzPX0iKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmIntyZXN1bHQ9fSIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGYie2xpbmU9fSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJ7c2VhcmNoX3Jlc3VsdD19IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiIrKysgVGhlcmUgd2FzIGEgbWF0Y2ghICsrKyIpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNhcGxvZy5zZXRfbGV2ZWwobG9nZ2luZy5ERUJVRykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmIntsaW5lPX0gaGFzIHRvIG1hdGNoIHttYXRjaGVzPX0iKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlYXJjaCBxdWVyeSBjb3VsZCBtYXRjaCBtYW55IGRpZmZlcmVudCBmaWxlcyBpbiB0aGUgc2FtZSByZXBvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGYie2xpbmU9fSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawogICAgICAgIGV4Y2VwdCBTdG9wSXRlcmF0aW9uOgogICAgICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgIyBpZiB3ZSBmaW5kIG9uZSBleGFjdCBtYXRjaCB0aGUgcmVwbyB1c2VzIGJhdGNoaW5nOwogICAgICAgICAgICAgICAgICAgICMgbm8gbmVlZCB0byBjaGVjayBvdGhlciByZXN1bHRzCiAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICBleGNlcHQgU3RvcEl0ZXJhdGlvbjoKICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
