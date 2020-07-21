@@ -2,9 +2,12 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern=".common_functions" type="Bash" />
+      <mapping pattern=".common_aliases" type="Bash" />
+      <mapping pattern=".agignore" type="Bash" />
       <mapping pattern="sldkfjsdf" type="PLAIN_TEXT" />
-      <mapping pattern="mock_aggregation_library.py" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
+      <mapping pattern="mock_aggregation_library.py" type="PLAIN_TEXT" />
       <mapping pattern="test_route_timed_decorators.py" type="PLAIN_TEXT" />
       <mapping pattern="grpc_health_probe" type="PLAIN_TEXT" />
       <mapping pattern="build_cassandra_facts_by_customer_hive_table.sql" type="PLAIN_TEXT" />
@@ -13,9 +16,6 @@
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping pattern="ContextMixin.py" type="Python" />
       <mapping ext="hql" type="SQL" />
-      <mapping pattern=".agignore" type="Bash" />
-      <mapping pattern=".common_aliases" type="Bash" />
-      <mapping pattern=".common_functions" type="Bash" />
     </extensionMap>
   </component>
 </application>
