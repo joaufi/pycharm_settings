@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="app.py" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -15,5 +16,7 @@
     <mask>*.proto</mask>
     <mask>*.md</mask>
     <mask>requirements.yaml</mask>
+    <mask>requirements.txt</mask>
+    <mask>app.py</mask>
   </component>
 </application>
