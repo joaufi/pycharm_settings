@@ -16,6 +16,9 @@
     <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
     <option name="FROM_IMPORT_TRAILING_COMMA_IF_MULTILINE" value="true" />
   </Python>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="Python">
     <option name="RIGHT_MARGIN" value="120" />
     <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
