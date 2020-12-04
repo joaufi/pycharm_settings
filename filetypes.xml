@@ -1,6 +1,6 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="build_cassandra_facts_by_customer_hive_table.sql" type="PLAIN_TEXT" />
       <mapping pattern=".bandit" type="PLAIN_TEXT" />
@@ -16,6 +16,7 @@
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping pattern="ContextMixin.py" type="Python" />
       <mapping ext="hql" type="SQL" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".agignore" type="Bash" />
       <mapping pattern=".common_aliases" type="Bash" />
       <mapping pattern=".common_functions" type="Bash" />
