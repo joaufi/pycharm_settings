@@ -6,6 +6,7 @@
       <mapping pattern="jfrog" type="AUTO_DETECTED" />
       <mapping pattern="README" type="AUTO_DETECTED" />
       <mapping pattern="environment" type="AUTO_DETECTED" />
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="build_cassandra_facts_by_customer_hive_table.sql" type="PLAIN_TEXT" />
       <mapping pattern=".bandit" type="PLAIN_TEXT" />
       <mapping pattern="grpc_health_probe" type="PLAIN_TEXT" />
