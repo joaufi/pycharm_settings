@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="github_token" type="AUTO_DETECTED" />
       <mapping pattern="jfrog" type="AUTO_DETECTED" />
+      <mapping pattern="tests" type="AUTO_DETECTED" />
       <mapping pattern="environment" type="AUTO_DETECTED" />
       <mapping pattern="README" type="AUTO_DETECTED" />
       <mapping pattern=".flake8" type="PLAIN_TEXT" />
