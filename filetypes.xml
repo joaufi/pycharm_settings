@@ -21,6 +21,7 @@
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping pattern="ContextMixin.py" type="Python" />
       <mapping ext="hql" type="SQL" />
+      <mapping ext="bats" type="Shell Script" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="sh" approved="true" type="Shell Script" />
       <removed_mapping ext="zsh" approved="true" type="Shell Script" />
